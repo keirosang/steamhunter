@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Steam 蒸汽猎手 | 游戏情报站</title>
-		<link>https://info.steamhunter.link/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
@@ -10,42 +10,77 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 10:51:29 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 08 Oct 2026 11:18:54 +0800</lastBuildDate>
 		
-			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《博德之门3》Steam限时平史低立省30%！TGA年度最佳神作入手最佳时机</title>
+				<link>http://localhost:1313/posts/2026-10-08-1086940-461b25a6/</link>
+				<pubDate>Thu, 08 Oct 2026 11:18:54 +0800</pubDate>
+				<guid>http://localhost:1313/posts/2026-10-08-1086940-461b25a6/</guid>
+				<description>拉瑞安年度霸榜神作《博德之门3》现已开启限时特惠，全区立减30%迎来平史低大促！随着第七号补丁及官方MOD支持的全面实装，费伦大陆的冒险深度与可玩性已达到巅峰状态。无论你是CRPG老饕还是剧情向新玩家，本期折扣都是绝佳入坑节点！</description>
+			</item>
+			<item>
+				<title>《荒野大镖客2》Steam平史低狂砍75%！第九艺术神作冰点特惠必入指南</title>
+				<link>http://localhost:1313/posts/2026-10-08-1174180-8ba6b33d/</link>
+				<pubDate>Thu, 08 Oct 2026 11:18:54 +0800</pubDate>
+				<guid>http://localhost:1313/posts/2026-10-08-1174180-8ba6b33d/</guid>
+				<description>R星开放世界巅峰神作《荒野大镖客：救赎 2》Steam 限时特惠正式打响，全场立减 75% 迎来超值冰点价！不管是想重温亚瑟·摩根有血有肉的西部传奇，还是骑马看风景养老，现在都是绝佳抄底时刻。内附版本选购建议、画面设置优化与新手避坑秘籍。</description>
+			</item>
+			<item>
+				<title>《战锤40K：星际战士2》Steam新史低狂砍75%！骨折大促忠诚开剁</title>
+				<link>http://localhost:1313/posts/2026-10-08-2183900-2911d533/</link>
+				<pubDate>Thu, 08 Oct 2026 11:18:54 +0800</pubDate>
+				<guid>http://localhost:1313/posts/2026-10-08-2183900-2911d533/</guid>
+				<description>忠诚不绝对，就是绝对不忠诚！《战锤40K：星际战士2》Steam迎来史诗级重磅特惠，原价直接怒砍-75%，仅需14.99刀即可将这部硬核第三人称动作射击神作永久入库。沉浸感拉满的动力甲轰鸣与漫天虫群无双割草，现在就是兄弟们抄底入坑的绝佳时机！</description>
+			</item>
+			<item>
+				<title>摸鱼党狂喜！《渔力全开》限时特惠立省38%开启新史低，打工人专属电子鱼塘速来承包</title>
+				<link>http://localhost:1313/posts/2026-10-08-4001890-eb8c08a1/</link>
+				<pubDate>Thu, 08 Oct 2026 11:18:54 +0800</pubDate>
+				<guid>http://localhost:1313/posts/2026-10-08-4001890-eb8c08a1/</guid>
+				<description>Steam 休闲解压神作《渔力全开》开启新一轮特惠大促！折扣力度高达 -38%，折后仅需 4.95 美元即可永久入库。无论是上班挂机还是下班佛系养生，随时随地享受甩杆拉大鱼的快感。性价比极高，趁着这波史低折扣赶紧补票上车吧！</description>
+			</item>
+			<item>
+				<title>虚幻5拟真恐怖射击神作《Bodycam》新史低特惠！立省20%抄底入库实测指南</title>
+				<link>http://localhost:1313/posts/2026-10-08-2406770-040a52d1/</link>
+				<pubDate>Thu, 08 Oct 2026 11:18:54 +0800</pubDate>
+				<guid>http://localhost:1313/posts/2026-10-08-2406770-040a52d1/</guid>
+				<description>虚幻引擎5打造的超写实战术射击黑马《Bodycam》迎来限时新史低特惠！当前平史低立省20%，仅需26.65美元即可永久入库。随身执法仪视角搭配窒息级近距离交火，带你体验真实到背脊发凉的现代CQB枪战。本篇附配置优化与联机避坑建议，硬核FPS爱好者速冲！</description>
+			</item>
 			<item>
 				<title>Klei动作新宠《熔炉密林》DLC限免喜加一！全新巨剑与装甲包永久免费入库</title>
-				<link>https://info.steamhunter.link/posts/2026-10-08-5067220-4efbee6b/</link>
+				<link>http://localhost:1313/posts/2026-10-08-5067220-4efbee6b/</link>
 				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
-				<guid>https://info.steamhunter.link/posts/2026-10-08-5067220-4efbee6b/</guid>
+				<guid>http://localhost:1313/posts/2026-10-08-5067220-4efbee6b/</guid>
 				<description>知名大厂Klei动作肉鸽新作《熔炉密林》开启限时喜加一狂欢！全新拓展包「爪克龙剑甲包」原价18元直接打入-100%折扣，玩家领取后终身入库。礼包内含霸气巨剑与专属物种外观，白嫖党千万别错过这波零元购福利！</description>
 			</item>
 			<item>
 				<title>Steam喜加一：越野竞速《MXGP 26》涂装DLC限时100%减免免费领！永久保留在库</title>
-				<link>https://info.steamhunter.link/posts/2026-10-08-4847440-fdc831cb/</link>
+				<link>http://localhost:1313/posts/2026-10-08-4847440-fdc831cb/</link>
 				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
-				<guid>https://info.steamhunter.link/posts/2026-10-08-4847440-fdc831cb/</guid>
+				<guid>http://localhost:1313/posts/2026-10-08-4847440-fdc831cb/</guid>
 				<description>Steam白嫖福利再发车！官方越野摩托竞速游戏《MXGP 26》扩展包《Scrubdesignz Liveries》开启限时100%全免活动，原价11元现立省全额免费领取。包含6款专属硬核定制涂装，一键入库永久保留。各位车手赶快上线喜加一，为你的战车换上全新战袍！</description>
 			</item>
 			<item>
 				<title>《赛博朋克2077》突发史低3折特惠！重返夜之城的绝佳时机到了吗？</title>
-				<link>https://info.steamhunter.link/posts/2026-10-08-1091500-9807ab36/</link>
+				<link>http://localhost:1313/posts/2026-10-08-1091500-9807ab36/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://info.steamhunter.link/posts/2026-10-08-1091500-9807ab36/</guid>
+				<guid>http://localhost:1313/posts/2026-10-08-1091500-9807ab36/</guid>
 				<description>Steam 平台今日突发惊喜特惠，开放世界大作《赛博朋克 2077》本体直降 70% 迎来史诗级 3 折优惠！在经历 2.0 版本的彻底蜕变后，如今的夜之城究竟值不值得补票？本期专栏带你全面拆解此次折扣力度、本体与资料片选购方案及画质优化心得。</description>
 			</item>
 			<item>
 				<title>直接打骨折！《逃生：试炼》迎惊天一折特惠，史低仅需一杯奶茶钱叫上兄弟受虐</title>
-				<link>https://info.steamhunter.link/posts/2026-10-08-1304930-4488f29c/</link>
+				<link>http://localhost:1313/posts/2026-10-08-1304930-4488f29c/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://info.steamhunter.link/posts/2026-10-08-1304930-4488f29c/</guid>
+				<guid>http://localhost:1313/posts/2026-10-08-1304930-4488f29c/</guid>
 				<description>恐怖游戏天花板续作《逃生：试炼（The Outlast Trials）》开启史诗级特惠！Steam平台限时直降90%，折后价低至3.99美元（国区预计仅需一杯奶茶钱）。支持四人联机受苦、高沉浸式密室逃脱玩法，恐怖联机爱好者绝不可错过的入库绝佳良机！</description>
 			</item>
 			<item>
 				<title>关于本站</title>
-				<link>https://info.steamhunter.link/about/</link>
+				<link>http://localhost:1313/about/</link>
 				<pubDate>Thu, 08 Oct 2026 09:00:00 +0800</pubDate>
-				<guid>https://info.steamhunter.link/about/</guid>
+				<guid>http://localhost:1313/about/</guid>
 				<description>Steam 蒸汽猎手站点介绍：专注 Steam 平台游戏特惠、喜加一福利情报与版本更新解析，并推荐关注官方 Telegram 福利广播频道。</description>
 			</item>
 	</channel>
