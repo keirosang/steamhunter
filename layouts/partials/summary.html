@@ -1,0 +1,49 @@
+<article class="post-card" data-title="{{ .Title | lower }}" data-tags="{{ delimit .Params.tags " " | lower }}">
+  <a href="{{ .Permalink }}" class="post-card-cover-link" tabindex="-1" aria-hidden="true">
+    {{ if .Params.featured_image }}
+      <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}" class="post-card-img" loading="lazy">
+    {{ else }}
+      <div class="post-card-img-placeholder">
+        <span>🎮</span>
+      </div>
+    {{ end }}
+    {{ with .Params.categories }}
+      <span class="category-badge">{{ index . 0 }}</span>
+    {{ end }}
+    {{ with .Params.appid }}
+      <span class="appid-badge">AppID: {{ . }}</span>
+    {{ end }}
+  </a>
+
+  <div class="post-card-body">
+    <div class="post-card-meta-top">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" class="post-date">
+        📅 {{ .Date.Format "2006-01-02" }}
+      </time>
+      <span class="reading-time">⏱️ {{ .ReadingTime }} 分钟阅读</span>
+    </div>
+
+    <h2 class="post-card-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+
+    <p class="post-card-summary">
+      {{ with .Summary }}
+        {{ . | plainify | truncate 130 }}
+      {{ else }}
+        {{ .Content | plainify | truncate 130 }}
+      {{ end }}
+    </p>
+
+    <div class="post-card-footer">
+      {{ with .Params.tags }}
+      <div class="post-tags-list">
+        {{ range first 3 . }}
+          <span class="post-tag-item">#{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+      <a href="{{ .Permalink }}" class="read-more-btn">阅读全文 →</a>
+    </div>
+  </div>
+</article>

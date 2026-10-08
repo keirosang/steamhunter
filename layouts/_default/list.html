@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div class="list-page-header">
+  <nav class="breadcrumb-nav">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="bc-sep">/</span>
+    <span class="bc-current">{{ .Title }}</span>
+  </nav>
+
+  <h1 class="list-title">
+    {{ if eq .Data.Singular "category" }}📂 分类：{{ .Title }}
+    {{ else if eq .Data.Singular "tag" }}🏷️ 标签：#{{ .Title }}
+    {{ else }}{{ .Title }}{{ end }}
+  </h1>
+  <p class="list-subtitle">共检索到 {{ len .Pages }} 篇相关文章</p>
+</div>
+
+<section class="posts-section">
+  {{ $paginator := .Paginate .Pages }}
+  {{ if gt (len $paginator.Pages) 0 }}
+    <div class="posts-grid" id="postsGrid">
+      {{ range $paginator.Pages }}
+        {{ partial "summary.html" . }}
+      {{ end }}
+    </div>
+
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination-nav">
+      {{ if $paginator.HasPrev }}
+      <a class="page-link prev-link" href="{{ $paginator.Prev.URL }}">上一页</a>
+      {{ end }}
+      <span class="page-indicator">第 {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }} 页</span>
+      {{ if $paginator.HasNext }}
+      <a class="page-link next-link" href="{{ $paginator.Next.URL }}">下一页</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  {{ else }}
+    <div class="empty-state">
+      <div class="empty-icon">🎮</div>
+      <h3>暂无相关内容</h3>
+      <p>该分类或标签下暂时没有收录文章。</p>
+    </div>
+  {{ end }}
+</section>
+{{ end }}

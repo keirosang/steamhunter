@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="list-page-header">
+  <nav class="breadcrumb-nav">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="bc-sep">/</span>
+    <span class="bc-current">{{ .Title }}</span>
+  </nav>
+
+  <h1 class="list-title">🏷️ {{ .Title }}全景索引</h1>
+  <p class="list-subtitle">汇聚所有游戏专栏、分类与关键词标签</p>
+</div>
+
+<div class="terms-cloud-wrapper">
+  <div class="terms-cloud">
+    {{ range .Data.Terms.ByCount }}
+    <a href="{{ .Page.Permalink }}" class="term-pill">
+      <span class="term-name">#{{ .Page.Title }}</span>
+      <span class="term-count">{{ .Count }}</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

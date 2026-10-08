@@ -1,0 +1,22 @@
+# Hugo & GitHub Pages .gitignore
+# Environment secrets
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Database & Runtime Cache
+data/*.db
+data/*.db-journal
+
+# Hugo build directory (when using GitHub Actions workflow to build)
+# public/
+resources/_gen/
+.hugo_build.lock
+
+# macOS
+.DS_Store

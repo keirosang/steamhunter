@@ -1,0 +1,44 @@
+baseURL = 'https://yourname.github.io/'
+locale = 'zh-cn'
+title = 'Steam 蒸汽猎手 | 独立情报站'
+theme = ''
+defaultContentLanguage = 'zh-cn'
+hasCJKLanguage = true
+paginate = 10
+
+[params]
+  author = 'SteamHunter'
+  description = '基于 Hugo 与 GitHub Pages 的 Steam 游戏限免、史低折扣与版本情报特约专栏'
+  keywords = ['Steam', '游戏资讯', '喜加一', '限免', '史低折扣', '版本补丁']
+  repoURL = 'https://github.com'
+  subtitle = '每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析'
+
+[menu]
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = '游戏资讯'
+    url = '/categories/游戏资讯/'
+    weight = 2
+  [[menu.main]]
+    name = '特惠折扣'
+    url = '/categories/特惠折扣/'
+    weight = 3
+  [[menu.main]]
+    name = '标签云'
+    url = '/tags/'
+    weight = 4
+  [[menu.main]]
+    name = '关于'
+    url = '/about/'
+    weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'monokailight'
+    lineNos = false

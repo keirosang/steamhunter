@@ -1,0 +1,4 @@
+# Hugo GitHub Pages 独立采集与发布程序依赖清单
+requests>=2.31.0
+python-dotenv>=1.0.0
+PyYAML>=6.0.1

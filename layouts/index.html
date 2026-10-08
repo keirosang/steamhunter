@@ -1,0 +1,64 @@
+{{ define "main" }}
+<section class="hero-section">
+  <div class="hero-content">
+    <div class="hero-tag">🔥 独立全自动情报站</div>
+    <h1 class="hero-title">Steam 游戏福利与版本资讯特约专栏</h1>
+    <p class="hero-desc">{{ .Site.Params.subtitle }}</p>
+    <div class="hero-stats">
+      <div class="stat-item">
+        <span class="stat-num">{{ len (where .Site.RegularPages "Type" "posts") }}</span>
+        <span class="stat-label">收录专栏</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">{{ len .Site.Taxonomies.categories }}</span>
+        <span class="stat-label">资讯分类</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">{{ len .Site.Taxonomies.tags }}</span>
+        <span class="stat-label">标签索引</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Filter Tabs -->
+<div class="filter-bar">
+  <div class="filter-pills">
+    <a href="{{ "/" | relURL }}" class="filter-pill active">全部速递</a>
+    <a href="{{ "/categories/游戏资讯/" | relURL }}" class="filter-pill">⚡ 游戏资讯</a>
+    <a href="{{ "/categories/特惠折扣/" | relURL }}" class="filter-pill">🎁 特惠折扣</a>
+  </div>
+</div>
+
+<!-- Posts Grid -->
+<section class="posts-section">
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+  {{ if gt (len $paginator.Pages) 0 }}
+    <div class="posts-grid" id="postsGrid">
+      {{ range $paginator.Pages }}
+        {{ partial "summary.html" . }}
+      {{ end }}
+    </div>
+
+    <!-- Pagination -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination-nav">
+      {{ if $paginator.HasPrev }}
+      <a class="page-link prev-link" href="{{ $paginator.Prev.URL }}">上一页</a>
+      {{ end }}
+      <span class="page-indicator">第 {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }} 页</span>
+      {{ if $paginator.HasNext }}
+      <a class="page-link next-link" href="{{ $paginator.Next.URL }}">下一页</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
+  {{ else }}
+    <div class="empty-state">
+      <div class="empty-icon">🎮</div>
+      <h3>暂未收录文章</h3>
+      <p>采集程序正在后台巡检中，稍后刷新即可获取最新游戏资讯与特惠。</p>
+    </div>
+  {{ end }}
+</section>
+{{ end }}

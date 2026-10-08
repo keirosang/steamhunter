@@ -1,0 +1,119 @@
+{{ define "main" }}
+<article class="single-article">
+  <!-- Breadcrumb -->
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="{{ "/" | relURL }}">首页</a>
+    <span class="bc-sep">/</span>
+    {{ with .Params.categories }}
+    <a href="{{ (printf "/categories/%s/" (index . 0)) | relURL }}">{{ index . 0 }}</a>
+    <span class="bc-sep">/</span>
+    {{ end }}
+    <span class="bc-current">{{ .Title | truncate 30 }}</span>
+  </nav>
+
+  <!-- Article Header -->
+  <header class="article-header">
+    <div class="article-badges">
+      {{ range .Params.categories }}
+      <span class="badge badge-category">{{ . }}</span>
+      {{ end }}
+      {{ with .Params.game_title }}
+      <span class="badge badge-game">🎮 {{ . }}</span>
+      {{ end }}
+      {{ with .Params.appid }}
+      <span class="badge badge-appid">Steam AppID: {{ . }}</span>
+      {{ end }}
+    </div>
+
+    <h1 class="article-title">{{ .Title }}</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ {{ .Params.author | default .Site.Params.author }}</span>
+        <span class="meta-dot">·</span>
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" class="meta-date">
+          📅 {{ .Date.Format "2006-01-02 15:04" }}
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 {{ .ReadingTime }} 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 {{ .WordCount }} 字</span>
+      </div>
+
+      {{ with .Params.appid }}
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/{{ . }}/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/{{ . }}" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      {{ end }}
+    </div>
+
+    {{ with .Params.featured_image }}
+    <div class="featured-image-wrapper">
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="featured-image">
+    </div>
+    {{ end }}
+  </header>
+
+  <div class="article-layout">
+    <!-- Main Content -->
+    <div class="article-content-wrapper">
+      {{ if .Params.summary }}
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>{{ .Params.summary }}
+      </div>
+      {{ end }}
+
+      <div class="article-body">
+        {{ .Content }}
+      </div>
+
+      <!-- Article Footer Tags & Actions -->
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          {{ range .Params.tags }}
+          <a href="{{ (printf "/tags/%s/" .) | relURL }}" class="article-tag-item">#{{ . }}</a>
+          {{ end }}
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="{{ .Permalink }}">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      <!-- Prev / Next Navigation -->
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          {{ with .PrevInSection }}
+          <span class="sibling-label">← 上一篇</span>
+          <a href="{{ .Permalink }}" class="sibling-title">{{ .Title }}</a>
+          {{ end }}
+        </div>
+        <div class="sibling-next">
+          {{ with .NextInSection }}
+          <span class="sibling-label">下一篇 →</span>
+          <a href="{{ .Permalink }}" class="sibling-title">{{ .Title }}</a>
+          {{ end }}
+        </div>
+      </nav>
+    </div>
+
+    <!-- Sidebar / Sticky TOC -->
+    {{ if gt (len .TableOfContents) 32 }}
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        {{ .TableOfContents }}
+      </div>
+    </aside>
+    {{ end }}
+  </div>
+</article>
+{{ end }}
