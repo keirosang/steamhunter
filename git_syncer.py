@@ -103,6 +103,13 @@ class GitSyncer:
         if not os.path.exists(nojekyll_path):
             open(nojekyll_path, "w").close()
 
+        # 确保自定义域名 CNAME 文件存在
+        custom_domain = getattr(config, "CUSTOM_DOMAIN", "")
+        if custom_domain:
+            cname_path = os.path.join(public_dir, "CNAME")
+            with open(cname_path, "w", encoding="utf-8") as f:
+                f.write(f"{custom_domain}\n")
+
         if not config.GITHUB_REPO_URL:
             print("[静态产物发布提示] 未在 .env 中配置 GITHUB_REPO_URL，仅保留本地编译产物。")
             return True

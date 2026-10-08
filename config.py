@@ -69,7 +69,8 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 DB_PATH = os.path.join(DATA_DIR, "hugo_crawler.db")
 
 # Hugo 站点配置
-SITE_BASE_URL = os.getenv("SITE_BASE_URL", "https://keirosang.github.io/steamhunter/").strip()
+SITE_BASE_URL = os.getenv("SITE_BASE_URL", "https://info.steamhunter.link/").strip()
+CUSTOM_DOMAIN = os.getenv("CUSTOM_DOMAIN", "info.steamhunter.link").strip()
 SITE_TITLE = os.getenv("SITE_TITLE", "Steam 蒸汽猎手 | 游戏情报站").strip()
 SITE_AUTHOR = os.getenv("SITE_AUTHOR", "SteamHunter").strip()
 AUTO_HUGO_BUILD = _bool(os.getenv("AUTO_HUGO_BUILD"), True)
