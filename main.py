@@ -61,9 +61,16 @@ def run_pipeline(limit: int = None, dry_run: bool = False, skip_crawl: bool = Fa
             appid = item.get("appid")
             game_title = item.get("game_title")
 
-            # 去重检查
+            # 去重检查 1: 精确唯一键检查（已抓取的 news gid / deal / free key）
             if storage.is_crawled(item_key):
                 continue
+
+            # 去重检查 2: 促销周期冷却（同一款游戏的特惠或限免在 N 天内不重复发文）
+            item_type = item.get("item_type")
+            if item_type in ("deal", "free") and appid:
+                cooldown_days = config.DEAL_COOLDOWN_DAYS if item_type == "deal" else config.FREE_COOLDOWN_DAYS
+                if storage.has_recent_article(appid, item_type=item_type, days=cooldown_days):
+                    continue
 
             print(f"\n[新情报捕获] 《{game_title}》 (AppID: {appid}) - {title}")
 
