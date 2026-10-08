@@ -131,18 +131,18 @@ git remote set-url origin git@github.com:keirosang/steamhunter.git
 
 ---
 
-## 4. 开启 GitHub Pages 自动化工作流
+## 4. GitHub Pages 原生分支直接部署配置（不使用 Actions，秒级生效）
 
-项目内已包含官方标准化工作流文件：[`.github/workflows/hugo.yml`](file:///Users/luoqi/WORK/work006/hugo-page/.github/workflows/hugo.yml)。
-
-为了让 GitHub 在收到推送时自动构建并发布网站，**必须在仓库页面开启 Actions 权限**：
+本程序在本地与服务器上编译完成后，会直接将 `public/` 静态构建产物推送到 **`gh-pages`** 分支，完全免去 GitHub Actions 云端编译排队：
 
 1. 打开浏览器，访问仓库设置：  
    👉 `https://github.com/keirosang/steamhunter/settings/pages`
-2. 在页面中找到 **Build and deployment**；
-3. 将 **Source** 从默认的 "Deploy from a branch" 改选为：  
-   👉 **GitHub Actions**
-4. 保存即可！此后每次推送新文章，GitHub 将在后台自动编译静态网页并刷新站点。
+2. 在 **Build and deployment** 下方的 **Source** 选择：  
+   👉 **Deploy from a branch**（从分支直接部署，GitHub 官方原生托管模式）
+3. 在 **Branch** 下拉菜单中选择：  
+   👉 分支选择 **`gh-pages`**，目录选择 **`/ (root)`**
+4. 点击 **Save**（保存）即可！  
+   GitHub Pages 将直接托管并呈现推送的静态产物，无需任何 Actions 工作流，毫秒级快速响应。
 
 ---
 
@@ -181,6 +181,8 @@ AUTO_HUGO_BUILD=true
 GITHUB_AUTO_PUSH=true
 GITHUB_REPO_URL=git@github.com:keirosang/steamhunter.git
 GITHUB_BRANCH=main
+# 静态编译产物目标分支（GitHub Pages 选用此分支）
+GITHUB_PAGES_BRANCH=gh-pages
 GIT_AUTHOR_NAME=SteamHunter Bot
 GIT_AUTHOR_EMAIL=bot@steamhunter.local
 ```

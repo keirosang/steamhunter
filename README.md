@@ -117,32 +117,30 @@ hugo server
 
 ---
 
-## 🌐 部署至 GitHub Pages 详细步骤
+## 🌐 部署至 GitHub Pages 详细步骤（直接提交静态产物，免 Actions）
 
-本项目推荐使用 **GitHub 官方原生 GitHub Actions 方式** 自动构建与部署。
+本项目采用 **静态编译产物直接推送至 `gh-pages` 分支** 模式，完全绕过 GitHub Actions，原生秒级托管。
 
 ### 步骤 1：在 GitHub 创建仓库
-在 GitHub 上创建一个新仓库（例如名为 `steam-hunter-pages` 或 `<用户名>.github.io`）。
+已创建仓库：`https://github.com/keirosang/steamhunter.git`
 
 ### 步骤 2：绑定远程仓库并开启自动推送
-在 `hugo-page/.env` 中填入你的 GitHub 仓库地址，并开启自动推送：
+在 `hugo-page/.env` 中配置你的仓库地址与推送开关：
 ```env
-GITHUB_REPO_URL=git@github.com:你的用户名/你的仓库名.git
 GITHUB_AUTO_PUSH=true
+GITHUB_REPO_URL=git@github.com:keirosang/steamhunter.git
+GITHUB_BRANCH=main
+GITHUB_PAGES_BRANCH=gh-pages
 ```
 
-或者手动添加远程地址并初次推送：
-```bash
-cd hugo-page
-git remote add origin git@github.com:你的用户名/你的仓库名.git
-git push -u origin main
-```
-
-### 步骤 3：在 GitHub 仓库开启 Pages 服务
+### 步骤 3：在 GitHub 仓库开启 Pages 原生服务
 1. 进入 GitHub 仓库页面，点击 **Settings** -> **Pages**；
-2. 在 **Build and deployment** 下方的 **Source** 下拉菜单中选择：
-   👉 **GitHub Actions**
-3. 以后每次推送代码，`.github/workflows/hugo.yml` 将自动触发，在云端自动编译 Hugo 并部署到 GitHub Pages！
+2. 在 **Build and deployment** 下方的 **Source** 选择：
+   👉 **Deploy from a branch**（从分支直接部署）
+3. 在 **Branch** 下拉菜单中选择：
+   👉 分支选择 **`gh-pages`**，目录选择 **`/ (root)`**
+4. 点击 **Save**（保存）即可！
+程序每次执行采集与构建后，会自动将编译好的纯静态网页（`public/` 产物）直接提交推送到 `gh-pages` 分支，GitHub Pages 秒级自动刷新上线！
 
 ---
 
