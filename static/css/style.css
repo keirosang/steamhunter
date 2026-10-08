@@ -122,15 +122,17 @@ a {
   align-items: center;
   justify-content: space-between;
   height: 72px;
-  gap: 20px;
+  gap: 16px;
 }
 
 .brand-logo {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 
 .logo-icon {
@@ -162,18 +164,29 @@ a {
   letter-spacing: 0.5px;
 }
 
+.main-nav {
+  flex-shrink: 0;
+}
+
 .main-nav .nav-links {
   display: flex;
   list-style: none;
-  gap: 8px;
+  gap: 4px;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .nav-link {
-  padding: 8px 14px;
+  padding: 6px 12px;
   border-radius: var(--radius-md);
   color: var(--text-secondary);
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   font-weight: 500;
+  white-space: nowrap;
+  display: inline-block;
+  transition: var(--transition);
 }
 
 .nav-link:hover, .nav-link.active {
@@ -193,32 +206,35 @@ a {
 .header-actions {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 10px;
+  flex-shrink: 0;
 }
 
 .search-box {
   position: relative;
   display: flex;
   align-items: center;
+  flex-shrink: 0;
 }
 
 .search-box input {
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-full);
-  padding: 8px 14px 8px 34px;
+  padding: 7px 12px 7px 32px;
   font-size: 0.85rem;
   color: var(--text-primary);
-  width: 170px;
-  transition: var(--transition);
+  width: 145px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
   outline: none;
 }
 
 .search-box input:focus {
-  width: 230px;
+  /* 严格保持宽度不变，避免聚焦时展开外扩挤压导航栏文字！ */
+  width: 145px;
   background: var(--bg-secondary);
   border-color: var(--accent-cyan);
-  box-shadow: 0 0 15px rgba(0, 240, 255, 0.2);
+  box-shadow: 0 0 12px rgba(0, 240, 255, 0.25);
 }
 
 .search-icon {
@@ -1159,7 +1175,7 @@ a {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .header-inner {
     height: 64px;
   }
@@ -1179,7 +1195,12 @@ a {
   }
   .main-nav .nav-links {
     flex-direction: column;
+    align-items: stretch;
     gap: 4px;
+  }
+  .nav-link {
+    display: block;
+    padding: 10px 14px;
   }
   .mobile-menu-btn {
     display: flex;
@@ -1188,7 +1209,7 @@ a {
     width: 120px;
   }
   .search-box input:focus {
-    width: 160px;
+    width: 120px;
   }
   .hero-title {
     font-size: 2rem;
