@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>星际战士2 on Steam 蒸汽猎手 | 游戏情报站</title>
-		<link>http://localhost:1313/tags/%E6%98%9F%E9%99%85%E6%88%98%E5%A3%AB2/</link>
+		<link>https://info.steamhunter.link/tags/%E6%98%9F%E9%99%85%E6%88%98%E5%A3%AB2/</link>
 		<description>Recent content in 星际战士2 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 08 Oct 2026 11:18:54 +0800</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/%E6%98%9F%E9%99%85%E6%88%98%E5%A3%AB2/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://info.steamhunter.link/tags/%E6%98%9F%E9%99%85%E6%88%98%E5%A3%AB2/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>《战锤40K：星际战士2》Steam新史低狂砍75%！骨折大促忠诚开剁</title>
-				<link>http://localhost:1313/posts/2026-10-08-2183900-2911d533/</link>
+				<link>https://info.steamhunter.link/posts/2026-10-08-2183900-2911d533/</link>
 				<pubDate>Thu, 08 Oct 2026 11:18:54 +0800</pubDate>
-				<guid>http://localhost:1313/posts/2026-10-08-2183900-2911d533/</guid>
+				<guid>https://info.steamhunter.link/posts/2026-10-08-2183900-2911d533/</guid>
 				<description>忠诚不绝对，就是绝对不忠诚！《战锤40K：星际战士2》Steam迎来史诗级重磅特惠，原价直接怒砍-75%，仅需14.99刀即可将这部硬核第三人称动作射击神作永久入库。沉浸感拉满的动力甲轰鸣与漫天虫群无双割草，现在就是兄弟们抄底入坑的绝佳时机！</description>
 			</item>
 	</channel>
