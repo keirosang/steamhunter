@@ -12,6 +12,7 @@ paginate = 10
   keywords = ['Steam', '游戏资讯', '喜加一', '限免', '史低折扣', '版本补丁']
   repoURL = 'https://github.com/keirosang/steamhunter'
   subtitle = '每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析'
+  tgChannel = 'https://t.me/steamhunterlink'
 
 [menu]
   [[menu.main]]
@@ -30,6 +31,10 @@ paginate = 10
     name = '标签云'
     url = '/tags/'
     weight = 4
+  [[menu.main]]
+    name = '关于本站'
+    url = '/about/'
+    weight = 5
 
 [markup]
   [markup.goldmark]

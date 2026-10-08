@@ -13,11 +13,13 @@
           <li><a href="{{ "/categories/游戏资讯/" | relURL }}">游戏资讯</a></li>
           <li><a href="{{ "/categories/特惠折扣/" | relURL }}">特惠折扣</a></li>
           <li><a href="{{ "/tags/" | relURL }}">标签索引</a></li>
+          <li><a href="{{ "/about/" | relURL }}">关于本站</a></li>
         </ul>
       </div>
       <div class="link-group">
         <h4>平台直达</h4>
         <ul>
+          <li><a href="{{ .Site.Params.tgChannel | default "https://t.me/steamhunterlink" }}" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
           <li><a href="{{ "index.xml" | relURL }}">RSS 订阅源</a></li>
           <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
           <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
