@@ -162,8 +162,11 @@ CRAWL_NEWS=true
 CRAWL_SPECIALS=true
 MAX_POSTS_PER_RUN=5
 # 文章采集跨度（单位：天，最少 1 天。配置 1 则仅采集 24 小时以内的最新鲜文章）
-CRAWL_MAX_AGE_DAYS=1
-WATCHED_APPIDS=2358720,1808500,730,1091500,1086940,271590,2344520,1172620,1623730,570,578080,1172470,413150,582010
+# 全类别动态巡检（默认开启，自动汇聚 Steam 全网特惠、热销榜、新品榜与热门活跃大作，不受特定 AppID 限制）
+ENABLE_DYNAMIC_DISCOVERY=true
+MAX_DISCOVERY_GAMES=120
+# 可选额外追加关注的 AppID（选填，留空即代表纯全网动态大盘模式）
+CUSTOM_APPIDS=
 
 # 3. 静态图床本地化（避免 GitHub Pages 防盗链 403 破图）
 LOCALIZE_IMAGES=true

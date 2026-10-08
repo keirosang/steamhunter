@@ -73,7 +73,9 @@ hugo-page/
 | `CRAWL_SPECIALS` | 是否采集 Steam 特惠大促与超值折扣 | `true` |
 | `MAX_POSTS_PER_RUN` | 单次运行最大抓取生成篇数 | `5` |
 | `CRAWL_MAX_AGE_DAYS` | 文章采集跨度（天数，最少 1 天，低于 1 自动保底按 1 天处理） | `1` |
-| `WATCHED_APPIDS` | 重点巡检的 Steam AppID 列表 | 英文逗号分隔热门 AppID |
+| `ENABLE_DYNAMIC_DISCOVERY` | 是否开启全类别全网动态发现（默认开启，不受特定 AppID 限制） | `true` |
+| `MAX_DISCOVERY_GAMES` | 动态大盘游戏池扫描上限（涵盖全网热销/新品/特惠/活跃游戏） | `120` |
+| `CUSTOM_APPIDS` | 可选额外追加关注的 AppID（选填，留空即纯动态全网模式） | 留空 |
 | `LOCALIZE_IMAGES` | 是否将配图下载到 `static/images/` 防盗链 | `true` |
 | `SITE_BASE_URL` | 线上访问基准地址（用于 Hugo 编译） | `https://<用户名>.github.io/<仓库名>/` |
 | `AUTO_HUGO_BUILD` | 生成文章后是否本地执行 `hugo` 静态编译 | `true` |
