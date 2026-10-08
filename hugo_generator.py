@@ -114,6 +114,7 @@ class HugoGenerator:
             "appid": appid,
             "game_title": game_title,
             "item_type": item.get("item_type", "news"),
+            "item_key": item_key,
             "type": "posts"
         }
 

@@ -39,6 +39,8 @@ CRAWL_GAMERPOWER = _bool(os.getenv("CRAWL_GAMERPOWER"), True)
 CRAWL_NEWS = _bool(os.getenv("CRAWL_NEWS"), True)
 CRAWL_SPECIALS = _bool(os.getenv("CRAWL_SPECIALS"), True)
 MAX_POSTS_PER_RUN = _int(os.getenv("MAX_POSTS_PER_RUN"), 5)
+DEAL_COOLDOWN_DAYS = _int(os.getenv("DEAL_COOLDOWN_DAYS"), 7)
+FREE_COOLDOWN_DAYS = _int(os.getenv("FREE_COOLDOWN_DAYS"), 7)
 
 # 采集时间跨度（天数，最少为 1 天；若配置小于 1 则强制按 1 天处理）
 _days_env = os.getenv("CRAWL_MAX_AGE_DAYS") or os.getenv("MAX_NEWS_AGE_DAYS")

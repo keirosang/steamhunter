@@ -248,7 +248,7 @@ class SteamCollector:
                         raw_appids.append((int(m[0]), m[1].strip(), m[2].strip()))
 
                 for aid, fallback_name, pct in raw_appids:
-                    item_key = f"steam_free_{aid}_{today_str}"
+                    item_key = f"steam_free_{aid}"
                     if item_key in seen_keys or aid in seen_keys:
                         continue
                     seen_keys.add(item_key)
@@ -407,9 +407,8 @@ class SteamCollector:
                 currency = item.get("currency", "CNY")
                 header_image = item.get("header_image", f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg")
 
-                today_str = time.strftime("%Y%m%d")
                 results.append({
-                    "item_key": f"steam_deal_{appid}_{today_str}",
+                    "item_key": f"steam_deal_{appid}_{discount}",
                     "item_type": "deal",
                     "appid": appid,
                     "game_title": name,
