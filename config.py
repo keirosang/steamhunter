@@ -67,15 +67,16 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 DB_PATH = os.path.join(DATA_DIR, "hugo_crawler.db")
 
 # Hugo 站点配置
-SITE_BASE_URL = os.getenv("SITE_BASE_URL", "https://yourname.github.io/").strip()
-SITE_TITLE = os.getenv("SITE_TITLE", "Steam 蒸汽猎手 | 独立情报站").strip()
+SITE_BASE_URL = os.getenv("SITE_BASE_URL", "https://keirosang.github.io/steamhunter/").strip()
+SITE_TITLE = os.getenv("SITE_TITLE", "Steam 蒸汽猎手 | 游戏情报站").strip()
 SITE_AUTHOR = os.getenv("SITE_AUTHOR", "SteamHunter").strip()
 AUTO_HUGO_BUILD = _bool(os.getenv("AUTO_HUGO_BUILD"), True)
 
-# Git & GitHub 配置
+# Git & GitHub Pages 直接部署配置（无需 GitHub Actions）
 GITHUB_AUTO_PUSH = _bool(os.getenv("GITHUB_AUTO_PUSH"), False)
 GITHUB_REPO_URL = os.getenv("GITHUB_REPO_URL", "").strip()
 GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "main").strip()
+GITHUB_PAGES_BRANCH = os.getenv("GITHUB_PAGES_BRANCH", "gh-pages").strip()
 GIT_AUTHOR_NAME = os.getenv("GIT_AUTHOR_NAME", "SteamHunter Bot").strip()
 GIT_AUTHOR_EMAIL = os.getenv("GIT_AUTHOR_EMAIL", "bot@steamhunter.local").strip()
 

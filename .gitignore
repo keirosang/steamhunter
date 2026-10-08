@@ -15,8 +15,8 @@ data/*.db-journal
 data/.cron.lock
 logs/
 
-# Hugo build directory (when using GitHub Actions workflow to build)
-# public/
+# Hugo build directory (deployed independently to gh-pages branch)
+public/
 resources/_gen/
 .hugo_build.lock
 
