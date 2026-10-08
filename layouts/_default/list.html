@@ -7,10 +7,13 @@
   </nav>
 
   <h1 class="list-title">
-    {{ if eq .Data.Singular "category" }}📂 分类：{{ .Title }}
+    {{ if eq .Data.Singular "category" }}📂 专栏：{{ .Title }}
     {{ else if eq .Data.Singular "tag" }}🏷️ 标签：#{{ .Title }}
     {{ else }}{{ .Title }}{{ end }}
   </h1>
+  {{ with .Description }}
+  <p class="list-desc" style="color: var(--text-secondary); margin-top: 6px; font-size: 0.95rem;">{{ . }}</p>
+  {{ end }}
   <p class="list-subtitle">共检索到 {{ len .Pages }} 篇相关文章</p>
 </div>
 
@@ -37,8 +40,13 @@
   {{ else }}
     <div class="empty-state">
       <div class="empty-icon">🎮</div>
-      <h3>暂无相关内容</h3>
-      <p>该分类或标签下暂时没有收录文章。</p>
+      <h3>暂无归档内容</h3>
+      <p>该专栏近期内容正在全天候巡检中。一旦 Steam 官方有新动态或特惠上线，将第一时间同步发布！</p>
+      <div style="margin-top: 20px;">
+        <a href="{{ .Site.Params.tgChannel | default "https://t.me/steamhunterlink" }}" target="_blank" rel="noopener" class="btn btn-steam-client" style="border-radius: 9999px; padding: 10px 24px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+          <span>📢 关注 Telegram 官方频道实时接收推送</span>
+        </a>
+      </div>
     </div>
   {{ end }}
 </section>
