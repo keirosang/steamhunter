@@ -99,7 +99,7 @@ class SteamCollector:
             game_title = self.get_game_name(appid)
 
             now_ts = int(time.time())
-            max_age_sec = config.MAX_NEWS_AGE_HOURS * 3600
+            max_age_sec = config.CRAWL_MAX_AGE_DAYS * 86400
 
             for item in items:
                 pub_ts = item.get("date", 0)
@@ -188,6 +188,7 @@ class SteamCollector:
         """汇总采集所有符合条件的新鲜情报"""
         limit = max_items or config.MAX_POSTS_PER_RUN
         gathered = []
+        print(f"[巡检时效] 设定文章采集跨度: {config.CRAWL_MAX_AGE_DAYS} 天 (最少 1 天，共 {config.MAX_NEWS_AGE_HOURS} 小时)")
 
         # 1. 采集特惠折扣
         if config.CRAWL_SPECIALS:

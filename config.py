@@ -37,7 +37,19 @@ OPENAI_TEMPERATURE = _float(os.getenv("OPENAI_TEMPERATURE"), 0.7)
 CRAWL_NEWS = _bool(os.getenv("CRAWL_NEWS"), True)
 CRAWL_SPECIALS = _bool(os.getenv("CRAWL_SPECIALS"), True)
 MAX_POSTS_PER_RUN = _int(os.getenv("MAX_POSTS_PER_RUN"), 5)
-MAX_NEWS_AGE_HOURS = _int(os.getenv("MAX_NEWS_AGE_HOURS"), 48)
+
+# 采集时间跨度（天数，最少为 1 天；若配置小于 1 则强制按 1 天处理）
+_days_env = os.getenv("CRAWL_MAX_AGE_DAYS") or os.getenv("MAX_NEWS_AGE_DAYS")
+if _days_env is not None and str(_days_env).strip() != "":
+    CRAWL_MAX_AGE_DAYS = max(1, _int(_days_env, 1))
+else:
+    _hours_env = os.getenv("MAX_NEWS_AGE_HOURS")
+    if _hours_env is not None and str(_hours_env).strip() != "":
+        CRAWL_MAX_AGE_DAYS = max(1, _int(_hours_env, 24) // 24)
+    else:
+        CRAWL_MAX_AGE_DAYS = 1
+
+MAX_NEWS_AGE_HOURS = CRAWL_MAX_AGE_DAYS * 24
 
 _watched_raw = os.getenv("WATCHED_APPIDS", "2358720,1808500,730,1091500,1086940,271590,2344520,1172620,1623730,570,578080,1172470,413150,582010")
 WATCHED_APPIDS = [int(x.strip()) for x in _watched_raw.split(",") if x.strip().isdigit()]
