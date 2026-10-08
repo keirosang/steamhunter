@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="zh-cn" data-theme="dark">
-  <head><script src="/steamhunter/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=steamhunter/livereload" data-no-instant defer></script>
+  <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>关于本站 - Steam 蒸汽猎手 | 独立情报站</title>
-  <meta name="description" content="关于 Steam 蒸汽猎手独立情报站与 GitHub Pages 自动化架构">
+  <title>关于本站 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Steam 蒸汽猎手站点介绍：专注 Steam 平台游戏特惠、喜加一福利情报与版本更新解析，并推荐关注官方 Telegram 福利广播频道。">
   <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
   <meta name="author" content="SteamHunter">
 
   
   <meta property="og:type" content="article">
   <meta property="og:title" content="关于本站">
-  <meta property="og:description" content="关于 Steam 蒸汽猎手独立情报站与 GitHub Pages 自动化架构">
-  <meta property="og:url" content="http://localhost:1313/steamhunter/about/">
-  <meta property="og:site_name" content="Steam 蒸汽猎手 | 独立情报站">
+  <meta property="og:description" content="Steam 蒸汽猎手站点介绍：专注 Steam 平台游戏特惠、喜加一福利情报与版本更新解析，并推荐关注官方 Telegram 福利广播频道。">
+  <meta property="og:url" content="https://keirosang.github.io/steamhunter/about/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
   
 
   
@@ -24,7 +24,7 @@
   
   <link rel="stylesheet" href="/steamhunter/css/style.css">
   
-  <link rel="canonical" href="http://localhost:1313/steamhunter/about/">
+  <link rel="canonical" href="https://keirosang.github.io/steamhunter/about/">
   
 </head>
 
@@ -34,8 +34,7 @@
     <a href="/steamhunter/" class="brand-logo" aria-label="回到首页">
       <span class="logo-icon">🎮</span>
       <span class="logo-text">
-        <span class="logo-title">Steam 蒸汽猎手 | 独立情报站</span>
-        <span class="logo-badge">PAGES</span>
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
       </span>
     </a>
 
@@ -60,7 +59,7 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link " href="/steamhunter/about/">关于</a>
+          <a class="nav-link " href="/steamhunter/about/">关于本站</a>
         </li>
         
       </ul>
@@ -118,9 +117,9 @@
           📅 2026-10-08 09:00
         </time>
         <span class="meta-dot">·</span>
-        <span class="meta-reading">⏱️ 约 1 分钟阅读</span>
+        <span class="meta-reading">⏱️ 约 2 分钟阅读</span>
         <span class="meta-dot">·</span>
-        <span class="meta-wordcount">📝 379 字</span>
+        <span class="meta-wordcount">📝 734 字</span>
       </div>
 
       
@@ -134,44 +133,53 @@
     <div class="article-content-wrapper">
       
       <div class="article-summary-lead">
-        <strong>💡 本篇导读：</strong>关于 Steam 蒸汽猎手独立情报站与 GitHub Pages 自动化架构
+        <strong>💡 本篇导读：</strong>Steam 蒸汽猎手站点介绍：专注 Steam 平台游戏特惠、喜加一福利情报与版本更新解析，并推荐关注官方 Telegram 福利广播频道。
       </div>
       
 
       <div class="article-body">
-        <h1 id="-关于-steam-蒸汽猎手-hugo--github-pages">🎮 关于 Steam 蒸汽猎手 (Hugo + GitHub Pages)</h1>
-<p>欢迎来到 <strong>Steam 蒸汽猎手独立情报站</strong>！</p>
-<p>本站是一个完全独立部署于 <strong>GitHub Pages</strong> 的现代化静态游戏情报专栏，致力于为广大 PC 游戏玩家提供极速、纯净、高质量的 Steam 情报资讯。</p>
+        <h1 id="-关于-steam-蒸汽猎手">🎮 关于 Steam 蒸汽猎手</h1>
+<p>欢迎来到 <strong>Steam 蒸汽猎手</strong>！我们是一个专注于 PC 游戏生态的特约情报前哨站，致力于为广大玩家提供第一手、高品质、纯净客观的 Steam 游戏内容。</p>
+<p>在这里，您无需在繁杂冗长的官方英文日志中费力翻找，我们每日全天候追踪 Steam 全网大盘，提炼最值得关注的干货与福利。</p>
 <hr>
-<h2 id="-架构与运作模式">⚡ 架构与运作模式</h2>
-<ol>
-<li>
-<p><strong>🤖 独立全自动采集程序</strong></p>
+<h2 id="-本站核心运营内容">🎯 本站核心运营内容</h2>
+<h3 id="1--限免与喜加一福利速递">1. 🎁 限免与“喜加一”福利速递</h3>
 <ul>
-<li>采用纯 Python 编写的独立采集引擎（完全解耦于外部项目）；</li>
-<li>定时巡检 Steam 官方资讯与最新重大特惠/限免情报；</li>
-<li>具备严格的时效校验与数据库增量去重机制，杜绝重复发布与历史旧闻。</li>
+<li><strong>永久入库情报</strong>：第一时间同步 Steam 官方 100% 减免活动（Free to Keep），领取即终身保留在库；</li>
+<li><strong>免费周末试玩</strong>：精选各大发行商开启的限时免费畅玩大作，方便玩家周末好友组队开黑。</li>
 </ul>
-</li>
-<li>
-<p><strong>🧠 LLM 智能玩家主理人润色</strong></p>
+<h3 id="2--史低折扣与促销避坑指南">2. 🏷️ 史低折扣与促销避坑指南</h3>
 <ul>
-<li>对接 OpenAI / DeepSeek / 通义千问等主流大语言模型；</li>
-<li>杜绝生硬机翻，自动转译并重塑为地道、幽默具有玩家主理人风格的中文精品长文；</li>
-<li>自动生成核心亮点速览、深度剖析、上手实战指南与实用 FAQ。</li>
+<li><strong>新史低雷达</strong>：全类别雷达监控热门大作与独立神作的最新折扣，挖掘真正值得抄底的入库时机；</li>
+<li><strong>选购实操建议</strong>：深度剖析“游戏本体 vs 终极版/DLC”购买性价比，帮助玩家按需选购、不花冤枉钱。</li>
 </ul>
-</li>
-<li>
-<p><strong>📦 自动化 Hugo 构建与 GitHub Pages 部署</strong></p>
+<h3 id="3--重大版本更新与补丁解析">3. ⚡ 重大版本更新与补丁解析</h3>
 <ul>
-<li>自动生成标准化 Hugo Markdown 文章与防盗链静态图床；</li>
-<li>本地构建与 GitHub Actions 双轨支持，一键推送至 GitHub 极速上线。</li>
+<li><strong>版本深度速览</strong>：全面梳理大作重要版本迭代（包括新赛季开启、大型 DLC 发布、图形驱动与光追性能调优）；</li>
+<li><strong>机制改动与 FAQ</strong>：剖析数值平衡、手感优化与网络联机避坑要点，提供实用玩家上手指南。</li>
 </ul>
-</li>
-</ol>
 <hr>
-<h2 id="-友情声明">💡 友情声明</h2>
-<p>本站所有游戏数据均通过官方公共接口与开源社区整理汇聚，版权归各大游戏发行商及 Valve Corporation 所有。</p>
+<h2 id="-推荐关注官方-telegram-福利广播频道">📢 推荐关注：官方 Telegram 福利广播频道</h2>
+<p>为了让广大玩家<strong>绝不错过任何限时免费与突发史低</strong>，我们设立了专属的 Telegram 官方福利广播频道，提供秒级实时通知：</p>
+<blockquote>
+<p>⚡ <strong>官方频道特色</strong>：</p>
+<ul>
+<li>🚨 <strong>限免秒级广播</strong>：Steam 官方一旦出现限时 100% 减免福利，频道即刻推送直达链接，绝不错过喜加一；</li>
+<li>🚫 <strong>纯净无骚扰</strong>：零无用广告轰炸，专注于核心游戏情报、重大更新与高额折扣；</li>
+<li>📱 <strong>多端极速直达</strong>：手机与桌面端均可一键唤醒 Steam 商店页面或客户端一键入库。</li>
+</ul>
+</blockquote>
+<div style="margin: 32px 0; text-align: center;">
+  <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-steam-client" style="font-size: 1.05rem; padding: 14px 32px; text-decoration: none; border-radius: 9999px; display: inline-flex; align-items: center; gap: 8px;">
+    <span>📢 点击加入 Telegram 官方频道 (@steamhunterlink)</span>
+  </a>
+</div>
+<hr>
+<h2 id="-版权与交流声明">💡 版权与交流声明</h2>
+<ul>
+<li><strong>数据版权声明</strong>：本站所有收录的游戏商标、封面艺术图、原厂公告及相关数据资产，版权均归各游戏开发商、发行商及 Valve Corporation 所有；</li>
+<li><strong>玩家交流与反馈</strong>：欢迎通过 Telegram 频道获取第一手动态，共同打造更懂 PC 玩家的情报前哨站！</li>
+</ul>
 
       </div>
 
@@ -183,7 +191,7 @@
         </div>
 
         <div class="article-share-actions">
-          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="http://localhost:1313/steamhunter/about/">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://keirosang.github.io/steamhunter/about/">
             🔗 复制文章链接
           </button>
         </div>
@@ -207,8 +215,15 @@
         <h4 class="toc-title">📑 目录导航</h4>
         <nav id="TableOfContents">
   <ul>
-    <li><a href="#-架构与运作模式">⚡ 架构与运作模式</a></li>
-    <li><a href="#-友情声明">💡 友情声明</a></li>
+    <li><a href="#-本站核心运营内容">🎯 本站核心运营内容</a>
+      <ul>
+        <li><a href="#1--限免与喜加一福利速递">1. 🎁 限免与“喜加一”福利速递</a></li>
+        <li><a href="#2--史低折扣与促销避坑指南">2. 🏷️ 史低折扣与促销避坑指南</a></li>
+        <li><a href="#3--重大版本更新与补丁解析">3. ⚡ 重大版本更新与补丁解析</a></li>
+      </ul>
+    </li>
+    <li><a href="#-推荐关注官方-telegram-福利广播频道">📢 推荐关注：官方 Telegram 福利广播频道</a></li>
+    <li><a href="#-版权与交流声明">💡 版权与交流声明</a></li>
   </ul>
 </nav>
       </div>
@@ -221,32 +236,28 @@
     <footer class="site-footer">
   <div class="container footer-inner">
     <div class="footer-brand">
-      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 独立情报站</div>
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
       <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
-      <div class="footer-meta">
-        <span class="badge badge-tech">Hugo Static</span>
-        <span class="badge badge-tech">GitHub Pages</span>
-        <span class="badge badge-tech">AI Powered</span>
-      </div>
     </div>
 
     <div class="footer-links">
       <div class="link-group">
-        <h4>导航</h4>
+        <h4>专栏导航</h4>
         <ul>
-          <li><a href="/steamhunter/">最新速递</a></li>
+          <li><a href="/steamhunter/">全部速递</a></li>
           <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
           <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
-          <li><a href="/tags/">标签云</a></li>
+          <li><a href="/tags/">标签索引</a></li>
           <li><a href="/about/">关于本站</a></li>
         </ul>
       </div>
       <div class="link-group">
-        <h4>资源与部署</h4>
+        <h4>平台直达</h4>
         <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
           <li><a href="/steamhunter/index.xml">RSS 订阅源</a></li>
-          <li><a href="https://gohugo.io" target="_blank" rel="noopener">Hugo 官方文档</a></li>
-          <li><a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
         </ul>
       </div>
     </div>
@@ -254,7 +265,7 @@
 
   <div class="footer-bottom">
     <div class="container footer-bottom-inner">
-      <p>© 2026 SteamHunter. 本站资讯由独立采集程序自动生成并同步至 GitHub Pages。</p>
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
       <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
     </div>
   </div>
