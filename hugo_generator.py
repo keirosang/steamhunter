@@ -96,18 +96,24 @@ class HugoGenerator:
         body_md = self.localize_markdown_images(body_md)
 
         # 构造 Front Matter (YAML)
+        default_cat = ["限免福利"] if item.get("item_type") == "free" else (["特惠折扣"] if item.get("item_type") == "deal" else ["游戏资讯"])
+        categories = polished.get("categories") or default_cat
+        if not isinstance(categories, list):
+            categories = [categories]
+
         front_matter = {
             "title": polished.get("title", item.get("raw_title", "Steam 游戏速递")),
             "date": date_iso,
             "lastmod": date_iso,
             "draft": False,
             "author": config.SITE_AUTHOR,
-            "categories": polished.get("categories", ["游戏资讯"]),
+            "categories": categories,
             "tags": polished.get("tags", ["Steam", "游戏资讯"]),
             "summary": polished.get("summary", ""),
             "featured_image": local_cover,
             "appid": appid,
             "game_title": game_title,
+            "item_type": item.get("item_type", "news"),
             "type": "posts"
         }
 

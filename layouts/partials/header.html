@@ -19,6 +19,14 @@
     </nav>
 
     <div class="header-actions">
+      <!-- Telegram Channel Quick Link -->
+      {{ with .Site.Params.tgChannel }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      {{ end }}
+
       <!-- Search Trigger or Quick Filter -->
       <div class="search-box">
         <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">

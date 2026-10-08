@@ -195,6 +195,196 @@ class SteamCollector:
 
         return results
 
+    def _get_app_details(self, appid: int) -> dict:
+        """获取 App 详细元数据（中文名、类型、DLC本体归属、价格详情、配图等）"""
+        try:
+            url = f"https://store.steampowered.com/api/appdetails?appids={appid}&cc=cn&l=schinese"
+            res = self.session.get(url, timeout=10)
+            if res.status_code == 200:
+                data = res.json()
+                if data.get(str(appid), {}).get("success"):
+                    return data[str(appid)].get("data", {})
+        except Exception:
+            pass
+        return {}
+
+    def fetch_free_giveaways(self, limit: int = 10) -> list[dict]:
+        """
+        全网限免与喜加一情报深度采集引擎：
+        1. Steam 官方商店 100% 减免检索源 (maxprice=free&specials=1)，获取官方在售且当前 100% 折扣的商品与 DLC；
+        2. Steam Featured Categories 中 100% 折扣或 0 元促销商品；
+        3. 权威游戏福利源 (GamerPower Steam Giveaways)，同步 Steam 官方 Key 码与媒体大促限免；
+        自动识别：游戏本体 / DLC 扩展包，提取原价、截止时效、商店链接与一键安装链接。
+        """
+        results = []
+        seen_keys = set()
+        today_str = time.strftime("%Y%m%d")
+
+        # 1. Steam 官方商店 100% 减免检索
+        try:
+            url = "https://store.steampowered.com/search/?maxprice=free&specials=1"
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                "Cookie": "birthtime=568022401; lastagecheckage=1-0-1988; wants_mature_content=1"
+            }
+            res = self.session.get(url, headers=headers, timeout=12)
+            if res.status_code == 200:
+                raw_appids = []
+                try:
+                    from lxml import etree
+                    tree = etree.HTML(res.text)
+                    rows = tree.xpath('//a[contains(@class, "search_result_row")]')
+                    for r in rows:
+                        aid_str = r.attrib.get("data-ds-appid", "")
+                        title_text = "".join(r.xpath('.//span[@class="title"]/text()')).strip()
+                        pct_text = "".join(r.xpath('.//div[contains(@class, "discount_pct")]/text()')).strip()
+                        first_aid = aid_str.split(",")[0].strip() if aid_str else ""
+                        if first_aid.isdigit():
+                            raw_appids.append((int(first_aid), title_text, pct_text))
+                except Exception:
+                    matches = re.findall(r'data-ds-appid="(\d+)[^"]*".*?<span class="title">([^<]+)</span>.*?<div class="discount_pct">(-100%)</div>', res.text, re.DOTALL)
+                    for m in matches:
+                        raw_appids.append((int(m[0]), m[1].strip(), m[2].strip()))
+
+                for aid, fallback_name, pct in raw_appids:
+                    item_key = f"steam_free_{aid}_{today_str}"
+                    if item_key in seen_keys or aid in seen_keys:
+                        continue
+                    seen_keys.add(item_key)
+                    seen_keys.add(aid)
+
+                    app_info = self._get_app_details(aid)
+                    name = app_info.get("name") or fallback_name or f"Steam App {aid}"
+                    res_type = app_info.get("type", "game")
+                    fullgame = app_info.get("fullgame")
+                    fullgame_name = fullgame.get("name") if isinstance(fullgame, dict) else None
+                    header_img = app_info.get("header_image") or f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{aid}/header.jpg"
+                    short_desc = app_info.get("short_description") or ""
+
+                    price_info = app_info.get("price_overview", {})
+                    orig_formatted = price_info.get("initial_formatted", "免费")
+                    currency = price_info.get("currency", "CNY")
+
+                    res_type_zh = "🎮 游戏本体" if res_type == "game" else ("🧩 DLC 扩展包" if res_type == "dlc" else "📦 游戏资产")
+                    dlc_hint = f"（需拥有《{fullgame_name}》本体方可领取）" if fullgame_name else ""
+
+                    raw_body = (
+                        f"Steam 官方商店当前正开启限时喜加一福利活动！\n\n"
+                        f"- **福利名称**：《{name}》\n"
+                        f"- **资源类型**：{res_type_zh} {dlc_hint}\n"
+                        f"- **促销力度**：-100%（原价 {orig_formatted}，现立省 100% 免费领取）\n"
+                        f"- **入库规则**：活动期间添加到 Steam 账户，即可永久拥有、终身保留在库！\n\n"
+                        f"**内容简介**：\n{short_desc}\n\n"
+                        f"**领取方式**：进入 Steam 商店页面点击“添加到账户”或通过客户端一键唤醒安装协议直接入库。"
+                    )
+
+                    results.append({
+                        "item_key": item_key,
+                        "item_type": "free",
+                        "free_type": "free_to_keep",
+                        "resource_type": res_type,
+                        "resource_type_zh": res_type_zh,
+                        "fullgame_name": fullgame_name,
+                        "appid": aid,
+                        "game_title": name,
+                        "raw_title": f"🎁【Steam 喜加一】《{name}》限时 100% 减免免费入库！永久保留在库",
+                        "raw_body": raw_body,
+                        "date_ts": int(time.time()),
+                        "image_url": header_img,
+                        "deal_info": {
+                            "discount_percent": 100,
+                            "original_price": price_info.get("initial", 0) / 100.0,
+                            "final_price": 0.0,
+                            "currency": currency,
+                            "is_free": True,
+                            "free_type": "free_to_keep",
+                            "fullgame_name": fullgame_name,
+                            "resource_type_zh": res_type_zh
+                        },
+                        "url": f"https://store.steampowered.com/app/{aid}/"
+                    })
+        except Exception as e:
+            print(f"[限免采集异常] Steam 100% 检索失败: {e}")
+
+        # 2. 权威游戏福利源 (GamerPower Steam Giveaways)
+        if config.CRAWL_GAMERPOWER and len(results) < limit:
+            try:
+                gp_url = "https://www.gamerpower.com/api/giveaways?platform=steam"
+                gp_res = self.session.get(gp_url, timeout=10)
+                if gp_res.status_code == 200:
+                    gp_data = gp_res.json()
+                    now_ts = int(time.time())
+                    max_age_sec = config.CRAWL_MAX_AGE_DAYS * 86400
+
+                    for g in gp_data:
+                        if len(results) >= limit:
+                            break
+                        gid = g.get("id")
+                        g_title = g.get("title", "")
+                        g_url = g.get("open_giveaway_url") or g.get("gamerpower_url")
+                        g_worth = g.get("worth", "$0.00")
+                        g_instructions = g.get("instructions", "")
+                        g_desc = g.get("description", "")
+                        g_end = g.get("end_date", "以活动页面截止为准")
+                        g_img = g.get("image") or g.get("thumbnail") or ""
+                        g_type = g.get("type", "Game")
+
+                        pub_str = g.get("published_date", "")
+                        pub_ts = now_ts
+                        if pub_str:
+                            try:
+                                pub_dt = time.strptime(pub_str[:19], "%Y-%m-%d %H:%M:%S")
+                                pub_ts = int(time.mktime(pub_dt))
+                            except Exception:
+                                pass
+
+                        if (now_ts - pub_ts) > max_age_sec:
+                            continue
+
+                        item_key = f"steam_gp_giveaway_{gid}"
+                        if item_key in seen_keys:
+                            continue
+                        seen_keys.add(item_key)
+
+                        res_type_zh = "🎮 游戏本体" if "Game" in g_type else ("🧩 DLC 扩展包" if "DLC" in g_type else "🔑 限量激活码")
+                        raw_body = (
+                            f"Steam 平台正开启限时喜加一福利活动！\n\n"
+                            f"- **活动名称**：{g_title}\n"
+                            f"- **资源类型**：{res_type_zh}（参考价值：{g_worth}）\n"
+                            f"- **截止时间**：{g_end}\n\n"
+                            f"**活动内容简介**：\n{g_desc}\n\n"
+                            f"**领取步骤指引**：\n{g_instructions}\n\n"
+                            f"**官方活动通道**：点击直达活动页面领取 Steam 激活码或一键入库。"
+                        )
+
+                        results.append({
+                            "item_key": item_key,
+                            "item_type": "free",
+                            "free_type": "key_giveaway",
+                            "resource_type": g_type.lower(),
+                            "resource_type_zh": res_type_zh,
+                            "appid": 0,
+                            "game_title": g_title.replace(" Steam Key Giveaway", "").replace(" Giveaway", ""),
+                            "raw_title": f"🎁【Steam 喜加一】{g_title}（价值 {g_worth}，限时免费领取）",
+                            "raw_body": raw_body,
+                            "date_ts": pub_ts,
+                            "image_url": g_img,
+                            "deal_info": {
+                                "discount_percent": 100,
+                                "worth": g_worth,
+                                "end_date": g_end,
+                                "is_free": True,
+                                "free_type": "key_giveaway",
+                                "resource_type_zh": res_type_zh
+                            },
+                            "url": g_url
+                        })
+            except Exception as e:
+                print(f"[限免采集异常] GamerPower 抓取异常: {e}")
+
+        return results[:limit]
+
     def fetch_steam_specials(self, limit: int = 10) -> list[dict]:
         """抓取 Steam 全网全品类实时推荐特惠与大促折扣"""
         url = "https://store.steampowered.com/api/featuredcategories"
@@ -217,7 +407,6 @@ class SteamCollector:
                 currency = item.get("currency", "CNY")
                 header_image = item.get("header_image", f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg")
 
-                # 生成特惠描述
                 today_str = time.strftime("%Y%m%d")
                 results.append({
                     "item_key": f"steam_deal_{appid}_{today_str}",
@@ -242,29 +431,35 @@ class SteamCollector:
         return results
 
     def collect_all(self, max_items: int = None) -> list[dict]:
-        """全类别全网动态情报汇总采集"""
+        """全类别全网动态情报汇总采集（限免福利最高优先级）"""
         limit = max_items or config.MAX_POSTS_PER_RUN
         gathered = []
         print(f"[全类别巡检] 启动 Steam 全网全类别动态信息采集模式...")
         print(f"[巡检时效] 设定文章采集跨度: {config.CRAWL_MAX_AGE_DAYS} 天 (最少 1 天，共 {config.MAX_NEWS_AGE_HOURS} 小时)")
 
-        # 1. 全类别特惠折扣采集
-        if config.CRAWL_SPECIALS:
+        # 1. 顶格优先级：Steam 限免福利与喜加一活动采集
+        if config.CRAWL_FREE:
+            free_items = self.fetch_free_giveaways(limit=max(3, limit))
+            if free_items:
+                print(f"[限免福利雷达] 抓取到正在进行的限免喜加一情报: {len(free_items)} 条")
+                gathered.extend(free_items)
+
+        # 2. 全类别特惠折扣采集
+        if config.CRAWL_SPECIALS and len(gathered) < limit * 2:
             deals = self.fetch_steam_specials(limit=limit * 2)
             gathered.extend(deals)
 
-        # 2. 全类别动态游戏情报巡检（打破固定 AppID 限制）
-        if config.CRAWL_NEWS:
+        # 3. 全类别动态游戏情报巡检（打破固定 AppID 限制）
+        if config.CRAWL_NEWS and len(gathered) < limit * 3:
             game_pool = self.discover_all_category_games(max_games=config.MAX_DISCOVERY_GAMES)
             print(f"[全网动态大盘] 成功汇聚全网热销/新品/特惠/活跃游戏池: {len(game_pool)} 款")
 
-            # 遍历动态大盘游戏，获取时效范围内的官方公告
             for appid, name in game_pool:
                 if len(gathered) >= limit * 3:
                     break
                 news_list = self.fetch_news_for_app(appid, count=2)
                 gathered.extend(news_list)
 
-        # 按情报发布时间倒序排列，优先处理最新鲜的情报
-        gathered.sort(key=lambda x: x.get("date_ts", 0), reverse=True)
+        # 保证限免排在最前，其次按时间倒序
+        gathered.sort(key=lambda x: (1 if x.get("item_type") == "free" else 0, x.get("date_ts", 0)), reverse=True)
         return gathered

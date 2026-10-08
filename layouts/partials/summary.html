@@ -8,7 +8,7 @@
       </div>
     {{ end }}
     {{ with .Params.categories }}
-      <span class="category-badge">{{ index . 0 }}</span>
+      <span class="category-badge" data-category="{{ index . 0 }}">{{ index . 0 }}</span>
     {{ end }}
     {{ with .Params.appid }}
       <span class="appid-badge">AppID: {{ . }}</span>

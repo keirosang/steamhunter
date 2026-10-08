@@ -34,6 +34,8 @@ OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini").strip()
 OPENAI_TEMPERATURE = _float(os.getenv("OPENAI_TEMPERATURE"), 0.7)
 
 # 采集与巡检配置
+CRAWL_FREE = _bool(os.getenv("CRAWL_FREE"), True)
+CRAWL_GAMERPOWER = _bool(os.getenv("CRAWL_GAMERPOWER"), True)
 CRAWL_NEWS = _bool(os.getenv("CRAWL_NEWS"), True)
 CRAWL_SPECIALS = _bool(os.getenv("CRAWL_SPECIALS"), True)
 MAX_POSTS_PER_RUN = _int(os.getenv("MAX_POSTS_PER_RUN"), 5)
