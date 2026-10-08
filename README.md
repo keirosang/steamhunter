@@ -72,7 +72,7 @@ hugo-page/
 | `CRAWL_NEWS` | 是否采集官方更新与补丁公告 | `true` |
 | `CRAWL_SPECIALS` | 是否采集 Steam 特惠大促与超值折扣 | `true` |
 | `MAX_POSTS_PER_RUN` | 单次运行最大抓取生成篇数 | `5` |
-| `MAX_NEWS_AGE_HOURS` | 公告最长回溯时限（小时） | `48` |
+| `CRAWL_MAX_AGE_DAYS` | 文章采集跨度（天数，最少 1 天，低于 1 自动保底按 1 天处理） | `1` |
 | `WATCHED_APPIDS` | 重点巡检的 Steam AppID 列表 | 英文逗号分隔热门 AppID |
 | `LOCALIZE_IMAGES` | 是否将配图下载到 `static/images/` 防盗链 | `true` |
 | `SITE_BASE_URL` | 线上访问基准地址（用于 Hugo 编译） | `https://<用户名>.github.io/<仓库名>/` |

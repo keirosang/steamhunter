@@ -161,7 +161,8 @@ OPENAI_TEMPERATURE=0.7
 CRAWL_NEWS=true
 CRAWL_SPECIALS=true
 MAX_POSTS_PER_RUN=5
-MAX_NEWS_AGE_HOURS=48
+# 文章采集跨度（单位：天，最少 1 天。配置 1 则仅采集 24 小时以内的最新鲜文章）
+CRAWL_MAX_AGE_DAYS=1
 WATCHED_APPIDS=2358720,1808500,730,1091500,1086940,271590,2344520,1172620,1623730,570,578080,1172470,413150,582010
 
 # 3. 静态图床本地化（避免 GitHub Pages 防盗链 403 破图）
@@ -169,7 +170,7 @@ LOCALIZE_IMAGES=true
 
 # 4. 站点基准地址
 SITE_BASE_URL=https://keirosang.github.io/steamhunter/
-SITE_TITLE=Steam 蒸汽猎手 | 独立情报站
+SITE_TITLE=Steam 蒸汽猎手 | 游戏情报站
 SITE_AUTHOR=SteamHunter
 AUTO_HUGO_BUILD=true
 
