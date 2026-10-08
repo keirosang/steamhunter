@@ -17,11 +17,13 @@ LOCK_FILE="$SCRIPT_DIR/data/.cron.lock"
 
 mkdir -p "$LOG_DIR" "$SCRIPT_DIR/data"
 
-# 4. 单实例锁检查（避免并发执行）
-exec 200>"$LOCK_FILE"
-if ! flock -n 200; then
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] ⚠️ 上一个采集任务仍在执行中，本次跳过。" >> "$LOG_FILE"
-    exit 0
+# 4. 单实例锁检查（避免并发执行，Linux/Ubuntu 默认集成 flock）
+if command -v flock >/dev/null 2>&1; then
+    exec 200>"$LOCK_FILE"
+    if ! flock -n 200; then
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] ⚠️ 上一个采集任务仍在执行中，本次跳过。" >> "$LOG_FILE"
+        exit 0
+    fi
 fi
 
 echo "==========================================================" >> "$LOG_FILE"
@@ -31,6 +33,9 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] 🚀 开始执行自动化采集与发布�
 if [ -f "$SCRIPT_DIR/.venv/bin/activate" ]; then
     source "$SCRIPT_DIR/.venv/bin/activate"
     PYTHON_EXEC="$SCRIPT_DIR/.venv/bin/python3"
+elif [ -f "$SCRIPT_DIR/../.venv/bin/activate" ]; then
+    source "$SCRIPT_DIR/../.venv/bin/activate"
+    PYTHON_EXEC="$SCRIPT_DIR/../.venv/bin/python3"
 else
     PYTHON_EXEC="$(command -v python3)"
 fi
