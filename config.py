@@ -51,8 +51,13 @@ else:
 
 MAX_NEWS_AGE_HOURS = CRAWL_MAX_AGE_DAYS * 24
 
-_watched_raw = os.getenv("WATCHED_APPIDS", "2358720,1808500,730,1091500,1086940,271590,2344520,1172620,1623730,570,578080,1172470,413150,582010")
-WATCHED_APPIDS = [int(x.strip()) for x in _watched_raw.split(",") if x.strip().isdigit()]
+# 全网全类别动态发现机制（默认开启，自动汇聚 Steam 全网特惠、热销榜、新品榜与在线活跃大作）
+ENABLE_DYNAMIC_DISCOVERY = _bool(os.getenv("ENABLE_DYNAMIC_DISCOVERY"), True)
+MAX_DISCOVERY_GAMES = _int(os.getenv("MAX_DISCOVERY_GAMES"), 120)
+
+# 可选自定义追加 AppID（选填，若填写则优先加入全网巡检池，但不以此为限）
+_custom_raw = os.getenv("CUSTOM_APPIDS", "")
+CUSTOM_APPIDS = [int(x.strip()) for x in _custom_raw.split(",") if x.strip().isdigit()]
 
 # 图床与路径
 LOCALIZE_IMAGES = _bool(os.getenv("LOCALIZE_IMAGES"), True)
