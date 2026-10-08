@@ -12,6 +12,8 @@ venv/
 # Database & Runtime Cache
 data/*.db
 data/*.db-journal
+data/.cron.lock
+logs/
 
 # Hugo build directory (when using GitHub Actions workflow to build)
 # public/
