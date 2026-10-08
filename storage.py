@@ -56,7 +56,18 @@ class HugoStorage:
 
                     meta = yaml.safe_load(parts[1]) or {}
                     appid = meta.get("appid", 0)
-                    item_type = meta.get("item_type", "news")
+                    item_type = meta.get("item_type")
+                    if not item_type:
+                        cats = meta.get("categories", [])
+                        if isinstance(cats, list):
+                            if "限免福利" in cats:
+                                item_type = "free"
+                            elif "特惠折扣" in cats:
+                                item_type = "deal"
+                            else:
+                                item_type = "news"
+                        else:
+                            item_type = "news"
                     title = meta.get("title", "")
                     created_at = meta.get("date", datetime.datetime.now().isoformat())
                     item_key = meta.get("item_key")

@@ -86,11 +86,19 @@ class AIPolisher:
             content_text = re.sub(r"\s*```$", "", content_text)
 
         parsed = json.loads(content_text)
-        # 确保 tags 和 categories 规范为列表
+        # 确保 tags 规范为列表
         if isinstance(parsed.get("tags"), str):
             parsed["tags"] = [t.strip() for t in parsed["tags"].split(",") if t.strip()]
-        if isinstance(parsed.get("categories"), str):
-            parsed["categories"] = [c.strip() for c in parsed["categories"].split(",") if c.strip()]
+        elif not isinstance(parsed.get("tags"), list):
+            parsed["tags"] = [game_title, "Steam", "游戏资讯"]
+
+        # 严格强制按情报类型归类到站点核心分类体系
+        if item_type == "free":
+            parsed["categories"] = ["限免福利"]
+        elif item_type == "deal":
+            parsed["categories"] = ["特惠折扣"]
+        else:
+            parsed["categories"] = ["游戏资讯"]
 
         return parsed
 

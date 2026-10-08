@@ -143,22 +143,29 @@ class SteamCollector:
 
     def fetch_news_for_app(self, appid: int, count: int = 3) -> list[dict]:
         """抓取指定游戏的最新官方资讯与更新日志（严格限制在 CRAWL_MAX_AGE_DAYS 时效内）"""
-        url = f"https://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid={appid}&count={count}&maxlength=0&format=json"
         results = []
-        try:
-            res = self.session.get(url, timeout=10)
-            if res.status_code != 200:
-                return []
-            data = res.json()
-            items = data.get("appnews", {}).get("newsitems", [])
-            game_title = self.get_game_name(appid)
+        game_title = self.get_game_name(appid)
+        now_ts = int(time.time())
+        max_age_sec = config.CRAWL_MAX_AGE_DAYS * 86400
 
-            now_ts = int(time.time())
-            max_age_sec = config.CRAWL_MAX_AGE_DAYS * 86400
+        try:
+            # 优先检索 Steam 官方开发者社区公告与更新日志
+            url_official = f"https://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid={appid}&count={count}&maxlength=0&format=json&feeds=steam_community_announcements"
+            res = self.session.get(url_official, timeout=10)
+            items = []
+            if res.status_code == 200:
+                items = res.json().get("appnews", {}).get("newsitems", [])
+
+            # 若官方公告流为空，退化至全网主流媒体资讯流
+            if not items:
+                url_fallback = f"https://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid={appid}&count={count}&maxlength=0&format=json"
+                res_fb = self.session.get(url_fallback, timeout=10)
+                if res_fb.status_code == 200:
+                    items = res_fb.json().get("appnews", {}).get("newsitems", [])
 
             for item in items:
                 pub_ts = item.get("date", 0)
-                # 严格按配置的时效（最少 1 天 / 24 小时）过滤
+                # 严格按配置的时效过滤
                 if pub_ts and (now_ts - pub_ts > max_age_sec):
                     continue
 
@@ -190,7 +197,6 @@ class SteamCollector:
                     "url": item.get("url", f"https://store.steampowered.com/app/{appid}/")
                 })
         except Exception as e:
-            # 忽略极少数单游接口网络波动
             pass
 
         return results
@@ -430,35 +436,53 @@ class SteamCollector:
         return results
 
     def collect_all(self, max_items: int = None) -> list[dict]:
-        """全类别全网动态情报汇总采集（限免福利最高优先级）"""
+        """全类别全网动态情报汇总采集（限免福利最高优先级，资讯与特惠均衡轮候）"""
         limit = max_items or config.MAX_POSTS_PER_RUN
-        gathered = []
         print(f"[全类别巡检] 启动 Steam 全网全类别动态信息采集模式...")
         print(f"[巡检时效] 设定文章采集跨度: {config.CRAWL_MAX_AGE_DAYS} 天 (最少 1 天，共 {config.MAX_NEWS_AGE_HOURS} 小时)")
 
         # 1. 顶格优先级：Steam 限免福利与喜加一活动采集
+        free_items = []
         if config.CRAWL_FREE:
             free_items = self.fetch_free_giveaways(limit=max(3, limit))
             if free_items:
                 print(f"[限免福利雷达] 抓取到正在进行的限免喜加一情报: {len(free_items)} 条")
-                gathered.extend(free_items)
 
         # 2. 全类别特惠折扣采集
-        if config.CRAWL_SPECIALS and len(gathered) < limit * 2:
-            deals = self.fetch_steam_specials(limit=limit * 2)
-            gathered.extend(deals)
+        deals = []
+        if config.CRAWL_SPECIALS:
+            deals = self.fetch_steam_specials(limit=max(10, limit * 2))
+            if deals:
+                print(f"[全网特惠雷达] 抓取到热门大促特惠情报: {len(deals)} 条")
 
-        # 3. 全类别动态游戏情报巡检（打破固定 AppID 限制）
-        if config.CRAWL_NEWS and len(gathered) < limit * 3:
+        # 3. 全类别动态游戏资讯巡检（独立配额目标，杜绝被特惠挤压）
+        news_items = []
+        if config.CRAWL_NEWS:
             game_pool = self.discover_all_category_games(max_games=config.MAX_DISCOVERY_GAMES)
-            print(f"[全网动态大盘] 成功汇聚全网热销/新品/特惠/活跃游戏池: {len(game_pool)} 款")
+            print(f"[全网动态大盘] 成功汇聚全网热销/新品/特惠/活跃游戏池: {len(game_pool)} 款，正在检索最新官方资讯...")
 
+            target_news_count = max(10, limit * 2)
             for appid, name in game_pool:
-                if len(gathered) >= limit * 3:
+                if len(news_items) >= target_news_count:
                     break
                 news_list = self.fetch_news_for_app(appid, count=2)
-                gathered.extend(news_list)
+                if news_list:
+                    news_items.extend(news_list)
 
-        # 保证限免排在最前，其次按时间倒序
-        gathered.sort(key=lambda x: (1 if x.get("item_type") == "free" else 0, x.get("date_ts", 0)), reverse=True)
-        return gathered
+            print(f"[官方资讯雷达] 成功筛选出时效期内游戏官方资讯: {len(news_items)} 条")
+
+        # 4. 科学配比交替组合（保证限免置顶，资讯与特惠交替均衡轮候，彻底杜绝单分类饥饿）
+        news_items.sort(key=lambda x: x.get("date_ts", 0), reverse=True)
+        deals.sort(key=lambda x: (x.get("deal_info", {}).get("discount_percent", 0), x.get("date_ts", 0)), reverse=True)
+
+        candidates = list(free_items)
+
+        # 交替穿插轮候 (Round-robin: news -> deal -> news -> deal)
+        max_len = max(len(news_items), len(deals))
+        for i in range(max_len):
+            if i < len(news_items):
+                candidates.append(news_items[i])
+            if i < len(deals):
+                candidates.append(deals[i])
+
+        return candidates
