@@ -1,4 +1,4 @@
-baseURL = 'https://yourname.github.io/'
+baseURL = 'https://keirosang.github.io/steamhunter/'
 locale = 'zh-cn'
 title = 'Steam 蒸汽猎手 | 独立情报站'
 theme = ''
@@ -10,7 +10,7 @@ paginate = 10
   author = 'SteamHunter'
   description = '基于 Hugo 与 GitHub Pages 的 Steam 游戏限免、史低折扣与版本情报特约专栏'
   keywords = ['Steam', '游戏资讯', '喜加一', '限免', '史低折扣', '版本补丁']
-  repoURL = 'https://github.com'
+  repoURL = 'https://github.com/keirosang/steamhunter'
   subtitle = '每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析'
 
 [menu]
