@@ -1,86 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on Steam 蒸汽猎手 | 游戏情报站</title>
-		<link>https://keirosang.github.io/steamhunter/tags/</link>
-		<description>Recent content in Tags on Steam 蒸汽猎手 | 游戏情报站</description>
+		<title>热门标签云 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://keirosang.github.io/tags/</link>
+		<description>Recent content in 热门标签云 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 09:55:02 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 08 Oct 2026 10:51:29 +0800</lastBuildDate>
 		
-			<atom:link href="https://keirosang.github.io/steamhunter/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://keirosang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DLC领取</title>
+				<link>https://keirosang.github.io/tags/dlc%E9%A2%86%E5%8F%96/</link>
+				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
+				<guid>https://keirosang.github.io/tags/dlc%E9%A2%86%E5%8F%96/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MXGP 26</title>
+				<link>https://keirosang.github.io/tags/mxgp-26/</link>
+				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
+				<guid>https://keirosang.github.io/tags/mxgp-26/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Steam</title>
+				<link>https://keirosang.github.io/tags/steam/</link>
+				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
+				<guid>https://keirosang.github.io/tags/steam/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>熔炉密林</title>
+				<link>https://keirosang.github.io/tags/%E7%86%94%E7%82%89%E5%AF%86%E6%9E%97/</link>
+				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
+				<guid>https://keirosang.github.io/tags/%E7%86%94%E7%82%89%E5%AF%86%E6%9E%97/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>喜加一</title>
+				<link>https://keirosang.github.io/tags/%E5%96%9C%E5%8A%A0%E4%B8%80/</link>
+				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
+				<guid>https://keirosang.github.io/tags/%E5%96%9C%E5%8A%A0%E4%B8%80/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>限免福利</title>
+				<link>https://keirosang.github.io/tags/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/</link>
+				<pubDate>Thu, 08 Oct 2026 10:51:29 +0800</pubDate>
+				<guid>https://keirosang.github.io/tags/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>CDPR</title>
-				<link>https://keirosang.github.io/steamhunter/tags/cdpr/</link>
+				<link>https://keirosang.github.io/tags/cdpr/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/cdpr/</guid>
+				<guid>https://keirosang.github.io/tags/cdpr/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Steam特惠</title>
-				<link>https://keirosang.github.io/steamhunter/tags/steam%E7%89%B9%E6%83%A0/</link>
+				<link>https://keirosang.github.io/tags/steam%E7%89%B9%E6%83%A0/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/steam%E7%89%B9%E6%83%A0/</guid>
+				<guid>https://keirosang.github.io/tags/steam%E7%89%B9%E6%83%A0/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Steam折扣</title>
-				<link>https://keirosang.github.io/steamhunter/tags/steam%E6%8A%98%E6%89%A3/</link>
+				<link>https://keirosang.github.io/tags/steam%E6%8A%98%E6%89%A3/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/steam%E6%8A%98%E6%89%A3/</guid>
+				<guid>https://keirosang.github.io/tags/steam%E6%8A%98%E6%89%A3/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>恐怖联机</title>
-				<link>https://keirosang.github.io/steamhunter/tags/%E6%81%90%E6%80%96%E8%81%94%E6%9C%BA/</link>
+				<link>https://keirosang.github.io/tags/%E6%81%90%E6%80%96%E8%81%94%E6%9C%BA/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/%E6%81%90%E6%80%96%E8%81%94%E6%9C%BA/</guid>
+				<guid>https://keirosang.github.io/tags/%E6%81%90%E6%80%96%E8%81%94%E6%9C%BA/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>赛博朋克2077</title>
-				<link>https://keirosang.github.io/steamhunter/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</link>
+				<link>https://keirosang.github.io/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</guid>
+				<guid>https://keirosang.github.io/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>史低特惠</title>
-				<link>https://keirosang.github.io/steamhunter/tags/%E5%8F%B2%E4%BD%8E%E7%89%B9%E6%83%A0/</link>
+				<link>https://keirosang.github.io/tags/%E5%8F%B2%E4%BD%8E%E7%89%B9%E6%83%A0/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/%E5%8F%B2%E4%BD%8E%E7%89%B9%E6%83%A0/</guid>
+				<guid>https://keirosang.github.io/tags/%E5%8F%B2%E4%BD%8E%E7%89%B9%E6%83%A0/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>史低折扣</title>
-				<link>https://keirosang.github.io/steamhunter/tags/%E5%8F%B2%E4%BD%8E%E6%8A%98%E6%89%A3/</link>
+				<link>https://keirosang.github.io/tags/%E5%8F%B2%E4%BD%8E%E6%8A%98%E6%89%A3/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/%E5%8F%B2%E4%BD%8E%E6%8A%98%E6%89%A3/</guid>
+				<guid>https://keirosang.github.io/tags/%E5%8F%B2%E4%BD%8E%E6%8A%98%E6%89%A3/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>四人开黑</title>
-				<link>https://keirosang.github.io/steamhunter/tags/%E5%9B%9B%E4%BA%BA%E5%BC%80%E9%BB%91/</link>
+				<link>https://keirosang.github.io/tags/%E5%9B%9B%E4%BA%BA%E5%BC%80%E9%BB%91/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/%E5%9B%9B%E4%BA%BA%E5%BC%80%E9%BB%91/</guid>
+				<guid>https://keirosang.github.io/tags/%E5%9B%9B%E4%BA%BA%E5%BC%80%E9%BB%91/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>逃生试炼</title>
-				<link>https://keirosang.github.io/steamhunter/tags/%E9%80%83%E7%94%9F%E8%AF%95%E7%82%BC/</link>
+				<link>https://keirosang.github.io/tags/%E9%80%83%E7%94%9F%E8%AF%95%E7%82%BC/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/%E9%80%83%E7%94%9F%E8%AF%95%E7%82%BC/</guid>
+				<guid>https://keirosang.github.io/tags/%E9%80%83%E7%94%9F%E8%AF%95%E7%82%BC/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>往日之影</title>
-				<link>https://keirosang.github.io/steamhunter/tags/%E5%BE%80%E6%97%A5%E4%B9%8B%E5%BD%B1/</link>
+				<link>https://keirosang.github.io/tags/%E5%BE%80%E6%97%A5%E4%B9%8B%E5%BD%B1/</link>
 				<pubDate>Thu, 08 Oct 2026 09:55:02 +0800</pubDate>
-				<guid>https://keirosang.github.io/steamhunter/tags/%E5%BE%80%E6%97%A5%E4%B9%8B%E5%BD%B1/</guid>
+				<guid>https://keirosang.github.io/tags/%E5%BE%80%E6%97%A5%E4%B9%8B%E5%BD%B1/</guid>
 				<description></description>
 			</item>
 	</channel>

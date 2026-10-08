@@ -122,15 +122,17 @@ a {
   align-items: center;
   justify-content: space-between;
   height: 72px;
-  gap: 20px;
+  gap: 16px;
 }
 
 .brand-logo {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 
 .logo-icon {
@@ -162,18 +164,29 @@ a {
   letter-spacing: 0.5px;
 }
 
+.main-nav {
+  flex-shrink: 0;
+}
+
 .main-nav .nav-links {
   display: flex;
   list-style: none;
-  gap: 8px;
+  gap: 4px;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .nav-link {
-  padding: 8px 14px;
+  padding: 6px 12px;
   border-radius: var(--radius-md);
   color: var(--text-secondary);
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   font-weight: 500;
+  white-space: nowrap;
+  display: inline-block;
+  transition: var(--transition);
 }
 
 .nav-link:hover, .nav-link.active {
@@ -193,32 +206,35 @@ a {
 .header-actions {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 10px;
+  flex-shrink: 0;
 }
 
 .search-box {
   position: relative;
   display: flex;
   align-items: center;
+  flex-shrink: 0;
 }
 
 .search-box input {
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-full);
-  padding: 8px 14px 8px 34px;
+  padding: 7px 12px 7px 32px;
   font-size: 0.85rem;
   color: var(--text-primary);
-  width: 170px;
-  transition: var(--transition);
+  width: 145px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
   outline: none;
 }
 
 .search-box input:focus {
-  width: 230px;
+  /* 严格保持宽度不变，避免聚焦时展开外扩挤压导航栏文字！ */
+  width: 145px;
   background: var(--bg-secondary);
   border-color: var(--accent-cyan);
-  box-shadow: 0 0 15px rgba(0, 240, 255, 0.2);
+  box-shadow: 0 0 12px rgba(0, 240, 255, 0.25);
 }
 
 .search-icon {
@@ -1159,7 +1175,7 @@ a {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .header-inner {
     height: 64px;
   }
@@ -1179,7 +1195,12 @@ a {
   }
   .main-nav .nav-links {
     flex-direction: column;
+    align-items: stretch;
     gap: 4px;
+  }
+  .nav-link {
+    display: block;
+    padding: 10px 14px;
   }
   .mobile-menu-btn {
     display: flex;
@@ -1188,7 +1209,7 @@ a {
     width: 120px;
   }
   .search-box input:focus {
-    width: 160px;
+    width: 120px;
   }
   .hero-title {
     font-size: 2rem;
@@ -1208,3 +1229,102 @@ a {
     text-align: center;
   }
 }
+
+/* ==========================================================================
+   Telegram Channel Navigation & Callout Styles
+   ========================================================================== */
+
+.tg-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, rgba(0, 136, 204, 0.2) 0%, rgba(0, 240, 255, 0.2) 100%);
+  border: 1px solid rgba(0, 240, 255, 0.4);
+  color: #38bdf8;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.tg-nav-btn:hover {
+  background: linear-gradient(135deg, rgba(0, 136, 204, 0.35) 0%, rgba(0, 240, 255, 0.35) 100%);
+  border-color: #38bdf8;
+  box-shadow: 0 0 15px rgba(56, 189, 248, 0.3);
+  transform: translateY(-1px);
+}
+
+/* 金色 / 亮绿 限免福利专属发光角标 */
+.category-badge[data-category="限免福利"],
+.badge-category[data-category="限免福利"] {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.3) 0%, rgba(234, 88, 12, 0.3) 100%);
+  color: #fbbf24;
+  border-color: rgba(251, 191, 36, 0.7);
+  box-shadow: 0 0 12px rgba(245, 158, 11, 0.3);
+}
+
+.article-tg-callout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin: 36px 0;
+  padding: 24px;
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.1) 0%, rgba(99, 102, 241, 0.08) 100%);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  border-radius: var(--radius-lg);
+  backdrop-filter: blur(10px);
+}
+
+.tg-callout-content {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.tg-callout-icon {
+  font-size: 2.2rem;
+  line-height: 1;
+}
+
+.tg-callout-text h4 {
+  font-size: 1.1rem;
+  margin-bottom: 4px;
+  color: var(--text-primary);
+}
+
+.tg-callout-text p {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+.btn-tg-join {
+  white-space: nowrap;
+  background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+  color: #ffffff !important;
+  font-weight: 600;
+  padding: 10px 22px;
+  border-radius: var(--radius-full);
+  box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+  transition: var(--transition);
+}
+
+.btn-tg-join:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(2, 132, 199, 0.5);
+  filter: brightness(1.1);
+}
+
+@media (max-width: 768px) {
+  .article-tg-callout {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .btn-tg-join {
+    width: 100%;
+    text-align: center;
+  }
+}
+
