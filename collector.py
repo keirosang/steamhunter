@@ -181,8 +181,9 @@ class SteamCollector:
                 if img_match:
                     img_url = self.resolve_steam_image_url(img_match.group(1))
                 else:
-                    # 保底使用 Steam 官方封面图
-                    img_url = f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg"
+                    # 保底使用 Steam 官方封面图（通过 appdetails 动态获取真实有效封面图）
+                    app_meta = self._get_app_details(appid)
+                    img_url = app_meta.get("header_image") or f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg"
 
                 results.append({
                     "item_key": f"steam_news_{appid}_{gid}",
