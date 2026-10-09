@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>新游发售 on Steam 蒸汽猎手 | 游戏情报站</title>
-		<link>http://localhost:1313/tags/%E6%96%B0%E6%B8%B8%E5%8F%91%E5%94%AE/</link>
+		<link>https://info.steamhunter.link/tags/%E6%96%B0%E6%B8%B8%E5%8F%91%E5%94%AE/</link>
 		<description>Recent content in 新游发售 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
@@ -10,15 +10,15 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 05:44:28 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 09 Oct 2026 01:12:04 +0800</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/%E6%96%B0%E6%B8%B8%E5%8F%91%E5%94%AE/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://info.steamhunter.link/tags/%E6%96%B0%E6%B8%B8%E5%8F%91%E5%94%AE/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>谁能拒绝当一只干脆面？模拟经营新作《Raccoon Valley Tycoon》正式发售</title>
-				<link>http://localhost:1313/posts/2026-10-08-3814730-b2e1b8c7/</link>
-				<pubDate>Thu, 08 Oct 2026 05:44:28 +0800</pubDate>
-				<guid>http://localhost:1313/posts/2026-10-08-3814730-b2e1b8c7/</guid>
-				<description>浣熊狂喜！画风魔性的模拟经营独立新作《Raccoon Valley Tycoon》今日正式上线Steam。玩家将在游戏中化身100%纯度的小浣熊，开启从街头觅食到打造专属商业王国的暴富之旅。魔性动物视角搭配经典Tycoon玩法，经营党与动物爱好者速来围观！</description>
+				<title>任务栏摸鱼神作《幻想放置远征队》正式发售：首月白嫖DLC与整活神装</title>
+				<link>https://info.steamhunter.link/posts/2026-10-09-4282780-aac2bbcb/</link>
+				<pubDate>Fri, 09 Oct 2026 01:12:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-09-4282780-aac2bbcb/</guid>
+				<description>挂机党与摸鱼玩家狂喜！极简卷轴像素放置RPG《幻想放置远征队》现已在Steam正式发售。官方开启首月限免福利，全员免费领取包含全新角色“教官”的开荒DLC！首发折扣期挂机即可解锁后期整活神装与高阶职业，试玩版存档无缝继承，91种职业构筑等你体验。</description>
 			</item>
 	</channel>
 </rss>

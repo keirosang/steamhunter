@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>SteamOS on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/steamos/</link>
+		<description>Recent content in SteamOS on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 09 Oct 2026 07:23:09 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/steamos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Frame迎来SteamOS 0.4大更新：续航狂飙12%，告别Error 17断连与色差！</title>
+				<link>https://info.steamhunter.link/posts/2026-10-09-4165890-f3a99b5d/</link>
+				<pubDate>Fri, 09 Oct 2026 07:23:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-09-4165890-f3a99b5d/</guid>
+				<description>V社硬件设备Steam Frame正式推送SteamOS 0.4固件更新！本次更新重点优化了功耗表现，本地与无线串流续航最高暴增12%；彻底解决VR串流色度倒退与恼人的“Error 17”恶性断连Bug；同时带来感应器灵敏度调节、主视眼追踪适配等一系列痛点改善，眼镜党与无线串流玩家狂喜！</description>
+			</item>
+	</channel>
+</rss>
