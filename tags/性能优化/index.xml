@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>性能优化 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</link>
+		<description>Recent content in 性能优化 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Oct 2026 05:14:18 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《永冻纪元》紧急推送Hotfix 2：RTX 40/50系显卡禁用FSR，告别频繁闪退</title>
+				<link>https://info.steamhunter.link/posts/2026-10-10-2254990-0529b32e/</link>
+				<pubDate>Sat, 10 Oct 2026 05:14:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-10-2254990-0529b32e/</guid>
+				<description>极寒末日生存新作《永冻纪元》正式推送Hotfix 2紧急热修补丁，重点拔除N卡新卡用户的闪退毒瘤！官方针对RTX 40与50系列显卡强制禁用了AMD FSR超分辨率技术以保证运行稳定性。周末还将迎来更多优化补丁，带你顺畅踏上极地求生之旅。</description>
+			</item>
+	</channel>
+</rss>

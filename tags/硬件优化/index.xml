@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>硬件优化 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%A1%AC%E4%BB%B6%E4%BC%98%E5%8C%96/</link>
+		<description>Recent content in 硬件优化 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Oct 2026 01:24:24 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%A1%AC%E4%BB%B6%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《永冻纪元》紧急热修发布！RTX 20/30系显卡闪退修复避坑</title>
+				<link>https://info.steamhunter.link/posts/2026-10-10-2254990-daac63e5/</link>
+				<pubDate>Sat, 10 Oct 2026 01:24:24 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-10-2254990-daac63e5/</guid>
+				<description>末日冰封求生新作《永冻纪元》近日推送突发热更新补丁，重点解决部分N卡用户的崩溃跳出难题。官方针对RTX 20与30系列显卡默认禁用了FSR技术以遏制崩溃率。饱受恶性跳出困扰的幸存者们速速重启Steam客户端打补丁，文内附带崩溃日志排查与显卡设置避坑技巧！</description>
+			</item>
+	</channel>
+</rss>
