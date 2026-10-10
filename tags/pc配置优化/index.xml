@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>PC配置优化 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/pc%E9%85%8D%E7%BD%AE%E4%BC%98%E5%8C%96/</link>
+		<description>Recent content in PC配置优化 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 08 Oct 2026 18:48:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/pc%E9%85%8D%E7%BD%AE%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>星战飞梭《STAR WARS: Galactic Racer》紧急热修：显卡驱动门槛提高与DLSS稳定性修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-08-4078430-c5ca7ef9/</link>
+				<pubDate>Thu, 08 Oct 2026 18:48:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-08-4078430-c5ca7ef9/</guid>
+				<description>《STAR WARS: Galactic Racer™》官方发布最新热修补丁！本次更新强制拉高了最低显卡驱动版本要求并在启动时自检，同时大幅优化了 DLSS 选项的运行稳定性。由于更新驱动后首次启动需重新编译着色器缓存，各位竞速老司机请务必提前做好驱动自查与避坑准备！</description>
+			</item>
+	</channel>
+</rss>

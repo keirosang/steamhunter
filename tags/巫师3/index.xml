@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 06:51:11 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 08 Oct 2026 20:02:51 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B7%AB%E5%B8%883/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《巫师3：狂猎》5.01版本更新上线：修复闪避延迟与剑油BUG，光追路径追踪画质再升级</title>
+				<link>https://info.steamhunter.link/posts/2026-10-08-292030-6cae13ba/</link>
+				<pubDate>Thu, 08 Oct 2026 20:02:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-08-292030-6cae13ba/</guid>
+				<description>CDPR正式推送《巫师3：狂猎》5.01大版本更新补丁！本次更新着重优化了战斗手感与底层机制，修复了闪避延迟、自动涂剑油失效等顽疾，为“爆裂护盾”实装伤害反弹机制。同时针对PC端全面调优光线追踪与路径追踪，重置DRS默认设置，并修复多项UI与掉落物异常。</description>
+			</item>
 			<item>
 				<title>《巫师3：狂猎》跨越11年的神作传奇！全平台均分90&#43;，CDPR质量标杆深度复盘</title>
 				<link>https://info.steamhunter.link/posts/2026-10-08-292030-a4680da0/</link>
