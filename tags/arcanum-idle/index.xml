@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Arcanum Idle on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/arcanum-idle/</link>
+		<description>Recent content in Arcanum Idle on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Oct 2026 07:30:19 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/arcanum-idle/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>放置神作《Arcanum Idle》1.0.2更新：自动购买终于能关了！第二书架与全新科技树上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-5129430-d056231f/</link>
+				<pubDate>Mon, 12 Oct 2026 07:30:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-5129430-d056231f/</guid>
+				<description>Steam热门增量放置游戏《Arcanum Idle》迎来发售后的重要里程碑1.0.2大更新！本次更新彻底解决了自动购买无法暂停、UI狂闪的痛点，新增全局与独立自动开关，修复Buy Max记忆机制，并正式开放高阶“第二研究书架”，追加8本终局向强力研究秘典！</description>
+			</item>
+			<item>
+				<title>《Arcanum Idle》重大版本更新与深度解析 (AppID: 5129430)</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-5129430-a251375d/</link>
+				<pubDate>Mon, 12 Oct 2026 00:10:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-5129430-a251375d/</guid>
+				<description>Steam 官方最新发布《Arcanum Idle》的公告情报。本文深度梳理本次更新关键细节、核心机制优化与实战上手指南。</description>
+			</item>
+	</channel>
+</rss>

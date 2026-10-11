@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ForgeTax on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/forgetax/</link>
+		<description>Recent content in ForgeTax on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 11 Oct 2026 19:02:26 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/forgetax/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>天天交税受够了？肉鸽打铁《ForgeTax》11月更新前瞻：御剑屠龙与锻造大改</title>
+				<link>https://info.steamhunter.link/posts/2026-10-11-5245810-929e2aa8/</link>
+				<pubDate>Sun, 11 Oct 2026 19:02:26 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-11-5245810-929e2aa8/</guid>
+				<description>Steam肉鸽锻造新作《ForgeTax》发布11月更新前瞻！针对玩家前期暴毙与后期套路单一的问题，官方大改遗物联动与碎刀止损机制。更重磅的是：辛辛苦苦打铁上贡给恶龙的日子要结束了，全新“万剑归宗”御剑战恶龙实机亮相！</description>
+			</item>
+			<item>
+				<title>《ForgeTax》紧急热修上线：爆剑大后期坏档已修复，手贱吞回溯恶性BUG正式告破！</title>
+				<link>https://info.steamhunter.link/posts/2026-10-11-5245810-aef3acb3/</link>
+				<pubDate>Sun, 11 Oct 2026 01:04:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-11-5245810-aef3acb3/</guid>
+				<description>Steam好评打铁力作《ForgeTax》迎来紧急热修更新！官方重点修复了后期囤积大量武器导致存档校验失败无法读取的恶性BUG，受损存档已完全恢复；同时修复了断剑瞬间按E键意外丢失回溯机会的问题，为各位铁匠的极限操作彻底兜底。</description>
+			</item>
+	</channel>
+</rss>
