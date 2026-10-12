@@ -91,6 +91,13 @@
 				<description>Steam 官方最新发布《AION 2》的公告情报。本文深度梳理本次更新关键细节、核心机制优化与实战上手指南。</description>
 			</item>
 			<item>
+				<title>Steam客户端与Deck测试版更新：串流弹窗闪退修复，云端截图管理优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-11-1675200-a80567e8/</link>
+				<pubDate>Sun, 11 Oct 2026 11:08:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-11-1675200-a80567e8/</guid>
+				<description>V社面向Steam Preview/Beta通道推送了最新客户端更新，重点针对Steam Deck及PC玩家高频使用的串流（Remote Play）与截图功能进行了体验优化。本次修复了手柄操作串流弹窗导致客户端意外崩溃的顽疾，并解决了删除云端截图时仅移除本地副本的同步Bug。</description>
+			</item>
+			<item>
 				<title>赛车模拟新标杆！《Ultimate Racing Simulator 1》v1.0正式版脱离抢先体验全面上线</title>
 				<link>https://info.steamhunter.link/posts/2026-10-11-5046820-17bd15f5/</link>
 				<pubDate>Sun, 11 Oct 2026 10:44:51 +0800</pubDate>

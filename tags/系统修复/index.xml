@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>系统修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 系统修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 11 Oct 2026 11:08:11 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam客户端与Deck测试版更新：串流弹窗闪退修复，云端截图管理优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-11-1675200-a80567e8/</link>
+				<pubDate>Sun, 11 Oct 2026 11:08:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-11-1675200-a80567e8/</guid>
+				<description>V社面向Steam Preview/Beta通道推送了最新客户端更新，重点针对Steam Deck及PC玩家高频使用的串流（Remote Play）与截图功能进行了体验优化。本次修复了手柄操作串流弹窗导致客户端意外崩溃的顽疾，并解决了删除云端截图时仅移除本地副本的同步Bug。</description>
+			</item>
+	</channel>
+</rss>

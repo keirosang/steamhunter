@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>硬件资讯 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%A1%AC%E4%BB%B6%E8%B5%84%E8%AE%AF/</link>
+		<description>Recent content in 硬件资讯 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Oct 2026 08:42:30 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%A1%AC%E4%BB%B6%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck测试版迎来大修：串流暴降码率修复，QAM快捷菜单深度优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-10-1675200-725b4a5b/</link>
+				<pubDate>Sat, 10 Oct 2026 08:42:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-10-1675200-725b4a5b/</guid>
+				<description>V社最新推送了Steam客户端Preview/Beta测试分支更新，重点修复了掌机玩家最为关心的远程串流多项痛点，包括云存档冲突导致串流启动失败、关闭硬解时码率暴跌及误弹网络警告等Bug；同时重新梳理了QAM侧边栏快捷语音界面，并强化了控制器在特定VR场景下的映射逻辑。</description>
+			</item>
+	</channel>
+</rss>

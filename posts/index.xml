@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Mon, 12 Oct 2026 07:30:19 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 12 Oct 2026 10:45:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Hood Warfare 2》限时特惠开启！街头乱斗魔性射击开黑首选</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-5155360-bb96537f/</link>
+				<pubDate>Mon, 12 Oct 2026 10:45:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-5155360-bb96537f/</guid>
+				<description>街头整活射击新作《Hood Warfare 2》正式开启限时特惠活动！原价 5.99 美元现享 9 折仅需 5.39 美元。游戏凭借魔性的布娃娃物理系统、无厘头的街头帮派火拼以及欢乐开黑联机玩法，成为近期宿舍聚会开黑的解压神器。趁折入手永久入库，赶紧喊上兄弟开片！</description>
+			</item>
+			<item>
+				<title>《Bandit Simulator TD》正式发售！全员送潘金莲及崩溃闪退排错指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-4267800-b99d43a9/</link>
+				<pubDate>Mon, 12 Oct 2026 09:50:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-4267800-b99d43a9/</guid>
+				<description>独创“塔防战斗+营地建造+挂机放置”玩法的独立新作《Bandit Simulator TD》今日正式发售！官方同步派发开服重磅福利，全员输入神秘代码即可白嫖典藏角色“潘金莲”。更有后续大世界BOSS与飞升系统更新蓝图，以及首发闪退崩溃急救方案奉上，塔防硬核玩家速来抄作业！</description>
+			</item>
+			<item>
+				<title>日系恐怖《Unwatching》正式发售！官方全面开放直播商用变现</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-5166790-f181ddf0/</link>
+				<pubDate>Mon, 12 Oct 2026 08:31:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-5166790-f181ddf0/</guid>
+				<description>日系微恐解谜新作《Unwatching -The Seven Dolls-》现已正式登陆 Steam！官方不仅同步开放了主播专属宣传素材包，更罕见宣布无论是个人UP主还是企业机构均可自由直播，且商业化变现与收益完全不设限。七个诡异人偶究竟暗藏何种杀机？恐怖游戏玩家与实况主切勿错过！</description>
+			</item>
 			<item>
 				<title>放置神作《Arcanum Idle》1.0.2更新：自动购买终于能关了！第二书架与全新科技树上线</title>
 				<link>https://info.steamhunter.link/posts/2026-10-12-5129430-d056231f/</link>
@@ -103,6 +124,13 @@
 				<pubDate>Sun, 11 Oct 2026 14:00:26 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-11-3393110-605dcca0/</guid>
 				<description>Steam 官方最新发布《AION 2》的公告情报。本文深度梳理本次更新关键细节、核心机制优化与实战上手指南。</description>
+			</item>
+			<item>
+				<title>Steam客户端与Deck测试版更新：串流弹窗闪退修复，云端截图管理优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-11-1675200-a80567e8/</link>
+				<pubDate>Sun, 11 Oct 2026 11:08:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-11-1675200-a80567e8/</guid>
+				<description>V社面向Steam Preview/Beta通道推送了最新客户端更新，重点针对Steam Deck及PC玩家高频使用的串流（Remote Play）与截图功能进行了体验优化。本次修复了手柄操作串流弹窗导致客户端意外崩溃的顽疾，并解决了删除云端截图时仅移除本地副本的同步Bug。</description>
 			</item>
 			<item>
 				<title>赛车模拟新标杆！《Ultimate Racing Simulator 1》v1.0正式版脱离抢先体验全面上线</title>
@@ -236,6 +264,13 @@
 				<pubDate>Sat, 10 Oct 2026 09:01:53 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-10-5250520-5d6f7958/</guid>
 				<description>Steam 官方最新发布《Where&amp;rsquo;s WigglyJiggly》的公告情报。本文深度梳理本次更新关键细节、核心机制优化与实战上手指南。</description>
+			</item>
+			<item>
+				<title>Steam Deck测试版迎来大修：串流暴降码率修复，QAM快捷菜单深度优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-10-1675200-725b4a5b/</link>
+				<pubDate>Sat, 10 Oct 2026 08:42:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-10-1675200-725b4a5b/</guid>
+				<description>V社最新推送了Steam客户端Preview/Beta测试分支更新，重点修复了掌机玩家最为关心的远程串流多项痛点，包括云存档冲突导致串流启动失败、关闭硬解时码率暴跌及误弹网络警告等Bug；同时重新梳理了QAM侧边栏快捷语音界面，并强化了控制器在特定VR场景下的映射逻辑。</description>
 			</item>
 			<item>
 				<title>魔性走路神作《人行道模拟器》正式迈入1.0时代！UI优化与手感平衡全实装</title>
