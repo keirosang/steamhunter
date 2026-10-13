@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>远程畅玩 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%BF%9C%E7%A8%8B%E7%95%85%E7%8E%A9/</link>
+		<description>Recent content in 远程畅玩 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 13 Oct 2026 08:42:47 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%BF%9C%E7%A8%8B%E7%95%85%E7%8E%A9/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck 掌机再迎更新：Beta版修复串流崩溃与HEVC硬件编码问题</title>
+				<link>https://info.steamhunter.link/posts/2026-10-13-1675200-cd0331d3/</link>
+				<pubDate>Tue, 13 Oct 2026 08:42:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-13-1675200-cd0331d3/</guid>
+				<description>Valve 为 Steam Deck 推送了十月最新 Beta 客户端更新，重点修复了远程畅玩中切换硬件编码设置导致的崩溃问题，并重新启用了 Steam Deck 上的 HEVC 硬件编码支持。本次更新虽小，但对经常使用串流功能的掌机玩家而言意义重大，稳定性与画质表现双双提升。</description>
+			</item>
+	</channel>
+</rss>

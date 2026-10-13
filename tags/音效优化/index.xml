@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>音效优化 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%9F%B3%E6%95%88%E4%BC%98%E5%8C%96/</link>
+		<description>Recent content in 音效优化 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Oct 2026 23:04:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%9F%B3%E6%95%88%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆2.59.0.62更新：座舱风声终于能盖过引擎轰鸣，印尼车组喜提专属语音</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-236390-16b4a900/</link>
+				<pubDate>Mon, 12 Oct 2026 23:04:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-236390-16b4a900/</guid>
+				<description>战争雷霆推送2.59.0.62版本更新，座舱气流声现在会正确压制引擎与导弹音效，印尼地面车组获得独立配音，Harimau坦克引擎音效重制。英国、库尔斯克等七张地图的空优模式加入轰炸基地，修复Alt+Tab切窗导致的客户端冻结问题，海战炮火泡沫特效同步修正。</description>
+			</item>
+	</channel>
+</rss>
