@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 13 Oct 2026 16:01:56 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 16:43:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Keysaster》紧急修复补丁上线！开发者亲承仍有硬茬Bug在修，这款节奏游戏能否翻身？</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-4519510-821d9c7b/</link>
+				<pubDate>Wed, 14 Oct 2026 16:43:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-4519510-821d9c7b/</guid>
+				<description>独立节奏游戏《Keysaster》近日发布了一则让玩家又爱又恨的更新公告——开发者表示“我已修复若干Bug，但仍有部分问题正在全力攻克中”。看似简短的官方说辞，背后却牵动着核心玩家对判定手感、延迟输入以及谱面加载等顽疾的神经。本次修复究竟解决了哪些痛点？还有哪些“钉子户”Bug仍在潜伏？本文为你逐条拆解，并附上当下最实用的避坑与上手建议。</description>
+			</item>
+			<item>
+				<title>Astrolite热修：武器碎片升级逻辑修正，同武器重复装备终于能升级了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-3450850-e043fe4a/</link>
+				<pubDate>Wed, 14 Oct 2026 10:48:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-3450850-e043fe4a/</guid>
+				<description>Astrolite官方发布小型热修补丁，修复了武器碎片系统的一个关键逻辑问题——此前玩家若尝试为已装备的武器使用碎片升级，系统会判定失败。如今重复装备同一武器也能正常触发升级。本文梳理本次热修核心要点与实操建议，帮你在星际战斗中少走弯路。</description>
+			</item>
 			<item>
 				<title>《Hungry Horrors》1.0正式版震撼上线！两年磨一剑，首发特惠20%off等你来战</title>
 				<link>https://info.steamhunter.link/posts/2026-10-13-3048840-ef6e8c64/</link>
@@ -26,6 +40,13 @@
 				<pubDate>Tue, 13 Oct 2026 09:59:52 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-13-4532550-59ca8269/</guid>
 				<description>《Keep Her Safe》1.0正式版携多人联机模式重磅上线，新增海滩区域、佣兵装备系统与塔防工事，硬核永久死亡模式同步开放。官方同步开启两大社区活动：公开大厅随机抽5名房主送10美元Steam礼品卡，投稿游戏视频或截图也有机会赢取5美元奖励。活动截止2026年10月27日，赶紧拉上好友开黑吧！</description>
+			</item>
+			<item>
+				<title>À Deriva 发售前暗改底层逻辑：排行榜反作弊升级，衣柜与Steam库存强制同步</title>
+				<link>https://info.steamhunter.link/posts/2026-10-13-5284480-285edf61/</link>
+				<pubDate>Tue, 13 Oct 2026 05:51:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-13-5284480-285edf61/</guid>
+				<description>独立游戏《À Deriva》在14日下水前抛出一份“幕后小更新”，看似波澜不惊，实则刀刀砍在作弊与偷跑的命门上。冠军日改由Steam时钟判定、离线成绩作废、外部修改存档直接踢出排行榜，衣柜也彻底绑死Steam库存。游戏目录清理了README，全员名单转为PDF。想在河上飙船争第一？先把网线插好。</description>
 			</item>
 			<item>
 				<title>《For The Cat! Sorcerer&#39;s Revenge》正式发售！5.1美元无限重玩，猫奴法师复仇记</title>
@@ -68,6 +89,13 @@
 				<pubDate>Mon, 12 Oct 2026 09:50:32 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-12-4267800-b99d43a9/</guid>
 				<description>独创“塔防战斗+营地建造+挂机放置”玩法的独立新作《Bandit Simulator TD》今日正式发售！官方同步派发开服重磅福利，全员输入神秘代码即可白嫖典藏角色“潘金莲”。更有后续大世界BOSS与飞升系统更新蓝图，以及首发闪退崩溃急救方案奉上，塔防硬核玩家速来抄作业！</description>
+			</item>
+			<item>
+				<title>À Deriva 发售前终极更新：鹳鸟改送外卖，音量拉满150%还能挂机钓鱼</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-5284480-f3020eb0/</link>
+				<pubDate>Mon, 12 Oct 2026 08:38:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-5284480-f3020eb0/</guid>
+				<description>独立钓鱼游戏《À Deriva》发售前夕推送了基于测试玩家反馈的优化补丁：鹳鸟投递机制不再“吞帽子”，改为悬浮在船边无限等待，关游戏也不消失；音量上限提至150%，修复壁纸模式Steam覆盖层锁屏等痛点。同时官方排行榜已上线，11月1日首届锦标赛开打，奖品为小丑帽。</description>
 			</item>
 			<item>
 				<title>日系恐怖《Unwatching》正式发售！官方全面开放直播商用变现</title>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 13 Oct 2026 15:50:16 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 11:53:30 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Astrolite紧急热修：武器10级11级无法正确切换的Bug已修复，新上限12级</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-3450850-e3073bed/</link>
+				<pubDate>Wed, 14 Oct 2026 11:53:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-3450850-e3073bed/</guid>
+				<description>Astrolite官方发布小型热修补丁，修复了武器在10级与11级时无法正常切换的问题。此前由于武器等级上限提升至12级，10级和11级的切换逻辑出现异常，影响了高等级玩家的多武器轮换体验。本次修复后，玩家在武器达到10级或11级时，可正常进行武器交换操作，无需再担心因Bug导致战斗节奏被打断。</description>
+			</item>
 			<item>
 				<title>CORRUPT.EXE 1.0正式版上线：战斗视觉大翻新，敌人竟会「记仇」了？</title>
 				<link>https://info.steamhunter.link/posts/2026-10-13-4853590-0c1a55eb/</link>
@@ -26,6 +33,13 @@
 				<pubDate>Tue, 13 Oct 2026 08:42:47 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-13-1675200-cd0331d3/</guid>
 				<description>Valve 为 Steam Deck 推送了十月最新 Beta 客户端更新，重点修复了远程畅玩中切换硬件编码设置导致的崩溃问题，并重新启用了 Steam Deck 上的 HEVC 硬件编码支持。本次更新虽小，但对经常使用串流功能的掌机玩家而言意义重大，稳定性与画质表现双双提升。</description>
+			</item>
+			<item>
+				<title>À Deriva 发售前暗改底层逻辑：排行榜反作弊升级，衣柜与Steam库存强制同步</title>
+				<link>https://info.steamhunter.link/posts/2026-10-13-5284480-285edf61/</link>
+				<pubDate>Tue, 13 Oct 2026 05:51:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-13-5284480-285edf61/</guid>
+				<description>独立游戏《À Deriva》在14日下水前抛出一份“幕后小更新”，看似波澜不惊，实则刀刀砍在作弊与偷跑的命门上。冠军日改由Steam时钟判定、离线成绩作废、外部修改存档直接踢出排行榜，衣柜也彻底绑死Steam库存。游戏目录清理了README，全员名单转为PDF。想在河上飙船争第一？先把网线插好。</description>
 			</item>
 			<item>
 				<title>放置神作《Arcanum Idle》1.0.2更新：自动购买终于能关了！第二书架与全新科技树上线</title>

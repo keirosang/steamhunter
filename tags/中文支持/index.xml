@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中文支持 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81/</link>
+		<description>Recent content in 中文支持 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Oct 2026 04:39:58 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Stream Racer 2.6.2 大更新：中文界面终于来了，追赶机制史诗级重做告别混乱大乱斗</title>
+				<link>https://info.steamhunter.link/posts/2026-10-12-1333410-93af6e8b/</link>
+				<pubDate>Mon, 12 Oct 2026 04:39:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-12-1333410-93af6e8b/</guid>
+				<description>Stream Racer 迎来 2.6.2 版本更新，正式加入简繁中文等 10 种语言支持，玩家昵称再也不会显示成方块。核心玩法上，饱受诟病的追赶机制被彻底重做，车群不再每 3 秒强制抱团，加速板改为随机推力，ATV 也因胜率过高遭到削弱。此外修复了重生穿模、排行榜显示错误等多项恼人 Bug。</description>
+			</item>
+	</channel>
+</rss>

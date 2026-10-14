@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 07:59:40 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 11:05:45 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/trash-day/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Trash Day》热修复2026.0.1.14910：联机断线优化与关卡漏洞修复，浣熊党狂喜</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-3314580-ed447aac/</link>
+				<pubDate>Wed, 14 Oct 2026 11:05:45 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-3314580-ed447aac/</guid>
+				<description>《Trash Day》发布热修复补丁2026.0.1.14910，重点解决联机卡顿掉线、大厅创建失败及关卡卡死问题。浣熊们再也不用担心卡在皮纳塔树底，速通玩家痛失捷径。UI与音频同步优化，Load Game独立界面、联机进度可见，F8反馈按钮主菜单可用。开发组承诺持续修复，联机体验更稳。</description>
+			</item>
 			<item>
 				<title>《Trash Day》限时特惠开启！立省 10% 史低入手指南</title>
 				<link>https://info.steamhunter.link/posts/2026-10-14-3314580-471a028f/</link>

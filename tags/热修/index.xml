@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>热修 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE/</link>
+		<description>Recent content in 热修 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 14 Oct 2026 11:53:30 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Astrolite紧急热修：武器10级11级无法正确切换的Bug已修复，新上限12级</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-3450850-e3073bed/</link>
+				<pubDate>Wed, 14 Oct 2026 11:53:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-3450850-e3073bed/</guid>
+				<description>Astrolite官方发布小型热修补丁，修复了武器在10级与11级时无法正常切换的问题。此前由于武器等级上限提升至12级，10级和11级的切换逻辑出现异常，影响了高等级玩家的多武器轮换体验。本次修复后，玩家在武器达到10级或11级时，可正常进行武器交换操作，无需再担心因Bug导致战斗节奏被打断。</description>
+			</item>
+			<item>
+				<title>Astrolite热修：武器碎片升级逻辑修正，同武器重复装备终于能升级了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-3450850-e043fe4a/</link>
+				<pubDate>Wed, 14 Oct 2026 10:48:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-3450850-e043fe4a/</guid>
+				<description>Astrolite官方发布小型热修补丁，修复了武器碎片系统的一个关键逻辑问题——此前玩家若尝试为已装备的武器使用碎片升级，系统会判定失败。如今重复装备同一武器也能正常触发升级。本文梳理本次热修核心要点与实操建议，帮你在星际战斗中少走弯路。</description>
+			</item>
+	</channel>
+</rss>
