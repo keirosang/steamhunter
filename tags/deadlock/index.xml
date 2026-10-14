@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 10 Oct 2026 05:00:04 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 04:59:55 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/deadlock/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Deadlock》重大版本更新与深度解析 (AppID: 1422450)</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-1422450-b877476e/</link>
+				<pubDate>Wed, 14 Oct 2026 04:59:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-1422450-b877476e/</guid>
+				<description>Steam 官方最新发布《Deadlock》的公告情报。本文深度梳理本次更新关键细节、核心机制优化与实战上手指南。</description>
+			</item>
 			<item>
 				<title>Deadlock重大更新：棋盘大师所罗门登场，把纽约街头变成博弈死局！</title>
 				<link>https://info.steamhunter.link/posts/2026-10-10-1422450-95239c41/</link>
