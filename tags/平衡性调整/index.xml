@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 13 Oct 2026 17:01:04 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 23:01:01 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>黎明杀机10.2.1热修复来袭！投降机制重做与老杨头红光博弈大调整</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-381210-dab5c39b/</link>
+				<pubDate>Wed, 14 Oct 2026 23:01:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-381210-dab5c39b/</guid>
+				<description>黎明杀机10.2.1版本正式上线，本次补丁针对幸存者投降与杀手结束对局的触发条件进行了人性化优化，移除了杀手需击倒最后一名逃生者的限制。同时修复了鬼面、异形、魔王等大量角色的模型与技能Bug，并对维斯卡特的冲锋转向手感进行了调优，最后系统性地清理了多张地图的碰撞体积与恶性卡位问题，整体联机体验大幅提升。</description>
+			</item>
 			<item>
 				<title>ARC Raiders 2.1版本更新：PvE开关Beta测试开启，Carrion套装上架商店</title>
 				<link>https://info.steamhunter.link/posts/2026-10-13-1808500-be9deced/</link>

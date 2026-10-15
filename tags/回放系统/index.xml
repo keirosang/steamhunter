@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>回放系统 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%9B%9E%E6%94%BE%E7%B3%BB%E7%BB%9F/</link>
+		<description>Recent content in 回放系统 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 15 Oct 2026 07:02:48 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%9B%9E%E6%94%BE%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CS2 更新深度解析：回放系统大改，AUG 动画优化，Vulkan 稳定性提升</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-730-67f8d8ce/</link>
+				<pubDate>Thu, 15 Oct 2026 07:02:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-730-67f8d8ce/</guid>
+				<description>Valve 为《反恐精英 2》推送新补丁，重点升级 Demo 回放体验：新增下载进度条、拖拽式镜头控制、暂停时自由视角。同时优化 AUG 换弹动画，调整回合备份文件启动参数，并提升 Vulkan 渲染稳定性。本文带来完整解读与实操建议。</description>
+			</item>
+	</channel>
+</rss>
