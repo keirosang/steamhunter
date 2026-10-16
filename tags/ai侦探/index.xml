@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AI侦探 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/ai%E4%BE%A6%E6%8E%A2/</link>
+		<description>Recent content in AI侦探 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 16 Oct 2026 10:00:40 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/ai%E4%BE%A6%E6%8E%A2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《A Detective Story》v0.3公开版免费上线：本地运行AI侦探游戏，集成显卡也能破案</title>
+				<link>https://info.steamhunter.link/posts/2026-10-16-4484570-5b08d0f2/</link>
+				<pubDate>Fri, 16 Oct 2026 10:00:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-16-4484570-5b08d0f2/</guid>
+				<description>备受期待的AI驱动侦探游戏《A Detective Story》正式发布v0.3公开版本，所有Steam玩家均可免费体验。本作最大亮点是内置本地大语言模型，无需联网即可与NPC自由对话查案。开发团队针对不同硬件配置提供了基础与进阶两套模型，其中基础版可在集成显卡笔记本上流畅运行，而进阶版则需要5GB显存。本次更新包含一个完整的凶杀案剧情，城镇中隐藏着多名嫌疑人，等待玩家揭开真相。</description>
+			</item>
+	</channel>
+</rss>

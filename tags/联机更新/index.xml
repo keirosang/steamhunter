@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>联机更新 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E6%9B%B4%E6%96%B0/</link>
+		<description>Recent content in 联机更新 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 16 Oct 2026 04:20:15 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lotwick Hill联机救星更新：掉线自动重连上线，最多三次告别白忙活</title>
+				<link>https://info.steamhunter.link/posts/2026-10-16-5288610-fb539bed/</link>
+				<pubDate>Fri, 16 Oct 2026 04:20:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-16-5288610-fb539bed/</guid>
+				<description>联机玩家最怕的掉线问题终于有救了！Lotwick Hill最新官方更新实装自动重连机制，访客玩家在断线或城镇数据中断时会自动尝试重连，最多三次并显示进度，成功后回到原玩家位并刷新城镇状态。手动重连按钮依然保留，主动退出或被踢则不会触发。这篇给你讲透新机制与联机避坑要点。</description>
+			</item>
+	</channel>
+</rss>
