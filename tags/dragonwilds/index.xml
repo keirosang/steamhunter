@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Dragonwilds on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/dragonwilds/</link>
+		<description>Recent content in Dragonwilds on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 14 Oct 2026 18:03:17 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/dragonwilds/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>RuneScape: Dragonwilds 1.0.1 大更新：跳跃攻击实装，背包扩容至40格，存档丢失有救了！</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-1374490-56b2079b/</link>
+				<pubDate>Wed, 14 Oct 2026 18:03:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-1374490-56b2079b/</guid>
+				<description>RuneScape: Dragonwilds 1.0.1版本正式上线！本次更新重点修复了玩家反馈的存档消失问题，并加入“追赶机制”让损坏存档的角色带T4装备回归战场。同时开放跳跃攻击技能树、远程武器专属特殊攻击、弓箭回收机制，背包从32格扩容至40格，敌人仇恨范围与刷新规则同步优化，联机刷本体验直线上升。</description>
+			</item>
+	</channel>
+</rss>

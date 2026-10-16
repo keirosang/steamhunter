@@ -105,6 +105,55 @@
 				<description>Steam 官方最新发布《伊莫》的公告情报。本文深度梳理本次更新关键细节、核心机制优化与实战上手指南。</description>
 			</item>
 			<item>
+				<title>《极限竞速：地平线6》秋季更新：DeBerti野马GT限时解锁，One:1等你拿</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-2483190-d2ada9ab/</link>
+				<pubDate>Thu, 15 Oct 2026 22:30:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-2483190-d2ada9ab/</guid>
+				<description>本周《极限竞速：地平线6》迎来秋季嘉年华更新，20点数即可解锁2018 DeBerti Ford Mustang GT宽体肌肉车，40点入手日产370Z，更有80点宝马M4 CS与160点柯尼塞格One:1系列奖励。同时7-Eleven车聚活动“Egging You On”上线，砸15个鸡蛋三明治收藏品即得限定快捷聊天。</description>
+			</item>
+			<item>
+				<title>《全面战争：战锤3》9.0.4补丁上线：纳迦什战役体验全面优化，9.0.5已在路上</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-1142710-bbd856b8/</link>
+				<pubDate>Thu, 15 Oct 2026 21:59:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-1142710-bbd856b8/</guid>
+				<description>Creative Assembly正式推送《全面战争：战锤3》9.0.4版本更新，本次补丁将重心放在纳迦什战役体验的深度打磨上，修复了黑色金字塔节点失效、墓呼唤醒单位错误、联邦后建筑异常等十余项问题，同时覆盖全派系的多项通用修复。官方预告9.0.5将在数周内到来，届时胜利目标系统将迎来重大改进。</description>
+			</item>
+			<item>
+				<title>三角洲行动10月15日大更新：北极星巡逻新玩法上线，干员枪械平衡性全面调整</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-2507950-20e658a8/</link>
+				<pubDate>Thu, 15 Oct 2026 21:00:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-2507950-20e658a8/</guid>
+				<description>《三角洲行动》于10月15日推出无停机更新，全新PVPVE限时模式“北极星巡逻”正式登场，玩家可扮演Desmoulins或副官展开阵营对抗。同步上线的还有七日登录福利活动，以及多位干员与枪械的平衡性调整。本文将深度解析新模式核心机制、奖励获取路径与干员改动细节，并附上开黑实操建议与常见问题解答。</description>
+			</item>
+			<item>
+				<title>战争雷霆2.59.0.68更新：ARM原生支持上线，PS5 Pro光追崩溃修复，两张空战地图紧急轮换</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-236390-39676653/</link>
+				<pubDate>Thu, 15 Oct 2026 19:30:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-236390-39676653/</guid>
+				<description>战争雷霆推送2.59.0.68版本补丁，Windows版正式加入ARM CPU原生支持，PS5 Pro开启光追时的崩溃问题得到修复。同时，许特根与盗墓者悬崖因BUG被暂时移出空战匹配轮换，中东地中海与东欧冬季试飞地图的浮空物体问题也已修正。此外，官方移除了VR与光追同时开启的选项，并修复了微软商店版本的帧生成、光线重建及FSR失效问题。</description>
+			</item>
+			<item>
+				<title>《Limbus Company》1.117.0版本热修公告：镜牢周常奖励显示异常修复与人格投影更新</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-1973530-08f11077/</link>
+				<pubDate>Thu, 15 Oct 2026 17:19:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-1973530-08f11077/</guid>
+				<description>Project Moon于10月15日发布《Limbus Company》1.117.0版本更新与热修说明，本次调整涉及LCB良秀与LCB希斯克利夫的人格投影制作、唐吉诃德三技能显示问题修正，并集中修复镜像地牢周常奖励残留显示、E.G.O饰品文本描述错误等已知问题。官方同步公布热修时间窗口与后续更新待修复事项。</description>
+			</item>
+			<item>
+				<title>英灵神殿1.0.20补丁实装：战利品掉率大修，作弊标记误伤终于回滚</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-892970-3f1e0e37/</link>
+				<pubDate>Thu, 15 Oct 2026 16:58:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-892970-3f1e0e37/</guid>
+				<description>《Valheim：英灵神殿》推送 Patch 1.0.20，重点修复了长期困扰玩家的战利品掉落异常问题——掉率现在会随怪物星级提升，稀有掉落的伪随机逻辑跨会话保留，分配更公平。同时重置了1.0上线时因Bug而误标为作弊的合法物品标记，并优化了专用服务器CPU占用与Mac跨平台联机延迟问题。</description>
+			</item>
+			<item>
+				<title>Deadlock 10月14日小版本更新：Baba惨遭全方位削弱，Deadman Danny迎来史诗级加强</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-1422450-8bbf4f10/</link>
+				<pubDate>Thu, 15 Oct 2026 11:11:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-1422450-8bbf4f10/</guid>
+				<description>V社英雄射击大作 Deadlock 迎来 10月14日小版本平衡补丁。本次更新刀法精准：Baba 从肉盾到输出被全面砍废，奶妈级回复与护盾能力大幅缩水；而 Deadman Danny 则喜提全面加强，从基础血量到技能伤害几乎全线提升，有望成为新版本上分答案。</description>
+			</item>
+			<item>
 				<title>明日方舟终末地墨韵圣所大版本更新：新干员新武器及9月维护补偿全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-10-15-4732690-635e5825/</link>
 				<pubDate>Thu, 15 Oct 2026 09:00:33 +0800</pubDate>
@@ -145,6 +194,27 @@
 				<pubDate>Wed, 14 Oct 2026 23:01:01 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-14-381210-dab5c39b/</guid>
 				<description>黎明杀机10.2.1版本正式上线，本次补丁针对幸存者投降与杀手结束对局的触发条件进行了人性化优化，移除了杀手需击倒最后一名逃生者的限制。同时修复了鬼面、异形、魔王等大量角色的模型与技能Bug，并对维斯卡特的冲锋转向手感进行了调优，最后系统性地清理了多张地图的碰撞体积与恶性卡位问题，整体联机体验大幅提升。</description>
+			</item>
+			<item>
+				<title>WARDOGS第二赛季10月15日上线：四把新枪、四辆新车、燃烧瓶与动态雷雨天气全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-1867240-06c5ad6c/</link>
+				<pubDate>Wed, 14 Oct 2026 22:59:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-1867240-06c5ad6c/</guid>
+				<description>WARDOGS第二赛季将于10月15日正式上线，带来四把全新武器、四款载具、燃烧瓶与电池测距仪，还有会掩盖脚步的动态雷雨与四级头盔视野限制。维护窗口为UTC 08:00至09:30，预计停机约90分钟。本文深度拆解更新要点、平衡改动与开荒建议。</description>
+			</item>
+			<item>
+				<title>《针影裁梦》十月大版本更新Build 443：UX全面翻新，老裙子可能微调，制作组在线滑跪</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-4019220-06aee3d2/</link>
+				<pubDate>Wed, 14 Oct 2026 19:49:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-4019220-06aee3d2/</guid>
+				<description>独立裁缝模拟游戏《针影裁梦》发布十月补丁Build 443，重点翻新了让玩家抓狂的配件与镶边放置操作，并预告未来将支持手柄与Steam Deck。制作组坦诚承认部分改动可能让老玩家需要重新适应，极少数旧裙子边缘可能产生微小位移，并就此致歉。本次更新以优化新手体验和长期可维护性为核心，是入坑或回流的好时机。</description>
+			</item>
+			<item>
+				<title>RuneScape: Dragonwilds 1.0.1 大更新：跳跃攻击实装，背包扩容至40格，存档丢失有救了！</title>
+				<link>https://info.steamhunter.link/posts/2026-10-14-1374490-56b2079b/</link>
+				<pubDate>Wed, 14 Oct 2026 18:03:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-14-1374490-56b2079b/</guid>
+				<description>RuneScape: Dragonwilds 1.0.1版本正式上线！本次更新重点修复了玩家反馈的存档消失问题，并加入“追赶机制”让损坏存档的角色带T4装备回归战场。同时开放跳跃攻击技能树、远程武器专属特殊攻击、弓箭回收机制，背包从32格扩容至40格，敌人仇恨范围与刷新规则同步优化，联机刷本体验直线上升。</description>
 			</item>
 			<item>
 				<title>《Keysaster》紧急修复补丁上线！开发者亲承仍有硬茬Bug在修，这款节奏游戏能否翻身？</title>

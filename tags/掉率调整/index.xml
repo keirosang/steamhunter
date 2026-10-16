@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>掉率调整 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%8E%89%E7%8E%87%E8%B0%83%E6%95%B4/</link>
+		<description>Recent content in 掉率调整 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 15 Oct 2026 16:58:17 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%8E%89%E7%8E%87%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>英灵神殿1.0.20补丁实装：战利品掉率大修，作弊标记误伤终于回滚</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-892970-3f1e0e37/</link>
+				<pubDate>Thu, 15 Oct 2026 16:58:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-892970-3f1e0e37/</guid>
+				<description>《Valheim：英灵神殿》推送 Patch 1.0.20，重点修复了长期困扰玩家的战利品掉落异常问题——掉率现在会随怪物星级提升，稀有掉落的伪随机逻辑跨会话保留，分配更公平。同时重置了1.0上线时因Bug而误标为作弊的合法物品标记，并优化了专用服务器CPU占用与Mac跨平台联机延迟问题。</description>
+			</item>
+	</channel>
+</rss>

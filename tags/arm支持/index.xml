@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ARM支持 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/arm%E6%94%AF%E6%8C%81/</link>
+		<description>Recent content in ARM支持 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 15 Oct 2026 19:30:28 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/arm%E6%94%AF%E6%8C%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆2.59.0.68更新：ARM原生支持上线，PS5 Pro光追崩溃修复，两张空战地图紧急轮换</title>
+				<link>https://info.steamhunter.link/posts/2026-10-15-236390-39676653/</link>
+				<pubDate>Thu, 15 Oct 2026 19:30:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-15-236390-39676653/</guid>
+				<description>战争雷霆推送2.59.0.68版本补丁，Windows版正式加入ARM CPU原生支持，PS5 Pro开启光追时的崩溃问题得到修复。同时，许特根与盗墓者悬崖因BUG被暂时移出空战匹配轮换，中东地中海与东欧冬季试飞地图的浮空物体问题也已修正。此外，官方移除了VR与光追同时开启的选项，并修复了微软商店版本的帧生成、光线重建及FSR失效问题。</description>
+			</item>
+	</channel>
+</rss>
