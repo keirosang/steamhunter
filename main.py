@@ -19,7 +19,7 @@ import argparse
 import config
 from storage import HugoStorage
 from collector import SteamCollector
-from ai_polisher import AIPolisher
+from ai_polisher import AIPolisher, AIPolishError
 from hugo_generator import HugoGenerator
 from git_syncer import GitSyncer
 
@@ -52,6 +52,7 @@ def run_pipeline(limit: int = None, dry_run: bool = False, skip_crawl: bool = Fa
         print(f"[巡检完成] 发现候选情报条目: {len(candidates)} 条")
 
         processed_count = 0
+        skipped_count = 0
         for item in candidates:
             if processed_count >= effective_limit:
                 break
@@ -81,7 +82,12 @@ def run_pipeline(limit: int = None, dry_run: bool = False, skip_crawl: bool = Fa
 
             # 2. AI 润色阶段
             print("  🤖 正在调用 AI 进行主理人风格重构与排版...")
-            polished = polisher.polish(item)
+            try:
+                polished = polisher.polish(item)
+            except AIPolishError as e:
+                print(f"  ⚠️ AI 润色失败，跳过本篇，继续处理下一篇: {e}")
+                skipped_count += 1
+                continue
             polished_title = polished.get("title", title)
             print(f"  ✨ 润色完成: 《{polished_title}》")
 
@@ -97,6 +103,8 @@ def run_pipeline(limit: int = None, dry_run: bool = False, skip_crawl: bool = Fa
             processed_count += 1
 
         print(f"\n[采集统计] 本轮成功发布新增文章: {len(new_generated_files)} 篇")
+        if skipped_count:
+            print(f"[采集统计] 因 AI 润色报错跳过: {skipped_count} 篇（未发布，下一轮可重试）")
     else:
         print(">>> 跳过采集与 Markdown 生成步骤。")
 

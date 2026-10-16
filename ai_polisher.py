@@ -3,6 +3,10 @@ import re
 import requests
 import config
 
+class AIPolishError(Exception):
+    """AI 润色接口报错或返回异常时抛出，由调用方决定跳过该条目、继续处理下一篇。"""
+
+
 class AIPolisher:
     """AI 智能润色引擎：将原始英文/抓取内容重构为玩家主理人风格的中文精品专栏"""
 
@@ -10,16 +14,24 @@ class AIPolisher:
         self.session = requests.Session()
 
     def polish(self, item: dict) -> dict:
-        """主入口：尝试 LLM 风格化润色，失败或无 Key 时平滑回退至离线高质量重构"""
-        if config.OPENAI_API_KEY:
-            try:
-                res = self._call_llm(item)
-                if res and res.get("title") and res.get("content_md"):
-                    return res
-            except Exception as e:
-                print(f"[AI润色告警] LLM 调用失败，自动切换至离线智能重构: {e}")
+        """主入口：调用 LLM 进行风格化润色。
 
-        return self._offline_polish(item)
+        - 未配置 OPENAI_API_KEY：走离线高质量重构（保底，非报错场景）；
+        - 已配置 Key 但接口报错/超时/返回异常：抛出 AIPolishError，
+          由调用方跳过本篇，继续处理下一篇，绝不用原文兜底发布。
+        """
+        if not config.OPENAI_API_KEY:
+            return self._offline_polish(item)
+
+        try:
+            res = self._call_llm(item)
+        except Exception as e:
+            raise AIPolishError(f"LLM 调用异常: {e}") from e
+
+        if not (res and res.get("title") and res.get("content_md")):
+            raise AIPolishError("LLM 返回内容不完整（缺少 title 或 content_md）")
+
+        return res
 
     def _call_llm(self, item: dict) -> dict | None:
         """调用 OpenAI 兼容接口生成结构化 JSON"""
