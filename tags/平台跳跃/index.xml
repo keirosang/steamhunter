@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>平台跳跃 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%B9%B3%E5%8F%B0%E8%B7%B3%E8%B7%83/</link>
+		<description>Recent content in 平台跳跃 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 16 Oct 2026 05:36:39 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E5%8F%B0%E8%B7%B3%E8%B7%83/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Geometry Dash 2.209 大版本更新：平台跳跃存档、自定义键位与死亡追踪全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-16-322170-2e62f9cd/</link>
+				<pubDate>Fri, 16 Oct 2026 05:36:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-16-322170-2e62f9cd/</guid>
+				<description>Geometry Dash 迎来 2.209 重磅更新，加入平台跳跃模式存档、自定义按键绑定、死亡追踪与标记、编辑器音效包、导入导出关卡等实用功能。同时优化了编辑器 UI、SFX 浏览器、每日/周常关卡重玩、好友系统与通知机制，并修复大量 bug。本文深度解析核心改动，提供上手建议与常见问题解答，助你快速玩转新版本。</description>
+			</item>
+	</channel>
+</rss>
