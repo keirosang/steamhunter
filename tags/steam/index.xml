@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 08:38:09 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 13:00:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AION 2 维护公告：10月21日停机5.5小时，开服时间与避坑提醒</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-3393110-5059c3d4/</link>
+				<pubDate>Tue, 20 Oct 2026 13:00:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-3393110-5059c3d4/</guid>
+				<description>AION 2 官方发布例行停机维护通知：美西时间10月20日23:30（欧洲10月21日08:30）开始，持续5.5小时，仅影响游戏服务器，期间全员掉线、无法登录。换算成北京时间是10月21日14:30至约20:00。补丁细节官方暂未公布，本文整理了时间换算、维护前必做清单与开服后的抢跑思路。</description>
+			</item>
+			<item>
+				<title>《Grand Theft Idiots》更新#15：新手教程上线，NPC学会假摔不再全员报警</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-4919380-bd420f4b/</link>
+				<pubDate>Tue, 20 Oct 2026 10:45:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-4919380-bd420f4b/</guid>
+				<description>多人整活神作《Grand Theft Idiots》推送 Development Update #15。本次更新加入覆盖基础操作的官方教程，NPC 新增踉跄反应、大幅降低报警频率，店员改为拔河式抢回赃物；同时新增多种门型、厕所可推门进入，重做布娃娃物理与碰撞手感，并修复联机搬运、语音掉线、物品穿墙等一批老毛病，守卫逮捕后的宽限期也一并延长。</description>
+			</item>
 			<item>
 				<title>《Warding Witches》1.03补丁上线：BUG修复与平衡调整，后期关卡更友好</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-3536520-810769a2/</link>

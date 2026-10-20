@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 09:00:58 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 13:25:20 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Quartermark》大版本更新：四名新英雄上线，100个BOSS终于打出自己的专属大招</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-5061040-df0132b5/</link>
+				<pubDate>Tue, 20 Oct 2026 13:25:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-5061040-df0132b5/</guid>
+				<description>《Quartermark》迎来一次体量不小的版本更新：正式版新增四名英雄，全游戏100个BOSS与112个带特殊技能的生物全部换上专属招式与贴切命名；同时上线每周之门、暗路模式、灰烬保底、快速下潜与离线爬塔等新系统，并顺手修掉了死亡动画、粒子和图鉴统计等一批老毛病。</description>
+			</item>
+			<item>
+				<title>《Grand Theft Idiots》更新#15：新手教程上线，NPC学会假摔不再全员报警</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-4919380-bd420f4b/</link>
+				<pubDate>Tue, 20 Oct 2026 10:45:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-4919380-bd420f4b/</guid>
+				<description>多人整活神作《Grand Theft Idiots》推送 Development Update #15。本次更新加入覆盖基础操作的官方教程，NPC 新增踉跄反应、大幅降低报警频率，店员改为拔河式抢回赃物；同时新增多种门型、厕所可推门进入，重做布娃娃物理与碰撞手感，并修复联机搬运、语音掉线、物品穿墙等一批老毛病，守卫逮捕后的宽限期也一并延长。</description>
+			</item>
+			<item>
+				<title>《巴格达诅咒》V1.62大更新：换弹快3.5倍，完美弹反双倍伤害</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-4841390-bce63e8f/</link>
+				<pubDate>Tue, 20 Oct 2026 09:56:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-4841390-bce63e8f/</guid>
+				<description>Hexonine Games 为《Curse of Baghdad》推送 V1.62 大版本更新，重点围绕战斗手感与敌人行为展开：换弹速度提升至 3.5 倍，新增完美弹反与双倍伤害、近身慢镜头，霰弹枪与砍刀手感强化，僵尸与枪手 AI 重新调校，Boss 战奖励、镜头和弹道也同步优化。本文梳理核心改动、开荒建议与常见问题。</description>
+			</item>
 			<item>
 				<title>PuzzMao魔法霸主拼图正式发售：对战、任务、生存、剧情四大模式完整实装，开黑党可以冲了</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-4314060-b98bb226/</link>
@@ -131,6 +152,13 @@
 				<pubDate>Sun, 18 Oct 2026 14:12:50 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-18-4919380-99165385/</guid>
 				<description>《Grand Theft Idiots》第14期开发日志带来发售前重磅更新：新增4种改变抢劫玩法的词缀（头奖、封锁、通胀、不耐烦司机），单局可触发双事件；店员AI大幅进化，会捡货补货；警察将驾车抵达；新增商场商店、警报干扰、混乱模式及模组管理器。游戏愿望单刚破3500，发售在即，本文带你速览所有关键改动与入坑建议。</description>
+			</item>
+			<item>
+				<title>《伊莫》新补丁：伙伴手册限时经验加成，主机卡顿与奖励异常修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-17-4126040-6cd6bf9f/</link>
+				<pubDate>Sat, 17 Oct 2026 18:49:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-17-4126040-6cd6bf9f/</guid>
+				<description>《伊莫》推送 v1.0.3743667 版本补丁：伙伴手册在 70 级以下开启限时经验加成，欧洲、美洲、亚太三区服同日开启；同时集中修复主机端打开菜单严重卡顿、Operation: Egg Heist 昵称错位、部分功能界面图标异常等问题。阶梯豪礼第四阶段奖励领取异常也已紧急处理，官方一度暂时关闭入口。</description>
 			</item>
 			<item>
 				<title>Scam With Your Friends 0.1.73 更新：币圈投资改实时盘口，语音识别与崩溃大修</title>
