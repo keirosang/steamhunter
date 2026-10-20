@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 18:00:33 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 23:01:39 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>黎明杀机 10.2.2 补丁：黑暗傲慢回调重做，怪奇物语联动定档 11 月</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-381210-5bb2a29d/</link>
+				<pubDate>Tue, 20 Oct 2026 23:01:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-381210-5bb2a29d/</guid>
+				<description>《黎明杀机》10.2.2 热修复补丁上线。最受关注的是杀手技能「黑暗傲慢」的回调：基础攻击冷却缩减从「仅落空生效的 15/20/25%」改为「命中、被挡、落空全部生效的 10%」，翻窗加速与眩晕惩罚保持不变。同时，怪奇物语联动限时模式 Lights Out 定档 11 月 5 日至 12 日，另有大批音效、穿模、地图碰撞与崩溃问题修复。</description>
+			</item>
+			<item>
+				<title>《模拟农场25》1.25补丁：动物雇工与葡萄园全年种植上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-2300320-29021ff3/</link>
+				<pubDate>Tue, 20 Oct 2026 21:10:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-2300320-29021ff3/</guid>
+				<description>《模拟农场25》Patch 1.25 正式推送，本次补丁不只修了太阳月亮跑错班、黄昏光照跳变等日常 Bug，还带来马匹与羊驼动物雇工、葡萄园全年可种、新边界涂装和约翰迪尔 S7 履带窄履带版。Highlands Fishing、Straw Harvest、Pumps n&amp;rsquo; Hoses 与 Emergency Pack 也同步更新，联机与生产链细节更顺手。</description>
+			</item>
+			<item>
+				<title>《幻兽帕鲁》2026全球人气投票结果出炉！新版本“并肩同行”冬季上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-1623730-7bb88c6a/</link>
+				<pubDate>Tue, 20 Oct 2026 21:06:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-1623730-7bb88c6a/</guid>
+				<description>《幻兽帕鲁》2026全球人气投票结果正式揭晓：帕鲁榜前三为赛克梅特、索琳与疾旋鼬，角色榜前三则是佐伊、奥莉与纱夜。官方同步宣布全新版本“并肩同行”将于2026年冬季上线，预计带来联机合作与探索体验升级，更多玩法细节值得玩家期待。本次投票参与人数再创新高，社区热情可见一斑。</description>
+			</item>
+			<item>
+				<title>战争雷霆大版本重做CCRP轰炸：核弹投放更顺手，手动投弹不再冲突</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-236390-b71253e7/</link>
+				<pubDate>Tue, 20 Oct 2026 21:03:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-236390-b71253e7/</guid>
+				<description>战争雷霆即将到来的大版本对CCRP持续计算投放点轰炸动刀：新控制不再占用专用投弹键，也不会和手动投弹打架，屏幕指示更清爽。核升级模式里自动投核弹更顺手，水平飞行、俯冲和拉起投弹都有更直观的航向与剩余时间提示。本文整理机制改动、按键设置与实战避坑。</description>
+			</item>
 			<item>
 				<title>《赛博朋克2077》2.5免费更新：义体自定义与双持10月22日上线</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-1091500-0de39b9b/</link>
@@ -26,6 +54,20 @@
 				<pubDate>Tue, 20 Oct 2026 17:01:51 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-20-553850-aa0359cb/</guid>
 				<description>《绝地潜兵2》7.2.0版本「自由之缺」正式上线：Easy Anti-Cheat反作弊实装，M90A霰弹枪、MA5C、StA-52、StA-11与PLAS-39等联动武器迎来数值加强，镰刀与部分战略配备同步再平衡，胆汁虫变种独立成株并由Game Masters统一调度。本文梳理全部改动与实战建议。</description>
+			</item>
+			<item>
+				<title>ARC Raiders 2.2.0上线：Wreck套装与抓钩手感修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-1808500-55160e7e/</link>
+				<pubDate>Tue, 20 Oct 2026 17:01:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-1808500-55160e7e/</guid>
+				<description>ARC Raiders 推送 Store Update 2.2.0：Wreck 套装正式上线，抓钩投掷与绳索摆荡、金库弹簧跳、自拍表情等动画问题集中修复；护卫舰引擎、迫击炮、弹道缆车音效全面校准；ARC 对滑铲目标的命中判定被修正，Hydra 散射逻辑调整并上调基础伤害。PvE Beta 已收官，官方开启反馈征集与抽样问卷。</description>
+			</item>
+			<item>
+				<title>《The Last Caretaker》6.0「跃迁」上线：雪山新图、低温生存与安娜新章齐发</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-1783560-c0bc8b06/</link>
+				<pubDate>Tue, 20 Oct 2026 14:54:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-1783560-c0bc8b06/</guid>
+				<description>《The Last Caretaker》迎来 6.0「跃迁」大版本：Project Crossing 传送门科技首次打通 Lazarus Complex 与雪山新区域 North Bastion；低温会减速并伤害看守者，新增锅炉、甲烷提取器与自定义地图标记；安娜主线再添重头章节，同时优化卡顿、旋翼机手感并修复大量崩溃与任务问题。</description>
 			</item>
 			<item>
 				<title>《Quartermark》大版本更新：四名新英雄上线，100个BOSS终于打出自己的专属大招</title>
@@ -63,6 +105,13 @@
 				<description>《Warding Witches》发布1.03版本更新，重点修复了按键绑定软锁、后期成就无法解锁等四大BUG，同时下调了第二关Boss开场与第五关整体难度，并优化了敌人射击判定范围。本次更新让游戏体验更流畅，高难度关卡压力稍减，适合新老玩家回归挑战。</description>
 			</item>
 			<item>
+				<title>Mycopunk大更新：新员工登场，冰霜雪球雷与衍射驱动器实装</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-3247750-da21c582/</link>
+				<pubDate>Tue, 20 Oct 2026 07:04:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-3247750-da21c582/</guid>
+				<description>《Mycopunk》EA 阶段迎来 &amp;ldquo;Myco-eve&amp;rdquo; 内容更新：首位全新员工登场，配套专属升级与活动皮肤一并实装；新武器「衍射驱动器」以宽锥霰弹为底，按住副射击旋转光环即可收束弹道打远程；新雷「雪球雷」带来冰霜元素与强力控场。本文梳理三项新内容的定位、开黑搭配思路与上手建议。</description>
+			</item>
+			<item>
 				<title>《Over the Hill》小型更新上线：鞭灯动起来了，越野装饰细节再升级</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-2929250-a217cef9/</link>
 				<pubDate>Tue, 20 Oct 2026 06:42:34 +0800</pubDate>
@@ -96,6 +145,13 @@
 				<pubDate>Tue, 20 Oct 2026 00:14:39 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-20-2929250-293599f5/</guid>
 				<description>《Over The Hill》发布10月19日小型补丁，重点修复本地化缺失文本、涂装模组加载冲突、便携绞盘锚点无法使用等问题，并改进倾斜指示器抗锯齿、商家里程表小数分隔符，同时将多人游戏最大时间差从10分钟缩减至2分钟，提升联机同步体验。</description>
+			</item>
+			<item>
+				<title>《地下蚁国》SWAMPED!大更新：沼泽新图Creek与两种巨型生物登场</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-463530-98c3f6f3/</link>
+				<pubDate>Tue, 20 Oct 2026 00:12:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-463530-98c3f6f3/</guid>
+				<description>《地下蚁国》迎来 SWAMPED! 沼泽主题大更新：新增 2v2v2 专用自定义地图「Creek」，糙鳞绿蛇与东部蝾螈成体两位巨型级住客入驻；自由模式配置支持保存、加载与 CSV 导出分享，还能外部编辑解锁隐藏参数，另附 5 张官方示范剧本与一批底层性能优化。</description>
 			</item>
 			<item>
 				<title>EA SPORTS FC 27紧急更新：球员原型属性点成本重做，全员AP重置补偿5000俱乐部金币</title>

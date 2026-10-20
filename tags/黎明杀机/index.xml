@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 23:01:01 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 23:01:39 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E9%BB%8E%E6%98%8E%E6%9D%80%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>黎明杀机 10.2.2 补丁：黑暗傲慢回调重做，怪奇物语联动定档 11 月</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-381210-5bb2a29d/</link>
+				<pubDate>Tue, 20 Oct 2026 23:01:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-381210-5bb2a29d/</guid>
+				<description>《黎明杀机》10.2.2 热修复补丁上线。最受关注的是杀手技能「黑暗傲慢」的回调：基础攻击冷却缩减从「仅落空生效的 15/20/25%」改为「命中、被挡、落空全部生效的 10%」，翻窗加速与眩晕惩罚保持不变。同时，怪奇物语联动限时模式 Lights Out 定档 11 月 5 日至 12 日，另有大批音效、穿模、地图碰撞与崩溃问题修复。</description>
+			</item>
 			<item>
 				<title>黎明杀机10.2.1热修复来袭！投降机制重做与老杨头红光博弈大调整</title>
 				<link>https://info.steamhunter.link/posts/2026-10-14-381210-dab5c39b/</link>
