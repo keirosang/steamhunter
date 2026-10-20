@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 11:05:45 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 00:14:39 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Over The Hill》10月19日小型更新：本地化修复与绞盘锚点优化，更有仪表盘可读性提升</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-2929250-293599f5/</link>
+				<pubDate>Tue, 20 Oct 2026 00:14:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-2929250-293599f5/</guid>
+				<description>《Over The Hill》发布10月19日小型补丁，重点修复本地化缺失文本、涂装模组加载冲突、便携绞盘锚点无法使用等问题，并改进倾斜指示器抗锯齿、商家里程表小数分隔符，同时将多人游戏最大时间差从10分钟缩减至2分钟，提升联机同步体验。</description>
+			</item>
+			<item>
+				<title>《Scam With Your Friends》0.1.82大更新：语音识别大修与家庭友好模式强化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-19-4954910-47084837/</link>
+				<pubDate>Mon, 19 Oct 2026 14:21:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-19-4954910-47084837/</guid>
+				<description>诈骗模拟器《Scam With Your Friends》推送0.1.82版本，重点修复语音识别兼容性，新增Whisper超时切换Moonshine、Deepgram密钥警告等实用功能。家庭友好模式全面强化，屏蔽游戏内浏览器并替换敏感照片。同时优化目标识别、文本输入稳定性，并加入Steam好友添加按钮与声望显示，联机体验更流畅。</description>
+			</item>
 			<item>
 				<title>《Trash Day》热修复2026.0.1.14910：联机断线优化与关卡漏洞修复，浣熊党狂喜</title>
 				<link>https://info.steamhunter.link/posts/2026-10-14-3314580-ed447aac/</link>

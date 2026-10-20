@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Howling Woods on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/howling-woods/</link>
+		<description>Recent content in Howling Woods on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Oct 2026 02:54:30 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/howling-woods/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Howling Woods》v1.1.1更新详解：官方出手，大型城镇卡顿问题终于修了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-5336590-782a90b2/</link>
+				<pubDate>Tue, 20 Oct 2026 02:54:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-5336590-782a90b2/</guid>
+				<description>《Howling Woods》推送 v1.1.1 补丁，重点修复大型城镇场景掉帧卡顿问题。本次更新虽小但直击痛点，官方定位并解决了导致城镇规模扩大后性能骤降的底层Bug。本文整理更新要点、实测表现与开黑优化建议，帮你顺畅经营大城镇。</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>金币上限 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%87%91%E5%B8%81%E4%B8%8A%E9%99%90/</link>
+		<description>Recent content in 金币上限 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Oct 2026 05:42:35 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%87%91%E5%B8%81%E4%B8%8A%E9%99%90/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Coin Harvest》1.0.3热修上线：金币上限机制优化，时间扭曲与倾泻技能平衡调整</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-4381180-3e6fe948/</link>
+				<pubDate>Tue, 20 Oct 2026 05:42:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-4381180-3e6fe948/</guid>
+				<description>《Coin Harvest》发布1.0.3热修，针对玩家反馈优化金币上限机制：移动中的金币不再被清除，上限变为软限制且默认值提升至800。同时平衡性调整：时间扭曲价格翻倍且不再能连锁跳关，倾泻技能限制每秒点击12次以防自动点击器。新增演示进度导入选项和效果区域显示设置。</description>
+			</item>
+	</channel>
+</rss>

@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Fri, 16 Oct 2026 16:56:42 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 08:38:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Warding Witches》1.03补丁上线：BUG修复与平衡调整，后期关卡更友好</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-3536520-810769a2/</link>
+				<pubDate>Tue, 20 Oct 2026 08:38:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-3536520-810769a2/</guid>
+				<description>《Warding Witches》发布1.03版本更新，重点修复了按键绑定软锁、后期成就无法解锁等四大BUG，同时下调了第二关Boss开场与第五关整体难度，并优化了敌人射击判定范围。本次更新让游戏体验更流畅，高难度关卡压力稍减，适合新老玩家回归挑战。</description>
+			</item>
 			<item>
 				<title>《Alice Nation》1.0.5补丁炸裂上线：告别猝死与卡关，教程系统史诗级优化，存档点翻倍！</title>
 				<link>https://info.steamhunter.link/posts/2026-10-16-3755350-3f458204/</link>

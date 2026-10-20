@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 13 Oct 2026 06:12:52 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 05:42:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Coin Harvest》1.0.3热修上线：金币上限机制优化，时间扭曲与倾泻技能平衡调整</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-4381180-3e6fe948/</link>
+				<pubDate>Tue, 20 Oct 2026 05:42:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-4381180-3e6fe948/</guid>
+				<description>《Coin Harvest》发布1.0.3热修，针对玩家反馈优化金币上限机制：移动中的金币不再被清除，上限变为软限制且默认值提升至800。同时平衡性调整：时间扭曲价格翻倍且不再能连锁跳关，倾泻技能限制每秒点击12次以防自动点击器。新增演示进度导入选项和效果区域显示设置。</description>
+			</item>
 			<item>
 				<title>《黄衣之王邪教》1.0.1热修上线！遗物面板修复、剧情错位更正，还有已知问题待解</title>
 				<link>https://info.steamhunter.link/posts/2026-10-13-3928030-f87d7a42/</link>

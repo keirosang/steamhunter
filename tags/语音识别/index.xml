@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>语音识别 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/</link>
+		<description>Recent content in 语音识别 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 19 Oct 2026 14:21:50 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Scam With Your Friends》0.1.82大更新：语音识别大修与家庭友好模式强化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-19-4954910-47084837/</link>
+				<pubDate>Mon, 19 Oct 2026 14:21:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-19-4954910-47084837/</guid>
+				<description>诈骗模拟器《Scam With Your Friends》推送0.1.82版本，重点修复语音识别兼容性，新增Whisper超时切换Moonshine、Deepgram密钥警告等实用功能。家庭友好模式全面强化，屏蔽游戏内浏览器并替换敏感照片。同时优化目标识别、文本输入稳定性，并加入Steam好友添加按钮与声望显示，联机体验更流畅。</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tall Orders on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/tall-orders/</link>
+		<description>Recent content in Tall Orders on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 19 Oct 2026 22:22:49 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/tall-orders/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Tall Orders》小补丁修复双人同酿药水翻倍BUG，联机合作更公平了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-19-5126160-a1349aac/</link>
+				<pubDate>Mon, 19 Oct 2026 22:22:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-19-5126160-a1349aac/</guid>
+				<description>《Tall Orders》发布小型更新补丁，修复了双人同时按下酿造键导致药水重复生成的Bug。这一修复让联机合作时的资源产出回归正常，避免了因时机巧合而破坏游戏平衡的意外收益。本文为你速览补丁要点、分析对合作玩法的影响，并提供联机避坑与上手建议，助你和队友高效经营魔药铺。</description>
+			</item>
+	</channel>
+</rss>

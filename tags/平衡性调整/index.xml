@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Fri, 16 Oct 2026 16:56:42 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 08:38:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Warding Witches》1.03补丁上线：BUG修复与平衡调整，后期关卡更友好</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-3536520-810769a2/</link>
+				<pubDate>Tue, 20 Oct 2026 08:38:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-3536520-810769a2/</guid>
+				<description>《Warding Witches》发布1.03版本更新，重点修复了按键绑定软锁、后期成就无法解锁等四大BUG，同时下调了第二关Boss开场与第五关整体难度，并优化了敌人射击判定范围。本次更新让游戏体验更流畅，高难度关卡压力稍减，适合新老玩家回归挑战。</description>
+			</item>
+			<item>
+				<title>《Coin Harvest》1.0.3热修上线：金币上限机制优化，时间扭曲与倾泻技能平衡调整</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-4381180-3e6fe948/</link>
+				<pubDate>Tue, 20 Oct 2026 05:42:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-4381180-3e6fe948/</guid>
+				<description>《Coin Harvest》发布1.0.3热修，针对玩家反馈优化金币上限机制：移动中的金币不再被清除，上限变为软限制且默认值提升至800。同时平衡性调整：时间扭曲价格翻倍且不再能连锁跳关，倾泻技能限制每秒点击12次以防自动点击器。新增演示进度导入选项和效果区域显示设置。</description>
+			</item>
+			<item>
+				<title>EA SPORTS FC 27紧急更新：球员原型属性点成本重做，全员AP重置补偿5000俱乐部金币</title>
+				<link>https://info.steamhunter.link/posts/2026-10-19-4080220-b04a5aae/</link>
+				<pubDate>Mon, 19 Oct 2026 23:10:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-19-4080220-b04a5aae/</guid>
+				<description>EA SPORTS FC 27官方宣布将于10月22日更新球员原型系统，修正属性点（AP）成本分类错误，并移除进攻跑位作为专精前置要求。所有已创建职业球员的玩家将被重置属性点分配，但等级与总AP不变，同时获得5000俱乐部金币及6场比赛1.75倍AXP加成作为补偿。本次调整涉及门将、后卫、中场和前锋四大位置的原型，旨在强化原型身份差异与游戏平衡。</description>
+			</item>
+			<item>
+				<title>《Tall Orders》小补丁修复双人同酿药水翻倍BUG，联机合作更公平了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-19-5126160-a1349aac/</link>
+				<pubDate>Mon, 19 Oct 2026 22:22:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-19-5126160-a1349aac/</guid>
+				<description>《Tall Orders》发布小型更新补丁，修复了双人同时按下酿造键导致药水重复生成的Bug。这一修复让联机合作时的资源产出回归正常，避免了因时机巧合而破坏游戏平衡的意外收益。本文为你速览补丁要点、分析对合作玩法的影响，并提供联机避坑与上手建议，助你和队友高效经营魔药铺。</description>
+			</item>
+			<item>
+				<title>《边狱公司》10月22日大版本更新：新人格、平衡调整与卡池轮换全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-19-1973530-644ded3b/</link>
+				<pubDate>Mon, 19 Oct 2026 16:59:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-19-1973530-644ded3b/</guid>
+				<description>《边狱公司》将于2026年10月22日迎来定期更新，本次维护将带来全新人格、平衡性调整及卡池轮换。文章深度解析更新要点、战斗机制变动与抽取建议，并附上开黑避坑指南和常见问题解答，助你第一时间掌握版本动向。</description>
+			</item>
 			<item>
 				<title>《Alice Nation》1.0.5补丁炸裂上线：告别猝死与卡关，教程系统史诗级优化，存档点翻倍！</title>
 				<link>https://info.steamhunter.link/posts/2026-10-16-3755350-3f458204/</link>
