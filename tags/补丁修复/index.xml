@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>补丁修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%A1%A5%E4%B8%81%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 补丁修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Oct 2026 20:36:17 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%A1%A5%E4%B8%81%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《21: Dead Man&#39;s Deck》小补丁：全屏切换修复，BGM断流终于治了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-20-4737540-116a18f6/</link>
+				<pubDate>Tue, 20 Oct 2026 20:36:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-20-4737540-116a18f6/</guid>
+				<description>《21: Dead Man&amp;rsquo;s Deck》推送小型补丁，重点修复窗口化、无边框与独占全屏切换时的闪烁卡死，并让音频缓冲区保持稳定，解决跑图过程中音乐与环境音突然掉线的问题。同时 Dead Man&amp;rsquo;s Well 默认配乐回归 Reaper&amp;rsquo;s Pulse，Crypt Hymns 保留为外观选项。对老玩家来说，这波是体验向的精准打磨。</description>
+			</item>
+	</channel>
+</rss>

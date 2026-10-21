@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Java模组 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/java%E6%A8%A1%E7%BB%84/</link>
+		<description>Recent content in Java模组 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 18:21:01 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/java%E6%A8%A1%E7%BB%84/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《僵尸毁灭工程》官方敲黑板：Java模组能改底层，别见码就装</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-108600-b27e4e10/</link>
+				<pubDate>Wed, 21 Oct 2026 18:21:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-108600-b27e4e10/</guid>
+				<description>《僵尸毁灭工程》官方发布模组安全说明：Java模组能直接触碰游戏底层，带来颠覆玩法的同时，也可能引入安全风险。官方建议只从可信作者与平台下载，优先选择开源或可复现构建的模组，并提醒创意工坊订阅不等于绝对安全。本文梳理核心要点、安装避坑与实操建议。</description>
+			</item>
+	</channel>
+</rss>

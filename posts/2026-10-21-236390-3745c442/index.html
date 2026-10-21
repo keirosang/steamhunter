@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>战争雷霆№119修复上线：光追阴影不闪了，回收与研究界面也顺手了 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="战争雷霆推送It’s fixed! №119修复合集，重点处理光追阴影下飞行器座舱闪烁、远处斜坡树木阴影长短异常，以及“非常高”阴影质量切换坦克瞄具时的阴影闪烁与短暂消失。回收物品界面叠加和数量异常、载具等级折叠后研究看似锁定也一并优化。我整理了核心改动、设置检查与上手建议，车长们更新后即可验证。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="战争雷霆№119修复上线：光追阴影不闪了，回收与研究界面也顺手了">
+  <meta property="og:description" content="战争雷霆推送It’s fixed! №119修复合集，重点处理光追阴影下飞行器座舱闪烁、远处斜坡树木阴影长短异常，以及“非常高”阴影质量切换坦克瞄具时的阴影闪烁与短暂消失。回收物品界面叠加和数量异常、载具等级折叠后研究看似锁定也一并优化。我整理了核心改动、设置检查与上手建议，车长们更新后即可验证。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-21-236390-3745c442/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/bf47d38e53e8c871.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-21-236390-3745c442/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">战争雷霆№119修复上线：光追阴影不闪了，回收与研究界面也顺 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 战争雷霆</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 236390</span>
+      
+    </div>
+
+    <h1 class="article-title">战争雷霆№119修复上线：光追阴影不闪了，回收与研究界面也顺手了</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-21T17:08:16&#43;08:00" class="meta-date">
+          📅 2026-10-21 17:08
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1631 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/236390/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/236390" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/bf47d38e53e8c871.jpg" alt="战争雷霆№119修复上线：光追阴影不闪了，回收与研究界面也顺手了" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>战争雷霆推送It’s fixed! №119修复合集，重点处理光追阴影下飞行器座舱闪烁、远处斜坡树木阴影长短异常，以及“非常高”阴影质量切换坦克瞄具时的阴影闪烁与短暂消失。回收物品界面叠加和数量异常、载具等级折叠后研究看似锁定也一并优化。我整理了核心改动、设置检查与上手建议，车长们更新后即可验证。
+      </div>
+      
+
+      <div class="article-body">
+        <p>🎯 核心看点速览</p>
+<p>各位车长、机长、舰长，先别急着摔键盘。战争雷霆这次推送的是 It’s fixed! №119 修复合集，不是那种一口气塞满新载具的大版本，但条条都挺戳日常痛点。</p>
+<ul>
+<li>光追阴影修复：飞行器在光追开启时，座舱阴影可能闪烁的问题已处理。</li>
+<li>普通阴影修复：远处斜坡树木阴影长短异常，以及“非常高”阴影质量下切换坦克瞄具时的阴影闪烁、短暂消失，都已修复。</li>
+<li>回收物品修复：翻页时界面按钮叠加、回收数量少于指定数量这两个问题已处理。</li>
+<li>载具等级折叠优化：研究窗口里折叠等级后“研究像被锁住”的情况，现在会有更明确的悬停提示。</li>
+<li>这不是喜加一，不需要领取；游戏已在 Steam 库里的玩家直接更新客户端即可。</li>
+</ul>
+<p>📌 重点深度解析</p>
+<h3 id="阴影修复光追和普通阴影都挨个收拾">阴影修复：光追和普通阴影都挨个收拾</h3>
+<p>这次最值得关注的是阴影问题。光追开启时，飞行器阴影可能闪烁，座舱里尤其明显。原因听着就很“物理”：飞机飞得太快，把光追优化网格甩在后面，优化系统跟不上，于是把飞机从光追渲染空间里“优化”出去了。现在这个逻辑已经修正，飞机阴影不该再闪。</p>
+<p>普通阴影也修了两个老毛病。第一是远处树木阴影：算法之前没充分考虑树木长在斜坡上的情况，导致阴影要么拉得过长，要么缩得太短。现在会把坡度算进去，靠近斜坡树木时不容易出现阴影突然大跳变。第二是坦克瞄具问题：当阴影质量设为“非常高”，切到瞄具视图会提高阴影绘制距离，不同细节层级过渡时处理出错，可能导致阴影暂时消失，过几帧才完整刷新。现在切换瞄具时，阴影闪烁和短暂消失应该会消停。</p>
+<h3 id="回收物品界面和数量两头堵">回收物品：界面和数量两头堵</h3>
+<p>回收物品这次修了两个 bug。一个是视觉层面的：翻页时列表显示可能让回收按钮等界面元素叠在一起，看着像 UI 在打架。另一个更实际：实际回收数量可能少于玩家指定数量。虽然消耗的资源数量是对的，也就是没多扣，但流程会被拖慢。对于经常清仓库的玩家来说，这属于“不致命但很烦”的修复。</p>
+<h3 id="载具等级折叠不是锁了是提示没跟上">载具等级折叠：不是锁了，是提示没跟上</h3>
+<p>研究窗口里折叠载具等级后，有玩家发现那些载具的研究看起来像被锁住，不知道该怎么恢复标准界面。这次更新把提示补上了：鼠标悬停在折叠的载具等级上，会出现工具提示，告诉你发生了什么、该怎么操作。说白了，功能没坏，是引导没跟上；现在至少不会让人对着研究界面发呆。</p>
+<p>💡 玩家实操与上手建议</p>
+<ol>
+<li>Steam 更新与检查：打开 Steam 库，让战争雷霆完成更新。如果更新后仍有异常，可以先验证游戏文件完整性，再进游戏复测。</li>
+<li>画面设置重点检查：如果你开了光追阴影，建议进试飞或训练场看看座舱阴影是否还闪；阴影质量设为“非常高”的玩家，可以专门切几次坦克瞄具，确认阴影不再短暂消失。</li>
+<li>回收物品这样试：翻几页仓库列表，确认回收按钮不再叠在奇怪位置；批量回收时留意实际数量是否与指定一致。</li>
+<li>研究窗口别慌：折叠载具等级后，把鼠标悬停上去看提示，按提示恢复标准界面即可。</li>
+<li>组队避坑：开黑前确认大家都更新到最新客户端，避免版本不一致带来的匹配或联机小插曲。</li>
+<li>配置优化：光追阴影好看但吃性能，竞技党如果帧数吃紧，优先保帧数；这次修复不强迫你开最高画质，按显卡量力而行。</li>
+<li>购买建议：本次是修复资讯，不涉及折扣或限免。战争雷霆本体免费，氪金看需求，别因为一个阴影修复就冲动消费。</li>
+</ol>
+<p>📢 官方 Telegram 频道推荐</p>
+<p>我平时盯秒级限免、特惠和临时活动，最怕错过窗口期。建议各位车长加入官方 Telegram 频道 @steamhunterlink，限免与特惠推送来得快，喜加一和背刺信息也能第一时间看到。</p>
+<p>❓ 常见问题 FAQ</p>
+<p>Q1：更新后光追阴影还是闪怎么办？
+A：先确认客户端已更新到最新版本，并检查显卡驱动。可以关闭再开启光追阴影复测；如果仍能稳定复现，记录机型、地图和操作步骤，到官方社区问题平台反馈。</p>
+<p>Q2：回收物品数量还是不对怎么办？
+A：本次已修复翻页界面叠加和回收数量少于指定的问题。更新后如果仍遇到，先确认不是网络或页面刷新造成的显示延迟，再记录具体物品、数量和操作顺序提交反馈。</p>
+<p>Q3：研究窗口折叠载具等级后怎么恢复？
+A：把鼠标悬停在折叠的载具等级上，会看到工具提示，按提示操作即可恢复标准界面。它不是把研究锁死了，只是之前提示不够明确。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e6%88%98%e4%ba%89%e9%9b%b7%e9%9c%86/" class="article-tag-item">#战争雷霆</a>
+          
+          <a href="/tags/%e5%ae%98%e6%96%b9%e6%9b%b4%e6%96%b0/" class="article-tag-item">#官方更新</a>
+          
+          <a href="/tags/%e9%98%b4%e5%bd%b1%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#阴影修复</a>
+          
+          <a href="/tags/%e7%95%8c%e9%9d%a2%e4%bc%98%e5%8c%96/" class="article-tag-item">#界面优化</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-21-236390-3745c442/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-21-4833770-60678915/" class="sibling-title">《Spirit Route》紧急热修：远征怪物数值回调与节点残留修复</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-21-4833770-675a343c/" class="sibling-title">《Spirit Route》1.1.7补丁：稳定性优化与弹道拖尾修复</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#阴影修复光追和普通阴影都挨个收拾">阴影修复：光追和普通阴影都挨个收拾</a></li>
+        <li><a href="#回收物品界面和数量两头堵">回收物品：界面和数量两头堵</a></li>
+        <li><a href="#载具等级折叠不是锁了是提示没跟上">载具等级折叠：不是锁了，是提示没跟上</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

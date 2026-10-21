@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 23:01:39 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 21 Oct 2026 17:06:14 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Spirit Route》紧急热修：远征怪物数值回调与节点残留修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-4833770-60678915/</link>
+				<pubDate>Wed, 21 Oct 2026 17:06:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-4833770-60678915/</guid>
+				<description>《Spirit Route》推送紧急热修，一口气解决远征模式两个要命的问题：一是推进节点后，上一节点的怪物仍滞留在内存里；二是远征模式怪物血量与防御高于设计值，导致难度虚高。本次更新后远征节奏回归设计预期，玩家只需关闭游戏、更新到最新版本即可生效。本文梳理修复要点、配装思路调整与实操避坑建议。</description>
+			</item>
+			<item>
+				<title>《21: Dead Man&#39;s Deck》补丁：默认曲回归与街机提速</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-4737540-99a4b7e6/</link>
+				<pubDate>Wed, 21 Oct 2026 00:45:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-4737540-99a4b7e6/</guid>
+				<description>《21: Dead Man&amp;rsquo;s Deck》发布小型补丁：Dead Man&amp;rsquo;s Well 默认曲目重新切回 Reaper&amp;rsquo;s Pulse，Crypt Hymns 保留为外观主题；街机模式整体节奏加快，Dealer&amp;rsquo;s Trials 难度上调，对战模式下双方井共享下落速度，确保牌桌公平。本文整理改动要点、上手建议与常见问题。</description>
+			</item>
 			<item>
 				<title>黎明杀机 10.2.2 补丁：黑暗傲慢回调重做，怪奇物语联动定档 11 月</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-381210-5bb2a29d/</link>

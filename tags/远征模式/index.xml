@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>远征模式 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%BF%9C%E5%BE%81%E6%A8%A1%E5%BC%8F/</link>
+		<description>Recent content in 远征模式 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 17:06:14 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%BF%9C%E5%BE%81%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Spirit Route》紧急热修：远征怪物数值回调与节点残留修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-4833770-60678915/</link>
+				<pubDate>Wed, 21 Oct 2026 17:06:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-4833770-60678915/</guid>
+				<description>《Spirit Route》推送紧急热修，一口气解决远征模式两个要命的问题：一是推进节点后，上一节点的怪物仍滞留在内存里；二是远征模式怪物血量与防御高于设计值，导致难度虚高。本次更新后远征节奏回归设计预期，玩家只需关闭游戏、更新到最新版本即可生效。本文梳理修复要点、配装思路调整与实操避坑建议。</description>
+			</item>
+	</channel>
+</rss>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 13:00:16 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 21 Oct 2026 18:21:01 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AE%98%E6%96%B9%E5%85%AC%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《僵尸毁灭工程》官方敲黑板：Java模组能改底层，别见码就装</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-108600-b27e4e10/</link>
+				<pubDate>Wed, 21 Oct 2026 18:21:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-108600-b27e4e10/</guid>
+				<description>《僵尸毁灭工程》官方发布模组安全说明：Java模组能直接触碰游戏底层，带来颠覆玩法的同时，也可能引入安全风险。官方建议只从可信作者与平台下载，优先选择开源或可复现构建的模组，并提醒创意工坊订阅不等于绝对安全。本文梳理核心要点、安装避坑与实操建议。</description>
+			</item>
 			<item>
 				<title>AION 2 维护公告：10月21日停机5.5小时，开服时间与避坑提醒</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-3393110-5059c3d4/</link>

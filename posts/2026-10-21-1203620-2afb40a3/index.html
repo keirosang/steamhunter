@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《雾锁王国》1.0.0.3热修复：存档迁移与崩溃问题集中修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《雾锁王国》1.0.0.3热修复已上线，版本号1273043。本次重点修复水模拟、退出游戏、工厂交互、配方解锁筛选等多项崩溃，并优化存档迁移、多人加载黑屏、AMD显卡垂直同步卡顿与大型基地灯光闪烁。错过抢先体验奖励的玩家也可在暂停菜单补领。建议开黑前先更新。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《雾锁王国》1.0.0.3热修复：存档迁移与崩溃问题集中修复">
+  <meta property="og:description" content="《雾锁王国》1.0.0.3热修复已上线，版本号1273043。本次重点修复水模拟、退出游戏、工厂交互、配方解锁筛选等多项崩溃，并优化存档迁移、多人加载黑屏、AMD显卡垂直同步卡顿与大型基地灯光闪烁。错过抢先体验奖励的玩家也可在暂停菜单补领。建议开黑前先更新。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-21-1203620-2afb40a3/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/9c71923d518aa7ed.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-21-1203620-2afb40a3/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《雾锁王国》1.0.0.3热修复：存档迁移与崩溃问题集中修复</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Enshrouded</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 1203620</span>
+      
+    </div>
+
+    <h1 class="article-title">《雾锁王国》1.0.0.3热修复：存档迁移与崩溃问题集中修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-21T18:07:19&#43;08:00" class="meta-date">
+          📅 2026-10-21 18:07
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1828 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/1203620/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/1203620" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/9c71923d518aa7ed.jpg" alt="《雾锁王国》1.0.0.3热修复：存档迁移与崩溃问题集中修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《雾锁王国》1.0.0.3热修复已上线，版本号1273043。本次重点修复水模拟、退出游戏、工厂交互、配方解锁筛选等多项崩溃，并优化存档迁移、多人加载黑屏、AMD显卡垂直同步卡顿与大型基地灯光闪烁。错过抢先体验奖励的玩家也可在暂停菜单补领。建议开黑前先更新。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="雾锁王国1003-热修复速报存档迁移与崩溃问题集中处理">《雾锁王国》1.0.0.3 热修复速报：存档迁移与崩溃问题集中处理</h1>
+<p>各位在雾里盖房、下矿、被怪追着跑的老伙计们，我是你们的主理人。Steam AppID 1203620 的《雾锁王国》正式版刚站稳脚跟，官方就端上了 Hotfix 1.0.0.3，版本号 1273043。别小看这次补丁，它不是加新地图那种画大饼，而是专门收拾让人血压飙升的崩溃、黑屏和存档迁移小毛病。先把结论放前面：建议所有玩家更新，尤其是多人联机、AMD 显卡和从旧版本迁移存档的兄弟。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li>补领抢先体验奖励：部分玩家缺失的 Early Access 奖励，现在可在游戏暂停菜单中正确领取。</li>
+<li>崩溃修复大礼包：水模拟、退出游戏、随机崩溃、工厂交互、配方列表筛选状态下解锁新配方等场景的崩溃均被处理。</li>
+<li>存档迁移更稳：修复迁移过程罕见崩溃，优化额外背包槽非法条目、火焰祭坛未正确落在体素网格等异常情况。</li>
+<li>联机与画面问题：修复多人游戏加载无限黑屏、大型基地灯光闪烁，以及 AMD 显卡开启垂直同步时的卡顿。</li>
+<li>代价提醒：火焰祭坛位置异常被修正后，受影响基地的水体无法加载，需要玩家按需重新添加。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-抢先体验奖励补领暂停菜单里查漏补缺">1. 抢先体验奖励补领：暂停菜单里查漏补缺</h3>
+<p>之前有玩家反馈抢先体验奖励没到账，这次官方把入口修到了暂停菜单里。简单说，缺失奖励的账号现在能正确看到并可领取。对老玩家来说，这属于“该我的别少”，对刚入坑的兄弟也算一个补票窗口。上线先别急着冲出去砍树，打开暂停菜单扫一眼，说不定有惊喜。</p>
+<h3 id="2-崩溃修复水工厂配方退出游戏都照顾到了">2. 崩溃修复：水、工厂、配方、退出游戏都照顾到了</h3>
+<p>这次热修的核心就是“别闪退”。官方处理了与水模拟相关的多个崩溃、离开游戏时可能出现的崩溃、随机崩溃、与工厂交互时的崩溃，以及配方列表处于筛选状态时解锁新配方触发的崩溃。说人话就是：你辛辛苦苦造的水景、自动化工厂和刚解锁的新配方，不会再那么容易把游戏送走。尤其是工厂党，建议更新后再大规模铺产线。</p>
+<h3 id="3-存档迁移能救则救但水体可能要手动补">3. 存档迁移：能救则救，但水体可能要手动补</h3>
+<p>存档迁移是这次的重点之一。官方修复了迁移过程中可能出现的罕见崩溃，并优化了角色额外背包槽存在无效条目时的迁移逻辑，角色现在应能正确迁移，只是那些导致流程卡住的物品会被排除。另一个情况是火焰祭坛因未知原因没有落在体素网格中，迁移过程会修正祭坛位置。注意，受影响玩家基地的水体无法加载，需要按需重新添加。建议迁移后先巡视基地，看看水池、护城河和景观水景还在不在。</p>
+<h3 id="4-联机黑屏与-amd-垂直同步卡顿">4. 联机黑屏与 AMD 垂直同步卡顿</h3>
+<p>多人游戏加载时出现的无限黑屏被修复了一部分，这对开黑党是实打实的好消息。另外，AMD 显卡开启垂直同步时的卡顿问题也有改善。虽然官方没说“彻底根治”，但至少方向对了。A 卡玩家更新后可以重点测试一下，如果仍有卡顿，先关垂直同步或限制帧数，别让显卡一边干活一边背锅。</p>
+<h3 id="5-大型基地灯光闪烁">5. 大型基地灯光闪烁</h3>
+<p>大型玩家基地里部分灯光闪烁的问题也修了。造景党、城堡党和“灯光必须拉满”的氛围党可以少掉几根头发。不过如果基地规模特别夸张，更新后仍建议控制一下光源数量，毕竟体素建造的快乐和性能的拉扯是长期战争。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li>先更新再进游戏：确认版本号为 1273043，联机时房主和队友尽量统一版本，避免版本不一致带来的玄学问题。</li>
+<li>备份存档：尤其是从旧版本迁移过来的角色，进游戏前手动备份存档，稳一手不亏。</li>
+<li>迁移后检查三件事：额外背包槽、火焰祭坛位置、基地水体。发现水没了就手动补，别以为是新特性。</li>
+<li>奖励补领：打开暂停菜单查看抢先体验奖励；若没刷出来，重启游戏或切换角色再试。</li>
+<li>联机避坑：遇到加载黑屏先重启游戏、验证文件完整性，再让房主先进世界，队友后加入；别急着重置存档。</li>
+<li>AMD 玩家：更新后测试垂直同步，若仍卡顿可先关闭 V-Sync 或限帧，再观察大型基地表现。</li>
+<li>大型基地：灯光闪烁修复后若仍有问题，适当减少光源数量、降低阴影质量，性能会更稳。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间收到 Steam 限免、喜加一、史低背刺、热修复和联机活动提醒？加入官方 Telegram 频道 @steamhunterlink。秒级推送，不用天天刷商店页，福利和背刺都不容易错过。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：1.0.0.3 更新后需要开新档吗？</strong></p>
+<p>一般不需要。本次是热修复，主要修崩溃和存档迁移问题；但迁移异常基地的水体可能要手动补。建议先备份存档再进游戏。</p>
+<p><strong>Q2：我在暂停菜单没看到抢先体验奖励怎么办？</strong></p>
+<p>先确认游戏已更新到 1273043，重启游戏或切换角色再看暂停菜单；仍没有的话，检查是否登录了正确的账号和存档。</p>
+<p><strong>Q3：多人加载一直黑屏怎么办？</strong></p>
+<p>官方已修复部分无限黑屏。若仍遇到，先统一版本、重启游戏、验证文件完整性，再让房主先进入世界后队友加入；别急着重置存档。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Enshrouded/" class="article-tag-item">#Enshrouded</a>
+          
+          <a href="/tags/%e9%9b%be%e9%94%81%e7%8e%8b%e5%9b%bd/" class="article-tag-item">#雾锁王国</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#热修复</a>
+          
+          <a href="/tags/%e5%ad%98%e6%a1%a3%e8%bf%81%e7%a7%bb/" class="article-tag-item">#存档迁移</a>
+          
+          <a href="/tags/%e5%b4%a9%e6%ba%83%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#崩溃修复</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-21-1203620-2afb40a3/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-21-4833770-675a343c/" class="sibling-title">《Spirit Route》1.1.7补丁：稳定性优化与弹道拖尾修复</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-21-108600-b27e4e10/" class="sibling-title">《僵尸毁灭工程》官方敲黑板：Java模组能改底层，别见码就装</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-抢先体验奖励补领暂停菜单里查漏补缺">1. 抢先体验奖励补领：暂停菜单里查漏补缺</a></li>
+        <li><a href="#2-崩溃修复水工厂配方退出游戏都照顾到了">2. 崩溃修复：水、工厂、配方、退出游戏都照顾到了</a></li>
+        <li><a href="#3-存档迁移能救则救但水体可能要手动补">3. 存档迁移：能救则救，但水体可能要手动补</a></li>
+        <li><a href="#4-联机黑屏与-amd-垂直同步卡顿">4. 联机黑屏与 AMD 垂直同步卡顿</a></li>
+        <li><a href="#5-大型基地灯光闪烁">5. 大型基地灯光闪烁</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

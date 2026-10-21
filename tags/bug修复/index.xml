@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 23:16:50 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 21 Oct 2026 17:08:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆№119修复上线：光追阴影不闪了，回收与研究界面也顺手了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-236390-3745c442/</link>
+				<pubDate>Wed, 21 Oct 2026 17:08:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-236390-3745c442/</guid>
+				<description>战争雷霆推送It’s fixed! №119修复合集，重点处理光追阴影下飞行器座舱闪烁、远处斜坡树木阴影长短异常，以及“非常高”阴影质量切换坦克瞄具时的阴影闪烁与短暂消失。回收物品界面叠加和数量异常、载具等级折叠后研究看似锁定也一并优化。我整理了核心改动、设置检查与上手建议，车长们更新后即可验证。</description>
+			</item>
 			<item>
 				<title>《模拟人生4》10月27日大更新：150&#43;修复与美食餐饮玩法升级</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-1222670-2a6fd349/</link>

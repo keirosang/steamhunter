@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Spirit Route on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/spirit-route/</link>
+		<description>Recent content in Spirit Route on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 17:36:46 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/spirit-route/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Spirit Route》1.1.7补丁：稳定性优化与弹道拖尾修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-4833770-675a343c/</link>
+				<pubDate>Wed, 21 Oct 2026 17:36:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-4833770-675a343c/</guid>
+				<description>《Spirit Route》推送 1.1.7 热修补丁，官方只给了两行说明：整体提升游戏稳定性，并修复投射物拖尾特效偶尔残留的问题。本次没有新增内容与数值平衡改动，属于典型的“字少事大”型维护更新。本文拆解这两条改动对实际体验的影响，并附上更新验证、开黑同版本、画面设置与问题反馈的实操建议。</description>
+			</item>
+			<item>
+				<title>《Spirit Route》紧急热修：远征怪物数值回调与节点残留修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-4833770-60678915/</link>
+				<pubDate>Wed, 21 Oct 2026 17:06:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-4833770-60678915/</guid>
+				<description>《Spirit Route》推送紧急热修，一口气解决远征模式两个要命的问题：一是推进节点后，上一节点的怪物仍滞留在内存里；二是远征模式怪物血量与防御高于设计值，导致难度虚高。本次更新后远征节奏回归设计预期，玩家只需关闭游戏、更新到最新版本即可生效。本文梳理修复要点、配装思路调整与实操避坑建议。</description>
+			</item>
+	</channel>
+</rss>
