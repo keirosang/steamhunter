@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Thu, 22 Oct 2026 01:02:49 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 22 Oct 2026 04:32:02 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Soul Mates》结束抢先体验：完整剧情上线，全语音更新在路上</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-2279440-9d17289d/</link>
+				<pubDate>Thu, 22 Oct 2026 04:32:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-2279440-9d17289d/</guid>
+				<description>Panda 团队宣布，《Soul Mates》正式结束抢先体验，完整剧情现已上线。这款点击式生存恐怖恋爱模拟把“心跳”玩明白了：一边谈恋爱，一边在阴森场景里求生。官方表示后续还会加入全语音并继续打磨细节，已购买抢先体验版的玩家可直接更新开玩。喜欢恐怖恋爱题材的玩家可以关注。</description>
+			</item>
+			<item>
+				<title>CUSTOM PENNANT BASEBALL教程上线：一年不占存档</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-5101820-bdc07d97/</link>
+				<pubDate>Thu, 22 Oct 2026 02:36:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-5101820-bdc07d97/</guid>
+				<description>官方给《CUSTOM PENNANT BASEBALL》标题界面加了教程按钮，会带玩家完整走完一个赛季年，从建队到打完比赛一路有引导，而且教程期间不写入存档，随便折腾不心疼。对想入坑棒球模拟又怕规则复杂的朋友，这波等于白送一个安全练手沙盒。本文把更新要点、上手路线和避坑建议一次讲清。</description>
+			</item>
+			<item>
+				<title>Puppet Mall 第一章热修#1：锅炉房卡对话、通风管字幕丢失已修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-5132990-587f969c/</link>
+				<pubDate>Thu, 22 Oct 2026 02:35:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-5132990-587f969c/</guid>
+				<description>《Puppet Mall: Chapter 1: Lost Friend》上线后首个热修 #1 正式推送。本次更新集中处理三件事：锅炉房地下室点燃炉子后对话不触发的恶性卡关、通风管坠落段落语音重复播放且字幕不显示的毛病，以及整体性能优化。本文梳理修复细节、更新后需要注意的存档与设置问题，并给出遇到残留 Bug 时的排查步骤与恐怖解谜开荒建议。</description>
+			</item>
 			<item>
 				<title>《Puppet Mall》第一章正式发售：废弃商场恐怖解谜，找失踪好友找到头皮发麻</title>
 				<link>https://info.steamhunter.link/posts/2026-10-22-5132990-36e8170c/</link>
@@ -28,11 +49,25 @@
 				<description>《Pyramidion》迎来内容大版本：全新高难度地图与新型敌人登场，联机人数上限提升至3人，弓、鞭、火把三套工具分工协作成为通关关键；昼夜循环与降雨天气系统同步实装，房间系统、断线重连与网络、画面性能也一并优化，开黑爬塔体验全面升级。</description>
 			</item>
 			<item>
+				<title>《梦见樱花毕业式》Ver.2.0上架Steam：全手柄支持&#43;成就云存档</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-5292500-b1ecf9c6/</link>
+				<pubDate>Wed, 21 Oct 2026 23:54:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-5292500-b1ecf9c6/</guid>
+				<description>《梦见樱花毕业式》正式以Ver.2.0上架Steam，支持Windows、Mac、Linux并通过Steam Deck验证，Xbox与DualSense手柄即插即用，自带12项成就与云存档。画廊、章节选择、音乐播放器和设置项全面翻新，新增曲目与特典图；英文文本暂为过渡版本，后续将替换为专业本地化。</description>
+			</item>
+			<item>
 				<title>《欧洲卡车模拟2》英国重制爱丁堡揭晓：王子街、城堡与利斯港抢先看</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-227300-dc27532e/</link>
 				<pubDate>Wed, 21 Oct 2026 23:00:14 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-21-227300-dc27532e/</guid>
 				<description>《欧洲卡车模拟2》UK Rework项目公布爱丁堡开发细节：王子街串联斯科特纪念碑、巴尔莫勒尔钟楼与城堡岩上的爱丁堡城堡，亚瑟王座、利斯港工业区、海滨车库和电车/双层巴士也一并登场。爱丁堡将提供港口、工地与城郊货运点位，并为未来客车内容预留巴士站，苏格兰首都的送货路线更有看头。</description>
+			</item>
+			<item>
+				<title>永劫无间10·22更新：鸿门宴剧情玩法上线，西泠印社联动与回溯装置来袭</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-1203220-74bb9689/</link>
+				<pubDate>Wed, 21 Oct 2026 22:39:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-1203220-74bb9689/</guid>
+				<description>永劫无间将于10月22日停机更新，裂隙穿越新章节「风起·鸿门宴」正式登场：三幕式局内活动从布置宴席、破解范增项庄阴谋到护送刘邦脱身，全流程可拿箱子奖励。同时新增回溯装置与宝棺两大机制，重构搜刮经济；西泠印社联动同步开启，集沛公令牌换印章、敲柷听曲抽联动遗物。本文梳理玩法细节与实操要点。</description>
 			</item>
 			<item>
 				<title>《Truth Beneath the Shadows》试玩Demo免费上线，悬疑新作先摸底再加愿望单</title>

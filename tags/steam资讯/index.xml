@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 19:19:07 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 22 Oct 2026 04:25:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>万圣节《Goober Street》V1.01热修：车库门与锡箔人提示</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-5279620-6f8748cc/</link>
+				<pubDate>Thu, 22 Oct 2026 04:25:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-5279620-6f8748cc/</guid>
+				<description>万圣节氛围小游戏《Halloween On Goober Street》推送 V1.01 小型热修复：开发者为部分缺失碰撞的车库门补上判定，并在玩家互动锡箔人房门时加入文字弹窗，解释角色为何暂时无法移动，减少“我是不是卡死了”的误会。对一款主打节日气氛的小品级作品来说，这种补丁虽小，却直接关系到流程顺畅度；本文梳理更新内容、实操建议与高频 FAQ，方便快速回坑。</description>
+			</item>
+			<item>
+				<title>BeamNG.drive v0.40热修复：拖挂物理与分屏卡死修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-284160-db3f71ec/</link>
+				<pubDate>Thu, 22 Oct 2026 00:02:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-284160-db3f71ec/</guid>
+				<description>BeamNG.drive v0.40.1热修复已推送，这次不整虚的，直击拖挂物理、分屏设置卡死、生涯教程弹窗和模组地图隐形地面高度等痛点。Vivace/Tograc前杠碰撞尖峰、FPU箱式拖车超重与双托盘载重统一也一并处理。我整理了修复重点、更新建议和常见问题，帮你快速判断是否要立刻回坑。</description>
+			</item>
 			<item>
 				<title>《Bio Inc. Classic》热修上线：成就BUG修复，全成就党终于能安心收割一波了</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-5164130-c8fa6bc3/</link>

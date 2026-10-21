@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>SpacePorts on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/spaceports/</link>
+		<description>Recent content in SpacePorts on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Oct 2026 00:56:48 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/spaceports/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SpacePorts官方服改每月开新组，旧实例统一更名test</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-4872940-ee7133ee/</link>
+				<pubDate>Thu, 22 Oct 2026 00:56:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-4872940-ee7133ee/</guid>
+				<description>SpacePorts在10月21日更新日志中调整官方服务器节奏：以后每月开启一组新官方服，让新玩家和开黑小队都有更清晰的新档起点；同时，正式开服前启动的游戏实例统一更名为“test”，避免与正式服混淆。本文拆解这次改动对旧实例、选服和联机开荒的实际影响，并给出上手避坑建议。</description>
+			</item>
+	</channel>
+</rss>
