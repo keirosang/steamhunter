@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>崩溃修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%B4%A9%E6%BA%83%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 崩溃修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 02:05:45 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%B4%A9%E6%BA%83%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apex英雄10月20日更新：AMD驱动修复9070崩溃，升级避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-1172470-8cc1d718/</link>
+				<pubDate>Wed, 21 Oct 2026 02:05:45 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-1172470-8cc1d718/</guid>
+				<description>Apex英雄10月20日官方更新要点来了：AMD推送全新主线驱动，专门修复Radeon RX 9070系列显卡在游戏中的崩溃问题。使用相关显卡的玩家建议尽快升级到最新驱动版本，避免排位关键时刻闪退掉分。本文整理驱动更新内容、升级步骤、开黑避坑与常见问题，帮你稳定上分。</description>
+			</item>
+	</channel>
+</rss>

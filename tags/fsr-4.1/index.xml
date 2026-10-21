@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>FSR 4.1 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/fsr-4.1/</link>
+		<description>Recent content in FSR 4.1 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 00:49:06 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/fsr-4.1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AMD 新驱动为《现代战争4》解锁 FSR 4.1，RX 6000 系列卡顿终于修好了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-4435490-fe98ad3e/</link>
+				<pubDate>Wed, 21 Oct 2026 00:49:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-4435490-fe98ad3e/</guid>
+				<description>AMD Adrenalin 26.10.1 驱动正式推送，FSR 4.1 首次下放到 RX 6000 显卡与 Ryzen AI 系列处理器，同时《使命召唤：现代战争4》等三款新作加入支持名单。更关键的是，官方修掉了 RX 6000 及以上显卡在 MW4 里那股让人抓狂的间歇性卡顿。不过新驱动仍带着一长串已知问题，升级前建议先看看自己有没有踩雷。</description>
+			</item>
+	</channel>
+</rss>
