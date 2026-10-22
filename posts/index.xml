@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Thu, 22 Oct 2026 05:00:03 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 22 Oct 2026 06:12:40 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck 稳定版客户端更新：Vulkan 游戏 Alt-Tab 卡死修复，桌面模式不再抽风</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-1675200-0d7692a6/</link>
+				<pubDate>Thu, 22 Oct 2026 06:12:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-1675200-0d7692a6/</guid>
+				<description>10 月 21 日 Steam 客户端稳定版推送，三条改动看着不起眼，却精准命中桌面模式的陈年痛点：Vulkan 游戏 Alt-Tab 后卡死的问题终于被修，证书吊销列表同步刷新，连带治好了不列颠哥伦比亚省玩家的日期显示错乱。对常年用 Proton 跑 3A 大作的 Deck 玩家和双屏切来切去的多任务党来说，这次更新值得立刻重启客户端吃上。</description>
+			</item>
+			<item>
+				<title>《Lighthouse of Madness》发售：愿望单破1.7万</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-1564060-415b44c1/</link>
+				<pubDate>Thu, 22 Oct 2026 05:42:45 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-1564060-415b44c1/</guid>
+				<description>独立恐怖新作《Lighthouse of Madness》正式登陆 Steam，愿望单突破17,000。官方发文感谢玩家一路支持。本文梳理发售看点、愿望单里程碑的意义、购买与入库注意事项，并提醒：这是正式发售，不是喜加一限免，价格、语言与配置以商店页为准，适合关注独立恐怖新作的玩家先看再入。</description>
+			</item>
+			<item>
+				<title>《Wartide》Steam正式发售：小窗挂机守基地，150波战役加核弹重开</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-4303660-eeba5fa8/</link>
+				<pubDate>Thu, 22 Oct 2026 05:09:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-4303660-eeba5fa8/</guid>
+				<description>《Wartide》正式登陆Steam，主打小窗口钉屏：一边工作一边守多方向前线基地。150波战役横跨沙漠、城市、雪地、森林，13种单位从步枪班解锁到阿帕奇与科曼奇直升机；总部含研究、合同、训练、打击指令与远征。第75波起可核平当前局，带强化重开。开发者Tolga在Steam讨论区看反馈，Metal Thunder 1.0将于10月29日推出。</description>
+			</item>
 			<item>
 				<title>《碧蓝幻想Relink》Steam史低立省40%，23.99美元永久入库开冲</title>
 				<link>https://info.steamhunter.link/posts/2026-10-22-881020-6316b0f0/</link>
@@ -47,6 +68,13 @@
 				<pubDate>Thu, 22 Oct 2026 04:00:27 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-22-1564060-7329cd38/</guid>
 				<description>《Lighthouse of Madness》正式发售，官方同步开启登岛直播，邀请 Too Many Goblins 的 Bruce 抢先试玩 Darrene Island。玩家可在 Steam 或 YouTube 观看，第一时间感受探索氛围、岛屿谜团与首发实机表现。本文整理直播看点、入手建议和常见问题，帮你判断这款新作是否值得上车。</description>
+			</item>
+			<item>
+				<title>《杰西卡的选择：强迫》第一章提前近20小时上线，一次买断畅玩全篇章</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-3570930-4302bbd5/</link>
+				<pubDate>Thu, 22 Oct 2026 03:56:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-3570930-4302bbd5/</guid>
+				<description>原本说好明天18点上线的《Jessica&amp;rsquo;s Choices – Forced》，官方突然提前近20小时在Steam放出第一章。最关键是买断制：一次购买即包含完整游戏，后续章节都会以免费更新加入，无需逐章再付费。已经关注或加入愿望单的玩家现在就能入库开玩，别再等预告时间；想等完整版的也可以先了解章节更新节奏再做决定。</description>
 			</item>
 			<item>
 				<title>绝地求生PGS 11胜者组开战：240积分定PGC 2026八张门票</title>
@@ -250,6 +278,13 @@
 				<pubDate>Wed, 21 Oct 2026 20:53:59 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-21-3716120-f021e863/</guid>
 				<description>悬疑新作《Truth Beneath the Shadows》正式放出面向所有玩家的可玩Demo，无需购买本体即可下载体验。本期专栏聊聊这个Demo到底值不值得你腾出半小时硬盘空间、试玩时该盯紧哪些细节，以及如何一键加入愿望单和官方Discord反馈渠道，顺便把入库与避坑要点一次讲清。</description>
+			</item>
+			<item>
+				<title>Moadra 获 Steam Deck 认证：试玩版更新与 10 月 22 日发售</title>
+				<link>https://info.steamhunter.link/posts/2026-10-21-1713730-c1200133/</link>
+				<pubDate>Wed, 21 Oct 2026 20:20:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-21-1713730-c1200133/</guid>
+				<description>Moadra 官方确认已通过 Steam Deck 认证，试玩版同步更新多语言支持、按键重绑定、扫描日志与可继承存档，试玩成就也会在购买并启动正式版后解锁到 Steam 账号。游戏将于北京时间 10 月 22 日 15:00 登陆 Protea VI，PC 玩家可先下试玩版验货，再决定是否首发入库。</description>
 			</item>
 			<item>
 				<title>《Yakiniku!!!》正式开张！四人联机烤肉店，Demo先尝后买</title>
@@ -1020,6 +1055,13 @@
 				<pubDate>Mon, 19 Oct 2026 14:21:50 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-19-4954910-47084837/</guid>
 				<description>诈骗模拟器《Scam With Your Friends》推送0.1.82版本，重点修复语音识别兼容性，新增Whisper超时切换Moonshine、Deepgram密钥警告等实用功能。家庭友好模式全面强化，屏蔽游戏内浏览器并替换敏感照片。同时优化目标识别、文本输入稳定性，并加入Steam好友添加按钮与声望显示，联机体验更流畅。</description>
+			</item>
+			<item>
+				<title>《Jessica&#39;s Choices》新章10月22日Steam上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-19-3570930-4fc3b19b/</link>
+				<pubDate>Mon, 19 Oct 2026 13:48:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-19-3570930-4fc3b19b/</guid>
+				<description>官方确认，《Jessica&amp;rsquo;s Choices – Forced》第一章将于2026年10月22日英国时间18:00登陆Steam，北京时间10月23日凌晨1点解锁。新章延续Jessica的故事，带来全新选择与后果，并感谢玩家愿望单支持。本文整理上线时间、入库建议、开玩准备与常见问题，方便大家第一时间跟进。</description>
 			</item>
 			<item>
 				<title>《赛博朋克2077》电影官宣！全新剧情不炒冷饭，夜之城再启新篇</title>

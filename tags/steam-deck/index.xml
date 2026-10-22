@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 23:54:39 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 22 Oct 2026 06:12:40 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck 稳定版客户端更新：Vulkan 游戏 Alt-Tab 卡死修复，桌面模式不再抽风</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-1675200-0d7692a6/</link>
+				<pubDate>Thu, 22 Oct 2026 06:12:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-1675200-0d7692a6/</guid>
+				<description>10 月 21 日 Steam 客户端稳定版推送，三条改动看着不起眼，却精准命中桌面模式的陈年痛点：Vulkan 游戏 Alt-Tab 后卡死的问题终于被修，证书吊销列表同步刷新，连带治好了不列颠哥伦比亚省玩家的日期显示错乱。对常年用 Proton 跑 3A 大作的 Deck 玩家和双屏切来切去的多任务党来说，这次更新值得立刻重启客户端吃上。</description>
+			</item>
 			<item>
 				<title>《梦见樱花毕业式》Ver.2.0上架Steam：全手柄支持&#43;成就云存档</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-5292500-b1ecf9c6/</link>
