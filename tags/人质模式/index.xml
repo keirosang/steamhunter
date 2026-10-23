@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>人质模式 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E4%BA%BA%E8%B4%A8%E6%A8%A1%E5%BC%8F/</link>
+		<description>Recent content in 人质模式 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 23 Oct 2026 06:56:10 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E4%BA%BA%E8%B4%A8%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CS2 更新：地图脚本 API 大扩容，人质玩法与工坊自定义迎来新春天</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-730-69e6b617/</link>
+				<pubDate>Fri, 23 Oct 2026 06:56:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-730-69e6b617/</guid>
+				<description>CS2 这波更新把地图脚本 API 狠狠扩了一圈：人质从背景板变成可编程对象，拾取、搬运、营救、阵亡全有事件回调；新增顶层 Console 与 GameRules，能读写 Convar、直接开暖场、改比分、终结回合；资源预载与一堆枚举、返回值 Bug 同步修复。枪械数值和匹配机制纹丝不动，受影响最大的是创意工坊作者。</description>
+			</item>
+	</channel>
+</rss>

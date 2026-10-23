@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 18:07:19 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 22 Oct 2026 20:00:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B4%A9%E6%BA%83%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《绝地潜兵2》7.2.1热修上线：组队加入/离开崩溃修复，联机开黑更稳了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-553850-fdbe59a7/</link>
+				<pubDate>Thu, 22 Oct 2026 20:00:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-553850-fdbe59a7/</guid>
+				<description>《绝地潜兵2》7.2.1 热修已上线，这次 Arrowhead 没有整花活，核心就是修一个高频联机崩溃：当其他玩家加入或离开小队时可能触发的客户端崩溃。对经常开黑、匹配、好友进退队的潜兵来说，这波属于实打实的稳定性补丁。本文整理了修复重点、更新后实操建议、联机避坑与常见问题，帮你快速确认版本并减少崩溃概率。</description>
+			</item>
 			<item>
 				<title>《雾锁王国》1.0.0.3热修复：存档迁移与崩溃问题集中修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-1203620-2afb40a3/</link>

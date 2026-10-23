@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 11:53:30 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 23 Oct 2026 18:33:46 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gray Zone Warfare 0.5.0.1热修：仓库与排队修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-2479810-0c4d2f84/</link>
+				<pubDate>Fri, 23 Oct 2026 18:33:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-2479810-0c4d2f84/</guid>
+				<description>《Gray Zone Warfare》0.5.0.1后端热修现已上线，本次无需下载任何客户端补丁。官方重点修复了两大糟心问题：赛季切换时非DLC玩家仓库被误重置回基础容量，以及排队等待后无法成功连接服务器。对于靠军阶解锁额外仓库空间的硬核玩家来说，这波修复相当关键。下面整理修复细节、实操建议与高频答疑，方便大家快速回战场。</description>
+			</item>
 			<item>
 				<title>Astrolite紧急热修：武器10级11级无法正确切换的Bug已修复，新上限12级</title>
 				<link>https://info.steamhunter.link/posts/2026-10-14-3450850-e3073bed/</link>

@@ -10,9 +10,65 @@
 		
 		
 		
-			<lastBuildDate>Thu, 22 Oct 2026 01:03:07 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 23 Oct 2026 18:33:46 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gray Zone Warfare 0.5.0.1热修：仓库与排队修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-2479810-0c4d2f84/</link>
+				<pubDate>Fri, 23 Oct 2026 18:33:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-2479810-0c4d2f84/</guid>
+				<description>《Gray Zone Warfare》0.5.0.1后端热修现已上线，本次无需下载任何客户端补丁。官方重点修复了两大糟心问题：赛季切换时非DLC玩家仓库被误重置回基础容量，以及排队等待后无法成功连接服务器。对于靠军阶解锁额外仓库空间的硬核玩家来说，这波修复相当关键。下面整理修复细节、实操建议与高频答疑，方便大家快速回战场。</description>
+			</item>
+			<item>
+				<title>Limbus Company新人格定向提取开启：UP池概率、兑换天井与狂气规划全指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-1973530-863e7656/</link>
+				<pubDate>Fri, 23 Oct 2026 16:59:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-1973530-863e7656/</guid>
+				<description>2026年10月22日（KST）Limbus Company开启新一轮New Identity Target Extraction，全新000人格限时UP。本期从卡池规则、抽取价值判断、兑换天井（保底）机制、Steam与移动端跨端绑定，到狂气攒取路线与配队思路，一次性讲清该不该抽、怎么抽最不亏，帮你在囚徒列车上少走弯路少花冤枉钱。</description>
+			</item>
+			<item>
+				<title>Steam Deck OLED HDR回归！远程畅玩大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-1675200-2cca18c8/</link>
+				<pubDate>Fri, 23 Oct 2026 08:35:45 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-1675200-2cca18c8/</guid>
+				<description>Steam Beta客户端10月22日更新重做Remote Play的HDR支持：新增自动、常开、关闭三档设置，桌面Linux与macOS串流补上HDR捕获；Steam Deck OLED的HDR重新启用，Android 15及以上手机配Beta版Steam Link也能尝鲜。我整理了设置建议与避坑要点。</description>
+			</item>
+			<item>
+				<title>CS2 更新：地图脚本 API 大扩容，人质玩法与工坊自定义迎来新春天</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-730-69e6b617/</link>
+				<pubDate>Fri, 23 Oct 2026 06:56:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-730-69e6b617/</guid>
+				<description>CS2 这波更新把地图脚本 API 狠狠扩了一圈：人质从背景板变成可编程对象，拾取、搬运、营救、阵亡全有事件回调；新增顶层 Console 与 GameRules，能读写 Convar、直接开暖场、改比分、终结回合；资源预载与一堆枚举、返回值 Bug 同步修复。枪械数值和匹配机制纹丝不动，受影响最大的是创意工坊作者。</description>
+			</item>
+			<item>
+				<title>黎明杀机十月直播回顾：MMR利他加分上调，10.3.0技能再平衡前瞻</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-381210-a9cb7f1e/</link>
+				<pubDate>Fri, 23 Oct 2026 03:50:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-381210-a9cb7f1e/</guid>
+				<description>本期社区直播我帮大家蹲完了：黎明杀机MMR系统继续微调，逃生者利他行为加分上调；10.2.0五十多个技能改动后的使用率、击杀率与逃脱率榜单出炉；10.3.0又将对Calm Spirit、Dark Sense、Dark Arrogance等技能二次校准。下面把重点、上分影响和实操建议一次讲清。</description>
+			</item>
+			<item>
+				<title>《Rust》2026万圣节更新：糖果大逃杀、缝合怪宠物与裂隙冒险</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-252490-aa99606c/</link>
+				<pubDate>Fri, 23 Oct 2026 02:12:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-252490-aa99606c/</guid>
+				<description>《Rust》万圣节活动现已开启并持续至11月5日：糖果狩猎每两个游戏日左右开一局，前三名拿战利品袋，非前三也能升级糖果搏M249。今年还能拼装并操控缝合怪宠物、探索神秘裂隙、入手限定皮肤，Twitch Rivals掉宝与Discord联动也同步上线，回坑开黑都值得冲。</description>
+			</item>
+			<item>
+				<title>《饥荒联机版》「彼界」暗影线终章上线：远古大门新剧情、稀有生物与加载提速</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-322330-f61c5321/</link>
+				<pubDate>Fri, 23 Oct 2026 00:49:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-322330-f61c5321/</guid>
+				<description>《饥荒联机版》From Beyond 剧情线终章「被诅咒的对抗 第二部分」已登陆 Steam、Xbox 与 PlayStation，Switch 版稍后跟进。本次更新延续远古大门暗影任务线，新增猎犬蝠、岩主等早期稀有生物与独特掉落，中庭复活奇怪骨架还有全新剧情互动，并优化地面与洞穴之间的加载速度。同期上线蝴蝶衣柜直播掉落、四款新皮肤箱子以及饥荒系列特卖与 Krampus 官方商店特卖。</description>
+			</item>
+			<item>
+				<title>《极限竞速：地平线6》第三周：美国首台超跑Saleen S7限时入库</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-2483190-51aa634a/</link>
+				<pubDate>Thu, 22 Oct 2026 22:30:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-2483190-51aa634a/</guid>
+				<description>Horizon Japan 第三周更新上线，2004 Saleen S7 作为首台真正的美国超跑登场，10月22日至29日期间在节日播放列表攒够 20 PTS 即可永久入库。本期还带来 80 PTS 的 2025 BMW M4 CS、160 PTS 的柯尼塞格 One:1，以及需要按线索寻回的 1970 Citroën 2CV 老爷车。</description>
+			</item>
 			<item>
 				<title>《Mycopunk》2.0.1热修：接力塔任务与双成就修复，机库调暗</title>
 				<link>https://info.steamhunter.link/posts/2026-10-22-3247750-1e2c619a/</link>

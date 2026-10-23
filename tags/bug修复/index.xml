@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 17:08:16 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 23 Oct 2026 16:45:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Retro Pond》1.0正式上线：可访问性优化与Bug修复落地</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-4541170-3c4260e7/</link>
+				<pubDate>Fri, 23 Oct 2026 16:45:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-4541170-3c4260e7/</guid>
+				<description>《Retro Pond》1.0正式版现已上线，开发团队将本次里程碑更新重点放在可访问性改进上，并集中修复了近几天测试中发现的Bug。官方同步开放邮箱与Discord反馈渠道，承诺对遗留问题尽快处理。对于关注这款作品的玩家来说，正式版意味着体验更完整，后续补丁表现也值得持续留意。</description>
+			</item>
+			<item>
+				<title>《Saving Songburg》1.0.2：河流卡人与望远镜动画修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-3954920-f71aaaa6/</link>
+				<pubDate>Fri, 23 Oct 2026 03:48:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-3954920-f71aaaa6/</guid>
+				<description>《Saving Songburg》1.0.2 更新日志出炉，本次是纯修复向小补丁：一是解决玩家在河边被隐形阻挡体积卡住、动弹不得的尴尬；二是修正望远镜动画偶尔重叠、画面像“双重曝光”的问题。没有新地图和新玩法，但这两处修复都直击探索体验痛点，建议所有玩家尽快更新，再安心去河边看风景。</description>
+			</item>
 			<item>
 				<title>战争雷霆№119修复上线：光追阴影不闪了，回收与研究界面也顺手了</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-236390-3745c442/</link>

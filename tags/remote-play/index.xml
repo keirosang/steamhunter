@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 11 Oct 2026 11:08:11 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 23 Oct 2026 08:35:45 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/remote-play/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck OLED HDR回归！远程畅玩大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-1675200-2cca18c8/</link>
+				<pubDate>Fri, 23 Oct 2026 08:35:45 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-1675200-2cca18c8/</guid>
+				<description>Steam Beta客户端10月22日更新重做Remote Play的HDR支持：新增自动、常开、关闭三档设置，桌面Linux与macOS串流补上HDR捕获；Steam Deck OLED的HDR重新启用，Android 15及以上手机配Beta版Steam Link也能尝鲜。我整理了设置建议与避坑要点。</description>
+			</item>
 			<item>
 				<title>Steam客户端与Deck测试版更新：串流弹窗闪退修复，云端截图管理优化</title>
 				<link>https://info.steamhunter.link/posts/2026-10-11-1675200-a80567e8/</link>

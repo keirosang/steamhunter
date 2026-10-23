@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 16 Oct 2026 14:13:21 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 23 Oct 2026 03:48:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Saving Songburg》1.0.2：河流卡人与望远镜动画修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-3954920-f71aaaa6/</link>
+				<pubDate>Fri, 23 Oct 2026 03:48:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-3954920-f71aaaa6/</guid>
+				<description>《Saving Songburg》1.0.2 更新日志出炉，本次是纯修复向小补丁：一是解决玩家在河边被隐形阻挡体积卡住、动弹不得的尴尬；二是修正望远镜动画偶尔重叠、画面像“双重曝光”的问题。没有新地图和新玩法，但这两处修复都直击探索体验痛点，建议所有玩家尽快更新，再安心去河边看风景。</description>
+			</item>
+			<item>
+				<title>《绝地潜兵2》7.2.1热修上线：组队加入/离开崩溃修复，联机开黑更稳了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-553850-fdbe59a7/</link>
+				<pubDate>Thu, 22 Oct 2026 20:00:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-553850-fdbe59a7/</guid>
+				<description>《绝地潜兵2》7.2.1 热修已上线，这次 Arrowhead 没有整花活，核心就是修一个高频联机崩溃：当其他玩家加入或离开小队时可能触发的客户端崩溃。对经常开黑、匹配、好友进退队的潜兵来说，这波属于实打实的稳定性补丁。本文整理了修复重点、更新后实操建议、联机避坑与常见问题，帮你快速确认版本并减少崩溃概率。</description>
+			</item>
 			<item>
 				<title>Lotwick Hill更新：购物袋颜色大改，店主辨识度飙升，教程16语同步</title>
 				<link>https://info.steamhunter.link/posts/2026-10-16-5288610-fb36fab5/</link>

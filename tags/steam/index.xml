@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Thu, 22 Oct 2026 04:32:02 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 23 Oct 2026 18:33:46 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gray Zone Warfare 0.5.0.1热修：仓库与排队修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-2479810-0c4d2f84/</link>
+				<pubDate>Fri, 23 Oct 2026 18:33:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-2479810-0c4d2f84/</guid>
+				<description>《Gray Zone Warfare》0.5.0.1后端热修现已上线，本次无需下载任何客户端补丁。官方重点修复了两大糟心问题：赛季切换时非DLC玩家仓库被误重置回基础容量，以及排队等待后无法成功连接服务器。对于靠军阶解锁额外仓库空间的硬核玩家来说，这波修复相当关键。下面整理修复细节、实操建议与高频答疑，方便大家快速回战场。</description>
+			</item>
+			<item>
+				<title>Limbus Company新人格定向提取开启：UP池概率、兑换天井与狂气规划全指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-1973530-863e7656/</link>
+				<pubDate>Fri, 23 Oct 2026 16:59:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-1973530-863e7656/</guid>
+				<description>2026年10月22日（KST）Limbus Company开启新一轮New Identity Target Extraction，全新000人格限时UP。本期从卡池规则、抽取价值判断、兑换天井（保底）机制、Steam与移动端跨端绑定，到狂气攒取路线与配队思路，一次性讲清该不该抽、怎么抽最不亏，帮你在囚徒列车上少走弯路少花冤枉钱。</description>
+			</item>
+			<item>
+				<title>《三国：Yi》1.0正式版上线：商人化身、三语本地化与宝器锻造全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-4771880-cb487b6e/</link>
+				<pubDate>Fri, 23 Oct 2026 13:20:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-4771880-cb487b6e/</guid>
+				<description>《Three Kingdoms:Yi》迎来v1.0.0正式版“Bounty of All Lands”！新增最后一位化身“商人”，专属天赋“聚财”让金币直接加伤；同步上线英文、日文、繁体中文三语本地化，UI、天赋、事件、成就全覆盖；还有全新特殊事件“Treasure Forge”宝器锻造。本文为你划重点、讲玩法、避坑指南一并奉上。</description>
+			</item>
+			<item>
+				<title>黎明杀机十月直播回顾：MMR利他加分上调，10.3.0技能再平衡前瞻</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-381210-a9cb7f1e/</link>
+				<pubDate>Fri, 23 Oct 2026 03:50:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-381210-a9cb7f1e/</guid>
+				<description>本期社区直播我帮大家蹲完了：黎明杀机MMR系统继续微调，逃生者利他行为加分上调；10.2.0五十多个技能改动后的使用率、击杀率与逃脱率榜单出炉；10.3.0又将对Calm Spirit、Dark Sense、Dark Arrogance等技能二次校准。下面把重点、上分影响和实操建议一次讲清。</description>
+			</item>
 			<item>
 				<title>《Soul Mates》结束抢先体验：完整剧情上线，全语音更新在路上</title>
 				<link>https://info.steamhunter.link/posts/2026-10-22-2279440-9d17289d/</link>
