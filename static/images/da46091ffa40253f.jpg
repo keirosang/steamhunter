@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html class=" responsive DesktopUI" lang="en"  >
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Steam Developer: DarkRook Interactive</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	
+	<link href="https://store.fastly.steamstatic.com/public/shared/css/motiva_sans.css?v=YzJgj1FjzW34&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/shared/css/shared_global.css?v=sat0mVAiy9IE&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/shared/css/buttons.css?v=BZhNEtESfYSJ&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/css/v6/store.css?v=N-dXDFp9X60A&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/css/v6/browse.css?v=ZWD2OrhO7eSv&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/css/v6/curators_common.css?v=ZzQArUxaaHAh&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/css/v6/curator_recommendations.css?v=k7Ik0ZETPcCY&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/css/v6/curator_announcements.css?v=qoQo6tokeCje&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<link href="https://store.fastly.steamstatic.com/public/shared/css/shared_responsive.css?v=FJJn0nIxXaGQ&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/shared/javascript/jquery-1.8.3.min.js?v=NXam5zydzNu8&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript">$J = jQuery.noConflict();</script><script type="text/javascript">VALVE_PUBLIC_PATH = "https:\/\/store.fastly.steamstatic.com\/public\/";</script><script type="text/javascript" src="https://store.fastly.steamstatic.com/public/shared/javascript/tooltip.js?v=a9q1REOJMDBo&amp;l=english&amp;_cdn=fastly"></script>
+
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/shared/javascript/shared_global.js?v=LKHHGyvATtqM&amp;l=english&amp;_cdn=fastly"></script>
+
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/shared/javascript/auth_refresh.js?v=w6QbwI-5-j2S&amp;l=english&amp;_cdn=fastly"></script>
+
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/main.js?v=VXExFbFD9rs7&amp;l=english&amp;_cdn=fastly"></script>
+
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/dynamicstore.js?v=SUYtygLsIGoT&amp;l=english&amp;_cdn=fastly"></script>
+
+<script type="text/javascript">
+	var __PrototypePreserve=[];
+	__PrototypePreserve[0] = Array.from;
+	__PrototypePreserve[1] = Array.prototype.filter;
+	__PrototypePreserve[2] = Array.prototype.flatMap;
+	__PrototypePreserve[3] = Array.prototype.find;
+	__PrototypePreserve[4] = Array.prototype.some;
+	__PrototypePreserve[5] = Function.prototype.bind;
+	__PrototypePreserve[6] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/prototype-1.7.js?v=npJElBnrEO6W&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript">
+	Array.from = __PrototypePreserve[0] || Array.from;
+	Array.prototype.filter = __PrototypePreserve[1] || Array.prototype.filter;
+	Array.prototype.flatMap = __PrototypePreserve[2] || Array.prototype.flatMap;
+	Array.prototype.find = __PrototypePreserve[3] || Array.prototype.find;
+	Array.prototype.some = __PrototypePreserve[4] || Array.prototype.some;
+	Function.prototype.bind = __PrototypePreserve[5] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __PrototypePreserve[6] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">
+	var __ScriptaculousPreserve=[];
+	__ScriptaculousPreserve[0] = Array.from;
+	__ScriptaculousPreserve[1] = Function.prototype.bind;
+	__ScriptaculousPreserve[2] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/scriptaculous/_combined.js?v=lz_99vci25ux&amp;l=english&amp;_cdn=fastly&amp;load=effects,controls,slider"></script>
+<script type="text/javascript">
+	Array.from = __ScriptaculousPreserve[0] || Array.from;
+	Function.prototype.bind = __ScriptaculousPreserve[1] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __ScriptaculousPreserve[2] || HTMLElement.prototype.scrollTo;
+delete String['__parseStyleElement'];  Prototype.Browser.WebKit = true;</script>
+<script type="text/javascript">Object.seal && [ Object, Array, String, Number ].map( function( builtin ) { Object.seal( builtin.prototype ); } );</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {
+				$J.data( document, 'x_readytime', new Date().getTime() );
+				$J.data( document, 'x_oldref', GetNavCookie() );
+				SetupTooltips( { tooltipCSSClass: 'store_tooltip'  } );
+		});
+		</script><script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/curator_common.js?v=DDSSuwwgJ-XA&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/curator_recommendations.js?v=1Cs8K9lzL6m3&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/app_tagging.js?v=jzh2Y03tD8Ea&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/curator_landing.js?v=IksvwIUC5JCT&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=asNZNxt9kVQn&amp;l=english&amp;_cdn=fastly"></script>
+
+						<meta name="twitter:card" content="summary">
+					<meta name="Description" content="Communication: darkrookinteractive@gmail.com">
+			
+	<meta name="twitter:site" content="@steam" />
+
+						<meta property="og:title" content="Steam Developer: DarkRook Interactive">
+					<meta property="twitter:title" content="Steam Developer: DarkRook Interactive">
+					<meta property="og:type" content="website">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:site" content="Steam">
+					<meta property="og:description" content="Communication: darkrookinteractive@gmail.com">
+					<meta property="twitter:description" content="Communication: darkrookinteractive@gmail.com">
+			
+	
+			<link rel="image_src" href="https://avatars.fastly.steamstatic.com/194b4d468023b6e4c89b511c7f2d2729e8e88109_full.jpg">
+		<meta property="og:image" content="https://avatars.fastly.steamstatic.com/194b4d468023b6e4c89b511c7f2d2729e8e88109_full.jpg">
+		<meta name="twitter:image" content="https://avatars.fastly.steamstatic.com/194b4d468023b6e4c89b511c7f2d2729e8e88109_full.jpg" />
+				
+	
+	
+	
+	
+	</head>
+<body class="v6 game_bg curator creatorhome widestore v7menu responsive_page " >
+
+
+<div class="responsive_page_frame with_header">
+						<div role="navigation" class="responsive_page_menu_ctn mainmenu" aria-label="Mobile Menu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://store.steampowered.com/login/?redir=developer%2FDarkRookInteractive&redir_ssl=1&snr=1_1056_4_18_global-header">
+									Sign in								</a>
+															<a class="menuitem supernav supernav_active" href="https://store.steampowered.com/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+				Store			</a>
+			<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+														<a class="submenuitem" href="https://store.steampowered.com/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+						Home											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/explore/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+						Discovery Queue											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/wishlist/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+						Wishlist											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/points/shop/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+						Points Shop											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/news/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+						News											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/stats/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+						Charts											</a>
+							</div>
+										<a class="menuitem supernav" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+				Community			</a>
+			<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+														<a class="submenuitem" href="https://steamcommunity.com/">
+						Home											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/discussions/">
+						Discussions											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/workshop/">
+						Workshop											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/market/">
+						Market											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">
+						Broadcasts											</a>
+							</div>
+										<a class="menuitem " href="https://store.steampowered.com/about/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+				About			</a>
+										<a class="menuitem " href="https://help.steampowered.com/en/">
+				Support			</a>
+			
+							<div class="minor_menu_items">
+																								<div class="menuitem change_language_action">
+									Change language								</div>
+																																	<a class="menuitem" href="https://store.steampowered.com/mobile" target="_blank" rel="noreferrer">Get the Steam Mobile App</a>
+																									<div class="menuitem" role="link" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer  "></div>
+						<div class="mainmenu_footer">
+															<div class="mainmenu_footer_logo"><img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/footerLogo_valve_new.png"></div>
+								© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.								<span class="mainmenu_valve_links">
+									<a href="https://store.steampowered.com/privacy_agreement/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896" target="_blank">Privacy Policy</a>
+									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+									&nbsp;| &nbsp;<a href="https://help.steampowered.com/faqs/view/10BB-D27A-6378-4436" target="_blank">Accessibility</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896" target="_blank">Steam Subscriber Agreement</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896" target="_blank">Refunds</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/account/cookiepreferences/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896" target="_blank">Cookies</a>
+								</span>
+													</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab"></div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;Filter&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+				<div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<a href="https://store.steampowered.com/?snr=1_1056_4_18_global-responsive-menu&curator_clanid=45567896">
+															<img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+													</a>
+					</div>
+					<div class="responsive_header_react_target" data-featuretarget="store-menu-responsive-search"><div class="responsive_header_react_placeholder"></div></div>				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div role="banner" id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/?snr=1_1056_4_18_global-header&curator_clanid=45567896" aria-label="Link to the Steam Homepage">
+						<img src="https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="144.5" height="44" alt="Link to the Steam Homepage">
+					</a>
+							</span>
+		</div>
+
+			<div role="navigation" class="supernav_container" aria-label="Global Menu">
+								<a class="menuitem supernav supernav_active" href="https://store.steampowered.com/?snr=1_1056_4_18_global-header&curator_clanid=45567896" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+				STORE			</a>
+			<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+														<a class="submenuitem" href="https://store.steampowered.com/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+						Home											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/explore/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+						Discovery Queue											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/wishlist/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+						Wishlist											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/points/shop/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+						Points Shop											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/news/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+						News											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/stats/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+						Charts											</a>
+							</div>
+										<a class="menuitem supernav" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+				COMMUNITY			</a>
+			<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+														<a class="submenuitem" href="https://steamcommunity.com/">
+						Home											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/discussions/">
+						Discussions											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/workshop/">
+						Workshop											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/market/">
+						Market											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">
+						Broadcasts											</a>
+							</div>
+										<a class="menuitem " href="https://store.steampowered.com/about/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+				About			</a>
+										<a class="menuitem " href="https://help.steampowered.com/en/">
+				SUPPORT			</a>
+				</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-6, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div role="navigation" id="global_action_menu" aria-label="Account Menu">
+									<a class="header_installsteam_btn header_installsteam_btn_green" href="https://store.steampowered.com/about/?snr=1_1056_4_18_global-header&curator_clanid=45567896">
+						<div class="header_installsteam_btn_content">
+							Install Steam						</div>
+					</a>
+				
+				
+									<a class="global_action_link" href="https://store.steampowered.com/login/?redir=developer%2FDarkRookInteractive&redir_ssl=1&snr=1_1056_4_18_global-header">sign in</a>
+											&nbsp;|&nbsp;
+						<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+						<div class="popup_block_new" id="language_dropdown" style="display: none;">
+							<div class="popup_body popup_menu">
+																																															<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">
+											简体中文 (Simplified Chinese)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">
+											繁體中文 (Traditional Chinese)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">
+											日本語 (Japanese)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">
+											한국어 (Korean)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">
+											ไทย (Thai)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=indonesian" onclick="ChangeLanguage( 'indonesian' ); return false;">
+											Bahasa Indonesia (Indonesian)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=malay" onclick="ChangeLanguage( 'malay' ); return false;">
+											Bahasa Melayu (Malay)																							<span class="language_beta">BETA</span>
+																					</a>
+																																							<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">
+											Български (Bulgarian)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">
+											Čeština (Czech)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">
+											Dansk (Danish)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">
+											Deutsch (German)																					</a>
+																																																	<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">
+											Español - España (Spanish - Spain)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">
+											Español - Latinoamérica (Spanish - Latin America)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">
+											Ελληνικά (Greek)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">
+											Français (French)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">
+											Italiano (Italian)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">
+											Magyar (Hungarian)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">
+											Nederlands (Dutch)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">
+											Norsk (Norwegian)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">
+											Polski (Polish)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">
+											Português (Portuguese - Portugal)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">
+											Português - Brasil (Portuguese - Brazil)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">
+											Română (Romanian)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">
+											Русский (Russian)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">
+											Suomi (Finnish)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">
+											Svenska (Swedish)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">
+											Türkçe (Turkish)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">
+											Tiếng Việt (Vietnamese)																					</a>
+																																							<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">
+											Українська (Ukrainian)																					</a>
+																									<a class="popup_menu_item tight" href="https://www.valvesoftware.com/contact?contact-person=Translation%20Team%20Feedback" target="_blank">Report a translation problem</a>
+							</div>
+						</div>
+												</div>
+					</div>
+			</div>
+</div>
+<div class="StoreMenuLoadingPlaceholder" data-featuretarget="store-menu-v7"><div class="PlaceholderInner"></div></div><div id="responsive_store_nav_ctn"></div><div id="responsive_store_nav_overlay" style="display:none"><div id="responsive_store_nav_overlay_ctn"></div><div id="responsive_store_nav_overlay_bottom"></div></div><div id="responsive_store_search_overlay" style="display:none"></div><div data-cart-banner-spot="1"></div>
+		<div role="main" class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true,&quot;navKey&quot;:&quot;responsive_page_template_content&quot;}" >
+
+			<div id="application_config" style="display: none;"  data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;english&quot;,&quot;COUNTRY&quot;:&quot;US&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/shared.fastly.steamstatic.com\/community_assets\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.fastly.steamstatic.com\/&quot;,&quot;VIDEO_CDN_URL&quot;:&quot;https:\/\/video.fastly.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/community.fastly.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.fastly.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.fastly.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/store.fastly.steamstatic.com\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;STORE_CHECKOUT_BASE_URL&quot;:&quot;https:\/\/checkout.steampowered.com\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/store.fastly.steamstatic.com\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/help.steampowered.com\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/partner.steampowered.com\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/shared.fastly.steamstatic.com\/store_item_assets\/steam\/apps\/&quot;,&quot;STORE_ITEM_BASE_URL&quot;:&quot;https:\/\/shared.fastly.steamstatic.com\/store_item_assets\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/store.steampowered.com\/\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1792799336,&quot;PAGE_TIMESTAMP&quot;:1792865302,&quot;IN_TENFOOT&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;macos&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.fastly.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/login.steampowered.com\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.fastly.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;WEBSITE_ID&quot;:&quot;Store&quot;,&quot;BASE_URL_SHARED_CDN&quot;:&quot;https:\/\/shared.fastly.steamstatic.com\/&quot;,&quot;CLAN_CDN_ASSET_URL&quot;:&quot;https:\/\/clan.fastly.steamstatic.com\/&quot;,&quot;COMMUNITY_ASSETS_BASE_URL&quot;:&quot;https:\/\/shared.fastly.steamstatic.com\/community_assets\/&quot;,&quot;NOW&quot;:1792865302,&quot;SUPPORT_BASE_URL&quot;:&quot;https:\/\/steamsupport.valvesoftware.com\/&quot;,&quot;SNR&quot;:&quot;1_1056_4_18&quot;}" data-userinfo="{&quot;logged_in&quot;:false,&quot;country_code&quot;:&quot;US&quot;,&quot;excluded_content_descriptors&quot;:[3,4]}" data-hwinfo="{&quot;bSteamOS&quot;:false,&quot;bSteamDeck&quot;:false,&quot;bSteamMachine&quot;:false,&quot;bSteamFrame&quot;:false}" data-broadcastuser="{&quot;success&quot;:1,&quot;bHideStoreBroadcast&quot;:false}" data-broadcast="{&quot;clanid&quot;:45567896,&quot;listid&quot;:&quot;&quot;}" data-store_user_config="{&quot;webapi_token&quot;:&quot;&quot;,&quot;shoppingcart&quot;:null,&quot;originating_navdata&quot;:{&quot;domain&quot;:&quot;store.steampowered.com&quot;,&quot;controller&quot;:&quot;direct-navigation&quot;,&quot;method&quot;:&quot;&quot;,&quot;submethod&quot;:&quot;&quot;,&quot;feature&quot;:&quot;&quot;,&quot;depth&quot;:0,&quot;countrycode&quot;:&quot;&quot;,&quot;webkey&quot;:null,&quot;is_client&quot;:false,&quot;curator_data&quot;:null,&quot;is_likely_bot&quot;:false,&quot;is_utm&quot;:false},&quot;wishlist_item_count&quot;:0}"></div><div id="application_root"></div><script>window.g_wapit="";</script><link href="https://store.fastly.steamstatic.com/public/css/applications/store/main.css?v=icWGffSWhCD-&amp;l=english&amp;_cdn=fastly" rel="stylesheet" type="text/css">
+<script type="text/javascript">globalThis.CLSTAMP = "11166390";</script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/applications/store/manifest.js?v=Ge81kWyYwTAA&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/applications/store/libraries~b28b7af69.js?v=RjKKb5BhZu-x&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript" src="https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=gd7L5jBg_AN-&amp;l=english&amp;_cdn=fastly"></script>
+<script type="text/javascript">
+	var g_AccountID = 0;
+	var g_Languages = ["english"];
+	var g_sessionID = "30c4a3fb1799a8d755bfeb7a";
+	var g_ServerTime = 1792865302;
+	var g_bUseNewCartAPI = true;
+
+			$J( InitMiniprofileHovers( 'https%3A%2F%2Fstore.steampowered.com%2F' ) );
+	
+	
+	if ( typeof GStoreItemData != 'undefined' )
+	{
+		GStoreItemData.AddNavParams({
+			__page_default: "1_1056_4_18",
+			__page_default_obj: {"domain":"store.steampowered.com","controller":"curator","method":"default","submethod":"creator","feature":null,"depth":null,"countrycode":"US","webkey":null,"is_client":false,"curator_data":null,"is_likely_bot":false,"is_utm":null},
+			__originating_obj: {"domain":"store.steampowered.com","controller":"direct-navigation","method":"","submethod":"","feature":"","depth":0,"countrycode":"","webkey":null,"is_client":false,"curator_data":null,"is_likely_bot":false,"is_utm":false},
+			storemenu_recommendedtags: "1_1056_4_18_17"		});
+	}
+
+	if ( typeof GDynamicStore != 'undefined' )
+	{
+		GDynamicStore.Init(0, false, "", {"primary_language":null,"secondary_languages":null,"platform_windows":null,"platform_mac":null,"platform_linux":null,"timestamp_updated":null,"hide_store_broadcast":null,"review_score_preference":null,"timestamp_content_descriptor_preferences_updated":null,"provide_deck_feedback":null,"additional_languages":null,"game_frame_rate_reporting":null,"disable_microtrailers":null,"disable_animated_marketing":null}, 'US',
+			{"bNoDefaultDescriptors":false});
+		GStoreItemData.SetCurrencyFormatter(function( nValueInCents, bWholeUnitsOnly ) { var fmt = function( nValueInCents, bWholeUnitsOnly ) {	var format = v_numberformat( nValueInCents / 100, bWholeUnitsOnly ? 0 : 2, ".", ","); return format; };var strNegativeSymbol = '';	if ( nValueInCents < 0 ) { strNegativeSymbol = '-'; nValueInCents = -nValueInCents; }return strNegativeSymbol + "$" + fmt( nValueInCents, bWholeUnitsOnly );});
+		GStoreItemData.SetCurrencyMinPriceIncrement(1);
+	}
+</script>
+<script>
+	var g_pagingData = {"query":"","total_count":5,"pagesize":10,"prefix":"Recommendations","clanid":45567896};
+
+			var g_clanGroupsWGAuthToken = '';
+		CuratorSetListDetails( [] );
+	SetMyOtherCreatorHomes( null );
+	SetCuratorSteamID( '103582791475089304' );
+	$J( document ).ready( function() {
+		var rgFacets = $J.parseJSON( '{"tagids":{"597":"4","9":"3","4191":"3","21":"2","599":"2","1625":"2","1664":"2","1738":"2","3813":"2","3814":"2","3839":"2","4036":"2","4182":"2","5395":"2","5537":"2","9204":"2","1084988":"2","19":"1","492":"1","493":"1"},"type":{"game":"5"}}' );
+		UpdateFilterTagCounts( rgFacets, 'type', 'filter_app_type_num_' );
+		//TODO: Query Expansion
+		UpdateFilterTagCounts( rgFacets, 'tagids', 'filter_tagid_num_', 5 );
+		UpdateFilterTagCounts( rgFacets, 'recommend', 'filter_recommend_type_', 5 );
+
+		$J("#client_filter").show();
+		CuratorLanding_SetupMicrotrailer();
+	});
+
+</script>
+
+	<script type="text/javascript">
+	var g_strCuratorBaseURL = "https:\/\/store.steampowered.com\/developer\/DarkRookInteractive\/";
+	var g_strCuratorAdminURL = g_strCuratorBaseURL + 'admin/';
+
+	var g_strCuratorCommunityBaseURL = "https:\/\/steamcommunity.com\/groups\/DarkRookInteractive";
+			var g_strCommunityCDNUrl = "https:\/\/clan.fastly.steamstatic.com\/images\/45567896\/";
+		var g_bCanCurateApps = false;
+	var g_bCanUploadHeader = true;
+	var g_bIsCreatorHome = true;
+	var g_bIsDLCPage = false;
+	var g_bCanUpdateAvatar = true;
+	var g_mapAppIDToAppNameSearch = null;
+</script>
+
+
+
+		<div class="background_header_ctn" style="background-image:url(https://clan.fastly.steamstatic.com/images/45567896/f5e6915f4c5520a65eb5b853a083248ce8b34fe3.png)">
+
+			<div class="background_gradient_ctn">&nbsp;</div>
+		</div>
+	
+
+<div class="v7menu_spacer cartonly"></div>
+<div id="curator_header_area_ctn_id" class="page_content_ctn curator_header_area_ctn">
+	<div  class="page_content curator_header_ctn ">
+
+		<div class="header_area page_section" id="header_container" data-section-config="{&quot;background&quot;:&quot;f5e6915f4c5520a65eb5b853a083248ce8b34fe3.png&quot;}">
+
+			<div data-panel="{&quot;autoFocus&quot;:true}" id="curator_avatar_image" class="curator_avatar_image">
+				<a href="https://store.steampowered.com/developer/DarkRookInteractive/"><img class="curator_avatar" src="https://avatars.fastly.steamstatic.com/194b4d468023b6e4c89b511c7f2d2729e8e88109_full.jpg"></a>
+			</div>
+			<div id="header_curator_details" class="curator_details">
+				
+				<h2 class="pageheader curator_name">
+					<a data-panel="{&quot;focusable&quot;:false}" href="https://store.steampowered.com/developer/DarkRookInteractive/">DarkRook Interactive</a>
+				</h2>
+
+									<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="socialmedia_accounts">
+												<div id="creatorhome-social-media-display" data-featuretarget="creatorhome-social-media-display" data-props="{&quot;clanAccountID&quot;:45567896,&quot;items&quot;:[{&quot;type&quot;:&quot;discord_server&quot;,&quot;link&quot;:&quot;https://discord.gg/VKs2rK5QzX&quot;},{&quot;type&quot;:&quot;youtube&quot;,&quot;link&quot;:&quot;https://www.youtube.com/@DarkRookInteractive&quot;}]}"></div>					</div>
+
+					<div class="follow_controls">
+						<div class="follow_btn">
+							<span data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" role="button" id="CuratorUnFollowBtn_45567896" class="btn_green_steamui btn_medium following"
+								  onclick="FollowCurator( 45567896, false );"
+								  style="display: none">
+								<span><img src="https://store.fastly.steamstatic.com/public/images/v6/ico/ico_selected_green.png">Following</span>
+							</span>
+							<span data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" role="button" id="CuratorFollowBtn_45567896" class="btn_green_steamui btn_border_2px btn_medium"
+								  data-tooltip-text="Follow this creator to to be notified via e-mail and in your Steam store when they release a new game. Email notifications can be turned off at any time."
+								  onclick="FollowCurator( 45567896, true );"
+								  >
+								<span>Follow</span>
+							</span>
+						</div>
+						<div class="follow_btn_stats">
+							<div class="num_followers" id="CuratorNumFollowers_45567896">375</div>
+							<div class="num_followers_text">Followers</div>
+						</div>
+					</div>
+
+					<div class="ignore_controls " id="IgnoreControls"
+						 data-tooltip-text="Steam will not recommend any of the games that they publish or develop to you.">
+						<div class="ignore_btn">
+							<span id="CuratorUnIgnoreBtn_45567896" class="btnv6_white_transparent  btn_medium ignoring" onclick="IgnoreCurator( 45567896, false );">
+								<span><img src="https://store.fastly.steamstatic.com/public/images/v6/ico/ico_selected_green.png">Ignored</span>
+							</span>
+						</div>
+					</div>
+
+				
+			</div>
+		</div>
+
+			</div>
+</div>
+
+
+<div class="page_content_ctn light_container bezel no_content">
+	<div class="creator_grid_ctn">
+		<div class="navigation_bar">
+			<a data-panel="[]" href="https://store.steampowered.com/developer/DarkRookInteractive/" class="selected featured">Featured</a>
+			<a data-panel="[]" href="https://store.steampowered.com/developer/DarkRookInteractive/lists/" class=" option_lists">Lists</a>
+							<a data-panel="[]" href="https://store.steampowered.com/developer/DarkRookInteractive/about/" class=" about">About</a>
+															<div class="nav_right_side">
+				<div class="curator_report">
+					<a href="#" onclick="ShowMenu( this, 'curator_popup_body', 'right', 'bottom', true );return false" class="ttip"
+					   data-tooltip-text="Options">
+						<!-- <img src="https://store.fastly.steamstatic.com/public/images/v6/ico/ico_arrow_dn_for_select.png"/> -->
+						<img src="https://store.fastly.steamstatic.com/public/images/bigpicture/icon_settings.png"/>
+					</a>
+				</div>
+			</div>
+		</div>
+
+					<div data-featuretarget="broadcast-embed" class="broadcast_embed"></div>
+		
+					<div class="page_desc">
+								<p>Communication: darkrookinteractive@gmail.com</p>
+							</div>
+		
+			
+
+		<div class="popup_block_new" id="curator_popup_body"  style="display: none;">
+			<div class="popup_body popup_menu">
+									<a id="curator_header_ignore" class="popup_menu_item ttip" href="javascript:IgnoreCurator( 45567896, true );HideMenu( this, 'curator_popup_body' );"
+						 data-tooltip-text="If you ignore a creator, then Steam will stop recommending any of the games that they publish or develop to you.">
+						<span>Ignore this creator</span>
+					</a>
+					<a id="curator_header_unignore" class="popup_menu_item" href="javascript:IgnoreCurator( 45567896, false );HideMenu( this, 'curator_popup_body' );"
+						style="display: none" >
+						<span>Remove ignore state</span>
+					</a>
+								<a href="javascript:ReportAbuse( '[g:1:45567896]' );" class="popup_menu_item ttip">
+					<span>Report this creator</span>
+				</a>
+			</div>
+		</div>
+
+	
+			
+			
+			<div class="page_content_ctn content_highlights ">
+				<div class="page_content editable" style="position:relative;">
+					<div class="page_section" data-section-config="{&quot;type&quot;:&quot;none&quot;,&quot;listid&quot;:0,&quot;listid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;tagid&quot;:0,&quot;tagid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;sort&quot;:&quot;recent&quot;,&quot;presentation&quot;:&quot;circularlist&quot;,&quot;linkedhomepages&quot;:&quot;[]&quot;,&quot;linktitle&quot;:&quot;franchise&quot;,&quot;appid&quot;:3816300}" data-index="1">
+</div>					<div class="page_section" data-section-config="{&quot;type&quot;:&quot;none&quot;,&quot;listid&quot;:0,&quot;listid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;tagid&quot;:0,&quot;tagid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;sort&quot;:&quot;recent&quot;,&quot;presentation&quot;:&quot;circularlist&quot;,&quot;linkedhomepages&quot;:&quot;[]&quot;,&quot;linktitle&quot;:&quot;franchise&quot;,&quot;appid&quot;:3639500}" data-index="2">
+</div>					<div class="page_section" data-section-config="{&quot;type&quot;:&quot;none&quot;,&quot;listid&quot;:0,&quot;listid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;tagid&quot;:0,&quot;tagid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;sort&quot;:&quot;recent&quot;,&quot;presentation&quot;:&quot;circularlist&quot;,&quot;linkedhomepages&quot;:&quot;[]&quot;,&quot;linktitle&quot;:&quot;franchise&quot;,&quot;appid&quot;:4029300}" data-index="3">
+</div><div class="page_section" data-section-config="{&quot;type&quot;:&quot;none&quot;,&quot;listid&quot;:0,&quot;listid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;tagid&quot;:0,&quot;tagid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;sort&quot;:&quot;recent&quot;,&quot;presentation&quot;:&quot;circularlist&quot;,&quot;linkedhomepages&quot;:&quot;[]&quot;,&quot;linktitle&quot;:&quot;franchise&quot;,&quot;appid&quot;:4233400}" data-index="4">
+</div><div class="page_section" data-section-config="{&quot;type&quot;:&quot;none&quot;,&quot;listid&quot;:0,&quot;listid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;tagid&quot;:0,&quot;tagid_label&quot;:&quot;Se\u00e7iniz...&quot;,&quot;sort&quot;:&quot;recent&quot;,&quot;presentation&quot;:&quot;circularlist&quot;,&quot;linkedhomepages&quot;:&quot;[]&quot;,&quot;linktitle&quot;:&quot;franchise&quot;}" data-index="5">
+</div>				</div>
+			</div>
+
+			<div class="page_content_ctn  tabbed_ctn">
+				<div class="page_content browse_reviews">
+					<form id="filter_box" class="filter_ctn" autocomplete="off">
+
+						<div class="browse_tabs">
+														<a data-panel="[]"  onclick="CuratorChangeTabs(this, 'topsellers', 1); return false">
+								Top Sellers								<input type="hidden" name="sort" value="">
+							</a>
+							<a data-panel="[]" class="selected" onclick="CuratorChangeTabs(this, 'newreleases', 1 ); return false">
+								New Releases								<input type="hidden" name="sort" value="newreleases">
+							</a>
+															<a data-panel="[]"  onclick="CuratorChangeTabs(this, 'upcoming', 1 ); return false">
+									Upcoming Releases									<input type="hidden" name="sort" value="">
+								</a>
+														<a data-panel="[]" onclick="CuratorChangeTabs(this, 'discounted', 1 ); return false">
+								Discounts								<input type="hidden" name="sort" value="">
+							</a>
+						</div>
+
+						<div class="browse_ctn_background">
+							<div class="browse_container">
+								<div class="browse_filters">
+									<div >
+			<div id="filtertype_container">
+			<h4>Type</h4>
+
+			<a id="filter_app_type_all" onclick="CuratorFieldToggle(this, ''); return false;"  class="all selected">
+				All<span id="filter_app_type_num_all" class="curator_filter_tag_count">5</span>
+				<input type="hidden" name="app_types" value="">
+			</a>
+
+								<a id="filter_app_type_game" onclick="CuratorFieldToggle(this, 'game'); return false;" >
+						Game<span id="filter_app_type_num_game" class="curator_filter_tag_count">5</span>
+						<input type="hidden" name="app_types" value="">
+					</a>
+						</div>
+		<div id="filtertags_container">
+		<h4>Filter to</h4>
+
+		<a id="tagid_filteration_all" onclick="CuratorFieldToggle(this, ''); return false;"  class="all selected">
+			All<span id="filter_tagid_num_all" class="curator_filter_tag_count">41</span>
+			<input type="hidden" name="tagids" value="">
+		</a>
+							<a onclick="CuratorFieldToggle(this, '19'); return false">
+						Action						<span id="filter_tagid_num_19" class="curator_filter_tag_count">1</span>
+						<img data-tooltip-text="Remove this tag" src="https://store.fastly.steamstatic.com/public/images/v6/close_btn.png" class="ttip delete tag_edit_control" onclick="DeleteFeaturedTag( 19, &quot;Action&quot; ); event.stopPropagation(); return false;">
+						<input type="hidden" name="tagids" value="">
+					</a>
+									<a onclick="CuratorFieldToggle(this, '597'); return false">
+						Casual						<span id="filter_tagid_num_597" class="curator_filter_tag_count">4</span>
+						<img data-tooltip-text="Remove this tag" src="https://store.fastly.steamstatic.com/public/images/v6/close_btn.png" class="ttip delete tag_edit_control" onclick="DeleteFeaturedTag( 597, &quot;Casual&quot; ); event.stopPropagation(); return false;">
+						<input type="hidden" name="tagids" value="">
+					</a>
+									<a onclick="CuratorFieldToggle(this, '492'); return false">
+						Indie						<span id="filter_tagid_num_492" class="curator_filter_tag_count">1</span>
+						<img data-tooltip-text="Remove this tag" src="https://store.fastly.steamstatic.com/public/images/v6/close_btn.png" class="ttip delete tag_edit_control" onclick="DeleteFeaturedTag( 492, &quot;Indie&quot; ); event.stopPropagation(); return false;">
+						<input type="hidden" name="tagids" value="">
+					</a>
+									<a onclick="CuratorFieldToggle(this, '599'); return false">
+						Simulation						<span id="filter_tagid_num_599" class="curator_filter_tag_count">2</span>
+						<img data-tooltip-text="Remove this tag" src="https://store.fastly.steamstatic.com/public/images/v6/close_btn.png" class="ttip delete tag_edit_control" onclick="DeleteFeaturedTag( 599, &quot;Simulation&quot; ); event.stopPropagation(); return false;">
+						<input type="hidden" name="tagids" value="">
+					</a>
+									<a onclick="CuratorFieldToggle(this, '9'); return false">
+						Strategy						<span id="filter_tagid_num_9" class="curator_filter_tag_count">3</span>
+						<img data-tooltip-text="Remove this tag" src="https://store.fastly.steamstatic.com/public/images/v6/close_btn.png" class="ttip delete tag_edit_control" onclick="DeleteFeaturedTag( 9, &quot;Strategy&quot; ); event.stopPropagation(); return false;">
+						<input type="hidden" name="tagids" value="">
+					</a>
+						<div id="edit_controls" class="tag_edit_control">
+			<a onclick="ShowAddFeaturedTagModal(); return false;">
+				<img src="https://store.fastly.steamstatic.com/public/images/v6/icon_bucket_new.png" >
+				Add a tag			</a>
+		</div>
+	</div>
+</div>
+									<div id="client_filter" style="display: none">
+										<h4>Narrow by preferences</h4>
+										<a onclick="GDynamicStore.ToggleClientsideFilter(this, 'selected', $J('#RecommendationsRows'), 'hide_ignored');">Hide ignored items</a>
+										<a onclick="GDynamicStore.ToggleClientsideFilter(this, 'selected', $J('#RecommendationsRows'), 'hide_owned');  ">Hide items in my library</a>
+									</div>
+								</div>
+								<div class="browse_content" id="RecommendationsTable">
+
+																			<div class="mature_content_filtered">
+											Results may exclude some products based on <a href="https://store.steampowered.com/account/preferences/">your content or language preferences</a>										</div>
+									
+									<div class="landingTable" id="RecommendationsRows">
+										<div>
+
+				<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" role="button" class="recommendation" >
+				<div>
+					<a  data-ds-appid="4122870" data-ds-itemkey="App_4122870" data-ds-tagids="[597,699,9,4036,701,7178,1625]" data-ds-crtrids="[45567896]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:4122870,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="store_capsule price_inline" data-ds-appid="4122870" href="https://store.steampowered.com/app/4122870/Tung_Tung_Together_Online_Deathrun_Party/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" >
+		<div class="capsule capsule_image_ctn smallcapsule"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4122870/be4476e7a6d05e536f5345e9096c27f2e663298d/header_292x136.jpg?t=1790000501" alt="Tung Tung Together: Online Deathrun Party"></div><div class="discount_block discount_block_inline no_discount" data-price-final="0" data-bundlediscount="0" data-discount="0"><div class="discount_prices"><div class="discount_final_price">Free To Play</div></div></div></a>				</div>
+				<a href="https://store.steampowered.com/app/4122870/Tung_Tung_Together_Online_Deathrun_Party/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" class="recommendation_link">
+					<div class="recommendation_midcol">
+
+						
+						<div class="recommendation_stats">
+							<div class="recommendation_type_ctn">
+								<span class='color_created'>Tung Tung Together: Online Deathrun Party</span>										<span class="curator_review_date">Sep 21, 2026</span>
+																	<span style="float:right" class="app_platforms"><span class="platform_img win"></span></span>
+							</div>
+						</div>
+
+
+						<div class="recommendation_desc">
+						A multiplayer deathrun party game where you activate traps as Tung Tung, and if someone clears the course, the role switches. Cute characters, online competition, chaos, and fun-filled maps—collect the highest score and dominate the mayhem!						</div>
+
+											</div>
+				</a>
+			</div>
+
+					<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" role="button" class="recommendation" >
+				<div>
+					<a  data-ds-appid="4233400" data-ds-itemkey="App_4233400" data-ds-tagids="[1685,4036,3968,5537,597,21,1625]" data-ds-crtrids="[45567896]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:4233400,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="store_capsule price_inline" data-ds-appid="4233400" href="https://store.steampowered.com/app/4233400/Sync_Together/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" >
+		<div class="capsule capsule_image_ctn smallcapsule"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4233400/b632a1c20f5bfe59eb1c57aec2575eccc2c99337/header_292x136.jpg?t=1788711673" alt="Sync Together"></div><div class="discount_block discount_block_inline no_discount" data-price-final="99" data-bundlediscount="0" data-discount="0"><div class="discount_prices"><div class="discount_final_price">$0.99</div></div></div></a>				</div>
+				<a href="https://store.steampowered.com/app/4233400/Sync_Together/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" class="recommendation_link">
+					<div class="recommendation_midcol">
+
+						
+						<div class="recommendation_stats">
+							<div class="recommendation_type_ctn">
+								<span class='color_created'>Sync Together</span>										<span class="curator_review_date">Sep 6, 2026</span>
+																	<span style="float:right" class="app_platforms"><span class="platform_img win"></span></span>
+							</div>
+						</div>
+
+
+						<div class="recommendation_desc">
+						SYNC TOGETHER is a parkour game focused on keeping a jet-powered flying vehicle balanced by working together. Use coordination, speed, and teamwork to finish the course as fast as possible.						</div>
+
+											</div>
+				</a>
+			</div>
+
+					<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" role="button" class="recommendation" >
+				<div>
+					<a  data-ds-appid="3816300" data-ds-itemkey="App_3816300" data-ds-tagids="[599,1643,3839,10235,1662,9204,9]" data-ds-crtrids="[45567896,33701576]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:3816300,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="store_capsule price_inline" data-ds-appid="3816300" href="https://store.steampowered.com/app/3816300/Dungeon_Market_Simulator/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" >
+		<div class="capsule capsule_image_ctn smallcapsule"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3816300/8fe4749acdc18b340bcac5d4fee3817e07739964/header_292x136.jpg?t=1776701727" alt="Dungeon Market Simulator"></div><div class="discount_block discount_block_inline no_discount" data-price-final="999" data-bundlediscount="0" data-discount="0"><div class="discount_prices"><div class="discount_final_price">$9.99</div></div></div></a>				</div>
+				<a href="https://store.steampowered.com/app/3816300/Dungeon_Market_Simulator/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" class="recommendation_link">
+					<div class="recommendation_midcol">
+
+						
+						<div class="recommendation_stats">
+							<div class="recommendation_type_ctn">
+								<span class='color_created'>Dungeon Market Simulator</span>										<span class="curator_review_date">Apr 20, 2026</span>
+																	<span style="float:right" class="app_platforms"><span class="platform_img win"></span></span>
+							</div>
+						</div>
+
+
+						<div class="recommendation_desc">
+						A strategic medieval market simulation game. Equip your dungeon with traps. Hunt down outcast warriors and earn mysterious chests. Upgrade the items you obtain and increase their value. Bargain with customers and earn promotions.						</div>
+
+											</div>
+				</a>
+			</div>
+
+					<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" role="button" class="recommendation" >
+				<div>
+					<a  data-ds-appid="4029300" data-ds-itemkey="App_4029300" data-ds-tagids="[6129,9,4364,3964,3871,597,1698]" data-ds-crtrids="[45567896]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:4029300,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="store_capsule price_inline" data-ds-appid="4029300" href="https://store.steampowered.com/app/4029300/Loot_of_Idle/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" >
+		<div class="capsule capsule_image_ctn smallcapsule"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4029300/823e21fa78b7ca2dd312363ae96f0a062e8dbd50/header_292x136.jpg?t=1778796804" alt="Loot of Idle"></div><div class="discount_block discount_block_inline no_discount" data-price-final="199" data-bundlediscount="0" data-discount="0"><div class="discount_prices"><div class="discount_final_price">$1.99</div></div></div></a>				</div>
+				<a href="https://store.steampowered.com/app/4029300/Loot_of_Idle/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" class="recommendation_link">
+					<div class="recommendation_midcol">
+
+						
+						<div class="recommendation_stats">
+							<div class="recommendation_type_ctn">
+								<span class='color_created'>Loot of Idle</span>										<span class="curator_review_date">Nov 24, 2025</span>
+																	<span style="float:right" class="app_platforms"><span class="platform_img win"></span></span>
+							</div>
+						</div>
+
+
+						<div class="recommendation_desc">
+						Loot of Idle is an idle item stacking game filled with boss battles and a pixel chill atmosphere, where you fight against endless enemies and constantly improve by collecting items.						</div>
+
+											</div>
+				</a>
+			</div>
+
+					<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" role="button" class="recommendation" >
+				<div>
+					<a  data-ds-appid="3639500" data-ds-itemkey="App_3639500" data-ds-tagids="[3839,1719,3834,1738,21,9204,7208]" data-ds-crtrids="[45567896]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:3639500,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="store_capsule price_inline" data-ds-appid="3639500" href="https://store.steampowered.com/app/3639500/Dead_by_Backrooms_Anomaly/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" >
+		<div class="capsule capsule_image_ctn smallcapsule"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3639500/b763eeeffaf3b67ee9ab71c09fbd12248545fb1f/header_292x136.jpg?t=1781307104" alt="Dead by Backrooms Anomaly"></div><div class="discount_block discount_block_inline no_discount" data-price-final="199" data-bundlediscount="0" data-discount="0"><div class="discount_prices"><div class="discount_final_price">$1.99</div></div></div></a>				</div>
+				<a href="https://store.steampowered.com/app/3639500/Dead_by_Backrooms_Anomaly/?snr=1_1056_4_18_curator-tabs&curator_clanid=45567896" class="recommendation_link">
+					<div class="recommendation_midcol">
+
+						
+						<div class="recommendation_stats">
+							<div class="recommendation_type_ctn">
+								<span class='color_created'>Dead by Backrooms Anomaly</span>										<span class="curator_review_date">Aug 8, 2025</span>
+																	<span style="float:right" class="app_platforms"><span class="platform_img win"></span></span>
+							</div>
+						</div>
+
+
+						<div class="recommendation_desc">
+						A story-driven psychological horror game filled with puzzles and humorous moments. In this world where reality and fantasy intertwine, nothing will ever be as it seems.						</div>
+
+											</div>
+				</a>
+			</div>
+
+		</div>
+									</div>
+									<div id="pager">
+												<div id="Recommendations_no_results" class="paged_items_no_results" style="display: none">
+			No results found		</div>
+		
+		<div id="Recommendations_ctn" class="paged_items_paging" style="">
+			<div class="paged_items_paging_controls" id="Recommendations_controls">
+				<span id="Recommendations_btn_prev" class="pagebtn">&lt;</span>
+				<span id="Recommendations_links"></span>
+				<span id="Recommendations_btn_next" class="pagebtn">&gt;</span>
+			</div>
+
+			<div class="paged_items_paging_summary ellipsis">
+				Showing <span id="Recommendations_start">1</span>-<span id="Recommendations_end">5</span> of <span id="Recommendations_total">5</span> results			</div>
+
+			<div style="clear: both;"></div>
+		</div>
+					<div id="Recommendations_per_page_ctn" class="paged_items_per_page_row_ctn" style="diplay:none;">
+				<span class="paged_items_paging_size_title">Per page:</span>
+
+				<div id="Recommendations_paging_size_ctn" class="paged_items_paging_size_ctn">
+											<span id="Recommendations_paging_size_0"
+							  class="paged_items_paging_size_item size_selected"
+							  data-size="10">10</span>
+											<span id="Recommendations_paging_size_1"
+							  class="paged_items_paging_size_item "
+							  data-size="25">25</span>
+											<span id="Recommendations_paging_size_2"
+							  class="paged_items_paging_size_item "
+							  data-size="50">50</span>
+											<span id="Recommendations_paging_size_3"
+							  class="paged_items_paging_size_item "
+							  data-size="100">100</span>
+									</div>
+
+				<div style="clear: both;"></div>
+			</div>
+		
+											</div>
+									<div id="Recommendations_loading" style="display: none">
+												<div class="LoadingWrapper">
+			<div class="LoadingThrobber">
+				<div class="Bar Bar1"></div>
+				<div class="Bar Bar2"></div>
+				<div class="Bar Bar3"></div>
+			</div>
+							<div class="LoadingText">Loading more content...</div>
+					</div>
+											</div>
+								</div>
+							</div>
+						</div>
+
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div  data-featuretarget="footer"></div></body>
+</html>
