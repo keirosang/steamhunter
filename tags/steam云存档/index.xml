@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Steam云存档 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/steam%E4%BA%91%E5%AD%98%E6%A1%A3/</link>
+		<description>Recent content in Steam云存档 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 11:15:35 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/steam%E4%BA%91%E5%AD%98%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《和朋友一起诈骗》0.1.84更新：三存档、IP定位与金钱骡子</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-4954910-159d8369/</link>
+				<pubDate>Sat, 24 Oct 2026 11:15:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-4954910-159d8369/</guid>
+				<description>《和朋友一起诈骗》0.1.84版本正式上线：新增第6天IP定位小游戏与第11天金钱骡子玩法，开放三个可切换存档并接入Steam云同步；重置存档不再丢成就、统计与时长。主菜单新增呼叫者创建器入口，失败Boss复盘视频可用演员重现，联机客人资金与应用购买持久化也得到修复。</description>
+			</item>
+	</channel>
+</rss>
