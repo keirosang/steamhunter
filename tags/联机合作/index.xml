@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 24 Oct 2026 11:15:35 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 24 Oct 2026 17:03:52 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E5%90%88%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Moon Sweepers 1.0.3补丁：联机升级共享，基地不再卡顿</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</link>
+				<pubDate>Sat, 24 Oct 2026 17:03:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</guid>
+				<description>Moon Sweepers 1.0.3 补丁正式上线：大基地存档加载问题被修复，存档还会自动校验与备份修复；联机升级改为全队共享，房主可踢人封禁；性能最高提升约20%，分拣器、合并器、车辆车库和建造吸附同步优化。想联机的 crew 记得全员更新到 1.0.3。</description>
+			</item>
 			<item>
 				<title>《和朋友一起诈骗》0.1.84更新：三存档、IP定位与金钱骡子</title>
 				<link>https://info.steamhunter.link/posts/2026-10-24-4954910-159d8369/</link>

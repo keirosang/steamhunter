@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 23 Oct 2026 20:00:04 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 24 Oct 2026 23:20:40 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/moon-sweepers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Moon Sweepers》致歉更新：联机升级全队共享，性能大修在即</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5335510-a1602f48/</link>
+				<pubDate>Sat, 24 Oct 2026 23:20:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5335510-a1602f48/</guid>
+				<description>两人小作坊打造的《Moon Sweepers》上线即遭遇崩溃、掉帧、联机翻车三连击。官方没有回避问题，直接带着修复补丁上线：联机升级改为全队共享、Windows 端大幅优化帧数、修复存档加载并加强保存保护、房主终于能踢人封人、传送带与分流器等自动化系统一并修缮。同时官方公布了下一步重点：解决玩家离开后 J.O.O.N.A.S 停机、剩余崩溃与性能问题、数值平衡与自动化可靠性，新补丁预计数日内推送。</description>
+			</item>
+			<item>
+				<title>Moon Sweepers 1.0.3补丁：联机升级共享，基地不再卡顿</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</link>
+				<pubDate>Sat, 24 Oct 2026 17:03:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</guid>
+				<description>Moon Sweepers 1.0.3 补丁正式上线：大基地存档加载问题被修复，存档还会自动校验与备份修复；联机升级改为全队共享，房主可踢人封禁；性能最高提升约20%，分拣器、合并器、车辆车库和建造吸附同步优化。想联机的 crew 记得全员更新到 1.0.3。</description>
+			</item>
 			<item>
 				<title>《Moon Sweepers》限时15%折扣，7.64美元史低永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-10-23-5335510-c95aedb8/</link>

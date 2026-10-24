@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>基地建造 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%9F%BA%E5%9C%B0%E5%BB%BA%E9%80%A0/</link>
+		<description>Recent content in 基地建造 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 17:03:52 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%9F%BA%E5%9C%B0%E5%BB%BA%E9%80%A0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Moon Sweepers 1.0.3补丁：联机升级共享，基地不再卡顿</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</link>
+				<pubDate>Sat, 24 Oct 2026 17:03:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</guid>
+				<description>Moon Sweepers 1.0.3 补丁正式上线：大基地存档加载问题被修复，存档还会自动校验与备份修复；联机升级改为全队共享，房主可踢人封禁；性能最高提升约20%，分拣器、合并器、车辆车库和建造吸附同步优化。想联机的 crew 记得全员更新到 1.0.3。</description>
+			</item>
+	</channel>
+</rss>

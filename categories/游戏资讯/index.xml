@@ -42,6 +42,13 @@
 				<description>《Geargrave Outlands》最新官方更新优化燃油经济性：旅途中柴油与普通燃料现已分开显示，玩家可精确掌握两种资源消耗。这一改动让硬核生存的载具管理更透明，也意味着策略规划需更精细。本文深度解析燃料分离机制的实际影响，提供开荒与联机避坑建议，并附常见问题答疑。</description>
 			</item>
 			<item>
+				<title>《Moon Sweepers》致歉更新：联机升级全队共享，性能大修在即</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5335510-a1602f48/</link>
+				<pubDate>Sat, 24 Oct 2026 23:20:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5335510-a1602f48/</guid>
+				<description>两人小作坊打造的《Moon Sweepers》上线即遭遇崩溃、掉帧、联机翻车三连击。官方没有回避问题，直接带着修复补丁上线：联机升级改为全队共享、Windows 端大幅优化帧数、修复存档加载并加强保存保护、房主终于能踢人封人、传送带与分流器等自动化系统一并修缮。同时官方公布了下一步重点：解决玩家离开后 J.O.O.N.A.S 停机、剩余崩溃与性能问题、数值平衡与自动化可靠性，新补丁预计数日内推送。</description>
+			</item>
+			<item>
 				<title>《Thunder Training Ground》正式发售：空战拦截、对地轰炸、防空射击全上线</title>
 				<link>https://info.steamhunter.link/posts/2026-10-24-4637470-a1483a08/</link>
 				<pubDate>Sat, 24 Oct 2026 23:03:09 +0800</pubDate>
@@ -96,6 +103,13 @@
 				<pubDate>Sat, 24 Oct 2026 20:02:17 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-24-4435490-21badaa2/</guid>
 				<description>10 月 23 日上线的《使命召唤：现代战争4》官方只给了俄语界面与字幕，语音仍是英文原声。社区作者 MGVDub 推出非官方神经网络俄语配音包，覆盖完整战役剧情，还原角色音色与情绪，并支持自定义原声与俄语比例，作者 Boosty 页付费获取。想尝鲜的玩家记得先备份语音文件，并只在战役模式里使用。</description>
+			</item>
+			<item>
+				<title>Moon Sweepers 1.0.3补丁：联机升级共享，基地不再卡顿</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</link>
+				<pubDate>Sat, 24 Oct 2026 17:03:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5335510-a99760d3/</guid>
+				<description>Moon Sweepers 1.0.3 补丁正式上线：大基地存档加载问题被修复，存档还会自动校验与备份修复；联机升级改为全队共享，房主可踢人封禁；性能最高提升约20%，分拣器、合并器、车辆车库和建造吸附同步优化。想联机的 crew 记得全员更新到 1.0.3。</description>
 			</item>
 			<item>
 				<title>《Market Master Simulator》大更新：爷爷的商店开张，27项成就&#43;31语言上线</title>
