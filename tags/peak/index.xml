@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>PEAK on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/peak/</link>
+		<description>Recent content in PEAK on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 02:15:20 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/peak/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>PEAK 3.0.1热修复上线：跨区房间码联机问题终于修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-3527290-7e36fb90/</link>
+				<pubDate>Sat, 24 Oct 2026 02:15:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-3527290-7e36fb90/</guid>
+				<description>PEAK 推送 3.0.1 热修复补丁，重点修复跨区域加入游戏时房间码失效的问题。对喜欢和海外朋友开黑登山的玩家来说，这次更新虽小但很关键：更新后双方客户端保持一致，重新生成房间码再邀请，联机成功率会明显提升。本文整理更新要点、实操步骤与常见避坑。</description>
+			</item>
+			<item>
+				<title>PEAK跨平台联机正式上线！主机版同步发售，208张新地图永久轮换</title>
+				<link>https://info.steamhunter.link/posts/2026-10-22-3527290-1c7194d6/</link>
+				<pubDate>Thu, 22 Oct 2026 23:00:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-22-3527290-1c7194d6/</guid>
+				<description>PEAK 3.0.0 更新正式带来跨平台联机，Steam 玩家可用房间码与 PS5、Xbox Series X|S、Switch 2 好友一起爬塔。官方确认无跨平台存档转移、模组联机不保证稳定，并追加 208 张永久轮换新地图与多项 Bug 修复。这次更新是 PEAK 登陆主机后的关键节点，Steam 老玩家可带新人开荒，但联机前最好先确认模组与存档限制。</description>
+			</item>
+	</channel>
+</rss>

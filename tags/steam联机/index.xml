@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Steam联机 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/steam%E8%81%94%E6%9C%BA/</link>
+		<description>Recent content in Steam联机 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 03:51:16 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/steam%E8%81%94%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hubble Bubble热修复：Steam断连不再踢客机，联机更稳</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5013160-7e877d31/</link>
+				<pubDate>Sat, 24 Oct 2026 03:51:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5013160-7e877d31/</guid>
+				<description>《Hubble Bubble》推送小型热修复，重点解决好友联机时客机因 Steam 连接短暂波动或重新加入而被踢出房间的问题。只要游戏内连接仍然存活，玩家就能继续留在当前会话。对经常开黑的朋友来说，这次修复算是把最烦人的“莫名掉队”场景按住了。更新后建议房主与客机都升级到同一版本，再进房测试。</description>
+			</item>
+	</channel>
+</rss>

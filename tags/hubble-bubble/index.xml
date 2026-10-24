@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hubble Bubble on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/hubble-bubble/</link>
+		<description>Recent content in Hubble Bubble on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 03:51:16 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/hubble-bubble/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hubble Bubble热修复：Steam断连不再踢客机，联机更稳</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5013160-7e877d31/</link>
+				<pubDate>Sat, 24 Oct 2026 03:51:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5013160-7e877d31/</guid>
+				<description>《Hubble Bubble》推送小型热修复，重点解决好友联机时客机因 Steam 连接短暂波动或重新加入而被踢出房间的问题。只要游戏内连接仍然存活，玩家就能继续留在当前会话。对经常开黑的朋友来说，这次修复算是把最烦人的“莫名掉队”场景按住了。更新后建议房主与客机都升级到同一版本，再进房测试。</description>
+			</item>
+			<item>
+				<title>Hubble Bubble 10月23日更新：联机烟柜同步修复，巴拉克拉瓦头套与飞艇彩蛋上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5013160-ab60f90b/</link>
+				<pubDate>Sat, 24 Oct 2026 03:49:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5013160-ab60f90b/</guid>
+				<description>《Hubble Bubble》10月23日补丁带来联机体验关键修复：访客现在能看到与房主一致的烟草抽屉解锁状态，楼上标签也不再溢出。新增巴拉克拉瓦头套、Ghalyan&amp;rsquo;s 店外飞艇、钳子夹取煤块堆叠、垃圾桶标签，以及更干净的星空和垃圾袋升空发光效果。整体更顺手也更有生活感。</description>
+			</item>
+	</channel>
+</rss>
