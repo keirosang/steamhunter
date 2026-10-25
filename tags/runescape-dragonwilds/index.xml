@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>RuneScape Dragonwilds on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/runescape-dragonwilds/</link>
+		<description>Recent content in RuneScape Dragonwilds on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 23 Oct 2026 18:38:34 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/runescape-dragonwilds/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《RuneScape: Dragonwilds》1.0.1.2 热修上线：法杖连招、手柄卡顿与联机丢档一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-1374490-a3372501/</link>
+				<pubDate>Fri, 23 Oct 2026 18:38:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-1374490-a3372501/</guid>
+				<description>《RuneScape: Dragonwilds》1.0.1.2 热修补丁已正式推送，本次重点解决空气魔法法杖连招第 4 段不结算伤害、手柄在箱子里拆分堆叠时卡死、首饰耐久下降导致符文制作数值被重置为 1/50 等老毛病；同时修复了 XBOX Series X 托管世界无法容纳多名 XBOX 玩家、同名账号登录失败丢进度以及 Linux 专用服务器传送崩溃等问题。官方提醒专用服务器需手动重启才能生效，1.0.2 版本的情报也已在路上。</description>
+			</item>
+	</channel>
+</rss>

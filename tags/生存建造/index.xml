@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 14:54:05 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 23 Oct 2026 18:38:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%94%9F%E5%AD%98%E5%BB%BA%E9%80%A0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《RuneScape: Dragonwilds》1.0.1.2 热修上线：法杖连招、手柄卡顿与联机丢档一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-23-1374490-a3372501/</link>
+				<pubDate>Fri, 23 Oct 2026 18:38:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-23-1374490-a3372501/</guid>
+				<description>《RuneScape: Dragonwilds》1.0.1.2 热修补丁已正式推送，本次重点解决空气魔法法杖连招第 4 段不结算伤害、手柄在箱子里拆分堆叠时卡死、首饰耐久下降导致符文制作数值被重置为 1/50 等老毛病；同时修复了 XBOX Series X 托管世界无法容纳多名 XBOX 玩家、同名账号登录失败丢进度以及 Linux 专用服务器传送崩溃等问题。官方提醒专用服务器需手动重启才能生效，1.0.2 版本的情报也已在路上。</description>
+			</item>
 			<item>
 				<title>《The Last Caretaker》6.0「跃迁」上线：雪山新图、低温生存与安娜新章齐发</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-1783560-c0bc8b06/</link>
