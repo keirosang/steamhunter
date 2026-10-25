@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>首发数据 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%A6%96%E5%8F%91%E6%95%B0%E6%8D%AE/</link>
+		<description>Recent content in 首发数据 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 25 Oct 2026 22:09:57 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%A6%96%E5%8F%91%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《使命召唤：现代战争4》Steam首发周末峰值22.7万，竟比黑6还低25%？</title>
+				<link>https://info.steamhunter.link/posts/2026-10-25-4435490-793b6697/</link>
+				<pubDate>Sun, 25 Oct 2026 22:09:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-25-4435490-793b6697/</guid>
+				<description>《使命召唤：现代战争4》Steam首发周末同时在线峰值仅22.7万，比去年《黑色行动6》的30.6万低了25.6%。尽管MW4没进XGP，理论上应更集中，但数据依然落后。不过SteamDB统计包含整个COD启动器，且周末未结束，最终表现仍有变数。</description>
+			</item>
+	</channel>
+</rss>
