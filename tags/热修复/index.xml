@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 25 Oct 2026 06:21:50 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 26 Oct 2026 00:41:32 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Balance Due v1.0.1热修复上线：存档系统大修，再也不怕进度白给！</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5198690-49e445b3/</link>
+				<pubDate>Mon, 26 Oct 2026 00:41:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5198690-49e445b3/</guid>
+				<description>Balance Due 正式推送 v1.0.1 存档可靠性热修复，修复了传送门重置、出生点错乱、教程重复、角色自定义跨存档污染等多项老大难问题，并优化了金币与矿石宝箱的持久化表现。官方提醒：旧存档因未记录传送门状态，部分进度可能需要重新解锁，但升级后即恢复正常持久化。</description>
+			</item>
 			<item>
 				<title>Tape to Tape 热修复：三支特色小队默认解锁，肉鸽冰球开荒更爽快</title>
 				<link>https://info.steamhunter.link/posts/2026-10-25-1566200-f155a268/</link>

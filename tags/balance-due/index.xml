@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Balance Due on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/balance-due/</link>
+		<description>Recent content in Balance Due on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 00:41:32 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/balance-due/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Balance Due v1.0.1热修复上线：存档系统大修，再也不怕进度白给！</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5198690-49e445b3/</link>
+				<pubDate>Mon, 26 Oct 2026 00:41:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5198690-49e445b3/</guid>
+				<description>Balance Due 正式推送 v1.0.1 存档可靠性热修复，修复了传送门重置、出生点错乱、教程重复、角色自定义跨存档污染等多项老大难问题，并优化了金币与矿石宝箱的持久化表现。官方提醒：旧存档因未记录传送门状态，部分进度可能需要重新解锁，但升级后即恢复正常持久化。</description>
+			</item>
+	</channel>
+</rss>

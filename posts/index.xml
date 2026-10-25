@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Sun, 25 Oct 2026 22:09:57 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 26 Oct 2026 00:59:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dispatch Control教程修复：通话可续与调度引导优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-3752410-b7dc3a8c/</link>
+				<pubDate>Mon, 26 Oct 2026 00:59:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-3752410-b7dc3a8c/</guid>
+				<description>Dispatch Control 这次更新专治教程卡关：中断、长按或提前结束的通话现在可继续，已收集信息不丢失；调度引导会指向下一必要单位，并提示通过无线电调回离站车辆；此前确认过的无线电组变更也能被正确识别，无需重复操作。对新手而言，教程流程更顺，少踩莫名其妙的死胡同。</description>
+			</item>
+			<item>
+				<title>Balance Due v1.0.1热修复上线：存档系统大修，再也不怕进度白给！</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5198690-49e445b3/</link>
+				<pubDate>Mon, 26 Oct 2026 00:41:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5198690-49e445b3/</guid>
+				<description>Balance Due 正式推送 v1.0.1 存档可靠性热修复，修复了传送门重置、出生点错乱、教程重复、角色自定义跨存档污染等多项老大难问题，并优化了金币与矿石宝箱的持久化表现。官方提醒：旧存档因未记录传送门状态，部分进度可能需要重新解锁，但升级后即恢复正常持久化。</description>
+			</item>
+			<item>
+				<title>《Ball Bugz》正式上线：首发补丁修显示崩溃，老进度不丢放心滚球</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4461260-4ab6e860/</link>
+				<pubDate>Mon, 26 Oct 2026 00:16:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4461260-4ab6e860/</guid>
+				<description>《Ball Bugz》现已登陆 Steam，滚球、架炮塔、踩踏板，用每局研究点数强化防线对抗虫群。首发补丁集中修复全屏黑边、窗口缩放崩溃与显示模式切换，新增分辨率下拉菜单，并默认无边框窗口启动。官方确认老进度保留，战役平衡与升级价格均未改动，可放心更新开滚。</description>
+			</item>
+			<item>
+				<title>《Stellar Embers: United Fleet》未来更新路线图公布：无尽模式、创意工坊与PvE联机</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5074470-6b0dec10/</link>
+				<pubDate>Mon, 26 Oct 2026 00:15:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5074470-6b0dec10/</guid>
+				<description>单人开发者公布《Stellar Embers: United Fleet》未来更新计划：战役结束后新增无尽模式与排行榜，开放Steam创意工坊支持玩家自建战舰与装备并用于PvP，后续推出PvE联机模式“坚守战线”，需保护空间站抵御虫群并建造炮塔与防御平台等待舰队支援。</description>
+			</item>
+			<item>
+				<title>《后乌托邦：欧洲2999》1.0正式版上线，康奈克申城命运由你改写</title>
+				<link>https://info.steamhunter.link/posts/2026-10-25-4078410-0eae1281/</link>
+				<pubDate>Sun, 25 Oct 2026 23:08:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-25-4078410-0eae1281/</guid>
+				<description>熬了一年多，这款后乌托邦叙事RPG终于迎来1.0正式版！你将踏入康奈克申城，在千年之交的乱局里寻找活路，改写自己的命运，也改写整座城市居民的明天。官方明确表示1.0不是终点，后续还有大量改进、新物品与新任务排队上线。现在入坑正是时候，先把主线打通，再等更新加菜。</description>
+			</item>
 			<item>
 				<title>《使命召唤：现代战争4》Steam首发周末峰值22.7万，竟比黑6还低25%？</title>
 				<link>https://info.steamhunter.link/posts/2026-10-25-4435490-793b6697/</link>
@@ -82,6 +117,13 @@
 				<pubDate>Sun, 25 Oct 2026 16:14:01 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-25-4954910-4bc592f0/</guid>
 				<description>《Scam With Your Friends》0.1.90版本更新带来主播模式、大厅安全强化与抽奖诈骗机制重做。新增游戏模式筛选、允许中途加入设置，并调整信用卡与礼品卡收益平衡。媒体存储管理、恶意软件清理与Boss审查流程也获优化，联机体验更稳定。</description>
+			</item>
+			<item>
+				<title>独立新游《&#43;PROTECTUS-》Steam正式发售！开发者致谢愿望单玩家，首发口碑征集</title>
+				<link>https://info.steamhunter.link/posts/2026-10-25-4764890-66e893df/</link>
+				<pubDate>Sun, 25 Oct 2026 16:00:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-25-4764890-66e893df/</guid>
+				<description>独立游戏《+PROTECTUS-》已正式登陆Steam！开发者发长文致谢所有关注、加愿望单并支持开发的玩家。本文整理了发售核心信息、游戏上手建议、入库方法，并提醒大家加入官方频道获取秒级限免与特惠推送，同时附上常见问题解答。</description>
 			</item>
 			<item>
 				<title>《使命召唤：现代战争4》Metacritic 84-86分创15年新高，Steam好评率超90%</title>
@@ -222,6 +264,13 @@
 				<pubDate>Sat, 24 Oct 2026 16:41:33 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-24-3088790-5b53e4ed/</guid>
 				<description>苦等多时的《Market Master Simulator》大型更新终于落地：单人模式全面完工，爷爷的剧情任务、全新小镇地图、超市与工厂、温室养殖、平板中控台、员工排班与每日浮动物价一口气全给。另有27个Steam成就、五节课新手教程、手柄支持与31种语言（含简中）。联机模式确认在路上，先单刷找Bug。</description>
+			</item>
+			<item>
+				<title>&#43;PROTECTUS- 明日正式发售，愿望单党苦等的独立新作终于要来了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-4764890-3683d53a/</link>
+				<pubDate>Sat, 24 Oct 2026 16:00:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-4764890-3683d53a/</guid>
+				<description>独立新作 +PROTECTUS-（Steam AppID 4764890）官方发布最后倒计时公告，确认将于明天正式登陆 Steam 发售。开发组在公告中向所有添加愿望单、一路跟进开发进度的玩家致谢，并直言“最精彩的部分明天才开始”。本文梳理这条公告的关键信息、首发当天的入手节奏、折扣与退款注意事项，以及愿望单玩家最容易踩的几个坑。</description>
 			</item>
 			<item>
 				<title>《Task Bar Cube》官宣10月25日上线！Dark Rook Interactive新作携桌面方块玩法来袭</title>

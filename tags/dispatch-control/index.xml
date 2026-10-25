@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Dispatch Control on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/dispatch-control/</link>
+		<description>Recent content in Dispatch Control on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 00:59:09 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/dispatch-control/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dispatch Control教程修复：通话可续与调度引导优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-3752410-b7dc3a8c/</link>
+				<pubDate>Mon, 26 Oct 2026 00:59:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-3752410-b7dc3a8c/</guid>
+				<description>Dispatch Control 这次更新专治教程卡关：中断、长按或提前结束的通话现在可继续，已收集信息不丢失；调度引导会指向下一必要单位，并提示通过无线电调回离站车辆；此前确认过的无线电组变更也能被正确识别，无需重复操作。对新手而言，教程流程更顺，少踩莫名其妙的死胡同。</description>
+			</item>
+	</channel>
+</rss>
