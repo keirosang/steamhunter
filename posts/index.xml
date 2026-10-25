@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 00:59:09 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 26 Oct 2026 04:47:26 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Moon Sweepers 1.0.4大更新：夜视仪、双倍清理、秒存档与多人同步修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5335510-2b362f08/</link>
+				<pubDate>Mon, 26 Oct 2026 04:47:26 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5335510-2b362f08/</guid>
+				<description>Moon Sweepers 1.0.4 补丁正式上线，这次把玩家最烦的几件事一锅端：新增350美元夜视仪，N键切换头盔灯/护目镜；J.O.O.N.A.S.清理速度翻倍且不用回码头，还能自动发射胶囊；大型基地存档从半分钟缩到瞬间，并加入5份自动备份与崩溃修复；多人地面同步重做，尘埃不再闹鬼。本文带你快速看懂更新重点、实操技巧与避坑事项。</description>
+			</item>
+			<item>
+				<title>《Born of the Moon》官宣下个补丁实装俄语本地化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4111820-9d1e0081/</link>
+				<pubDate>Mon, 26 Oct 2026 03:32:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4111820-9d1e0081/</guid>
+				<description>刚在 Steam 上线的《Born of the Moon》首发版本未内置俄语，官方火速回应：下个补丁将实装完整俄语本地化，覆盖界面与全部游戏文本；团队同时修复首发问题并筹备后续内容。本文梳理补丁要点、更新节奏与入手建议，帮你判断现在是否值得入坑。</description>
+			</item>
+			<item>
+				<title>Blamcon&#39;s Cyber Range双人补丁：第二把枪切P2手柄</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5378020-41d83203/</link>
+				<pubDate>Mon, 26 Oct 2026 02:48:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5378020-41d83203/</guid>
+				<description>Blamcon&amp;rsquo;s Cyber Range推送小型双人说明补丁：Windows只认一个鼠标设备，多把Blamcon默认都可能落在P1，因此本地双人需把第二把光枪设为P2，并在Blamcon ARC应用里切到手柄模式。现在游戏内会直接提示这套设置，对光枪本地双人玩家来说是个实用小修，能少走不少弯路。</description>
+			</item>
+			<item>
+				<title>Last Fisherman 大更新：全新鱼类图鉴与背包重做，萤火虫点亮夜钓，进度存档终于实装</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4262030-08054ba9/</link>
+				<pubDate>Mon, 26 Oct 2026 02:09:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4262030-08054ba9/</guid>
+				<description>钓鱼佬的春天来了！Last Fisherman 本次更新把玩家念叨最久的痛点一次性补齐：Fishbook 鱼类图鉴全面重做、背包界面焕新，夜间生态加入发光萤火虫，最关键的是游戏时间与进度终于会保存了，再也不用一关一关从头肝。另外还塞进了晃鼠标提升捕获率的骚操作和新的小键盘 UI，手感与操作双升级。</description>
+			</item>
+			<item>
+				<title>《Born of the Moon》正式登陆Steam！狼人杀式非对称对抗，支持好友开黑</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4111820-b52226a5/</link>
+				<pubDate>Mon, 26 Oct 2026 02:00:26 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4111820-b52226a5/</guid>
+				<description>《Born of the Moon》现已正式登陆Steam！这是一款1vN非对称对抗游戏，一名玩家扮演狼人，其余玩家扮演幸存者，在黑暗庄园中展开猎杀与逃亡。游戏提供枪手、科学家、医生、捕手和潜行者五种独特角色，支持好友组队开黑。开发团队表示将持续更新、修复并扩展内容，首发反馈将直接影响后续优化。</description>
+			</item>
 			<item>
 				<title>Dispatch Control教程修复：通话可续与调度引导优化</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-3752410-b7dc3a8c/</link>

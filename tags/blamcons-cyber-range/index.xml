@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blamcon&#39;s Cyber Range on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/blamcons-cyber-range/</link>
+		<description>Recent content in Blamcon&#39;s Cyber Range on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 02:48:40 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/blamcons-cyber-range/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blamcon&#39;s Cyber Range双人补丁：第二把枪切P2手柄</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5378020-41d83203/</link>
+				<pubDate>Mon, 26 Oct 2026 02:48:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5378020-41d83203/</guid>
+				<description>Blamcon&amp;rsquo;s Cyber Range推送小型双人说明补丁：Windows只认一个鼠标设备，多把Blamcon默认都可能落在P1，因此本地双人需把第二把光枪设为P2，并在Blamcon ARC应用里切到手柄模式。现在游戏内会直接提示这套设置，对光枪本地双人玩家来说是个实用小修，能少走不少弯路。</description>
+			</item>
+	</channel>
+</rss>
