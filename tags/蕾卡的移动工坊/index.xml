@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>蕾卡的移动工坊 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%95%BE%E5%8D%A1%E7%9A%84%E7%A7%BB%E5%8A%A8%E5%B7%A5%E5%9D%8A/</link>
+		<description>Recent content in 蕾卡的移动工坊 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 23:14:01 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%95%BE%E5%8D%A1%E7%9A%84%E7%A7%BB%E5%8A%A8%E5%B7%A5%E5%9D%8A/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《蕾卡的移动工坊》1.0更新卡壳已修复，老玩家终于能进鸡脚小屋了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-1737870-b71019c4/</link>
+				<pubDate>Mon, 26 Oct 2026 23:14:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-1737870-b71019c4/</guid>
+				<description>发售日最怕的不是差评，是平台掉链子。《蕾卡的移动工坊》1.0 正式版上线时，Steam 端出现全球性构建推送故障，导致一批已拥有本体的老玩家死活拉不到最新版本，更新也被迫延后。官方现已确认问题修复，1.0 可正常下载进入。本文梳理事故来龙去脉、1.0 的实际变化，并附上强制刷新更新、备份老存档、切换测试分支等实操步骤与常见问题解答。</description>
+			</item>
+	</channel>
+</rss>

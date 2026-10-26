@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 22:37:23 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 00:03:51 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆登录冻结机制来了：断签不清零，最多攒30个冻结点</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-236390-a4db632e/</link>
+				<pubDate>Tue, 27 Oct 2026 00:03:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-236390-a4db632e/</guid>
+				<description>战争雷霆官方公布全新“登录冻结”机制：每累计登录12天获得1个冻结点，最多存30个，断签时自动抵扣，无需手动激活。该机制面向全体玩家开放，端游与移动端账号通用，优先保护少断签的一端。冻结点不会过期，连击重置也保留；只有错过天数超过库存才会断签。登录界面将显示可用冻结点，具体实装时间待公布。</description>
+			</item>
+			<item>
+				<title>EA SPORTS FC 27更新v1.1：生涯UI翻新与转会谈判优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4080220-5876539e/</link>
+				<pubDate>Tue, 27 Oct 2026 00:00:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4080220-5876539e/</guid>
+				<description>EA SPORTS FC 27 的 Title Update v1.1 定档10月27日。生涯模式队伍管理界面迎来大改，新增突发事件与新闻发布会频率设置；球员生涯加入一致性和限时对手目标；经理生涯优化转会拒绝理由、奖金与工资计算及老将合同诉求。完整补丁说明同日公布，先看这份前瞻做功课。</description>
+			</item>
+			<item>
+				<title>《蕾卡的移动工坊》1.0更新卡壳已修复，老玩家终于能进鸡脚小屋了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-1737870-b71019c4/</link>
+				<pubDate>Mon, 26 Oct 2026 23:14:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-1737870-b71019c4/</guid>
+				<description>发售日最怕的不是差评，是平台掉链子。《蕾卡的移动工坊》1.0 正式版上线时，Steam 端出现全球性构建推送故障，导致一批已拥有本体的老玩家死活拉不到最新版本，更新也被迫延后。官方现已确认问题修复，1.0 可正常下载进入。本文梳理事故来龙去脉、1.0 的实际变化，并附上强制刷新更新、备份老存档、切换测试分支等实操步骤与常见问题解答。</description>
+			</item>
 			<item>
 				<title>DayZ万圣节活动2026开启：三图闹鬼城堡与变异感染者</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-221100-cfe1fea6/</link>

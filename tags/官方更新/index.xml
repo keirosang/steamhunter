@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 25 Oct 2026 20:27:54 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 00:03:51 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AE%98%E6%96%B9%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆登录冻结机制来了：断签不清零，最多攒30个冻结点</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-236390-a4db632e/</link>
+				<pubDate>Tue, 27 Oct 2026 00:03:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-236390-a4db632e/</guid>
+				<description>战争雷霆官方公布全新“登录冻结”机制：每累计登录12天获得1个冻结点，最多存30个，断签时自动抵扣，无需手动激活。该机制面向全体玩家开放，端游与移动端账号通用，优先保护少断签的一端。冻结点不会过期，连击重置也保留；只有错过天数超过库存才会断签。登录界面将显示可用冻结点，具体实装时间待公布。</description>
+			</item>
 			<item>
 				<title>AION 2每日重置翻车？Shugo钥匙与梦魇票消失，官方紧急修复中</title>
 				<link>https://info.steamhunter.link/posts/2026-10-25-3393110-111684ac/</link>
