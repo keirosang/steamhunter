@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 19 Oct 2026 14:21:50 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 26 Oct 2026 12:43:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Scam With Your Friends》0.1.92更新：Gladia语音识别上线，内置浏览器被彻底砍掉</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4954910-93ff3873/</link>
+				<pubDate>Mon, 26 Oct 2026 12:43:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4954910-93ff3873/</guid>
+				<description>《Scam With Your Friends》推送 0.1.92 版本：新增可自备 API Key 的 Gladia 语音识别，Mr Curry 的老板点评台词与字幕全面重做并支持多语言，家庭友好模式同步净化；同时官方一刀砍掉内置网页浏览器及相关成就、病毒劫持机制，并修复三楼玻璃、碰撞与光照等一堆老毛病。</description>
+			</item>
 			<item>
 				<title>《Scam With Your Friends》0.1.82大更新：语音识别大修与家庭友好模式强化</title>
 				<link>https://info.steamhunter.link/posts/2026-10-19-4954910-47084837/</link>
