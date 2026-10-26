@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Beta测试 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/beta%E6%B5%8B%E8%AF%95/</link>
+		<description>Recent content in Beta测试 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 06:04:14 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/beta%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck新Beta：待机功耗再降，桌面模式大升级</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-1675200-09d6ff30/</link>
+				<pubDate>Sat, 24 Oct 2026 06:04:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-1675200-09d6ff30/</guid>
+				<description>SteamOS 3.9.5 Beta 已推送 Beta/Preview 通道，Steam Deck 无音频播放时待机功耗再降；3.9 大版本带来 Plasma 6.7.3 桌面、Linux 7.2 内核、默认 wpa_supplicant WiFi 后端，并修复 ELDEN RING、DARK SOULS III 在 Panther Lake Intel CPU 上的启动问题，以及 Legion Go 2、Steam Machine 等多设备兼容性。尝鲜前请备份，插件党注意兼容性。</description>
+			</item>
+	</channel>
+</rss>

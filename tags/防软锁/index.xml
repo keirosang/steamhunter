@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>防软锁 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%98%B2%E8%BD%AF%E9%94%81/</link>
+		<description>Recent content in 防软锁 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Oct 2026 04:17:37 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%98%B2%E8%BD%AF%E9%94%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CRACK v1.0.31 热修上线：掉线宽容度翻三倍，手柄反Y轴终于安排</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-00b09b84/</link>
+				<pubDate>Tue, 27 Oct 2026 04:17:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-00b09b84/</guid>
+				<description>CRACK 发售后的第一份热修复 v1.0.31 已推送，四条改动全部针对真实痛点：Steam 连接超时从 10 秒放宽到 30 秒，网络抖动不再直接掉线；控制菜单新增反转 Y 轴开关；一件关键物品被设为不可粉碎，堵死软锁死档；同时修复了西里尔字母排行榜条目无法显示的老毛病。本文拆解每条改动的实际影响，并附上更新、联机与手柄设置建议。</description>
+			</item>
+	</channel>
+</rss>

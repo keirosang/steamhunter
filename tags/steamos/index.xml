@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Thu, 22 Oct 2026 06:12:40 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 24 Oct 2026 06:04:26 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steamos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SteamOS 3.9推送：Steam Deck桌面升级与续航优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-1675200-a01fdb13/</link>
+				<pubDate>Sat, 24 Oct 2026 06:04:26 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-1675200-a01fdb13/</guid>
+				<description>SteamOS 3.9.5现已向所有用户推送，桌面模式升级至Plasma 6.7.3，Arch底层与Linux 7.2内核同步更新。本次重点优化Steam Deck空闲功耗、隐藏WiFi连接、帧率限制器与VRR兼容性，修复《艾尔登法环》《黑暗之魂3》在Panther Lake酷睿上的启动问题。</description>
+			</item>
+			<item>
+				<title>Steam Deck新Beta：待机功耗再降，桌面模式大升级</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-1675200-09d6ff30/</link>
+				<pubDate>Sat, 24 Oct 2026 06:04:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-1675200-09d6ff30/</guid>
+				<description>SteamOS 3.9.5 Beta 已推送 Beta/Preview 通道，Steam Deck 无音频播放时待机功耗再降；3.9 大版本带来 Plasma 6.7.3 桌面、Linux 7.2 内核、默认 wpa_supplicant WiFi 后端，并修复 ELDEN RING、DARK SOULS III 在 Panther Lake Intel CPU 上的启动问题，以及 Legion Go 2、Steam Machine 等多设备兼容性。尝鲜前请备份，插件党注意兼容性。</description>
+			</item>
 			<item>
 				<title>Steam Deck 稳定版客户端更新：Vulkan 游戏 Alt-Tab 卡死修复，桌面模式不再抽风</title>
 				<link>https://info.steamhunter.link/posts/2026-10-22-1675200-0d7692a6/</link>
