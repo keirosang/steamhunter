@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 15:20:02 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 12:31:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/tbh%E5%A1%94%E6%96%AF%E5%85%8B%E5%B7%B4%E8%8B%B1%E9%9B%84/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TBH塔斯克巴英雄1.3.2热修：登录限制与万圣节门票掉落修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-3678970-2cb4b66e/</link>
+				<pubDate>Tue, 27 Oct 2026 12:31:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-3678970-2cb4b66e/</guid>
+				<description>TBH塔斯克巴英雄推送1.3.2热修，重点处理登录请求过多触发限制、万圣节副本门票掉落错位、背包满时合成祈愿制作卡手等糟心问题。官方提醒更新后可能出现最长1小时排队，建议错峰上线。遗物混沌抗性判定、符文等级上限、合成UI与交易船右键添加材料也一并修复，属于典型体验向补丁。</description>
+			</item>
 			<item>
 				<title>TBH塔斯克巴英雄1.3.1热修复：窗口贴边适配修复，万圣节皮肤4折</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-3678970-9a60e592/</link>

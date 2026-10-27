@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 07:50:32 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 12:31:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TBH塔斯克巴英雄1.3.2热修：登录限制与万圣节门票掉落修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-3678970-2cb4b66e/</link>
+				<pubDate>Tue, 27 Oct 2026 12:31:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-3678970-2cb4b66e/</guid>
+				<description>TBH塔斯克巴英雄推送1.3.2热修，重点处理登录请求过多触发限制、万圣节副本门票掉落错位、背包满时合成祈愿制作卡手等糟心问题。官方提醒更新后可能出现最长1小时排队，建议错峰上线。遗物混沌抗性判定、符文等级上限、合成UI与交易船右键添加材料也一并修复，属于典型体验向补丁。</description>
+			</item>
 			<item>
 				<title>《饥荒联机版》热修760178：猪王发糖可能甩炸弹，龙虾终于不怕酸雨</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-322330-67645e95/</link>
@@ -91,6 +98,13 @@
 				<description>CRACK 发售后的第一份热修复 v1.0.31 已推送，四条改动全部针对真实痛点：Steam 连接超时从 10 秒放宽到 30 秒，网络抖动不再直接掉线；控制菜单新增反转 Y 轴开关；一件关键物品被设为不可粉碎，堵死软锁死档；同时修复了西里尔字母排行榜条目无法显示的老毛病。本文拆解每条改动的实际影响，并附上更新、联机与手柄设置建议。</description>
 			</item>
 			<item>
+				<title>《Cowpokers: Dead Man&#39;s Frontier》今晚解锁，3.99美元西部小镇守卫战开打</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-5315130-1366c2f2/</link>
+				<pubDate>Tue, 27 Oct 2026 04:08:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-5315130-1366c2f2/</guid>
+				<description>西部题材射击新作《Cowpokers: Dead Man&amp;rsquo;s Frontier》将于太平洋时间10月26日晚9点（北京时间10月27日中午12点）正式解锁。首发定价3.99美元，首周享受10%折扣，各区域按当地价格结算。玩家需要在边境线上一路厮杀、完成支线目标、骑马回防 Dustwater 小镇，并搭配自己的武器配置与外观。本文整理了发售时间换算、玩法机制看点、入手时机建议与常见疑问，帮你决定要不要第一时间冲进尘土飞扬的西部。</description>
+			</item>
+			<item>
 				<title>Scrappers Paradise热修：第二关卡关Bug已修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4789400-d6a99527/</link>
 				<pubDate>Tue, 27 Oct 2026 03:33:50 +0800</pubDate>
@@ -124,6 +138,13 @@
 				<pubDate>Tue, 27 Oct 2026 02:37:16 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-5282100-a8c55423/</guid>
 				<description>Sonus 已在 Steam 正式发售，AppID 5282100。官方上线公告很简短：游戏现已可购买开玩，喜欢的话请留下评测。对独立新作来说，首批评价会直接影响曝光与后续更新节奏。本文整理发售看点、入手前检查项、首发避坑建议与常见问题，帮你判断这款作品是否值得现在入库。</description>
+			</item>
+			<item>
+				<title>《The Beast Awoke To Eat Your Darlings》明日发售，首发85折五大噩梦开刷</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-1704950-19ae799a/</link>
+				<pubDate>Tue, 27 Oct 2026 02:27:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-1704950-19ae799a/</guid>
+				<description>Next Fest 试玩刚落幕，《The Beast Awoke To Eat Your Darlings》就定档 10 月 27 日发售，首发直接给到 15% 折扣，正好踩在万圣节前夜这个节点上。正式版一次放出停车场、墓园、学校、狂欢派对、公园五张噩梦地图，全部可反复刷分、全部带独立关卡排行榜，另有 20 段回忆等你从怪物嘴里抢回来。下面把上线时间、折扣规则、开荒思路和容易踩的坑一次讲透。</description>
 			</item>
 			<item>
 				<title>《Grime Cleaner Idle》正式发售：首发9折，雇一队清洁工挂机扫荡程序生成地牢</title>
@@ -518,6 +539,13 @@
 				<description>Moon Sweepers 1.0.4 补丁正式上线，这次把玩家最烦的几件事一锅端：新增350美元夜视仪，N键切换头盔灯/护目镜；J.O.O.N.A.S.清理速度翻倍且不用回码头，还能自动发射胶囊；大型基地存档从半分钟缩到瞬间，并加入5份自动备份与崩溃修复；多人地面同步重做，尘埃不再闹鬼。本文带你快速看懂更新重点、实操技巧与避坑事项。</description>
 			</item>
 			<item>
+				<title>Winter Wraith 发售时间微调：27日美东下午1点手动开闸，别蹲错点</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-3849470-0034a1ea/</link>
+				<pubDate>Mon, 26 Oct 2026 04:40:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-3849470-0034a1ea/</guid>
+				<description>Steam 新游 Winter Wraith 的发售日没有变，仍是下周二 27 日，但商店页显示的具体小时不作数了。官方说会在美东时间下午 1 点左右手动上架，目的是让最多玩家同时进场。国内蹲点党注意换算时差，别被倒计时带偏；到点按钮没刷出来也别慌，通常只是页面延迟。先把愿望单和推送开好，剩下的交给刷新键。</description>
+			</item>
+			<item>
 				<title>《Born of the Moon》官宣下个补丁实装俄语本地化</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-4111820-9d1e0081/</link>
 				<pubDate>Mon, 26 Oct 2026 03:32:07 +0800</pubDate>
@@ -656,6 +684,13 @@
 				<pubDate>Sun, 25 Oct 2026 18:31:20 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-25-5074470-2adb89e7/</guid>
 				<description>说好的27号呢？《Stellar Embers: United Fleet》官方突然宣布提前一天发售，原因竟是愿望单提前突破3000大关，开发者激动表示“一天都等不了”。这款太空舰队题材新作现已登陆Steam，本文梳理发售详情、玩法机制与入手建议，喜欢太空策略的玩家可以冲了。</description>
+			</item>
+			<item>
+				<title>《Winter Wraith》发售在即 制作人承诺三周高频补丁救火</title>
+				<link>https://info.steamhunter.link/posts/2026-10-25-3849470-50aaa4d7/</link>
+				<pubDate>Sun, 25 Oct 2026 17:51:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-25-3849470-50aaa4d7/</guid>
+				<description>《Winter Wraith》发售前版本约0.95，制作人Marix坦言无法把所有小功能打磨到完美，但承诺发售当周起每天或最多隔天推送补丁，并持续约三周，首日补丁节奏相当激进。Bug与技术问题会尽快处理，论坛同步说明，游戏将在不久后更新至完整可用状态。</description>
 			</item>
 			<item>
 				<title>Task Bar Cube 官宣来袭！Dark Rook Interactive 新作把桌面任务栏玩出花？</title>

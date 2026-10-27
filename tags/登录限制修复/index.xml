@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>登录限制修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%99%BB%E5%BD%95%E9%99%90%E5%88%B6%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 登录限制修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Oct 2026 12:31:16 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%99%BB%E5%BD%95%E9%99%90%E5%88%B6%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TBH塔斯克巴英雄1.3.2热修：登录限制与万圣节门票掉落修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-3678970-2cb4b66e/</link>
+				<pubDate>Tue, 27 Oct 2026 12:31:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-3678970-2cb4b66e/</guid>
+				<description>TBH塔斯克巴英雄推送1.3.2热修，重点处理登录请求过多触发限制、万圣节副本门票掉落错位、背包满时合成祈愿制作卡手等糟心问题。官方提醒更新后可能出现最长1小时排队，建议错峰上线。遗物混沌抗性判定、符文等级上限、合成UI与交易船右键添加材料也一并修复，属于典型体验向补丁。</description>
+			</item>
+	</channel>
+</rss>
