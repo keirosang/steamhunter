@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Deep Frost on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/deep-frost/</link>
+		<description>Recent content in Deep Frost on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 19:45:16 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/deep-frost/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Deep Frost 1.2.2 更新上线：切语言后通知残留旧文本被修，韩语玩家终于清爽了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4675840-e077febc/</link>
+				<pubDate>Mon, 26 Oct 2026 19:45:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4675840-e077febc/</guid>
+				<description>Deep Frost 推出 1.2.2 维护补丁，专门修复切换语言后系统通知仍以旧语言（含韩语）显示的残留问题。本次更新不涉及新内容、数值平衡与存档结构，属于典型的体验向热修。本文拆解这类通知本地化 Bug 的成因，并给出更新姿势、切语言避坑与联机版本一致性建议，帮你把这条补丁的作用了解清楚。</description>
+			</item>
+	</channel>
+</rss>

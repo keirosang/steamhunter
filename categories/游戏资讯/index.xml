@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 16:00:08 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 22:05:22 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</link>
+				<pubDate>Tue, 27 Oct 2026 22:05:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</guid>
+				<description>CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。</description>
+			</item>
 			<item>
 				<title>《ANTI-ANTI》正式发售！首发首周 10% 折扣开跑，独立新作值得抢首日吗？</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4982060-9a6fbded/</link>
@@ -425,6 +432,13 @@
 				<pubDate>Mon, 26 Oct 2026 20:00:28 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-26-5088140-3332136f/</guid>
 				<description>《Phantom Line: Prologue》现已免费上架 Steam，作为 Mortfield Industries 首次任务，玩家可提前体验紧张、诡异又强调战术的序章。官方强调序章并非最终形态，完整版仍在开发中，计划 2027 年开启抢先体验。现在把完整版加入愿望单，后续测试与发售动态都能第一时间关注。</description>
+			</item>
+			<item>
+				<title>Deep Frost 1.2.2 更新上线：切语言后通知残留旧文本被修，韩语玩家终于清爽了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4675840-e077febc/</link>
+				<pubDate>Mon, 26 Oct 2026 19:45:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4675840-e077febc/</guid>
+				<description>Deep Frost 推出 1.2.2 维护补丁，专门修复切换语言后系统通知仍以旧语言（含韩语）显示的残留问题。本次更新不涉及新内容、数值平衡与存档结构，属于典型的体验向热修。本文拆解这类通知本地化 Bug 的成因，并给出更新姿势、切语言避坑与联机版本一致性建议，帮你把这条补丁的作用了解清楚。</description>
 			</item>
 			<item>
 				<title>《Biathlon Manager》正式发售：冬季两项经理开张，首发创意工坊让运动员数据库自由魔改</title>

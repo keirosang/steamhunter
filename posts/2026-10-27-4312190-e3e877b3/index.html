@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复">
+  <meta property="og:description" content="CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/32f8c1578ce87dc8.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">CRACK v1.0.36热修：AMD 9000系显卡崩溃问 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 CRACK</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 4312190</span>
+      
+    </div>
+
+    <h1 class="article-title">CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-27T22:05:22&#43;08:00" class="meta-date">
+          📅 2026-10-27 22:05
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2048 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/4312190/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/4312190" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/32f8c1578ce87dc8.jpg" alt="CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="一句话总结这次不是加内容是来擦屁股的">一句话总结：这次不是加内容，是来「擦屁股」的</h2>
+<p>各位老铁，CRACK 的开发组昨天干了件特别有烟火气的事——想修个别的毛病，结果一刀下去把 AMD Radeon RX 9000 系列显卡的玩家给顺手送走了。今天 v1.0.36 上线，官方第一句话就是道歉，第二句话是「改动已回滚」。翻译成人话：<strong>昨天的补丁，我们撤回，当我没说过。</strong></p>
+<p>这种「拆东墙补西墙、最后发现墙是承重墙」的剧情，玩 Steam 年头久的朋友应该都不陌生。但愿意当天认账、隔天回滚、还专门发公告把话说清楚的独立团队，值得给个赞。</p>
+<hr>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<table>
+	<thead>
+			<tr>
+					<th>项目</th>
+					<th>内容</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>更新版本</td>
+					<td>v1.0.36</td>
+			</tr>
+			<tr>
+					<td>更新性质</td>
+					<td>紧急热修（Hotfix），体量极小</td>
+			</tr>
+			<tr>
+					<td>核心改动</td>
+					<td><strong>回滚</strong>昨日一次针对其他问题的修复代码</td>
+			</tr>
+			<tr>
+					<td>直接效果</td>
+					<td>修复 AMD Radeon RX 9000 系列显卡上的异常表现</td>
+			</tr>
+			<tr>
+					<td>影响人群</td>
+					<td>主要是 AMD 新卡的玩家；NVIDIA / Intel 用户基本无感</td>
+			</tr>
+			<tr>
+					<td>更新方式</td>
+					<td>Steam 客户端自动推送，无需任何手动操作</td>
+			</tr>
+			<tr>
+					<td>官方态度</td>
+					<td>开发者亲自致歉，明确说明「问题是我昨天造成的」</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>划重点：这不是内容更新，没有新角色、新地图、新玩法，纯粹是一次稳定性修补。</strong> 冲着新内容来的朋友可以先散了，但如果你是 AMD 9000 系用户，这条更新请务必装上。</p>
+<hr>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="我昨天修了个别的结果把这块搞崩了">「我昨天修了个别的，结果把这块搞崩了」</h3>
+<p>官方在更新说明里写得很坦诚：昨天为了处理另一处独立的问题，动了一段代码，没想到副作用直接砸在了 AMD 9000 系显卡玩家头上。这种情况在图形渲染相关的改动里其实相当常见——不同 GPU 架构对同一段指令路径的处理方式差异很大，改一处，另一边就可能翻车。</p>
+<p>所以这次的处理方式非常干脆：<strong>不硬修，直接回滚。</strong></p>
+<h3 id="为什么回滚比硬修更聪明">为什么「回滚」比「硬修」更聪明</h3>
+<p>很多玩家第一反应可能是「你倒是修啊，回滚算什么本事」。但从工程角度看，回滚恰恰是最负责任的选择：</p>
+<ul>
+<li><strong>风险最低</strong>：原路撤回，玩家能立刻恢复到已知可用的状态，不用赌一个新补丁；</li>
+<li><strong>速度最快</strong>：不需要重新设计、重新测试、重新走一遍验证流程；</li>
+<li><strong>信息最透明</strong>：官方明确告诉玩家「是我昨天搞的」，而不是含糊其辞地写「优化了部分显卡兼容性」。</li>
+</ul>
+<p>换句话说，昨天的那个原始问题重新回到了待办清单上，但至少今天大家的游戏能正常开了。这笔账，算得过来。</p>
+<h3 id="对普通玩家意味着什么">对普通玩家意味着什么</h3>
+<p>如果你用的是 NVIDIA 或 Intel 显卡，这次更新对你几乎没有可感知的变化，装与不装都不影响你继续玩。</p>
+<p>如果你是 AMD Radeon RX 9000 系列用户，并且昨天更新后遇到了画面异常、启动失败或运行不稳定的情况——那这次就是<strong>专门为你准备的补丁</strong>，更新完直接开游戏验证即可。</p>
+<hr>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="1-更新方式交给-steam-就行">1. 更新方式：交给 Steam 就行</h3>
+<p>启动 Steam 客户端，CRACK 会自动进入更新队列。如果没动静，右键游戏 →「属性」→「已安装文件」→「验证游戏文件的完整性」，让它自己把 v1.0.36 拉下来。整个过程通常几十秒，不需要重装。</p>
+<h3 id="2-amd-用户的排障顺序">2. AMD 用户的排障顺序</h3>
+<p>更新完之后如果还是不对劲，按这个顺序走一遍，能解决 90% 的玄学问题：</p>
+<ol>
+<li><strong>先确认版本号</strong>：进游戏主菜单或 Steam 属性页，确认已经是 v1.0.36；</li>
+<li><strong>清理着色器缓存</strong>：A 卡驱动面板里找到着色器缓存选项，清一次，重启游戏；</li>
+<li><strong>驱动别乱升</strong>：不要因为看到更新就第一时间把驱动拉到最新，先用你之前跑得稳的版本；</li>
+<li><strong>必要时回退驱动</strong>：如果新驱动是昨天刚装的，尝试回退到上一个稳定版本再测；</li>
+<li><strong>还不行就上报</strong>：带上显卡型号、驱动版本、复现步骤，去 Steam 社区讨论区或官方 Discord 反馈。</li>
+</ol>
+<h3 id="3-开黑前的小提醒">3. 开黑前的小提醒</h3>
+<p>联机党注意，热修之后建议先自己单开一局跑几分钟，确认帧数稳定、没有花屏闪退，再拉朋友进房。不然开局三分钟掉线，队友的怨念可比显卡驱动难修多了。</p>
+<h3 id="4-要不要现在买">4. 要不要现在买</h3>
+<p>这不是折扣节点，本次更新也不涉及价格变动。还在观望的朋友不必因为这条补丁冲动下单——先看看自己显卡是否在受影响范围内，再去商店页翻翻近期评价，比什么都实在。</p>
+<hr>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>热修这种事儿，最怕的就是「你不知道它发生了」。Steam 的更新推送有时会延迟，社区公告也不一定第一时间刷到。想第一时间掌握这类<strong>秒级热修、限时免费、临时工定价、喜加一入库</strong>的动态，欢迎加入我们的 Telegram 频道 <strong>@steamhunterlink</strong>。</p>
+<p>不加群、不吵人，只在真正有价值的情报出现时推你一下。显卡驱动翻车这种事，早一分钟知道，少一小时折腾。</p>
+<hr>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：我是 AMD 9000 系显卡，更新到 v1.0.36 之后还是有问题怎么办？</strong></p>
+<p>先排除本地因素：验证游戏文件完整性、清理着色器缓存、确认驱动版本是否为已知稳定版。如果三步走完依旧异常，请务必带上<strong>显卡具体型号 + 驱动版本号 + 问题复现步骤</strong>去官方反馈渠道上报。只写「我进不去」这种，开发者是真的没法定位。</p>
+<p><strong>Q2：这次更新会影响 NVIDIA 或 Intel 显卡的玩家吗？</strong></p>
+<p>基本不会。本次改动本质是撤回前一日的一段代码，属于「恢复原状」而非「新增逻辑」。非 AMD 9000 系用户即使不更新，游戏表现也不会有明显差别。当然，自动更新开着的话装了就装了，没有任何副作用。</p>
+<p><strong>Q3：更新包多大？需要我手动做什么吗？</strong></p>
+<p>这是一次典型的热修，体量非常小，走 Steam 自动更新即可，不需要重装游戏、不需要重下资源包，也不需要手动替换任何文件。更新完成后直接启动游戏验证效果就行。</p>
+<hr>
+<p><strong>主理人结语：</strong></p>
+<p>独立团队出事不可怕，可怕的是出事之后装死。CRACK 这次的处理方式算是给同行做了个示范——认错要快，回滚要狠，公告要写人话。至于昨天那个被搁置的原始问题，我们就当是「下次一定」吧。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/CRACK/" class="article-tag-item">#CRACK</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/AMD%e6%98%be%e5%8d%a1%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#AMD显卡修复</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e7%8b%ac%e7%ab%8b%e6%b8%b8%e6%88%8f/" class="article-tag-item">#独立游戏</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-27-4982060-9a6fbded/" class="sibling-title">《ANTI-ANTI》正式发售！首发首周 10% 折扣开跑，独立新作值得抢首日吗？</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#一句话总结这次不是加内容是来擦屁股的">一句话总结：这次不是加内容，是来「擦屁股」的</a></li>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#我昨天修了个别的结果把这块搞崩了">「我昨天修了个别的，结果把这块搞崩了」</a></li>
+        <li><a href="#为什么回滚比硬修更聪明">为什么「回滚」比「硬修」更聪明</a></li>
+        <li><a href="#对普通玩家意味着什么">对普通玩家意味着什么</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#1-更新方式交给-steam-就行">1. 更新方式：交给 Steam 就行</a></li>
+        <li><a href="#2-amd-用户的排障顺序">2. AMD 用户的排障顺序</a></li>
+        <li><a href="#3-开黑前的小提醒">3. 开黑前的小提醒</a></li>
+        <li><a href="#4-要不要现在买">4. 要不要现在买</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

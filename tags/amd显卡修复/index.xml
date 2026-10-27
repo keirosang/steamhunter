@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AMD显卡修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/amd%E6%98%BE%E5%8D%A1%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in AMD显卡修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Oct 2026 22:05:22 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/amd%E6%98%BE%E5%8D%A1%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</link>
+				<pubDate>Tue, 27 Oct 2026 22:05:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</guid>
+				<description>CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。</description>
+			</item>
+	</channel>
+</rss>
