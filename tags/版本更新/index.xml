@@ -35,6 +35,13 @@
 				<description>CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。</description>
 			</item>
 			<item>
+				<title>《钢铁雄心4》1.19.4 QoL大更新：自动贸易上线，学说平衡大洗牌</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-394360-0b87f574/</link>
+				<pubDate>Tue, 27 Oct 2026 22:05:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-394360-0b87f574/</guid>
+				<description>P社在圣诞节前给《钢铁雄心4》端上了一锅硬菜：1.19.4 War Effort 更新（校验和 a783）带来通知分组、自动资源贸易、自动外交应答、维修优先级队列、情报局升级排队、志愿军召回、舰队编成保存等一大批体验优化，同时把夏季开放测试中关于学说与战斗模拟的平衡改动正式并入，外加传统艺能的一箩筐修 bug。本体免费更新，不用买 DLC。</description>
+			</item>
+			<item>
 				<title>战争雷霆2.59.0.87：416工程显示修复，Linux黑屏崩溃解决</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</link>
 				<pubDate>Tue, 27 Oct 2026 20:35:18 +0800</pubDate>
