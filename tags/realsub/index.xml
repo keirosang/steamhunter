@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>RealSub on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/realsub/</link>
+		<description>Recent content in RealSub on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Oct 2026 00:13:48 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/realsub/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>RealSub 1.0 正式版上线 Steam：本地字幕处理模型免费送，透明背景告别遮挡</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5227410-690ff742/</link>
+				<pubDate>Wed, 28 Oct 2026 00:13:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5227410-690ff742/</guid>
+				<description>字幕处理工具 RealSub 正式迎来 1.0 版本登陆 Steam。本次更新带来完全本地运行的语言模型（免费 DLC 形式发放，下载后自动切换无需重启），新增透明字幕背景选项让字幕与任何视频画面自然融合，并优化整句重处理时的原文同步逻辑。此外还包含稳定性与性能提升。对于经常啃生肉视频的玩家来说，这是一款值得入库的实用工具。</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>光追优化 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%85%89%E8%BF%BD%E4%BC%98%E5%8C%96/</link>
+		<description>Recent content in 光追优化 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Oct 2026 20:35:18 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%85%89%E8%BF%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆2.59.0.87：416工程显示修复，Linux黑屏崩溃解决</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</link>
+				<pubDate>Tue, 27 Oct 2026 20:35:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</guid>
+				<description>战争雷霆推送 2.59.0.87 维护补丁，全场都是“小而致命”的修复：416工程的车载机枪弹药终于肯在动作栏露面了，战斗中被判定为坠机或离场击杀的载具不再卡住重生锁定，海战光追阴影的消失与闪烁被掐灭，Linux 开启光线重建后的黑屏、以及 macOS 与 Linux 登录即崩溃也一并处理。本文梳理全部要点，附上更新方式、光追设置与联机避坑建议。</description>
+			</item>
+	</channel>
+</rss>

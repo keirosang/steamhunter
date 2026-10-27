@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 00:03:51 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 21:57:50 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%88%98%E4%BA%89%E9%9B%B7%E9%9C%86/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆核升级模拟战限时测试：四档权重与奖励机制全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-236390-c669607f/</link>
+				<pubDate>Tue, 27 Oct 2026 21:57:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-236390-c669607f/</guid>
+				<description>战争雷霆官方将于10月27日至29日在模拟战模式中限时测试核升级玩法，沿用真实战斗的核升级规则，但飞行模型与标记配置更硬核。测试覆盖热带海岸与东南城市地图，按8.7-9.7、10.0-11.0、11.3-13.0、13.3+四档权重匹配，奖励按持久对抗结算。想尝鲜的飞行员别错过。</description>
+			</item>
+			<item>
+				<title>战争雷霆2.59.0.87：416工程显示修复，Linux黑屏崩溃解决</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</link>
+				<pubDate>Tue, 27 Oct 2026 20:35:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</guid>
+				<description>战争雷霆推送 2.59.0.87 维护补丁，全场都是“小而致命”的修复：416工程的车载机枪弹药终于肯在动作栏露面了，战斗中被判定为坠机或离场击杀的载具不再卡住重生锁定，海战光追阴影的消失与闪烁被掐灭，Linux 开启光线重建后的黑屏、以及 macOS 与 Linux 登录即崩溃也一并处理。本文梳理全部要点，附上更新方式、光追设置与联机避坑建议。</description>
+			</item>
 			<item>
 				<title>战争雷霆登录冻结机制来了：断签不清零，最多攒30个冻结点</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-236390-a4db632e/</link>

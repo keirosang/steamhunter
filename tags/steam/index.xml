@@ -10,15 +10,50 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 22:05:22 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 00:57:58 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>「像素夜班：维斯塔协议」Steam发售：机械仓库夜班恐怖叙事，双结局首发17%折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5083960-efaf6b08/</link>
+				<pubDate>Wed, 28 Oct 2026 00:57:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5083960-efaf6b08/</guid>
+				<description>一人独立开发的叙事恐怖新作《Pixel Nightshift: The Vesta Protocol》正式登陆 Steam：在机器人仓库上夜班，读订单、拣零件、装箱、装车，十个夜晚、两个结局，单结局 35 到 45 分钟。支持键鼠与手柄、11 种语言、12 个 Steam 成就，上线首周 17% 折扣，喜欢《请出示文件》式枯燥压迫感的玩家别错过。</description>
+			</item>
+			<item>
+				<title>RealSub 1.0 正式版上线 Steam：本地字幕处理模型免费送，透明背景告别遮挡</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5227410-690ff742/</link>
+				<pubDate>Wed, 28 Oct 2026 00:13:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5227410-690ff742/</guid>
+				<description>字幕处理工具 RealSub 正式迎来 1.0 版本登陆 Steam。本次更新带来完全本地运行的语言模型（免费 DLC 形式发放，下载后自动切换无需重启），新增透明字幕背景选项让字幕与任何视频画面自然融合，并优化整句重处理时的原文同步逻辑。此外还包含稳定性与性能提升。对于经常啃生肉视频的玩家来说，这是一款值得入库的实用工具。</description>
+			</item>
+			<item>
+				<title>CRACK正式发售：四人合作剥巨蛋，首发周15%折扣别错过</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-19ddf943/</link>
+				<pubDate>Tue, 27 Oct 2026 22:36:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-19ddf943/</guid>
+				<description>四人合作增量冒险《CRACK》现已登陆Steam，首发周限时15%优惠。玩家和队友将轮班深入实验室，一层层剥开神秘巨蛋，升级工具提升破壳效率。游戏支持Windows、Mac、Linux与Steam Deck，适合好友开黑解压，首发折扣约一周后结束，想入库的玩家别错过。</description>
+			</item>
 			<item>
 				<title>CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</link>
 				<pubDate>Tue, 27 Oct 2026 22:05:22 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</guid>
 				<description>CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。</description>
+			</item>
+			<item>
+				<title>战争雷霆2.59.0.87：416工程显示修复，Linux黑屏崩溃解决</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</link>
+				<pubDate>Tue, 27 Oct 2026 20:35:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</guid>
+				<description>战争雷霆推送 2.59.0.87 维护补丁，全场都是“小而致命”的修复：416工程的车载机枪弹药终于肯在动作栏露面了，战斗中被判定为坠机或离场击杀的载具不再卡住重生锁定，海战光追阴影的消失与闪烁被掐灭，Linux 开启光线重建后的黑屏、以及 macOS 与 Linux 登录即崩溃也一并处理。本文梳理全部要点，附上更新方式、光追设置与联机避坑建议。</description>
+			</item>
+			<item>
+				<title>AION 2 例行维护4小时30分：10月28日全服停机，更新内容成谜</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-3393110-c093d35a/</link>
+				<pubDate>Tue, 27 Oct 2026 19:00:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-3393110-c093d35a/</guid>
+				<description>《AION 2》官方发布例行维护公告：10月27日23:30（PDT）起全服停机4小时30分钟，折算北京时间10月28日14:30至19:00。维护期间登录通道关闭，维护一开始就会被强制下线，更新细节官方称稍后公布。本文整理了时区换算、维护前必做清单、开服抢跑与避坑技巧，帮你把这段停机空窗期安排得明明白白。</description>
 			</item>
 			<item>
 				<title>《星夜茶会》1.0.0正式版上线：创意工坊与意大利语支持</title>

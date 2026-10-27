@@ -10,15 +10,50 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 22:05:22 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 00:13:48 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>RealSub 1.0 正式版上线 Steam：本地字幕处理模型免费送，透明背景告别遮挡</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5227410-690ff742/</link>
+				<pubDate>Wed, 28 Oct 2026 00:13:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5227410-690ff742/</guid>
+				<description>字幕处理工具 RealSub 正式迎来 1.0 版本登陆 Steam。本次更新带来完全本地运行的语言模型（免费 DLC 形式发放，下载后自动切换无需重启），新增透明字幕背景选项让字幕与任何视频画面自然融合，并优化整句重处理时的原文同步逻辑。此外还包含稳定性与性能提升。对于经常啃生肉视频的玩家来说，这是一款值得入库的实用工具。</description>
+			</item>
+			<item>
+				<title>《Prismarch》正式发售：象棋肉鸽动作RPG，挑战七位棱镜国王</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-3808810-08c4ec11/</link>
+				<pubDate>Wed, 28 Oct 2026 00:04:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-3808810-08c4ec11/</guid>
+				<description>《Prismarch》1.0正式登陆Steam，把国际象棋玩成单人动作肉鸽：挑战七位元素棱镜国王，收集王冠碎片重建世界。RPG式NPC任务、主线剧情、棋子技能与永久升级一应俱全，后续免费更新还将加入官方中文、PvP、关卡编辑器与更多Boss。1.0同步修复控制、Rex Immortalis等问题，并提前解锁火焰男爵。</description>
+			</item>
 			<item>
 				<title>CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</link>
 				<pubDate>Tue, 27 Oct 2026 22:05:22 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</guid>
 				<description>CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。</description>
+			</item>
+			<item>
+				<title>战争雷霆2.59.0.87：416工程显示修复，Linux黑屏崩溃解决</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</link>
+				<pubDate>Tue, 27 Oct 2026 20:35:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-236390-b2d35f5d/</guid>
+				<description>战争雷霆推送 2.59.0.87 维护补丁，全场都是“小而致命”的修复：416工程的车载机枪弹药终于肯在动作栏露面了，战斗中被判定为坠机或离场击杀的载具不再卡住重生锁定，海战光追阴影的消失与闪烁被掐灭，Linux 开启光线重建后的黑屏、以及 macOS 与 Linux 登录即崩溃也一并处理。本文梳理全部要点，附上更新方式、光追设置与联机避坑建议。</description>
+			</item>
+			<item>
+				<title>AION 2 例行维护4小时30分：10月28日全服停机，更新内容成谜</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-3393110-c093d35a/</link>
+				<pubDate>Tue, 27 Oct 2026 19:00:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-3393110-c093d35a/</guid>
+				<description>《AION 2》官方发布例行维护公告：10月27日23:30（PDT）起全服停机4小时30分钟，折算北京时间10月28日14:30至19:00。维护期间登录通道关闭，维护一开始就会被强制下线，更新细节官方称稍后公布。本文整理了时区换算、维护前必做清单、开服抢跑与避坑技巧，帮你把这段停机空窗期安排得明明白白。</description>
+			</item>
+			<item>
+				<title>《艾尔登法环》2.3.0更新真相：剧毒套装与新灵魂献祭项目竟是隔壁ARC Raiders？</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-1808500-2970d6c7/</link>
+				<pubDate>Tue, 27 Oct 2026 18:00:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-1808500-2970d6c7/</guid>
+				<description>各位褪色者注意！本次2.3.0更新原为隔壁《ARC Raiders》的情报，但主理人本着来都来了的原则，将其重新包装成艾尔登法环版本：剧毒套装上线，灵魂献祭新玩家项目开启，重型盾牌基础充能加强，另有飞艇解谜与海量修复。注意：官方原版版本号与内容存在乌龙，本文仅作趣味解析，请以实际游戏公告为准。</description>
 			</item>
 			<item>
 				<title>《饥荒联机版》热修760178：猪王发糖可能甩炸弹，龙虾终于不怕酸雨</title>
