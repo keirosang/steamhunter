@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Silver Valley Screams on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/silver-valley-screams/</link>
+		<description>Recent content in Silver Valley Screams on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Oct 2026 07:35:50 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/silver-valley-screams/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Silver Valley Screams热修：笔记乱码与背包异常修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4831660-d72d6bbd/</link>
+				<pubDate>Tue, 27 Oct 2026 07:35:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4831660-d72d6bbd/</guid>
+				<description>小补丁也能决定恐怖游戏的沉浸感。《Silver Valley Screams》1.0.3-8T热修上线，重点修复父亲笔记4文字错乱，以及笔记被错误塞进库存的异常。后者是上一轮最后一分钟修复留下的尾巴，典型的“修一个冒一个”。本次无新内容，却直接关系到叙事线索与背包整洁，更新后建议验证文件并备份存档再进游戏。</description>
+			</item>
+			<item>
+				<title>《Silver Valley Screams》热修复将至，免费试胆还享25%折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4831660-78c2992e/</link>
+				<pubDate>Tue, 27 Oct 2026 07:24:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4831660-78c2992e/</guid>
+				<description>刚上线的《Silver Valley Screams》把不少玩家吓了一跳，也把开发组忙坏了。官方确认首个热修复很快推送，会持续处理首发问题，并愿意为玩家制作无剧透机制指南。与此同时，Steam Scream 首发期还有 25% 折扣。本文帮你理清免费入库、折扣购买、开荒避坑和尝鲜建议，先收藏再试胆。</description>
+			</item>
+	</channel>
+</rss>

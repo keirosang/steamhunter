@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 04:19:26 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 07:49:36 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Timeless Rain》1.4补丁：死亡回菜单与制图师对话修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-2401350-32325d31/</link>
+				<pubDate>Tue, 27 Oct 2026 07:49:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-2401350-32325d31/</guid>
+				<description>《Timeless Rain》1.4补丁现已上线。本次更新没有新增地图、Boss或装备，重点修复两项影响体验的顽疾：玩家在尚未存档时死亡会被踢回主菜单，以及制图师对话文本错乱。对正在推进流程、频繁跑图的玩家来说，这波属于实打实的稳定性补丁。别小看这两行日志，它们直接决定跑图体验是否顺畅。建议更新后进游戏验证存档与对话，并继续留意后续优化。</description>
+			</item>
+			<item>
+				<title>《Timeless Rain》1.3补丁：传送器、尖刺与升级存档修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-2401350-522fcfec/</link>
+				<pubDate>Tue, 27 Oct 2026 05:58:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-2401350-522fcfec/</guid>
+				<description>《Timeless Rain》推送1.3版本补丁，集中修复三类影响体验的顽疾：传送器图片不刷新、切换场景时尖刺动画卡死，以及从枢纽前往观星区域时升级数据未保存。本文梳理修复细节、更新后实操建议与常见问题，并附上更新前备份、更新后验证升级是否保留的小贴士，帮你快速避开旧版本存档坑。</description>
+			</item>
 			<item>
 				<title>《Timeless Rain》1.2补丁：终局镜头与关键语音修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-2401350-583f82a0/</link>

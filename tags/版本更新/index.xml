@@ -10,15 +10,43 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 04:17:37 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 07:50:32 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《饥荒联机版》热修760178：猪王发糖可能甩炸弹，龙虾终于不怕酸雨</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-322330-67645e95/</link>
+				<pubDate>Tue, 27 Oct 2026 07:50:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-322330-67645e95/</guid>
+				<description>《饥荒联机版》推送 Hotfix 760178，小补丁却件件戳在痛点上：猪王递糖时有概率改成塞你一枚南瓜炸弹，落叶堆翻出糖果的频率明显提高；Mac 端启动异常、附魔女巫扫帚动画、落叶堆无法用动作键清扫、岩石龙虾被酸雨误伤、国王科学机器与蝎子手杖皮肤隐身等一堆老毛病同步修复，另外给模组作者开放了专用服务器存档读写开关。</description>
+			</item>
+			<item>
+				<title>Silver Valley Screams热修：笔记乱码与背包异常修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4831660-d72d6bbd/</link>
+				<pubDate>Tue, 27 Oct 2026 07:35:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4831660-d72d6bbd/</guid>
+				<description>小补丁也能决定恐怖游戏的沉浸感。《Silver Valley Screams》1.0.3-8T热修上线，重点修复父亲笔记4文字错乱，以及笔记被错误塞进库存的异常。后者是上一轮最后一分钟修复留下的尾巴，典型的“修一个冒一个”。本次无新内容，却直接关系到叙事线索与背包整洁，更新后建议验证文件并备份存档再进游戏。</description>
+			</item>
+			<item>
+				<title>撤离不亏！《Life Is a Dungeon》休闲模式带回物资</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-5062910-ca45d546/</link>
+				<pubDate>Tue, 27 Oct 2026 07:05:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-5062910-ca45d546/</guid>
+				<description>《Life Is a Dungeon: Lean into It.》推送 v1.1172.0.40 小更新：休闲模式主动放弃跑图回城时，可带回剩余物品与工具，试错成本大幅降低；同时降低战斗前后 BGM 切换的处理负载，修复战利品过滤器误把部分装备标成 Boss 专属掉落的问题，并调整枢纽视觉。对休闲党与刷装党都是实打实的体验优化。</description>
+			</item>
 			<item>
 				<title>CRACK v1.0.31 热修上线：掉线宽容度翻三倍，手柄反Y轴终于安排</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-00b09b84/</link>
 				<pubDate>Tue, 27 Oct 2026 04:17:37 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-00b09b84/</guid>
 				<description>CRACK 发售后的第一份热修复 v1.0.31 已推送，四条改动全部针对真实痛点：Steam 连接超时从 10 秒放宽到 30 秒，网络抖动不再直接掉线；控制菜单新增反转 Y 轴开关；一件关键物品被设为不可粉碎，堵死软锁死档；同时修复了西里尔字母排行榜条目无法显示的老毛病。本文拆解每条改动的实际影响，并附上更新、联机与手柄设置建议。</description>
+			</item>
+			<item>
+				<title>Scrappers Paradise热修：第二关卡关Bug已修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4789400-d6a99527/</link>
+				<pubDate>Tue, 27 Oct 2026 03:33:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4789400-d6a99527/</guid>
+				<description>《Scrappers Paradise》官方推送小型热修，专门处理第二关无法继续推进的恶性Bug。此前玩家会在第二关节点被硬生生拦住，更新后正常流程应可恢复；如果你已经卡关，也需要先确认补丁下载完成，再重启游戏或读取关卡前存档。本文整理更新要点、更新操作、卡关自救步骤与联机避坑提醒。</description>
 			</item>
 			<item>
 				<title>《Kleromancy》1.0正式版：骰面翻新、燃烧重做与传奇新玩法</title>
@@ -68,6 +96,13 @@
 				<pubDate>Tue, 27 Oct 2026 00:00:32 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-4080220-5876539e/</guid>
 				<description>EA SPORTS FC 27 的 Title Update v1.1 定档10月27日。生涯模式队伍管理界面迎来大改，新增突发事件与新闻发布会频率设置；球员生涯加入一致性和限时对手目标；经理生涯优化转会拒绝理由、奖金与工资计算及老将合同诉求。完整补丁说明同日公布，先看这份前瞻做功课。</description>
+			</item>
+			<item>
+				<title>《使命召唤：现代战争4》Shipment 10月27日回归：全系列最小地图，绞肉机再度开张</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-4435490-16858e1f/</link>
+				<pubDate>Mon, 26 Oct 2026 23:47:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-4435490-16858e1f/</guid>
+				<description>动视确认，Shipment 地图将于 10 月 27 日正式回归《使命召唤：现代战争4》。这张纵横系列近二十年的超小型多人地图，以出生即交火、几十秒一轮回的极端节奏著称，历来是刷枪、刷通行证与练手感的圣地。本次回归对本体玩家免费开放，无需额外购买 DLC，但伴随的出生点压力与连杀滚雪球问题也值得提前预判。</description>
 			</item>
 			<item>
 				<title>《蕾卡的移动工坊》1.0更新卡壳已修复，老玩家终于能进鸡脚小屋了</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>卡关Bug on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%8D%A1%E5%85%B3bug/</link>
+		<description>Recent content in 卡关Bug on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Oct 2026 03:33:50 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%8D%A1%E5%85%B3bug/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Scrappers Paradise热修：第二关卡关Bug已修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4789400-d6a99527/</link>
+				<pubDate>Tue, 27 Oct 2026 03:33:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4789400-d6a99527/</guid>
+				<description>《Scrappers Paradise》官方推送小型热修，专门处理第二关无法继续推进的恶性Bug。此前玩家会在第二关节点被硬生生拦住，更新后正常流程应可恢复；如果你已经卡关，也需要先确认补丁下载完成，再重启游戏或读取关卡前存档。本文整理更新要点、更新操作、卡关自救步骤与联机避坑提醒。</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Battle SHIRYU on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/battle-shiryu/</link>
+		<description>Recent content in Battle SHIRYU on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 25 Oct 2026 19:51:58 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/battle-shiryu/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Battle SHIRYU》手势控纸龙定档10月27日登陆Steam</title>
+				<link>https://info.steamhunter.link/posts/2026-10-25-5398150-3eb2ac7c/</link>
+				<pubDate>Sun, 25 Oct 2026 19:51:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-25-5398150-3eb2ac7c/</guid>
+				<description>2002年的无接触摄像头研究，在2026年长成掌心纸龙。开发者日志回顾了《Battle SHIRYU》如何用MediaPipe Hands实现裸手操控：引导纸龙碰同色摩艾触发连锁反应，手离开画面自动暂停，握合手势点菜单，也保留鼠标操作。游戏定档2026年10月27日登陆Steam，现已可加入愿望单。</description>
+			</item>
+			<item>
+				<title>Battle SHIRYU定档10月27日：摄像头隔空操控纸龙</title>
+				<link>https://info.steamhunter.link/posts/2026-10-24-5398150-60640324/</link>
+				<pubDate>Sat, 24 Oct 2026 21:28:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-24-5398150-60640324/</guid>
+				<description>开发者 Takahiro Yonemura 公开《Battle SHIRYU》实机录像：在摄像头前挥手，即可引导纸龙穿过手工关卡并触发摩艾石像连锁反应。这款实验性无接触动作游戏灵感来自 2002 年的界面研究，手部操控需兼容摄像头和 Windows 相机权限，光线与构图会影响识别，也支持鼠标。游戏定档 2026 年 10 月 27 日登陆 Windows，现已开放愿望单。</description>
+			</item>
+	</channel>
+</rss>

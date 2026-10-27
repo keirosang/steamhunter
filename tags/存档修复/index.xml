@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 00:41:32 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 05:58:42 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Timeless Rain》1.3补丁：传送器、尖刺与升级存档修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-2401350-522fcfec/</link>
+				<pubDate>Tue, 27 Oct 2026 05:58:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-2401350-522fcfec/</guid>
+				<description>《Timeless Rain》推送1.3版本补丁，集中修复三类影响体验的顽疾：传送器图片不刷新、切换场景时尖刺动画卡死，以及从枢纽前往观星区域时升级数据未保存。本文梳理修复细节、更新后实操建议与常见问题，并附上更新前备份、更新后验证升级是否保留的小贴士，帮你快速避开旧版本存档坑。</description>
+			</item>
 			<item>
 				<title>Balance Due v1.0.1热修复上线：存档系统大修，再也不怕进度白给！</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-5198690-49e445b3/</link>

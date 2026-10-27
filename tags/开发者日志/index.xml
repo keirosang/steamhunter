@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>开发者日志 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%BC%80%E5%8F%91%E8%80%85%E6%97%A5%E5%BF%97/</link>
+		<description>Recent content in 开发者日志 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 25 Oct 2026 19:51:58 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%BC%80%E5%8F%91%E8%80%85%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Battle SHIRYU》手势控纸龙定档10月27日登陆Steam</title>
+				<link>https://info.steamhunter.link/posts/2026-10-25-5398150-3eb2ac7c/</link>
+				<pubDate>Sun, 25 Oct 2026 19:51:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-25-5398150-3eb2ac7c/</guid>
+				<description>2002年的无接触摄像头研究，在2026年长成掌心纸龙。开发者日志回顾了《Battle SHIRYU》如何用MediaPipe Hands实现裸手操控：引导纸龙碰同色摩艾触发连锁反应，手离开画面自动暂停，握合手势点菜单，也保留鼠标操作。游戏定档2026年10月27日登陆Steam，现已可加入愿望单。</description>
+			</item>
+	</channel>
+</rss>

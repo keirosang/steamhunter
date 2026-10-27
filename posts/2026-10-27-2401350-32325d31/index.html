@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Timeless Rain》1.4补丁：死亡回菜单与制图师对话修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《Timeless Rain》1.4补丁现已上线。本次更新没有新增地图、Boss或装备，重点修复两项影响体验的顽疾：玩家在尚未存档时死亡会被踢回主菜单，以及制图师对话文本错乱。对正在推进流程、频繁跑图的玩家来说，这波属于实打实的稳定性补丁。别小看这两行日志，它们直接决定跑图体验是否顺畅。建议更新后进游戏验证存档与对话，并继续留意后续优化。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Timeless Rain》1.4补丁：死亡回菜单与制图师对话修复">
+  <meta property="og:description" content="《Timeless Rain》1.4补丁现已上线。本次更新没有新增地图、Boss或装备，重点修复两项影响体验的顽疾：玩家在尚未存档时死亡会被踢回主菜单，以及制图师对话文本错乱。对正在推进流程、频繁跑图的玩家来说，这波属于实打实的稳定性补丁。别小看这两行日志，它们直接决定跑图体验是否顺畅。建议更新后进游戏验证存档与对话，并继续留意后续优化。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-27-2401350-32325d31/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/95831d3bd7e1c8d9.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-27-2401350-32325d31/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Timeless Rain》1.4补丁：死亡回菜单与制图师 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Timeless Rain</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 2401350</span>
+      
+    </div>
+
+    <h1 class="article-title">《Timeless Rain》1.4补丁：死亡回菜单与制图师对话修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-27T07:49:36&#43;08:00" class="meta-date">
+          📅 2026-10-27 07:49
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 3 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1235 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/2401350/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/2401350" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/95831d3bd7e1c8d9.jpg" alt="《Timeless Rain》1.4补丁：死亡回菜单与制图师对话修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《Timeless Rain》1.4补丁现已上线。本次更新没有新增地图、Boss或装备，重点修复两项影响体验的顽疾：玩家在尚未存档时死亡会被踢回主菜单，以及制图师对话文本错乱。对正在推进流程、频繁跑图的玩家来说，这波属于实打实的稳定性补丁。别小看这两行日志，它们直接决定跑图体验是否顺畅。建议更新后进游戏验证存档与对话，并继续留意后续优化。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>1.4 补丁已推送</strong>：这是一次小体量但很关键的稳定性修复，没有新地图、新 Boss 或新装备。</li>
+<li><strong>修复死亡回菜单问题</strong>：如果你在尚未存档时死亡，不再被直接踢回主菜单。</li>
+<li><strong>修复制图师对话错乱</strong>：NPC 台词不再串词，线索和世界观文本阅读体验更顺。</li>
+<li><strong>适合所有已入坑玩家更新</strong>：尤其是正在推流程、频繁跑图、被“死一次回主菜单”折磨过的朋友。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-死亡未存档不再被踢回菜单">1. 死亡未存档不再被踢回菜单</h3>
+<p>这应该是本次 1.4 补丁里最实在的一条。此前玩家如果在还没存档时倒下，游戏可能直接把你送回主菜单，那种感觉就像排了半小时队，轮到你时窗口关了。对需要反复探图、试错成本不低的流程来说，这种问题会严重打断节奏。</p>
+<p>修复后，死亡惩罚回归正常范围：该重来重来，但不至于把整段游戏状态一起掀桌。需要提醒的是，补丁说明只提到“死亡前未存档”的回菜单问题，并没有承诺自动存档机制变宽松，所以<strong>手动存档的好习惯还是得保留</strong>。</p>
+<h3 id="2-制图师对话文本错乱修复">2. 制图师对话文本错乱修复</h3>
+<p>第二条看似不起眼，实际对体验影响不小。制图师这类 NPC 往往承担路线提示、世界观补充和任务引导功能，台词一旦错乱，玩家很容易看得一头雾水：上一句还在聊地图，下一句突然跳到别处，像极了信号不好的语音频道。</p>
+<p>1.4 补丁把这段对话的错乱问题修掉后，和制图师交流应该能恢复正常阅读顺序。对喜欢抠文本、研究设定的玩家来说，这是一条值得进游戏重新对话验证的修复。</p>
+<h3 id="3-补丁定位不画饼先修痛点">3. 补丁定位：不画饼，先修痛点</h3>
+<p>从更新日志看，1.4 没有塞进新内容，也没有平衡性调整，属于典型的“先把路修平”型补丁。两项修复都指向实际游玩中的卡点：一个是死亡后的流程中断，一个是 NPC 文本的阅读障碍。对独立游戏来说，这种补丁不华丽，但很必要。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>更新游戏</strong>：打开 Steam 库，检查《Timeless Rain》是否已排队更新；若没有动静，重启 Steam 客户端再看。</li>
+<li><strong>验证文件完整性</strong>：更新后如果仍遇到旧问题，可在 Steam 库中右键游戏，进入“属性 - 已安装文件”验证完整性。</li>
+<li><strong>进游戏做两项验证</strong>：一是找机会测试“未存档死亡”是否还会回菜单；二是去找制图师对话，看看文本是否恢复正常。</li>
+<li><strong>继续勤存档</strong>：修复的是异常回菜单，不是把存档系统改成自动挡。跑图前顺手存一下，永远不亏。</li>
+<li><strong>遇到新问题及时反馈</strong>：如果更新后出现其他异常，记录触发步骤和截图，通过官方渠道反馈，比在评论区干着急更有用。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间拿到 Steam 限免、喜加一和特惠折扣推送，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。秒级提醒，不用天天刷库，也不容易错过临时免费周末。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：1.4 补丁到底更新了什么？</strong></p>
+<p>A：两项修复：死亡前未存档导致被踢回主菜单的问题，以及制图师对话文本错乱的问题。没有新增内容或平衡性调整。</p>
+<p><strong>Q2：为什么我的 Steam 还没收到 1.4 更新？</strong></p>
+<p>A：先确认游戏是否在库中并处于可更新状态，重启 Steam 客户端，再检查下载队列。若仍无更新，尝试验证游戏文件完整性。</p>
+<p><strong>Q3：更新后我的存档会受影响吗？</strong></p>
+<p>A：本次补丁说明未提及存档结构改动，通常不会主动影响现有存档。稳妥起见，更新前备份关键存档，更新后先进游戏确认角色与进度是否正常。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Timeless%20Rain/" class="article-tag-item">#Timeless Rain</a>
+          
+          <a href="/tags/Steam%e6%9b%b4%e6%96%b0/" class="article-tag-item">#Steam更新</a>
+          
+          <a href="/tags/%e8%a1%a5%e4%b8%81%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#补丁修复</a>
+          
+          <a href="/tags/%e7%8b%ac%e7%ab%8b%e6%b8%b8%e6%88%8f/" class="article-tag-item">#独立游戏</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-27-2401350-32325d31/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-27-4831660-d72d6bbd/" class="sibling-title">Silver Valley Screams热修：笔记乱码与背包异常修复</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-27-322330-67645e95/" class="sibling-title">《饥荒联机版》热修760178：猪王发糖可能甩炸弹，龙虾终于不怕酸雨</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-死亡未存档不再被踢回菜单">1. 死亡未存档不再被踢回菜单</a></li>
+        <li><a href="#2-制图师对话文本错乱修复">2. 制图师对话文本错乱修复</a></li>
+        <li><a href="#3-补丁定位不画饼先修痛点">3. 补丁定位：不画饼，先修痛点</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
