@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BUBBA CHOP GROVE on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/bubba-chop-grove/</link>
+		<description>Recent content in BUBBA CHOP GROVE on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Oct 2026 11:44:22 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/bubba-chop-grove/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BUBBA CHOP GROVE 更新 1.0.0.11：蘑菇环不再摸鱼，成就门槛直降九成</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</link>
+				<pubDate>Wed, 28 Oct 2026 11:44:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</guid>
+				<description>砍树爽游 BUBBA CHOP GROVE 推送 1.0.0.11 补丁，本次重点修复了后期几乎绝迹的蘑菇环刷新逻辑，仙女环探测器与相关委托终于重新有活干；成就「Sweeping Success」判定放宽，小队骑士全员计入，「Swipe and Stride」需求从 1000 次砍到 100 次。此外重置存档、自动补种进度条、传奇树血量显示、教学指引手等一堆老毛病也一并收拾干净，老存档照旧继承。</description>
+			</item>
+	</channel>
+</rss>

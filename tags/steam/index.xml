@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 05:00:04 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 11:44:22 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BUBBA CHOP GROVE 更新 1.0.0.11：蘑菇环不再摸鱼，成就门槛直降九成</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</link>
+				<pubDate>Wed, 28 Oct 2026 11:44:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</guid>
+				<description>砍树爽游 BUBBA CHOP GROVE 推送 1.0.0.11 补丁，本次重点修复了后期几乎绝迹的蘑菇环刷新逻辑，仙女环探测器与相关委托终于重新有活干；成就「Sweeping Success」判定放宽，小队骑士全员计入，「Swipe and Stride」需求从 1000 次砍到 100 次。此外重置存档、自动补种进度条、传奇树血量显示、教学指引手等一堆老毛病也一并收拾干净，老存档照旧继承。</description>
+			</item>
+			<item>
+				<title>Apex英雄10月26日热修：排位免入场费漏洞被封，环境能回正吗</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-1172470-72c4f4b8/</link>
+				<pubDate>Wed, 28 Oct 2026 10:00:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-1172470-72c4f4b8/</guid>
+				<description>10月26日《Apex英雄》推送小型热修，官方确认移除了部分玩家在排位赛中不支付入场费即可参赛的漏洞。别小看这一行更新，它直接关系到排位门票经济、匹配公平和赛季末冲分环境。我会拆解这次修复的实际影响、普通玩家更新后要注意什么，以及排位开黑避坑建议，帮你别在版本切换期白丢分。</description>
+			</item>
+			<item>
+				<title>Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</link>
+				<pubDate>Wed, 28 Oct 2026 09:01:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</guid>
+				<description>恐怖向作品 Smiley Steel 推送 1.1.0 版本修复补丁，一口气处理了四类最影响体验的老毛病：同一段 jumpscare 反复触发、ESC 菜单点击“主菜单”后 GUI 重叠导致无法正常返回、部分物体物理表现异常，以及多处光照错误与区域光照不一致。本文拆解每条修复背后的实际影响，附上更新后自检、验证文件完整性与画面设置建议，并提醒玩家关注限免与特惠推送渠道。</description>
+			</item>
+			<item>
+				<title>《Senior Survival Club》正式发售：硬核奶奶带队打僵尸，首发直降25%只卖14天</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-3690370-d1a2ca98/</link>
+				<pubDate>Wed, 28 Oct 2026 07:54:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-3690370-d1a2ca98/</guid>
+				<description>等了一整个 Next Fest 的《Senior Survival Club》终于转正：完整版一次放出 7 个关卡、5 位战斗风格迥异的老奶奶同伴、仓库翻出的老装备与成堆任务成就，还支持 13 种语言。发售前 14 天享 25% 首发折扣，错过这波就得等下一次促销。本文把版本内容、开荒思路与入手时机一次讲透。</description>
+			</item>
+			<item>
+				<title>《Cozy Associations》暖心发售：100关图文联想解谜，免费Demo先尝鲜</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5247800-61a669ad/</link>
+				<pubDate>Wed, 28 Oct 2026 05:49:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5247800-61a669ad/</guid>
+				<description>主打治愈系联想解谜的《Cozy Associations》正式登陆 Steam，Windows 与 macOS 双平台同步上线。游戏收录 100 个关卡、10 种温馨场景，玩家需要在文字与图片卡牌之间找出微妙联系并完成分类整理，还配有每日谜题、12 种语言、Steam 成就与云存档。官方同步开放免费 Demo，包含前两章共 20 个可玩关卡，想先试试手感的朋友可以直接下载体验。</description>
+			</item>
 			<item>
 				<title>《Nomad Drive》10% 史低特惠：13.49 美元拿下公路驾驶小品</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-2223980-706ed3f7/</link>
@@ -68,6 +103,13 @@
 				<pubDate>Tue, 27 Oct 2026 19:00:29 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-3393110-c093d35a/</guid>
 				<description>《AION 2》官方发布例行维护公告：10月27日23:30（PDT）起全服停机4小时30分钟，折算北京时间10月28日14:30至19:00。维护期间登录通道关闭，维护一开始就会被强制下线，更新细节官方称稍后公布。本文整理了时区换算、维护前必做清单、开服抢跑与避坑技巧，帮你把这段停机空窗期安排得明明白白。</description>
+			</item>
+			<item>
+				<title>《THREE KINGDOMS RIDE TO CONQUEST》新手开荒：主线刷星、周末双人本与公会科技全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-5040660-d4f80b64/</link>
+				<pubDate>Tue, 27 Oct 2026 15:31:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-5040660-d4f80b64/</guid>
+				<description>三国题材动作刷装新作《THREE KINGDOMS RIDE TO CONQUEST》官方新手引导要点全整理：主线通关白嫖武将、星级成就领装备锻造材料、周末限时双人副本冲专属红装、每日4任务与周常积分不漏、公会四大建筑与翰林院特种兵解锁路线一次讲透，附开荒顺序、辣椒难度选择与联机避坑建议，零氪也能稳稳起号。</description>
 			</item>
 			<item>
 				<title>《星夜茶会》1.0.0正式版上线：创意工坊与意大利语支持</title>

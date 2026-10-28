@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 00:13:48 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 11:44:22 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BUBBA CHOP GROVE 更新 1.0.0.11：蘑菇环不再摸鱼，成就门槛直降九成</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</link>
+				<pubDate>Wed, 28 Oct 2026 11:44:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</guid>
+				<description>砍树爽游 BUBBA CHOP GROVE 推送 1.0.0.11 补丁，本次重点修复了后期几乎绝迹的蘑菇环刷新逻辑，仙女环探测器与相关委托终于重新有活干；成就「Sweeping Success」判定放宽，小队骑士全员计入，「Swipe and Stride」需求从 1000 次砍到 100 次。此外重置存档、自动补种进度条、传奇树血量显示、教学指引手等一堆老毛病也一并收拾干净，老存档照旧继承。</description>
+			</item>
+			<item>
+				<title>Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</link>
+				<pubDate>Wed, 28 Oct 2026 09:01:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</guid>
+				<description>恐怖向作品 Smiley Steel 推送 1.1.0 版本修复补丁，一口气处理了四类最影响体验的老毛病：同一段 jumpscare 反复触发、ESC 菜单点击“主菜单”后 GUI 重叠导致无法正常返回、部分物体物理表现异常，以及多处光照错误与区域光照不一致。本文拆解每条修复背后的实际影响，附上更新后自检、验证文件完整性与画面设置建议，并提醒玩家关注限免与特惠推送渠道。</description>
+			</item>
+			<item>
+				<title>《CRACK》v1.0.43更新：离线模式&#43;休闲模式上线，蛋变乖了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4312190-b33d0d35/</link>
+				<pubDate>Wed, 28 Oct 2026 01:53:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4312190-b33d0d35/</guid>
+				<description>《CRACK》v1.0.43 更新上线：新增离线模式，断网也能单人开局，暂停菜单终于能真正冻结游戏；新增休闲模式，取消宵禁与助眠费、谜题锁定最简难度、机器人不再罢工、蛋的暴躁速度减半、事件失败零惩罚，爆管与脚手架坍塌事件一并关闭。另加入 Vulkan 启动选项，专门照顾 DX11 花屏、闪退的玩家，助眠费从 20 美元降到 5 美元，并修复梦境加成丢失与部分 AMD/Intel 显卡矿脉不显示的问题。</description>
+			</item>
 			<item>
 				<title>RealSub 1.0 正式版上线 Steam：本地字幕处理模型免费送，透明背景告别遮挡</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-5227410-690ff742/</link>
@@ -77,11 +98,25 @@
 				<description>各位褪色者注意！本次2.3.0更新原为隔壁《ARC Raiders》的情报，但主理人本着来都来了的原则，将其重新包装成艾尔登法环版本：剧毒套装上线，灵魂献祭新玩家项目开启，重型盾牌基础充能加强，另有飞艇解谜与海量修复。注意：官方原版版本号与内容存在乌龙，本文仅作趣味解析，请以实际游戏公告为准。</description>
 			</item>
 			<item>
+				<title>Curatio v1.0.0 上线：4 种模式、近百位大师名画卡牌开张</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4866860-6d1b5fdc/</link>
+				<pubDate>Tue, 27 Oct 2026 17:33:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4866860-6d1b5fdc/</guid>
+				<description>以世界名画为牌面的卡牌新作 Curatio 迎来 v1.0.0 首发版本：4 种游戏模式、5 款 Joker 卡设计、4 种卡背与 4 张对局背景同步登场，另附整整 1 小时原创配乐。更狠的是它的美术库——从文艺复兴一路排到印象派与现代主义，97 位艺术大师的作品被塞进了同一副牌里。本文整理首发内容清单、上手节奏建议与几条实用避坑提醒。</description>
+			</item>
+			<item>
 				<title>《伊莫》S1「随风启程·下篇」大更新：51只新伊莫&#43;低语群岛开放</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4126040-00ca4c6a/</link>
 				<pubDate>Tue, 27 Oct 2026 10:47:13 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-4126040-00ca4c6a/</guid>
 				<description>《伊莫》S1「随风启程·下篇」将于10月29日07:00-15:00（UTC+8）停机维护，维护后低语群岛四大区域开放，51只全新伊莫登场，四位赛季限定棱彩伊莫与风系输出Hypnyto、暗系破阵者棱彩Eklue同步上线。维护前完成注册的旅者可领取500 Glimmer补偿，本文附上开荒避坑要点与更新前准备清单。</description>
+			</item>
+			<item>
+				<title>Steam Deck 测试版客户端更新：休眠崩溃修复、游戏邀请独立组件上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-1675200-353208ce/</link>
+				<pubDate>Tue, 27 Oct 2026 07:51:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-1675200-353208ce/</guid>
+				<description>Steam 客户端 Beta/Preview 通道推送十月末更新，重点修复掌机休眠唤醒崩溃这个老毛病，给更新卡 99% 加了应急绕过方案。聊天系统也迎来一轮大改：好友游戏邀请变成文本框上方的独立组件、群聊邀请无需再切私聊、消息通知合并滚动不刷屏，手柄导航卡死一并处理，远程畅玩连本地电脑的串流启动更快。</description>
 			</item>
 			<item>
 				<title>《饥荒联机版》热修760178：猪王发糖可能甩炸弹，龙虾终于不怕酸雨</title>

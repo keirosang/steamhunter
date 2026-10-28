@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="恐怖向作品 Smiley Steel 推送 1.1.0 版本修复补丁，一口气处理了四类最影响体验的老毛病：同一段 jumpscare 反复触发、ESC 菜单点击“主菜单”后 GUI 重叠导致无法正常返回、部分物体物理表现异常，以及多处光照错误与区域光照不一致。本文拆解每条修复背后的实际影响，附上更新后自检、验证文件完整性与画面设置建议，并提醒玩家关注限免与特惠推送渠道。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复">
+  <meta property="og:description" content="恐怖向作品 Smiley Steel 推送 1.1.0 版本修复补丁，一口气处理了四类最影响体验的老毛病：同一段 jumpscare 反复触发、ESC 菜单点击“主菜单”后 GUI 重叠导致无法正常返回、部分物体物理表现异常，以及多处光照错误与区域光照不一致。本文拆解每条修复背后的实际影响，附上更新后自检、验证文件完整性与画面设置建议，并提醒玩家关注限免与特惠推送渠道。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/5410f210a4658a70.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Smiley Steel 1.1.0 修复补丁上线：重复惊吓 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Smiley Steel</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5061100</span>
+      
+    </div>
+
+    <h1 class="article-title">Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-28T09:01:38&#43;08:00" class="meta-date">
+          📅 2026-10-28 09:01
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1671 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5061100/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5061100" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/5410f210a4658a70.jpg" alt="Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>恐怖向作品 Smiley Steel 推送 1.1.0 版本修复补丁，一口气处理了四类最影响体验的老毛病：同一段 jumpscare 反复触发、ESC 菜单点击“主菜单”后 GUI 重叠导致无法正常返回、部分物体物理表现异常，以及多处光照错误与区域光照不一致。本文拆解每条修复背后的实际影响，附上更新后自检、验证文件完整性与画面设置建议，并提醒玩家关注限免与特惠推送渠道。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>这次开发商放出的 <strong>1.1.0 版本补丁</strong>，性质上是一次偏向技术层面的问题修复更新，没有新关卡、没有新道具，也没有影响整体平衡的数值改动，核心就是集中处理四处长期被玩家讨论的问题。</p>
+<ul>
+<li><strong>重复惊吓修复</strong>：此前同一段惊吓演出（jumpscare）会多次重复触发的问题已被处理，理论上惊吓的节奏和铺陈将回到设计预期。</li>
+<li><strong>主菜单交互修复</strong>：游戏内按 ESC 呼出菜单后，点击「Main Menu」会出现 GUI 元素重叠、主菜单无法正常打开的异常，如今已修复。</li>
+<li><strong>物理表现修复</strong>：部分物体的物理表现异常得到处理，涉及碰撞、掉落或堆叠的相关表现。</li>
+<li><strong>光照系统修复</strong>：修复多处光照错误，并改善了一些区域的光照一致性，明暗过渡不再出现突兀的断层感。</li>
+</ul>
+<p>对于这样一款体量不算庞大的作品来说，这四条基本覆盖了影响玩家体验的“硬伤”。</p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<p><strong>先说最要命的重复惊吓。</strong> 在恐怖游戏里，jumpscare 本质上是导演精心编排的一次“惊吓节奏”，它讲究铺垫、蓄力与释放。一旦同一段惊吓连着触发两三次，恐惧感就会像隔夜的气泡水一样消散，只剩尴尬。这次修复后，玩家在同一场景里不会再被同一张脸反复“问候”，恐怖体验的节奏感回来了。</p>
+<p><strong>第二是那个让不少人抓狂的主菜单问题。</strong> 游戏内按 ESC 打开菜单，点「Main Menu」本该回到标题界面，结果 GUI 图层叠在一起，主菜单打不开，游戏卡在半死不活的状态——这种问题说大不大，但要退出游戏只能强行关闭进程或者用 Alt+F4，属实有些为难人。现在这条链路已经恢复正常，退出、切档、重开都顺滑了。</p>
+<p><strong>第三是物理表现。</strong> 对于依赖环境细节营造压迫感的作品来说，物体穿模、悬空、乱抖这类小毛病虽然不至于直接毁掉体验，却很破坏沉浸感。官方表示已针对“某些物体”的物理进行修正，实际效果建议玩家自己在场景里多留意一下可互动物件。</p>
+<p><strong>最后是光照。</strong> 本条修复包括“各类光照错误”与“部分区域光照一致性”两方面。恐怖游戏的光照几乎相当于半个叙事工具：哪里亮、哪里暗、阴影往哪边倒，直接决定玩家敢不敢往前走。修复后，同一区域内不同视角的明暗表现会更加统一，不会再出现转身画面忽然换了个“片场”的错觉。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>1. 更新流程与自检</strong>
+在 Steam 库中右键 Smiley Steel →「属性」→「已安装文件」→「验证游戏文件的完整性」，可以确保补丁完整落地。更新后建议先跑一次标题界面，测试 ESC 菜单往返切换是否正常，再进入游戏验证惊吓触发情况。</p>
+<p><strong>2. 存档与进度保护</strong>
+虽然本次属于修复性质的小版本，但保险起见，进入游戏前可以顺手备份一下存档目录，尤其是已经推进到中后期的存档，避免意外。</p>
+<p><strong>3. 画面设置小建议</strong>
+既然光照一致性得到了修复，可以尝试把原本因为“太暗看不清”而调高的亮度适当降回来，让阴影重新发挥作用——恐怖游戏调太亮，等于把鬼放在了日光灯下。若帧数波动明显，优先关闭垂直同步并适当降低阴影质量。</p>
+<p><strong>4. 内容创作与直播避坑</strong>
+如果你打算录制或做直播，1.1.0 之后重复惊吓的素材不会再出现“同一次被吓三个来回”的诡异画面，剪辑压力会小不少。同时建议在 OBS 中单独捕获游戏窗口，避免 Alt+Tab 切菜单时出现黑屏。</p>
+<p><strong>5. 购买与入手时机</strong>
+目前没有收到与本次补丁配套的折扣信息，属于纯更新。不着急的玩家可以先把游戏加入愿望单，等下一次特惠或限免活动再决定，别忘了先领了再说“真香”。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间收到限免喜加一、史低折扣和版本更新提醒？欢迎加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，秒级推送、不刷屏、不漏单，喜加一党与折扣猎人都在里面蹲着。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：1.1.0 更新会影响到我的存档吗？</strong>
+A：本次更新以修复为主，不涉及存档结构改动，正常情况下进度可以正常继承。仍建议更新前手动备份一次存档目录，求个心安。</p>
+<p><strong>Q2：更新后 ESC 菜单点「主菜单」还是打不开怎么办？</strong>
+A：先验证游戏文件完整性，再清理本地缓存；同时更新显卡驱动，并把分辨率切换一次后重新应用。若问题依旧，可在 Steam 社区发帖贴出日志，方便开发者定位。</p>
+<p><strong>Q3：这次更新有新增内容吗？</strong>
+A：没有。1.1.0 属于修复补丁，不含新地图、新角色或新玩法，主要针对重复惊吓、主菜单交互、物理表现与光照错误四项问题。想要新内容的玩家还需耐心等待后续版本。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Smiley%20Steel/" class="article-tag-item">#Smiley Steel</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e6%81%90%e6%80%96%e6%b8%b8%e6%88%8f/" class="article-tag-item">#恐怖游戏</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-28-3612660-941189b5/" class="sibling-title">《Hatters》正式发售：四人魔法联机开刷，45关30法术爽快上头</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-28-3690240-d79131aa/" class="sibling-title">Project Android 正式发售！Shiravune 联合发行新作上线，首发入库与入手全指南</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a></li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

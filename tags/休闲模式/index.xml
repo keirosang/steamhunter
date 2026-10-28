@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 07:05:48 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 01:53:56 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E4%BC%91%E9%97%B2%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《CRACK》v1.0.43更新：离线模式&#43;休闲模式上线，蛋变乖了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4312190-b33d0d35/</link>
+				<pubDate>Wed, 28 Oct 2026 01:53:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4312190-b33d0d35/</guid>
+				<description>《CRACK》v1.0.43 更新上线：新增离线模式，断网也能单人开局，暂停菜单终于能真正冻结游戏；新增休闲模式，取消宵禁与助眠费、谜题锁定最简难度、机器人不再罢工、蛋的暴躁速度减半、事件失败零惩罚，爆管与脚手架坍塌事件一并关闭。另加入 Vulkan 启动选项，专门照顾 DX11 花屏、闪退的玩家，助眠费从 20 美元降到 5 美元，并修复梦境加成丢失与部分 AMD/Intel 显卡矿脉不显示的问题。</description>
+			</item>
 			<item>
 				<title>撤离不亏！《Life Is a Dungeon》休闲模式带回物资</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-5062910-ca45d546/</link>

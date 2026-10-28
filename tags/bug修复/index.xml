@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 01:30:29 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 09:01:38 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</link>
+				<pubDate>Wed, 28 Oct 2026 09:01:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</guid>
+				<description>恐怖向作品 Smiley Steel 推送 1.1.0 版本修复补丁，一口气处理了四类最影响体验的老毛病：同一段 jumpscare 反复触发、ESC 菜单点击“主菜单”后 GUI 重叠导致无法正常返回、部分物体物理表现异常，以及多处光照错误与区域光照不一致。本文拆解每条修复背后的实际影响，附上更新后自检、验证文件完整性与画面设置建议，并提醒玩家关注限免与特惠推送渠道。</description>
+			</item>
 			<item>
 				<title>《模拟人生4》十月质量更新：免费老年内容、食物大修与150&#43;修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-1222670-f3034b50/</link>

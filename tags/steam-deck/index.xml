@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 02:00:40 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 07:51:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck 测试版客户端更新：休眠崩溃修复、游戏邀请独立组件上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-1675200-353208ce/</link>
+				<pubDate>Tue, 27 Oct 2026 07:51:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-1675200-353208ce/</guid>
+				<description>Steam 客户端 Beta/Preview 通道推送十月末更新，重点修复掌机休眠唤醒崩溃这个老毛病，给更新卡 99% 加了应急绕过方案。聊天系统也迎来一轮大改：好友游戏邀请变成文本框上方的独立组件、群聊邀请无需再切私聊、消息通知合并滚动不刷屏，手柄导航卡死一并处理，远程畅玩连本地电脑的串流启动更快。</description>
+			</item>
 			<item>
 				<title>《Space Savory》发售：太空黑暗料理开张，Roguelike模式已在后厨备料</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-3760770-fd034561/</link>

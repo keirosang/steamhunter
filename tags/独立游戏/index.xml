@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 05:00:04 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 11:44:22 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BUBBA CHOP GROVE 更新 1.0.0.11：蘑菇环不再摸鱼，成就门槛直降九成</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</link>
+				<pubDate>Wed, 28 Oct 2026 11:44:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</guid>
+				<description>砍树爽游 BUBBA CHOP GROVE 推送 1.0.0.11 补丁，本次重点修复了后期几乎绝迹的蘑菇环刷新逻辑，仙女环探测器与相关委托终于重新有活干；成就「Sweeping Success」判定放宽，小队骑士全员计入，「Swipe and Stride」需求从 1000 次砍到 100 次。此外重置存档、自动补种进度条、传奇树血量显示、教学指引手等一堆老毛病也一并收拾干净，老存档照旧继承。</description>
+			</item>
 			<item>
 				<title>《Nomad Drive》10% 史低特惠：13.49 美元拿下公路驾驶小品</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-2223980-706ed3f7/</link>
@@ -89,6 +96,13 @@
 				<pubDate>Tue, 27 Oct 2026 22:05:22 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</guid>
 				<description>CRACK 推送 v1.0.36 小型热修，针对 AMD Radeon RX 9000 系列显卡玩家遭遇的异常做了紧急回滚处理。官方坦承前一日的修复动作「修一个引出另一个」，本次已把改动完整撤销，受影响玩家更新后即可恢复正常。本文梳理本次更新要点、AMD 用户排障思路与后续上报渠道。</description>
+			</item>
+			<item>
+				<title>Project Exhibitionist发售延期，Steam审核卡关</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4688700-faf3123f/</link>
+				<pubDate>Tue, 27 Oct 2026 16:36:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4688700-faf3123f/</guid>
+				<description>《Project Exhibitionist》官方发布 Steam 发售说明：团队已提前一个多月提交 build，但至今仍未通过最终审核，发售被迫延期。官方推测与本届 Steam Next Fest 参展游戏过多有关，并强调游戏本体已准备就绪，只等平台绿灯，快则数小时、慢则数日。团队向玩家致歉，承诺在 X 与 Discord 第一时间同步进展。</description>
 			</item>
 			<item>
 				<title>《ANTI-ANTI》正式发售！首发首周 10% 折扣开跑，独立新作值得抢首日吗？</title>
