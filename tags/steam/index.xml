@@ -10,9 +10,51 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 22:58:46 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 01:31:33 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blockflow 首次更新上线：屏幕尺寸适配 Bug 修复，独立小作坊的诚意补丁</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</link>
+				<pubDate>Thu, 29 Oct 2026 01:31:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</guid>
+				<description>刚登陆 Steam 的方块解谜小品《Blockflow》推送了发售后的首个更新，官方直截了当地表示修掉了屏幕尺寸相关的显示 Bug。别看只是一行字的补丁说明，分辨率适配恰恰是这类体量不大的作品最容易翻车的地方。这次我把更新要点、实际影响和上手避坑建议都整理好了。</description>
+			</item>
+			<item>
+				<title>CRACK v1.0.53更新：公开联机、物品口袋与海量优化，独狼开黑都舒服了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4312190-d1bf954a/</link>
+				<pubDate>Thu, 29 Oct 2026 01:02:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4312190-d1bf954a/</guid>
+				<description>CRACK迎来v1.0.53大版本更新！新增物品口袋系统，按R即可多带一件道具；公开服务器浏览加入，按延迟排序找房；房主可踢人、锁房；视频设置加入FOV与屏幕抖动，默认降低镜头晃动；工作单经济全面减负，寄生虫、老虎机、方解石等任务要求下调；还有一堆联机与音效Bug修复。独狼开黑都更顺手。</description>
+			</item>
+			<item>
+				<title>《Airport Contraband》发售：化身机场海关，拦截违禁品</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-1167820-0cceea93/</link>
+				<pubDate>Thu, 29 Oct 2026 00:00:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-1167820-0cceea93/</guid>
+				<description>《Airport Contraband》现已正式登陆Steam！你将扮演Caldora机场的海关官员，查验旅客证件、搜查行李，揪出一切可疑违禁品。是照章办事还是睁一只眼闭一只眼？全凭你的判断。首班岗已开启，快来体验这场充满意外与故事的机场安检模拟之旅。</description>
+			</item>
+			<item>
+				<title>Pixel Coloring World 正式上线：本体永久免费入库，首发 DLC 再送 13 万格填色狂欢</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5036700-3b62cb6c/</link>
+				<pubDate>Wed, 28 Oct 2026 23:57:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5036700-3b62cb6c/</guid>
+				<description>主打无压力解压体验的像素填色新作 Pixel Coloring World 已在 Steam 正式上线，且本体完全免费、永久入库。免费版包含 12 幅像素插画、4 种画布尺寸与 13 万个待填色像素；同日发售的可选付费 DLC《Colorful Stories Vol. 1》再追加 12 幅新图与 13 万像素，本体加 DLC 合计 24 幅作品、26 万格配色空间。</description>
+			</item>
+			<item>
+				<title>战争雷霆新版本前瞻：太阳城全面翻新、美式沙漠重做与12种天气升级</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-236390-43457d6b/</link>
+				<pubDate>Wed, 28 Oct 2026 23:09:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-236390-43457d6b/</guid>
+				<description>战争雷霆下一大版本将对太阳城与美国沙漠两张老地图进行环境级重做，太阳城变为沿海连续中东城市，加入瓷砖脱落、玻璃破碎与店铺内景等可破坏细节；美国沙漠保留熟悉路线与火车机制。12种天气预设同步升级，云层、光照与雨雾表现更真实。本文整理核心改动、上手建议与常见问题。</description>
+			</item>
+			<item>
+				<title>DayZ Badlands首周32万份、43.5万在线！热修万圣节解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-221100-66c01ac8/</link>
+				<pubDate>Wed, 28 Oct 2026 23:00:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-221100-66c01ac8/</guid>
+				<description>DayZ团队致谢幸存者：Badlands首周全平台售出超32.55万份，启动期同时在线峰值突破43.55万，官方开启最高10%庆祝折扣。首个补丁已上线，崩溃与Badlands紧急问题热修预计本周四进Experimental、下周转Stable，第二补丁后续跟进；万圣节活动已在Steam/PS/Xbox开启，圣诞活动也在计划中。</description>
+			</item>
 			<item>
 				<title>Geoplanetical抢先体验开启：单人开发者打造的地缘政治模拟新作</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-940230-b2b6a3ab/</link>
@@ -47,6 +89,13 @@
 				<pubDate>Wed, 28 Oct 2026 20:00:07 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-2507950-4e04d130/</guid>
 				<description>《三角洲行动》10月29日迎来万圣节更新，不停机维护，双模式战术军备券活动最多白送20张；行动模式搜鸟巢找回Vlindflower，爆破玩法攒糖果代币换专属；周常补给、专家选择、Tekniq合金商店与外观抽奖同步开启。本文把奖励节点、领取姿势和开黑避坑一次讲清，更新后少走弯路。</description>
+			</item>
+			<item>
+				<title>《Playrooms》发售跳票：Steam审核未完成，制作组致歉</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5037510-9262a931/</link>
+				<pubDate>Wed, 28 Oct 2026 18:45:45 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5037510-9262a931/</guid>
+				<description>原定于欧洲中部时间今晚19:00上线的《Playrooms》临时宣布跳票：游戏本体已经完成并准备就绪，但Steam最终审核尚未走完，制作组暂时无法按下发售按钮。官方承诺一旦拿到绿灯就立刻公布新日期，并向已经安排好今晚体验的玩家致歉。想第一时间收到开售通知，建议先把游戏加入愿望单。</description>
 			</item>
 			<item>
 				<title>《AION 2》10月28日新外观上线：Lookbook图鉴全览与入手建议</title>

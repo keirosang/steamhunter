@@ -10,15 +10,57 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 21:51:49 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 01:31:33 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blockflow 首次更新上线：屏幕尺寸适配 Bug 修复，独立小作坊的诚意补丁</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</link>
+				<pubDate>Thu, 29 Oct 2026 01:31:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</guid>
+				<description>刚登陆 Steam 的方块解谜小品《Blockflow》推送了发售后的首个更新，官方直截了当地表示修掉了屏幕尺寸相关的显示 Bug。别看只是一行字的补丁说明，分辨率适配恰恰是这类体量不大的作品最容易翻车的地方。这次我把更新要点、实际影响和上手避坑建议都整理好了。</description>
+			</item>
+			<item>
+				<title>《使命召唤：现代战争4》S1前瞻：新地图新武器与Warzone双图来袭</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-1938090-4ccc2a1d/</link>
+				<pubDate>Thu, 29 Oct 2026 01:04:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-1938090-4ccc2a1d/</guid>
+				<description>《使命召唤：现代战争4》S1赛季11月6日上线：多人新增Backstab、Canyon并重制Shoot House，DMZ开放X01黑站，Warzone加入Hajin、Zodiac并迎回Verdansk与Rebirth Island。新武器CSG-35等与多场活动分批登场，我梳理上线时间、开荒重点与实操避坑。</description>
+			</item>
+			<item>
+				<title>CRACK v1.0.53更新：公开联机、物品口袋与海量优化，独狼开黑都舒服了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4312190-d1bf954a/</link>
+				<pubDate>Thu, 29 Oct 2026 01:02:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4312190-d1bf954a/</guid>
+				<description>CRACK迎来v1.0.53大版本更新！新增物品口袋系统，按R即可多带一件道具；公开服务器浏览加入，按延迟排序找房；房主可踢人、锁房；视频设置加入FOV与屏幕抖动，默认降低镜头晃动；工作单经济全面减负，寄生虫、老虎机、方解石等任务要求下调；还有一堆联机与音效Bug修复。独狼开黑都更顺手。</description>
+			</item>
+			<item>
+				<title>《Pack a Plush!》发售：30顶新帽子、存档大修复与防晕设置</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5123900-84774b8d/</link>
+				<pubDate>Thu, 29 Oct 2026 01:00:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5123900-84774b8d/</guid>
+				<description>治愈系毛绒收纳小品《Pack a Plush!》正式发售，Demo 同步迎来大更新。本次补丁新增毛绒收纳单元、按键重绑定、可关闭长按左键连拾、可关闭相机延迟（晕动症玩家福音）、教程引导箭头与 30 顶新帽子，并修复了最要命的中期存档丢失、成就失效与计数虚增等顽疾。</description>
+			</item>
+			<item>
+				<title>战争雷霆新版本前瞻：太阳城全面翻新、美式沙漠重做与12种天气升级</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-236390-43457d6b/</link>
+				<pubDate>Wed, 28 Oct 2026 23:09:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-236390-43457d6b/</guid>
+				<description>战争雷霆下一大版本将对太阳城与美国沙漠两张老地图进行环境级重做，太阳城变为沿海连续中东城市，加入瓷砖脱落、玻璃破碎与店铺内景等可破坏细节；美国沙漠保留熟悉路线与火车机制。12种天气预设同步升级，云层、光照与雨雾表现更真实。本文整理核心改动、上手建议与常见问题。</description>
+			</item>
 			<item>
 				<title>战争雷霆 Mistel 2 上线：Fw 190 驮 Ju 88 炸药包，德系三级金币轰炸机</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-236390-8a88b7e7/</link>
 				<pubDate>Wed, 28 Oct 2026 21:51:49 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-236390-8a88b7e7/</guid>
 				<description>《战争雷霆》“梦想成真”活动迎来游戏史上首个双机组合载具 Mistel 2：Fw 190A-8 背负改装成聚能战斗部的 Ju 88G-1，整枚“炸弹机”约 3,500 公斤、TNT 当量接近 2,200 公斤，一发改命。但为了减重，载机的机炮机枪被全部拆除，出击全程没有一发前射火力。本文拆解它的机制、投弹手法、返航路线与获取要点。</description>
+			</item>
+			<item>
+				<title>《英灵神殿》1.0.21补丁解读：风暴不再灌屋，掉落修复与战斗手感优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-892970-00fdc036/</link>
+				<pubDate>Wed, 28 Oct 2026 21:11:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-892970-00fdc036/</guid>
+				<description>《英灵神殿》1.0.21补丁带来一长串修复与调整：极北与灰烬之地的风暴不再灌进屋内，卡爾·芬布尔布林格掉落穿地、双饰品卡装备、多人生存崩溃等问题得到处理；烤炉料理改到食物准备台制作，极北树木可移植，诺德巨剑群伤不再衰减。跨平台联机保持可用，但各平台推送存在数日延迟。</description>
 			</item>
 			<item>
 				<title>战争雷霆IJN高雄号重巡前瞻：十门203炮与长矛鱼雷的均衡艺术</title>

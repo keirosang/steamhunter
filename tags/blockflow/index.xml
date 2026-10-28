@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blockflow on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/blockflow/</link>
+		<description>Recent content in Blockflow on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 29 Oct 2026 01:31:33 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/blockflow/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blockflow 首次更新上线：屏幕尺寸适配 Bug 修复，独立小作坊的诚意补丁</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</link>
+				<pubDate>Thu, 29 Oct 2026 01:31:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</guid>
+				<description>刚登陆 Steam 的方块解谜小品《Blockflow》推送了发售后的首个更新，官方直截了当地表示修掉了屏幕尺寸相关的显示 Bug。别看只是一行字的补丁说明，分辨率适配恰恰是这类体量不大的作品最容易翻车的地方。这次我把更新要点、实际影响和上手避坑建议都整理好了。</description>
+			</item>
+	</channel>
+</rss>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 20:06:15 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 01:31:33 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blockflow 首次更新上线：屏幕尺寸适配 Bug 修复，独立小作坊的诚意补丁</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</link>
+				<pubDate>Thu, 29 Oct 2026 01:31:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</guid>
+				<description>刚登陆 Steam 的方块解谜小品《Blockflow》推送了发售后的首个更新，官方直截了当地表示修掉了屏幕尺寸相关的显示 Bug。别看只是一行字的补丁说明，分辨率适配恰恰是这类体量不大的作品最容易翻车的地方。这次我把更新要点、实际影响和上手避坑建议都整理好了。</description>
+			</item>
 			<item>
 				<title>《The Library Assistant》补丁1：开局9999技能币Bug修复，白给福利成历史</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-4882100-6b3da59d/</link>
