@@ -28,6 +28,13 @@
 				<description>《Prismarch》1.0正式登陆Steam，把国际象棋玩成单人动作肉鸽：挑战七位元素棱镜国王，收集王冠碎片重建世界。RPG式NPC任务、主线剧情、棋子技能与永久升级一应俱全，后续免费更新还将加入官方中文、PvP、关卡编辑器与更多Boss。1.0同步修复控制、Rex Immortalis等问题，并提前解锁火焰男爵。</description>
 			</item>
 			<item>
+				<title>《僵尸毁灭工程》42.22预发布：梯子攀爬上线，撬棍撬门开窗</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-108600-568d308d/</link>
+				<pubDate>Tue, 27 Oct 2026 23:45:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-108600-568d308d/</guid>
+				<description>《僵尸毁灭工程》42.22 更新现已登陆全新 Pre-Release 测试分支，稳定版仍为 42.21。本次最抢眼的是梯子交互实装，靠近梯子按 E 即可攀爬；撬棍也终于能通过右键菜单强行撬开上锁的门窗与车库。官方采用“预发布至少挂一周再进稳定版”的新流程，普通玩家建议留守稳定分支，模组作者、服主和测试党可切分支尝鲜，但务必先备份存档。</description>
+			</item>
+			<item>
 				<title>CRACK v1.0.36热修：AMD 9000系显卡崩溃问题已回滚修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4312190-e3e877b3/</link>
 				<pubDate>Tue, 27 Oct 2026 22:05:22 +0800</pubDate>
@@ -49,6 +56,13 @@
 				<description>战争雷霆推送 2.59.0.87 维护补丁，全场都是“小而致命”的修复：416工程的车载机枪弹药终于肯在动作栏露面了，战斗中被判定为坠机或离场击杀的载具不再卡住重生锁定，海战光追阴影的消失与闪烁被掐灭，Linux 开启光线重建后的黑屏、以及 macOS 与 Linux 登录即崩溃也一并处理。本文梳理全部要点，附上更新方式、光追设置与联机避坑建议。</description>
 			</item>
 			<item>
+				<title>EA SPORTS FC 27 1.1.0更新：UT修复与开包提速</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4080220-876930cb/</link>
+				<pubDate>Tue, 27 Oct 2026 19:35:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4080220-876930cb/</guid>
+				<description>EA SPORTS FC™ 27 推送 1.1.0 版本更新，本次没有玩法平衡与数值调整，重点放在修复开局教程卡死、键鼠门将鼠标失灵，以及 Ultimate Team 的大量界面与流程问题。同时，连续完成简化 SBC 会记忆筛选条件，开包动画时长缩短，整体操作更顺手。网战与单机模式均建议及时更新；若遇到界面异常，可先重启客户端或校验游戏文件。</description>
+			</item>
+			<item>
 				<title>AION 2 例行维护4小时30分：10月28日全服停机，更新内容成谜</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-3393110-c093d35a/</link>
 				<pubDate>Tue, 27 Oct 2026 19:00:29 +0800</pubDate>
@@ -61,6 +75,13 @@
 				<pubDate>Tue, 27 Oct 2026 18:00:44 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-27-1808500-2970d6c7/</guid>
 				<description>各位褪色者注意！本次2.3.0更新原为隔壁《ARC Raiders》的情报，但主理人本着来都来了的原则，将其重新包装成艾尔登法环版本：剧毒套装上线，灵魂献祭新玩家项目开启，重型盾牌基础充能加强，另有飞艇解谜与海量修复。注意：官方原版版本号与内容存在乌龙，本文仅作趣味解析，请以实际游戏公告为准。</description>
+			</item>
+			<item>
+				<title>《伊莫》S1「随风启程·下篇」大更新：51只新伊莫&#43;低语群岛开放</title>
+				<link>https://info.steamhunter.link/posts/2026-10-27-4126040-00ca4c6a/</link>
+				<pubDate>Tue, 27 Oct 2026 10:47:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-27-4126040-00ca4c6a/</guid>
+				<description>《伊莫》S1「随风启程·下篇」将于10月29日07:00-15:00（UTC+8）停机维护，维护后低语群岛四大区域开放，51只全新伊莫登场，四位赛季限定棱彩伊莫与风系输出Hypnyto、暗系破阵者棱彩Eklue同步上线。维护前完成注册的旅者可领取500 Glimmer补偿，本文附上开荒避坑要点与更新前准备清单。</description>
 			</item>
 			<item>
 				<title>《饥荒联机版》热修760178：猪王发糖可能甩炸弹，龙虾终于不怕酸雨</title>
