@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 20 Oct 2026 02:40:53 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 03:48:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%8F%91%E5%94%AE%E8%B7%B3%E7%A5%A8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Winter Wraith》紧急跳票一天：动画计数误写成0.5，全城角色集体抽风</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-3849470-2c931c30/</link>
+				<pubDate>Wed, 28 Oct 2026 03:48:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-3849470-2c931c30/</guid>
+				<description>独立恐怖新作《Winter Wraith》原定上线前遭遇突发Bug，作者 Marix 排查后发现只是动画计数被写成0.5而非默认的1.5，导致所有角色动作异常。问题已修复，发售改到美东时间明天下午1点，避开午夜档。本文梳理事件来龙去脉、代码细节，并给出蹲点入库与开荒建议。</description>
+			</item>
 			<item>
 				<title>《Ward Off Evil》跳票致歉，官方定档10月21日周三开门</title>
 				<link>https://info.steamhunter.link/posts/2026-10-20-3422000-7bacb204/</link>

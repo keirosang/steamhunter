@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 04:40:44 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 03:48:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/winter-wraith/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Winter Wraith》紧急跳票一天：动画计数误写成0.5，全城角色集体抽风</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-3849470-2c931c30/</link>
+				<pubDate>Wed, 28 Oct 2026 03:48:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-3849470-2c931c30/</guid>
+				<description>独立恐怖新作《Winter Wraith》原定上线前遭遇突发Bug，作者 Marix 排查后发现只是动画计数被写成0.5而非默认的1.5，导致所有角色动作异常。问题已修复，发售改到美东时间明天下午1点，避开午夜档。本文梳理事件来龙去脉、代码细节，并给出蹲点入库与开荒建议。</description>
+			</item>
 			<item>
 				<title>Winter Wraith 发售时间微调：27日美东下午1点手动开闸，别蹲错点</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-3849470-0034a1ea/</link>

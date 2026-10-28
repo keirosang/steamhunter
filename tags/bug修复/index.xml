@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 09:01:38 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 20:06:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《The Library Assistant》补丁1：开局9999技能币Bug修复，白给福利成历史</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4882100-6b3da59d/</link>
+				<pubDate>Wed, 28 Oct 2026 20:06:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4882100-6b3da59d/</guid>
+				<description>《The Library Assistant》推送 Patch 1，只干了一件事：把新存档开局自带 9999 技能币的 Bug 修成 0。看似小补丁，实则是经济系统的大地震——白手起家的日子回来了。本文梳理改动影响、老存档注意事项与新档开荒建议。</description>
+			</item>
 			<item>
 				<title>Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</link>
