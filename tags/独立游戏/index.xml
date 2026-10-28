@@ -10,15 +10,29 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 11:44:22 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 12:02:37 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Complexia》正式发售：刀剑芭蕾独立新作，未来每月一波大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4688060-b7ffc5a6/</link>
+				<pubDate>Wed, 28 Oct 2026 12:02:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4688060-b7ffc5a6/</guid>
+				<description>独立新作《Complexia, A Ballet of Blades》正式发售。开发者坦言一路坎坷，这是他从无数草稿中成功“越狱”的首个项目。官方同步公布未来路线：更多可重玩内容、新Boss、更深剧情与新游戏模式，预计未来数月保持约每月一次大更新，并附带常规补丁。首发若有问题可直接反馈作者。</description>
+			</item>
 			<item>
 				<title>BUBBA CHOP GROVE 更新 1.0.0.11：蘑菇环不再摸鱼，成就门槛直降九成</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</link>
 				<pubDate>Wed, 28 Oct 2026 11:44:22 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</guid>
 				<description>砍树爽游 BUBBA CHOP GROVE 推送 1.0.0.11 补丁，本次重点修复了后期几乎绝迹的蘑菇环刷新逻辑，仙女环探测器与相关委托终于重新有活干；成就「Sweeping Success」判定放宽，小队骑士全员计入，「Swipe and Stride」需求从 1000 次砍到 100 次。此外重置存档、自动补种进度条、传奇树血量显示、教学指引手等一堆老毛病也一并收拾干净，老存档照旧继承。</description>
+			</item>
+			<item>
+				<title>《Stellar Broadcast》引擎重制：画面性能模组全面进化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4315190-4db19aea/</link>
+				<pubDate>Wed, 28 Oct 2026 08:46:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4315190-4db19aea/</guid>
+				<description>《Stellar Broadcast》正式登陆 Steam 后，开发组没有躺平庆祝，而是宣布正在把游戏从 Flutter 框架彻底迁移到专用游戏引擎。新引擎将带来更精致的画面、更流畅的性能、更稳定的底层、更强的模组支持，并为后续内容扩展留足空间。目前迁移已进入最后测试阶段，新版本“很快”上线。</description>
 			</item>
 			<item>
 				<title>《Nomad Drive》10% 史低特惠：13.49 美元拿下公路驾驶小品</title>

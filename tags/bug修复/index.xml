@@ -49,6 +49,13 @@
 				<description>小补丁也能决定恐怖游戏的沉浸感。《Silver Valley Screams》1.0.3-8T热修上线，重点修复父亲笔记4文字错乱，以及笔记被错误塞进库存的异常。后者是上一轮最后一分钟修复留下的尾巴，典型的“修一个冒一个”。本次无新内容，却直接关系到叙事线索与背包整洁，更新后建议验证文件并备份存档再进游戏。</description>
 			</item>
 			<item>
+				<title>《Synapse Grid》1.92.4：教程白光修复，太阳高度角背锅</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5179670-d68da92e/</link>
+				<pubDate>Mon, 26 Oct 2026 20:25:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5179670-d68da92e/</guid>
+				<description>《Synapse Grid》1.92.4 已上线完整版与试玩版，本次专治新手教程地面白光刺眼。开发团队根据玩家带图反馈定位真因：教程竞技场太阳高度角仅 28 度，并非 Intel/AMD 着色器计算。新版本太阳最低高度提升至 45 度，覆盖教程、走廊与 Rush 竞技场，各场地仍保留独立光照色彩、方向与亮度；危险发光效果留待周一独立版本。</description>
+			</item>
+			<item>
 				<title>《Tetromancer》紧急修复资源采集BUG！部队卡资源问题终解决，玩家速览</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-4898560-da0d6dec/</link>
 				<pubDate>Mon, 26 Oct 2026 05:42:58 +0800</pubDate>

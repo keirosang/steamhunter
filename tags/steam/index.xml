@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 11:44:22 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 16:00:55 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《AION 2》10月28日新外观上线：Lookbook图鉴全览与入手建议</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-3393110-440f879f/</link>
+				<pubDate>Wed, 28 Oct 2026 16:00:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-3393110-440f879f/</guid>
+				<description>《AION 2》官方发布 10 月 28 日新外观（Skin Item）公告，并同步开放本期 Daeva Lookbook 外观图鉴，把整套时装穿在守护者身上的实际效果一次性摊开给你看。本次属于纯外观向更新，不涉及职业技能与数值平衡。本文把公告说了什么、图鉴怎么看、哪些细节值得先盯一眼、以及入手前该做的功课，一次讲清楚。</description>
+			</item>
+			<item>
+				<title>Hentai Senpai 万圣节新作上线：100张无修CG&#43;25首原声，解谜玩法全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4878090-cc97b2ca/</link>
+				<pubDate>Wed, 28 Oct 2026 15:12:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4878090-cc97b2ca/</guid>
+				<description>《Hentai Senpai: Things That go HUMP in the Night》正式解锁，本体与OST同步开卖。六种拼图机制、100张无修正CG、25首原创曲目、60+真人配音音效，加上四人本地合作、Steam Deck全支持与一键隐藏隐私功能，本文把玩法、配置与入手建议一次讲透。</description>
+			</item>
+			<item>
+				<title>绝地求生周封禁公告出炉：10/19-10/25又一批作弊账号永久退场</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-578080-07cd8722/</link>
+				<pubDate>Wed, 28 Oct 2026 15:03:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-578080-07cd8722/</guid>
+				<description>PUBG官方公布10月19日至10月25日的每周封禁通告，本周使用第三方程序、恶意组队、账号买卖等违规行为的账号被批量永久封禁，部分设备同步遭到硬件封禁。本文梳理公告要点、封禁类型与申诉流程，并给出普通玩家避开外挂车队、保护账号安全的实操建议。</description>
+			</item>
+			<item>
+				<title>Scam With Your Friends 0.1.95语音通话大修</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4954910-b4b6269e/</link>
+				<pubDate>Wed, 28 Oct 2026 12:52:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4954910-b4b6269e/</guid>
+				<description>0.1.95把语音系统大修：Whisper Small成默认识别模型，Whisper Base和Moonshine可切换；每种语言能单独开关Pocket TTS、MOSS TTS Nano和Qwen3 TTS并排序。俄语新增Pocket TTS默认音色，Qwen3 TTS升级后低帧率通话更顺。通话中可提前草拟消息，按住说话不再重复字符；20秒未开骗局App会出现红色提醒。Boss复盘与随机来电轮换优化，标准版新增官方后端选项。</description>
+			</item>
 			<item>
 				<title>BUBBA CHOP GROVE 更新 1.0.0.11：蘑菇环不再摸鱼，成就门槛直降九成</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-4416700-c1214411/</link>
@@ -222,6 +250,13 @@
 				<pubDate>Mon, 26 Oct 2026 20:37:48 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-26-4115450-10469e93/</guid>
 				<description>《影之刃零》官方公布PC预下载安排：10月26日19:00 PDT开启预载，10月28日19:00 PDT正式解锁。游戏约145GB，官方建议安装到SSD并预留至少300GB空间，同时更新显卡驱动。国内玩家注意时差，提前清理硬盘、检查配置，别等解锁当晚才手忙脚乱，这篇给你划好重点。</description>
+			</item>
+			<item>
+				<title>《Synapse Grid》1.92.4：教程白光修复，太阳高度角背锅</title>
+				<link>https://info.steamhunter.link/posts/2026-10-26-5179670-d68da92e/</link>
+				<pubDate>Mon, 26 Oct 2026 20:25:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-26-5179670-d68da92e/</guid>
+				<description>《Synapse Grid》1.92.4 已上线完整版与试玩版，本次专治新手教程地面白光刺眼。开发团队根据玩家带图反馈定位真因：教程竞技场太阳高度角仅 28 度，并非 Intel/AMD 着色器计算。新版本太阳最低高度提升至 45 度，覆盖教程、走廊与 Rush 竞技场，各场地仍保留独立光照色彩、方向与亮度；危险发光效果留待周一独立版本。</description>
 			</item>
 			<item>
 				<title>Unhallowed Survivors 1.0正式版上线：九大世界全开，Unhallowed高难模式等你解锁</title>

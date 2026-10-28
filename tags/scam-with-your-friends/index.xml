@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 12:43:09 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 12:52:25 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/scam-with-your-friends/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Scam With Your Friends 0.1.95语音通话大修</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4954910-b4b6269e/</link>
+				<pubDate>Wed, 28 Oct 2026 12:52:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4954910-b4b6269e/</guid>
+				<description>0.1.95把语音系统大修：Whisper Small成默认识别模型，Whisper Base和Moonshine可切换；每种语言能单独开关Pocket TTS、MOSS TTS Nano和Qwen3 TTS并排序。俄语新增Pocket TTS默认音色，Qwen3 TTS升级后低帧率通话更顺。通话中可提前草拟消息，按住说话不再重复字符；20秒未开骗局App会出现红色提醒。Boss复盘与随机来电轮换优化，标准版新增官方后端选项。</description>
+			</item>
 			<item>
 				<title>《Scam With Your Friends》0.1.92更新：Gladia语音识别上线，内置浏览器被彻底砍掉</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-4954910-93ff3873/</link>

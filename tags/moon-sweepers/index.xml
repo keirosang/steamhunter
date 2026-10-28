@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 04:47:26 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 15:41:11 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/moon-sweepers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Moon Sweepers 1.0.5更新：自由建造、拆件全额退款、加载卡死修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5335510-373f6d4f/</link>
+				<pubDate>Wed, 28 Oct 2026 15:41:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5335510-373f6d4f/</guid>
+				<description>月面造厂党的福音来了！《Moon Sweepers》1.0.5 把建造系统彻底放开：任意地面可建、地基上下左右随便挂、R 键整块搬移，拆件从返还 75% 改成全额退款，机器还能自动吸附地基对齐。更关键的是，加载存档约半分钟后必现的“未响应”卡死被修掉，地面胶囊上限从 1 万提到 9 万，大型基地的卡顿也一并缓解。</description>
+			</item>
 			<item>
 				<title>Moon Sweepers 1.0.4大更新：夜视仪、双倍清理、秒存档与多人同步修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-5335510-2b362f08/</link>

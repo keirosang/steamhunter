@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Synapse Grid》1.92.4：教程白光修复，太阳高度角背锅 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《Synapse Grid》1.92.4 已上线完整版与试玩版，本次专治新手教程地面白光刺眼。开发团队根据玩家带图反馈定位真因：教程竞技场太阳高度角仅 28 度，并非 Intel/AMD 着色器计算。新版本太阳最低高度提升至 45 度，覆盖教程、走廊与 Rush 竞技场，各场地仍保留独立光照色彩、方向与亮度；危险发光效果留待周一独立版本。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Synapse Grid》1.92.4：教程白光修复，太阳高度角背锅">
+  <meta property="og:description" content="《Synapse Grid》1.92.4 已上线完整版与试玩版，本次专治新手教程地面白光刺眼。开发团队根据玩家带图反馈定位真因：教程竞技场太阳高度角仅 28 度，并非 Intel/AMD 着色器计算。新版本太阳最低高度提升至 45 度，覆盖教程、走廊与 Rush 竞技场，各场地仍保留独立光照色彩、方向与亮度；危险发光效果留待周一独立版本。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-26-5179670-d68da92e/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/281c0d5d6181e47e.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-26-5179670-d68da92e/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Synapse Grid》1.92.4：教程白光修复，太阳 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Synapse Grid</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5179670</span>
+      
+    </div>
+
+    <h1 class="article-title">《Synapse Grid》1.92.4：教程白光修复，太阳高度角背锅</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-26T20:25:56&#43;08:00" class="meta-date">
+          📅 2026-10-26 20:25
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 3 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1415 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5179670/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5179670" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/281c0d5d6181e47e.jpg" alt="《Synapse Grid》1.92.4：教程白光修复，太阳高度角背锅" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《Synapse Grid》1.92.4 已上线完整版与试玩版，本次专治新手教程地面白光刺眼。开发团队根据玩家带图反馈定位真因：教程竞技场太阳高度角仅 28 度，并非 Intel/AMD 着色器计算。新版本太阳最低高度提升至 45 度，覆盖教程、走廊与 Rush 竞技场，各场地仍保留独立光照色彩、方向与亮度；危险发光效果留待周一独立版本。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位早上好中午好晚上好，我是你们那个一看到“太阳高度角”就条件反射想@天文台的主理人。今天《Synapse Grid》推送了 1.92.4，完整版和 Demo 同步上线，更新内容非常聚焦：把新手教程地面那坨祖传白光给摁下去了。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>版本</strong>：1.92.4，完整版与 Demo 同步实装（Steam AppID：5179670）。</li>
+<li><strong>主修复</strong>：教程竞技场地面白色眩光。</li>
+<li><strong>真凶</strong>：太阳高度角只有 28 度，不是此前怀疑的 Intel/AMD 着色器计算。</li>
+<li><strong>调整</strong>：1.92.4 中太阳高度角最低 45 度，作用于教程、走廊和 Rush 竞技场；每个场地保留自己的太阳颜色、方向和亮度，只动高度。</li>
+<li><strong>未包含</strong>：hazard glow（危险发光）效果，周一单独版本，另有公告。</li>
+<li><strong>反馈</strong>：游戏内任意位置按 SPACE 报 Bug，或去 Steam 社区讨论区发帖。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<p>这次修复最有意思的点，是它推翻了一个看起来很像“技术锅”的猜测。开发组此前笔记把白光往 Intel/AMD 着色器计算上引，结果一位使用 NVIDIA RTX 5050 笔记本的玩家，连续提交了两份带截图的教程报告，直接把真凶钉在太阳高度角上：教程竞技场的太阳离地平线只有 28 度，低角度光照在浅色地面上产生刺眼眩光。</p>
+<p>1.92.4 的处理方式很克制：不是给地面贴个黑膜，也不是一刀切把太阳调暗，而是把太阳最低高度抬到 45 度。更妙的是，教程、走廊、Rush 三个竞技场都执行这个最低高度，但每个场地原本的太阳颜色、照射方向和亮度都保留。换句话说，美术风格没被统一成“大中午”，只是太阳不再趴在地平线上搞事情。</p>
+<p>这波也给社区反馈点了个赞：两张截图比十页推测管用。Tim 在公告里专门感谢了提交报告的玩家，并强调每一个小 Bug 报告都会被看到、会有动作。对独立游戏来说，这种“玩家带图，开发修车”的循环，比发十篇开发日志都实在。</p>
+<p>另外别误会，这次构建没有包含 hazard glow 的调整。那是周一单独版本的内容，会另发公告。所以如果你在游戏里看到危险发光相关表现，先别急着把 1.92.4 当成背锅侠。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>更新方式</strong>：打开 Steam 库，让《Synapse Grid》自动更新；Demo 也会同步收到 1.92.4。没触发就重启 Steam，或右键属性 → 已安装文件 → 验证完整性。</li>
+<li><strong>进游戏先跑教程</strong>：重点看教程地面、走廊和 Rush 竞技场的光照观感。太阳高度统一抬到 45 度后，部分场景的阴影长度和地面高光会变，这是预期变化，不是贴图丢失。</li>
+<li><strong>还有眩光就带图反馈</strong>：游戏内任意位置按 SPACE 呼出报 Bug 界面，尽量附上截图、GPU 型号、驱动版本、所在竞技场和复现步骤。Steam 社区讨论区也能发，开发组会看。</li>
+<li><strong>别把周一的内容算进本次更新</strong>：hazard glow 是独立版本，看到相关公告再判断。</li>
+<li><strong>新玩家建议</strong>：先下 Demo 试手感，再决定要不要入库本体；这类光照修复对试玩版同样生效，教程第一印象会好不少。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想蹲 Steam 限免、喜加一、史低背刺和 Demo 更新提醒，建议加入 <strong>@steamhunterlink</strong>。频道推送够快，适合我这种不想每小时手动刷库的人；有临时工价和免费周末也能第一时间看到。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：1.92.4 是不是只修了教程白光？</strong></p>
+<p>A：本次构建就这一项修复。完整版和 Demo 同步更新；hazard glow 不在里面，周一单独发版。</p>
+<p><strong>Q2：为什么走廊和 Rush 竞技场的太阳也变了？</strong></p>
+<p>A：新版本把太阳最低高度统一到 45 度，所以这三个竞技场都会受影响。但每个场地的太阳颜色、方向和亮度仍然独立，不会变成同一套光照。</p>
+<p><strong>Q3：更新后还有白光，或者遇到其他 Bug 怎么报？</strong></p>
+<p>A：游戏内任意位置按 SPACE 提交报告，附截图最有效；也可以去 Steam 社区讨论区发帖。带上 GPU 型号、驱动版本和具体场景，开发组定位会快很多。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Synapse%20Grid/" class="article-tag-item">#Synapse Grid</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+          <a href="/tags/%e5%85%89%e7%85%a7%e8%b0%83%e6%95%b4/" class="article-tag-item">#光照调整</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-26-5179670-d68da92e/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-26-5091000-60a4c595/" class="sibling-title">Unhallowed Survivors 1.0正式版上线：九大世界全开，Unhallowed高难模式等你解锁</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-26-4115450-10469e93/" class="sibling-title">《影之刃零》10月26日预下载：145GB需留300GB，28日开刃</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a></li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

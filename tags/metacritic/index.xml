@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Metacritic on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/metacritic/</link>
+		<description>Recent content in Metacritic on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Oct 2026 15:24:12 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/metacritic/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《使命召唤：现代战争4》Xbox评分缺席，微软承认送测流程太折腾</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4435490-8ea37e3b/</link>
+				<pubDate>Wed, 28 Oct 2026 15:24:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4435490-8ea37e3b/</guid>
+				<description>10月27日《使命召唤》官方晒出《现代战争4》Metacritic高分图，PC、PS、Switch都在，唯独Xbox版评分空缺。媒体指出症结在Xbox评测码申请：需手动提交Xbox Live Device ID并等待人工审批，比Steam、PS麻烦得多，赶稿的编辑干脆换平台测。Xbox技术总监已承认流程过于复杂并承诺近期改进。这篇文章把来龙去脉、平台差异和入手建议一次讲透。</description>
+			</item>
+	</channel>
+</rss>
