@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 07:28:35 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 10:27:42 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《CRACK》v1.1.0更新：脚手架大改、四格背包与推车物理全面重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4312190-22e20897/</link>
+				<pubDate>Thu, 29 Oct 2026 10:27:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4312190-22e20897/</guid>
+				<description>《CRACK》迎来 v1.1.0「We Hear You」大版本更新，官方按玩家反馈进行多项调整：脚手架建造限制大幅放宽、地板提供稳定性，工具箱自带全息投影；单口袋升级为四格快捷栏；推车物理彻底重做，转向刹车更接近真实载具；购买流程取消强制解谜，白天时长延长 50%。</description>
+			</item>
 			<item>
 				<title>《Probably Stolen》热修：水系统平衡大改，净水器重做</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</link>
@@ -26,6 +33,13 @@
 				<pubDate>Thu, 29 Oct 2026 05:48:09 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</guid>
 				<description>V社给CS2推送了一波小体量但极其影响实战手感的更新：静默换弹新增 Hold / Toggle 双模式切换，并修复了此前静默换弹起手仍会漏出第一声的尴尬问题。同时AMD显卡上液体渲染发黑的顽疾、Demo回放倒退时的音效与UI错乱也一并解决。本文拆解机制改动、给出键位与残局实操建议，并附上升级避坑指南。</description>
+			</item>
+			<item>
+				<title>《Shipwreck Discovery》1.0正式版上线：狮子鱼清剿与沉船竞速，首发40%折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-3583270-7274d16a/</link>
+				<pubDate>Thu, 29 Oct 2026 04:47:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-3583270-7274d16a/</guid>
+				<description>海洋科学非营利团队 Lionfish Central 打造的潜水模拟《Shipwreck Discovery》今日结束抢先体验，1.0 正式版上线。本次更新加入 SS United States 沉船推进器竞速、博物馆式潜水「Her Last Voyage」、每关 70~100 条狮子鱼的硬核清剿、追踪器升级、动物解救与藏宝图等新玩法，珊瑚礁还会实时生长。首发 14 天 40% 折扣，部分收入用于支持海洋保护。</description>
 			</item>
 			<item>
 				<title>VRChat 2026.4.1 更新：安全中心与面部追踪升级，非网络兼容注意</title>
@@ -82,6 +96,13 @@
 				<pubDate>Wed, 28 Oct 2026 23:09:42 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-236390-43457d6b/</guid>
 				<description>战争雷霆下一大版本将对太阳城与美国沙漠两张老地图进行环境级重做，太阳城变为沿海连续中东城市，加入瓷砖脱落、玻璃破碎与店铺内景等可破坏细节；美国沙漠保留熟悉路线与火车机制。12种天气预设同步升级，云层、光照与雨雾表现更真实。本文整理核心改动、上手建议与常见问题。</description>
+			</item>
+			<item>
+				<title>《无人深空》FORSAKEN更新：万圣节恐怖打捞与iOS首秀</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-275850-8f093d5a/</link>
+				<pubDate>Wed, 28 Oct 2026 22:05:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-275850-8f093d5a/</guid>
+				<description>《无人深空》万圣节主题更新 FORSAKEN 正式上线，玩家可深入废弃货船、感染前哨与行星挖掘点，打捞闹鬼科技和生物恐怖纪念品，与神秘商人交易生物机械护卫舰模块、新驾驶舱、武器与宇航服外观。新增邮政任务、武器径向菜单、极简 HUD 与无缝跃迁。同时游戏首次登陆 iPad 和 iPhone，包含 40 多个更新，iPhone 11 及以上、第三代 iPad Air 及以上可免费试玩开头。</description>
 			</item>
 			<item>
 				<title>战争雷霆 Mistel 2 上线：Fw 190 驮 Ju 88 炸药包，德系三级金币轰炸机</title>

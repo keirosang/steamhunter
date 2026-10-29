@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 22 Oct 2026 06:12:40 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 09:11:56 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%A1%8C%E9%9D%A2%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck客户端Beta更新：好友通知修复，快速访问菜单更跟手</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-1675200-8d24654f/</link>
+				<pubDate>Thu, 29 Oct 2026 09:11:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-1675200-8d24654f/</guid>
+				<description>Valve 刚给 Steam 客户端 Preview/Beta 通道推了新包，这次专治「通知疑难杂症」：好友十秒内扎堆开游戏不再吞提示，通知音效与弹窗开关终于听话，单个好友的独立设置也能正确覆盖全局。同时快速访问菜单响应更跟手，桌面模式的 Steam 更新器界面也换了新皮。掌机党与桌面党都能吃到红利。</description>
+			</item>
 			<item>
 				<title>Steam Deck 稳定版客户端更新：Vulkan 游戏 Alt-Tab 卡死修复，桌面模式不再抽风</title>
 				<link>https://info.steamhunter.link/posts/2026-10-22-1675200-0d7692a6/</link>
