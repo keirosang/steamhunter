@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 15 Oct 2026 07:02:48 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 05:48:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B12/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CS2更新实测：静默换弹可改开关模式，假换弹节奏被彻底重写</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</link>
+				<pubDate>Thu, 29 Oct 2026 05:48:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</guid>
+				<description>V社给CS2推送了一波小体量但极其影响实战手感的更新：静默换弹新增 Hold / Toggle 双模式切换，并修复了此前静默换弹起手仍会漏出第一声的尴尬问题。同时AMD显卡上液体渲染发黑的顽疾、Demo回放倒退时的音效与UI错乱也一并解决。本文拆解机制改动、给出键位与残局实操建议，并附上升级避坑指南。</description>
+			</item>
 			<item>
 				<title>CS2 更新深度解析：回放系统大改，AUG 动画优化，Vulkan 稳定性提升</title>
 				<link>https://info.steamhunter.link/posts/2026-10-15-730-67f8d8ce/</link>

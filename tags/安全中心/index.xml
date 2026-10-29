@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>安全中心 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83/</link>
+		<description>Recent content in 安全中心 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 29 Oct 2026 04:14:28 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>VRChat 2026.4.1 更新：安全中心与面部追踪升级，非网络兼容注意</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</link>
+				<pubDate>Thu, 29 Oct 2026 04:14:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</guid>
+				<description>VRChat 2026.4.1 正式上线，这次更新带来 Safety Center 安全中心、面部追踪改进与全新登录流程。最需要留意的是该版本非网络兼容，旧客户端与新客户端无法正常同房联机，开黑前务必全员同步更新。本文梳理核心改动、更新避坑与上手建议，并附常见问题解答。</description>
+			</item>
+	</channel>
+</rss>

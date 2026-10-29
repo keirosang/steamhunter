@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 13:05:45 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 04:14:28 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E9%81%BF%E5%9D%91/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>VRChat 2026.4.1 更新：安全中心与面部追踪升级，非网络兼容注意</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</link>
+				<pubDate>Thu, 29 Oct 2026 04:14:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</guid>
+				<description>VRChat 2026.4.1 正式上线，这次更新带来 Safety Center 安全中心、面部追踪改进与全新登录流程。最需要留意的是该版本非网络兼容，旧客户端与新客户端无法正常同房联机，开黑前务必全员同步更新。本文梳理核心改动、更新避坑与上手建议，并附常见问题解答。</description>
+			</item>
 			<item>
 				<title>《Scam With Your Friends》0.1.83更新：26项成就、云存档与安全重置全上线</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-4954910-d23a5868/</link>

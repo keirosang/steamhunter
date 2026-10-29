@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 21:11:25 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 07:28:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Probably Stolen》热修：水系统平衡大改，净水器重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</link>
+				<pubDate>Thu, 29 Oct 2026 07:28:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</guid>
+				<description>《Probably Stolen》推送 1.0.0.2 热修：净水器逻辑重做更直观，Moisture Farm 从 650 降到 350、Water Filter 从 50 降到 25，杰克逊医生普通难度加价 25%→15%，Lou 探访期间免疫枪击，另修复打印机说明书、保存天数滑条、敲诈付款与中文市场委托界面等四处问题。</description>
+			</item>
 			<item>
 				<title>《英灵神殿》1.0.21补丁解读：风暴不再灌屋，掉落修复与战斗手感优化</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-892970-00fdc036/</link>

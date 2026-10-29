@@ -10,15 +10,92 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 01:54:32 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 07:30:41 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Faintlight Traveler: Whisper》正式版上线：桌面宠物&#43;五大区域&#43;暗黑迷宫，首发9折限时七天</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4879340-947ed931/</link>
+				<pubDate>Thu, 29 Oct 2026 07:30:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4879340-947ed931/</guid>
+				<description>桌面陪伴向冒险游戏《Faintlight Traveler: Whisper》正式版现已登陆 Steam。完整版一次性放出五大冒险区域、区域 Boss 挑战、装备打造与套装加成系统，并新增每日三次的暗黑迷宫刷宝模式；打到的材料还能挂上 Steam 社区市场自由交易。首发一周 10% 折扣，11 月 5 日截止，想给桌面添个会打怪的小跟班的玩家可以冲了。</description>
+			</item>
+			<item>
+				<title>《Probably Stolen》热修：水系统平衡大改，净水器重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</link>
+				<pubDate>Thu, 29 Oct 2026 07:28:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</guid>
+				<description>《Probably Stolen》推送 1.0.0.2 热修：净水器逻辑重做更直观，Moisture Farm 从 650 降到 350、Water Filter 从 50 降到 25，杰克逊医生普通难度加价 25%→15%，Lou 探访期间免疫枪击，另修复打印机说明书、保存天数滑条、敲诈付款与中文市场委托界面等四处问题。</description>
+			</item>
+			<item>
+				<title>CS2更新实测：静默换弹可改开关模式，假换弹节奏被彻底重写</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</link>
+				<pubDate>Thu, 29 Oct 2026 05:48:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</guid>
+				<description>V社给CS2推送了一波小体量但极其影响实战手感的更新：静默换弹新增 Hold / Toggle 双模式切换，并修复了此前静默换弹起手仍会漏出第一声的尴尬问题。同时AMD显卡上液体渲染发黑的顽疾、Demo回放倒退时的音效与UI错乱也一并解决。本文拆解机制改动、给出键位与残局实操建议，并附上升级避坑指南。</description>
+			</item>
+			<item>
+				<title>PUBG PGS12生存赛开打！240积分争夺PGC2026最后八张门票</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-578080-d4d99d26/</link>
+				<pubDate>Thu, 29 Oct 2026 05:38:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-578080-d4d99d26/</guid>
+				<description>2026赛季PUBG全球系列赛进入收官阶段，Circuit 4于10月14日至11月1日连打PGS 10、11、12三站，其中PGS 12作为巡回赛总决赛提供双倍积分，仍有240分待抢。积分榜前八将直通PGC 2026，且名次决定起跑线：第一名直通总决赛，第二名从生存赛打起，3至8名要从资格赛爬起。本文理清赛程、积分形势与观赛要点。</description>
+			</item>
+			<item>
+				<title>PUBG 2027电竞大改：四阶段赛程、印度新赛区与PGS名额全凭实力</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-578080-8b2fcc83/</link>
+				<pubDate>Thu, 29 Oct 2026 05:32:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-578080-8b2fcc83/</guid>
+				<description>2027年PUBG电竞迎来大改：EMEA拆分为欧洲、欧亚与中东及北非，美洲拆为北美与南美，印度成为新赛区；全年改为四个Phase，每个Phase由区域联赛通向对应PGS，名额不再保送。全新PUBG Esports Points只按PGS成绩累计，决定PGC资格，现有GPT队伍也得靠实力打进去。</description>
+			</item>
+			<item>
+				<title>VRChat 2026.4.1 更新：安全中心与面部追踪升级，非网络兼容注意</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</link>
+				<pubDate>Thu, 29 Oct 2026 04:14:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</guid>
+				<description>VRChat 2026.4.1 正式上线，这次更新带来 Safety Center 安全中心、面部追踪改进与全新登录流程。最需要留意的是该版本非网络兼容，旧客户端与新客户端无法正常同房联机，开黑前务必全员同步更新。本文梳理核心改动、更新避坑与上手建议，并附常见问题解答。</description>
+			</item>
+			<item>
+				<title>西游掷骰竞速《Westward Dash》发售，1-8人联机首周八折</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5029020-742fb1b8/</link>
+				<pubDate>Thu, 29 Oct 2026 03:21:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5029020-742fb1b8/</guid>
+				<description>童年小卖部里一块钱的西游棋盘，如今被做成了一款 1 到 8 人的掷骰竞速游戏。《Westward Dash》正式登陆 Steam，支持单人对 CPU、线上联机、同屏轮流与远程同乐；8 位取经人各怀绝技，5 种模式、10 位妖王改写骰子规则，81 项成就致敬八十一难。首周 8 折，原声带免费，试玩 Demo 保留。</description>
+			</item>
+			<item>
+				<title>《极速对手：模型火车》Steam正式上线！双人独立工作室打造可造铁路世界的合作驾驶体验</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4135120-758d8b1b/</link>
+				<pubDate>Thu, 29 Oct 2026 02:35:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4135120-758d8b1b/</guid>
+				<description>由两人独立工作室BabelGames打造的模型火车建造驾驶游戏《Speed Rivals - Model Trains》正式在Steam上线！玩家可用轨道编辑器设计铁路世界，驾驶火车完成货运任务，支持4人本地合作，还能通过Steam创意工坊分享作品。首发即获社区好评，一起来体验微缩铁路的悠闲与刺激。</description>
+			</item>
+			<item>
+				<title>《Probably Stolen》首日狂销20万份，赛博朋克店主模拟凭什么杀进畅销榜第2</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4348910-6622c731/</link>
+				<pubDate>Thu, 29 Oct 2026 02:30:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4348910-6622c731/</guid>
+				<description>赛博朋克题材的店主模拟新作《Probably Stolen》开卖数小时便售出20万份，90分钟内峰值同时在线突破8.6万人，400余条评价好评率高达95%，并冲上Steam全球畅销榜第二位。创意工坊已有数十个模组上线，官方同步放出与《守墓人2》《药剂工艺》《背包乱斗》等作品的捆绑包，本文梳理数据看点、爆火原因与入手建议。</description>
+			</item>
+			<item>
+				<title>Interrogator 2 1.0正式版上线：审讯推理系统定型，值得几小时折腾吗？</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-3184290-6a0f0a16/</link>
+				<pubDate>Thu, 29 Oct 2026 02:22:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-3184290-6a0f0a16/</guid>
+				<description>Interrogator 2 迎来 1.0 正式版，开发者坦言小型嵌入模型加向量数据库的审讯方案已基本定型：输入映射、相似语义和上下文缺失仍是主要槽点，但正确回应能鼓励玩家推理。有人靠耐心破案，也有人被系统逗笑甚至误触作弊码。值不值得入？先看这份上手避坑与购买建议。</description>
+			</item>
 			<item>
 				<title>《Just One More Coin》正式发售：40%折扣，挖穿巨龙宝库寻找金钥匙</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-5233670-ab7c09e7/</link>
 				<pubDate>Thu, 29 Oct 2026 01:54:32 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-5233670-ab7c09e7/</guid>
 				<description>挖空巨龙的金币宝库，只为那一把传说中的金钥匙！独狼开发者的小体量挖宝新作《Just One More Coin》现已上架 Steam，首发两周限时 40% 折扣，美区从 4.99 美元降至 2.99 美元。本文帮你梳理核心玩法循环、折扣规则、上手节奏与购买建议，看看这杯奶茶钱到底该不该花。</description>
+			</item>
+			<item>
+				<title>《使命召唤：现代战争4》S1赛季路线图：新地图与万圣节模式一周后上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4435490-5b83910e/</link>
+				<pubDate>Thu, 29 Oct 2026 01:52:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4435490-5b83910e/</guid>
+				<description>Infinity Ward 正式公开《使命召唤：现代战争4》第一赛季完整路线图，距离上线只剩一周。本次更新带来全新多人地图、万圣节主题限时玩法以及一整套赛季通行证奖励，本体玩家可免费获得核心内容。本文梳理路线图要点、赛季初开黑避坑技巧与解锁优先级建议，帮你第一时间把新赛季吃透。</description>
 			</item>
 			<item>
 				<title>《Star Trader》正式发售：X4式星际贸易与生产线，独立团队首作</title>
@@ -96,6 +173,13 @@
 				<pubDate>Thu, 29 Oct 2026 01:00:22 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-5123900-84774b8d/</guid>
 				<description>治愈系毛绒收纳小品《Pack a Plush!》正式发售，Demo 同步迎来大更新。本次补丁新增毛绒收纳单元、按键重绑定、可关闭长按左键连拾、可关闭相机延迟（晕动症玩家福音）、教程引导箭头与 30 顶新帽子，并修复了最要命的中期存档丢失、成就失效与计数虚增等顽疾。</description>
+			</item>
+			<item>
+				<title>《使命召唤：现代战争4》第一赛季11月6日开打：全新DMZ禁区与多人新图齐上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4435490-69d47d4f/</link>
+				<pubDate>Thu, 29 Oct 2026 00:54:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4435490-69d47d4f/</guid>
+				<description>动视与 Infinity Ward 正式公布《使命召唤：现代战争4》第一赛季内容，11 月 6 日同步登陆 PS5、Xbox Series X|S、Switch 2 与 Steam。本赛季主打一张全新的 DMZ 禁区地图，多人模式也将上新鲜地图与新模式，预告片里还埋了 XO1 的伏笔。半岛战场的军事叙事继续推进，本文把核心看点、玩法改动方向与开服前的准备工作一次性讲清。</description>
 			</item>
 			<item>
 				<title>《Rug Cleaning Simulator》今日发售：首发7天85折，狂打20次补丁的Steam洗地毯解压神作上线</title>
@@ -516,6 +600,13 @@
 				<pubDate>Wed, 28 Oct 2026 07:50:16 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-3982450-f4bb5228/</guid>
 				<description>备受关注的二次元独立游戏《HITLER WAIFU 2》终于迎来正式版。开发组根据玩家反馈重做冬季区域，难度与探索乐趣同步升级，并加入新成就、隐藏秘密和支线任务；角色外观与平衡性也得到调整。此外，官方还推出聚焦女主“优势”的福利向DLC，为老玩家提供新的收藏理由。</description>
+			</item>
+			<item>
+				<title>Old School Baseball正式兼容Steam Deck：复古棒球随身开打，赛季与24成就全支持</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5363360-9baea03d/</link>
+				<pubDate>Wed, 28 Oct 2026 07:49:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5363360-9baea03d/</guid>
+				<description>复古棒球小品 Old School Baseball 现已通过 Proton 兼容层在 Steam Deck 上流畅运行，默认设置即可开打，Steam Input 默认控制器布局开箱即用。42 场赛季、24 项成就和快速表演赛都能随身进行，赛季模式还会保存进度。本文梳理兼容细节、省电设置、上手建议与常见问题，帮你把碎片时间变成一场棒球小局。</description>
 			</item>
 			<item>
 				<title>《Sepulchron》正式发售：两人下班后手搓三年，把复古点击冒险做成了生存恐怖怪味糖</title>

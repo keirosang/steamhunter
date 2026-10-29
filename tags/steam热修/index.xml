@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 03:33:50 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 07:28:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E7%83%AD%E4%BF%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Probably Stolen》热修：水系统平衡大改，净水器重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</link>
+				<pubDate>Thu, 29 Oct 2026 07:28:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</guid>
+				<description>《Probably Stolen》推送 1.0.0.2 热修：净水器逻辑重做更直观，Moisture Farm 从 650 降到 350、Water Filter 从 50 降到 25，杰克逊医生普通难度加价 25%→15%，Lou 探访期间免疫枪击，另修复打印机说明书、保存天数滑条、敲诈付款与中文市场委托界面等四处问题。</description>
+			</item>
 			<item>
 				<title>Scrappers Paradise热修：第二关卡关Bug已修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-4789400-d6a99527/</link>

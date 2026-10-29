@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 01:31:33 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 07:28:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Probably Stolen》热修：水系统平衡大改，净水器重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</link>
+				<pubDate>Thu, 29 Oct 2026 07:28:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4348910-6f90be48/</guid>
+				<description>《Probably Stolen》推送 1.0.0.2 热修：净水器逻辑重做更直观，Moisture Farm 从 650 降到 350、Water Filter 从 50 降到 25，杰克逊医生普通难度加价 25%→15%，Lou 探访期间免疫枪击，另修复打印机说明书、保存天数滑条、敲诈付款与中文市场委托界面等四处问题。</description>
+			</item>
+			<item>
+				<title>CS2更新实测：静默换弹可改开关模式，假换弹节奏被彻底重写</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</link>
+				<pubDate>Thu, 29 Oct 2026 05:48:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</guid>
+				<description>V社给CS2推送了一波小体量但极其影响实战手感的更新：静默换弹新增 Hold / Toggle 双模式切换，并修复了此前静默换弹起手仍会漏出第一声的尴尬问题。同时AMD显卡上液体渲染发黑的顽疾、Demo回放倒退时的音效与UI错乱也一并解决。本文拆解机制改动、给出键位与残局实操建议，并附上升级避坑指南。</description>
+			</item>
+			<item>
+				<title>VRChat 2026.4.1 更新：安全中心与面部追踪升级，非网络兼容注意</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</link>
+				<pubDate>Thu, 29 Oct 2026 04:14:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</guid>
+				<description>VRChat 2026.4.1 正式上线，这次更新带来 Safety Center 安全中心、面部追踪改进与全新登录流程。最需要留意的是该版本非网络兼容，旧客户端与新客户端无法正常同房联机，开黑前务必全员同步更新。本文梳理核心改动、更新避坑与上手建议，并附常见问题解答。</description>
+			</item>
+			<item>
+				<title>Interrogator 2 1.0正式版上线：审讯推理系统定型，值得几小时折腾吗？</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-3184290-6a0f0a16/</link>
+				<pubDate>Thu, 29 Oct 2026 02:22:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-3184290-6a0f0a16/</guid>
+				<description>Interrogator 2 迎来 1.0 正式版，开发者坦言小型嵌入模型加向量数据库的审讯方案已基本定型：输入映射、相似语义和上下文缺失仍是主要槽点，但正确回应能鼓励玩家推理。有人靠耐心破案，也有人被系统逗笑甚至误触作弊码。值不值得入？先看这份上手避坑与购买建议。</description>
+			</item>
 			<item>
 				<title>Blockflow 首次更新上线：屏幕尺寸适配 Bug 修复，独立小作坊的诚意补丁</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-4559890-100f589c/</link>
@@ -40,6 +68,13 @@
 				<pubDate>Thu, 29 Oct 2026 01:00:22 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-5123900-84774b8d/</guid>
 				<description>治愈系毛绒收纳小品《Pack a Plush!》正式发售，Demo 同步迎来大更新。本次补丁新增毛绒收纳单元、按键重绑定、可关闭长按左键连拾、可关闭相机延迟（晕动症玩家福音）、教程引导箭头与 30 顶新帽子，并修复了最要命的中期存档丢失、成就失效与计数虚增等顽疾。</description>
+			</item>
+			<item>
+				<title>《使命召唤：现代战争4》第一赛季11月6日开打：全新DMZ禁区与多人新图齐上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4435490-69d47d4f/</link>
+				<pubDate>Thu, 29 Oct 2026 00:54:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4435490-69d47d4f/</guid>
+				<description>动视与 Infinity Ward 正式公布《使命召唤：现代战争4》第一赛季内容，11 月 6 日同步登陆 PS5、Xbox Series X|S、Switch 2 与 Steam。本赛季主打一张全新的 DMZ 禁区地图，多人模式也将上新鲜地图与新模式，预告片里还埋了 XO1 的伏笔。半岛战场的军事叙事继续推进，本文把核心看点、玩法改动方向与开服前的准备工作一次性讲清。</description>
 			</item>
 			<item>
 				<title>战争雷霆新版本前瞻：太阳城全面翻新、美式沙漠重做与12种天气升级</title>
