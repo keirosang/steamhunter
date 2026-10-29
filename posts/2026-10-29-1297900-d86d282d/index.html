@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《哥特王朝1重制版》Modkit BETA开放脚本源码与创意工坊 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="官方兑现承诺，《哥特王朝1重制版》第一阶段Mod支持以Modkit BETA登场：脚本语言与完整脚本源码开放，玩家可依官方文档制作Mod，并通过Steam创意工坊提交作品。Steam启动选项或特定exe参数可进入Mod管理界面。官方暂未公布更多工具时间表。关注@steamhunterlink，获取更新与特惠提醒。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《哥特王朝1重制版》Modkit BETA开放脚本源码与创意工坊">
+  <meta property="og:description" content="官方兑现承诺，《哥特王朝1重制版》第一阶段Mod支持以Modkit BETA登场：脚本语言与完整脚本源码开放，玩家可依官方文档制作Mod，并通过Steam创意工坊提交作品。Steam启动选项或特定exe参数可进入Mod管理界面。官方暂未公布更多工具时间表。关注@steamhunterlink，获取更新与特惠提醒。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-29-1297900-d86d282d/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/42999b1321699bdb.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-29-1297900-d86d282d/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《哥特王朝1重制版》Modkit BETA开放脚本源码与创意 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Gothic 1 Remake</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 1297900</span>
+      
+    </div>
+
+    <h1 class="article-title">《哥特王朝1重制版》Modkit BETA开放脚本源码与创意工坊</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-29T23:50:55&#43;08:00" class="meta-date">
+          📅 2026-10-29 23:50
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1616 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/1297900/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/1297900" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/42999b1321699bdb.jpg" alt="《哥特王朝1重制版》Modkit BETA开放脚本源码与创意工坊" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>官方兑现承诺，《哥特王朝1重制版》第一阶段Mod支持以Modkit BETA登场：脚本语言与完整脚本源码开放，玩家可依官方文档制作Mod，并通过Steam创意工坊提交作品。Steam启动选项或特定exe参数可进入Mod管理界面。官方暂未公布更多工具时间表。关注@steamhunterlink，获取更新与特惠提醒。
+      </div>
+      
+
+      <div class="article-body">
+        <p>我先说结论：这次不是画饼，官方把《哥特王朝1重制版》的Modkit BETA第一阶段端上来了。对喜欢折腾脚本、任务逻辑和玩法改造的老哥来说，这波属于官方把厨房门打开，还顺手把菜谱和食材清单一起递了出来。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>第一阶段Mod支持上线</strong>：Modkit BETA主打脚本语言开放，并提供《哥特王朝1重制版》的<strong>完整脚本源码</strong>。</li>
+<li><strong>官方文档指路</strong>：制作方法、目录说明和使用方式可查阅<a href="https://alkimiainteractive.github.io/G1R-Modkit/">官方Modkit文档</a>。</li>
+<li><strong>许可条款要看清</strong>：动手前先读<a href="https://github.com/AlkimiaInteractive/G1R-Modkit?tab=License-1-ov-file">Mod制作条款与许可</a>。</li>
+<li><strong>创意工坊开闸</strong>：作品可提交至<a href="https://steamcommunity.com/app/1297900/workshop/">官方G1R Steam创意工坊页</a>。</li>
+<li><strong>入口有两个</strong>：Steam启动选项，或直接运行<code>G1R-Win64-Shipping.exe -ModManagementUI</code>进入Mod管理界面。</li>
+<li><strong>更多工具暂无ETA</strong>：官方表示还有后续想法，但没给时间表，别急着催更，先把手头脚本玩明白。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="脚本源码开放才是这次的重头戏">脚本源码开放，才是这次的重头戏</h3>
+<p>官方没有一上来就塞一堆花里胡哨的工具，而是先把脚本语言和完整脚本源码摆到台面上。这个思路很硬核，也很务实：想改任务、调逻辑、研究原版实现，先从源码层啃起。对Mod作者来说，这比只给一个黑盒编辑器更有折腾空间；对普通玩家来说，也意味着未来创意工坊里可能出现更多偏玩法、偏内容向的作品。</p>
+<p>当然，BETA就是BETA。我的建议是把它当成“官方提供的工作台”，不是“一键傻瓜包”。先跑通官方文档里的流程，再逐步加料，别一上来就堆大型改动，否则排查问题能把你送回旧营地。</p>
+<h3 id="入口与工坊提交作品前先把规矩看明白">入口与工坊：提交作品前先把规矩看明白</h3>
+<p>进入Mod管理界面有两条路：Steam启动选项，或直接运行带<code>-ModManagementUI</code>参数的exe。官方也明确放出了创意工坊提交入口，这意味着后续玩家找Mod、装Mod、评Mod会更集中。</p>
+<p>但别忘了许可条款。做Mod是技术活，也是社区规矩活。先读条款，再决定怎么发布、怎么署名、能不能二次分发。创意工坊页不是许愿池，提交前把兼容性、依赖项和版本说明写清楚，能少挨很多评论区的问号。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>先更新客户端，再进Mod管理</strong>：本次是官方更新支持，不存在限免领取那套流程；已拥有本体的玩家更新游戏后，按Steam启动选项或exe参数进入管理界面即可。</li>
+<li><strong>从官方文档起步</strong>：先打开<a href="https://alkimiainteractive.github.io/G1R-Modkit/">官方Modkit文档</a>，照页面指引准备脚本源码和目录，别去第三方站点下所谓一键整合包。</li>
+<li><strong>备份存档，增量测试</strong>：BETA阶段最怕连环报错。改一点测一点，一次只上一个Mod，出问题能快速定位。</li>
+<li><strong>提交工坊前写清说明</strong>：版本号、依赖项、改了哪些脚本、可能冲突的对象，都提前交代。别让下载的人靠猜。</li>
+<li><strong>购买建议</strong>：本次Modkit BETA属于官方更新支持，不需要额外购买所谓工具包；还没入坑的先把本体加愿望单，等合适折扣再上车，别为“Mod工具”三个字冲动消费。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想追秒级限免、特惠和更新提醒，建议加入 <strong>@steamhunterlink</strong>。Steam这边有风吹草动，频道会第一时间给信号，省得你天天刷库刷到眼花。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：Modkit BETA需要额外购买吗？入口在哪？</strong></p>
+<p>不需要额外购买工具包。更新游戏后，可通过Steam启动选项进入官方提供的Mod管理入口，或直接运行<code>G1R-Win64-Shipping.exe -ModManagementUI</code>。具体显示以客户端实际版本为准。</p>
+<p><strong>Q2：现在能做什么Mod？更多工具什么时候来？</strong></p>
+<p>现阶段核心是脚本语言和完整脚本源码开放，适合从脚本层研究任务、逻辑和玩法改动。官方没有公布更多Mod工具的ETA，但确认还有后续想法。先吃透现有源码，比干等新工具更实际。</p>
+<p><strong>Q3：提交创意工坊前最该注意什么？</strong></p>
+<p>先把<a href="https://github.com/AlkimiaInteractive/G1R-Modkit?tab=License-1-ov-file">Mod制作条款与许可</a>读一遍，再按<a href="https://steamcommunity.com/app/1297900/workshop/">官方G1R Steam创意工坊页</a>的流程提交。测试时备份存档、控制改动范围，说明里写清依赖和兼容性，能省掉大量售后问答。</p>
+<p>总的来说，这次Modkit BETA不是终局，但方向很对：先把脚本源码交出来，让社区自己长作品。接下来就看各位Mod作者的手艺了。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e5%93%a5%e7%89%b9%e7%8e%8b%e6%9c%9d1%e9%87%8d%e5%88%b6%e7%89%88/" class="article-tag-item">#哥特王朝1重制版</a>
+          
+          <a href="/tags/Modkit/" class="article-tag-item">#Modkit</a>
+          
+          <a href="/tags/%e5%88%9b%e6%84%8f%e5%b7%a5%e5%9d%8a/" class="article-tag-item">#创意工坊</a>
+          
+          <a href="/tags/%e8%84%9a%e6%9c%acMod/" class="article-tag-item">#脚本Mod</a>
+          
+          <a href="/tags/%e5%ae%98%e6%96%b9%e6%9b%b4%e6%96%b0/" class="article-tag-item">#官方更新</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-29-1297900-d86d282d/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-29-4298400-5a92cbf6/" class="sibling-title">《Dystopian Pet Simulator》收官更新：逃生终局解锁，实验室扇区与新宠物登场</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-29-3882630-afbbc6f8/" class="sibling-title">《SOMNIUS》正式版上线：疯狂手套与诅咒祭坛，双新梦魇开黑翻车指南</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#脚本源码开放才是这次的重头戏">脚本源码开放，才是这次的重头戏</a></li>
+        <li><a href="#入口与工坊提交作品前先把规矩看明白">入口与工坊：提交作品前先把规矩看明白</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

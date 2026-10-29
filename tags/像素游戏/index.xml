@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 21:32:26 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 04:53:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%83%8F%E7%B4%A0%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Checkmage! 1.0.2 更新：平局、BGM与像素缩放修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</link>
+				<pubDate>Fri, 30 Oct 2026 04:53:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</guid>
+				<description>《Checkmage!》1.0.2 更新现已上线，这次补丁没有花哨新内容，而是集中处理玩家高频遇到的体验问题：平局后的战后对话恢复正常，背景音乐可以正确循环，退格键不再默认打开菜单，像素缩放设置会被保存并在启动时生效，关卡最终敌人平局时也不会再误解锁徽章。对日常游玩来说，这些都是实打实的顺手度提升，建议已入库玩家尽快更新并进游戏验证。</description>
+			</item>
 			<item>
 				<title>双人团队手搓像素《ConEX》发售，首发 40% 折扣值不值？</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-4098480-5cefa09c/</link>

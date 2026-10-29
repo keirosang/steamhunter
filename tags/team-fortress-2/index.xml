@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 00:56:15 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 04:29:39 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/team-fortress-2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TF2 官方更新实装：万圣节地图修漏洞，僵尸感染模式全线数值回调</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</link>
+				<pubDate>Fri, 30 Oct 2026 04:29:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</guid>
+				<description>《军团要塞2》推送新一轮官方更新，本体修复 Le Sapeur 烟雾特效与三件饰品穿模问题；cp_wildcat_event 回合时间加 1 分钟并封堵南瓜伪装 15 倍速占点漏洞；zi_ 系列僵尸感染地图集体下调 edicts 数值，僵尸狙击手对空攻击改为暴击，A 点小屋新增掩体。本文梳理改动要点与开黑注意事项。</description>
+			</item>
 			<item>
 				<title>《军团要塞2》欧洲主题企划启动，地图创作大赛与工坊征集同步开启</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-440-42298d29/</link>

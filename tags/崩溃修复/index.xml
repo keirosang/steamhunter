@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 19:03:59 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 04:24:06 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B4%A9%E6%BA%83%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Kingdom Inc.》热修：Unity LTS 专治神秘崩溃</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4538080-2a9fd4d2/</link>
+				<pubDate>Fri, 30 Oct 2026 04:24:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4538080-2a9fd4d2/</guid>
+				<description>《Kingdom Inc.》推送小型热修，开发组将引擎升级至最新 Unity LTS 版本，专门修复部分玩家此前难以复现的崩溃问题。制作人 Tom 坦言本次更新不涉及核心玩法改动，但稳定性提升值得关注。建议更新后校验文件、备份存档，遇到新问题及时反馈。</description>
+			</item>
 			<item>
 				<title>《Project Exhibitionist》首日杀入Steam畅销榜第11 官方公布崩溃修复与性能优化方案</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-4688700-0d4bcc99/</link>

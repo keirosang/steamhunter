@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Checkmage! on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/checkmage/</link>
+		<description>Recent content in Checkmage! on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 04:53:16 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/checkmage/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Checkmage! 1.0.2 更新：平局、BGM与像素缩放修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</link>
+				<pubDate>Fri, 30 Oct 2026 04:53:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</guid>
+				<description>《Checkmage!》1.0.2 更新现已上线，这次补丁没有花哨新内容，而是集中处理玩家高频遇到的体验问题：平局后的战后对话恢复正常，背景音乐可以正确循环，退格键不再默认打开菜单，像素缩放设置会被保存并在启动时生效，关卡最终敌人平局时也不会再误解锁徽章。对日常游玩来说，这些都是实打实的顺手度提升，建议已入库玩家尽快更新并进游戏验证。</description>
+			</item>
+			<item>
+				<title>《Checkmage!》1.0正式上线Steam：棋盘法师开卷入坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3613550-b12de9c3/</link>
+				<pubDate>Fri, 30 Oct 2026 04:49:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3613550-b12de9c3/</guid>
+				<description>《Checkmage!》正式迈入1.0版本，Steam与itch.io同步上线。官方开放Discord与Bluesky社区通道，邀请玩家反馈Bug、提交建议并留下评测。本文整理首发版本看点、入坑操作与常见问题，帮你在棋盘上少走弯路。无论你是国际象棋老手还是策略游戏新手，都能快速判断是否适合自己。</description>
+			</item>
+	</channel>
+</rss>

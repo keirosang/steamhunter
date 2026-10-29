@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 01:41:42 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 04:53:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Checkmage! 1.0.2 更新：平局、BGM与像素缩放修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</link>
+				<pubDate>Fri, 30 Oct 2026 04:53:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</guid>
+				<description>《Checkmage!》1.0.2 更新现已上线，这次补丁没有花哨新内容，而是集中处理玩家高频遇到的体验问题：平局后的战后对话恢复正常，背景音乐可以正确循环，退格键不再默认打开菜单，像素缩放设置会被保存并在启动时生效，关卡最终敌人平局时也不会再误解锁徽章。对日常游玩来说，这些都是实打实的顺手度提升，建议已入库玩家尽快更新并进游戏验证。</description>
+			</item>
+			<item>
+				<title>TF2 官方更新实装：万圣节地图修漏洞，僵尸感染模式全线数值回调</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</link>
+				<pubDate>Fri, 30 Oct 2026 04:29:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</guid>
+				<description>《军团要塞2》推送新一轮官方更新，本体修复 Le Sapeur 烟雾特效与三件饰品穿模问题；cp_wildcat_event 回合时间加 1 分钟并封堵南瓜伪装 15 倍速占点漏洞；zi_ 系列僵尸感染地图集体下调 edicts 数值，僵尸狙击手对空攻击改为暴击，A 点小屋新增掩体。本文梳理改动要点与开黑注意事项。</description>
+			</item>
+			<item>
+				<title>饥荒联机版热修760944：万圣夜诡异变种登场，魔法扫帚免滑免坑</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-322330-99bd987a/</link>
+				<pubDate>Fri, 30 Oct 2026 04:28:24 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-322330-99bd987a/</guid>
+				<description>《饥荒联机版》热修 760944 上线：万圣夜期间猪人、鱼人、兔人新增诡异变种随机出没，并追加 4 款万圣装饰；魔法女巫扫帚飞行时免疫滑倒、地陷与地面黏液，鱼人王也会像猪王一样发糖。另有落叶堆可燃烧、暗影香炉可驱散 NPC 远古织影者，以及世界设置、击退落水、JIMBO 奖励等一批修复。</description>
+			</item>
+			<item>
+				<title>《Dynamite Dashers》正式发售：随机关卡事件上线，强化树经济全面重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4148750-61d1816c/</link>
+				<pubDate>Fri, 30 Oct 2026 03:29:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4148750-61d1816c/</guid>
+				<description>炸了这么久，终于炸到正式版！《Dynamite Dashers》官宣脱离抢先体验正式发售，本次版本带来随机关卡事件、强化树经济重做、强化道具平衡调整、连击系统炫彩演出、全新音乐与多语言支持，并顺手修掉了敌人死后还赖着不走的阴影bug。想先试试手感？免费Demo依旧开着，试完再入库不亏。</description>
+			</item>
 			<item>
 				<title>《Dark Trip》正式版上线：PC与VR全面优化，手柄支持补齐</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-3492640-03492557/</link>
@@ -96,6 +124,13 @@
 				<pubDate>Thu, 29 Oct 2026 19:28:49 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-236390-4d79957e/</guid>
 				<description>战争雷霆推送2.59.0.92更新，战斗评级调整正式生效，常用队列与金币载具分房可能迎来洗牌；同时空战历史模式每队轰炸机数量限制失效的问题已修复。本期按主理人视角梳理BR变动查看方法、空历开线避坑、更新后实操建议与FAQ，帮你快速判断哪些载具该上场、哪些先放车库。</description>
+			</item>
+			<item>
+				<title>THE FINALS 12.1.0更新：万圣鬼雾来袭，传送器与Pike遭削</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-2073850-e7dee324/</link>
+				<pubDate>Thu, 29 Oct 2026 18:00:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-2073850-e7dee324/</guid>
+				<description>THE FINALS 12.1.0 上线，竞技场被神秘鬼雾笼罩，亡灵伯爵夫人套装和万圣节饰品同步登场，Frights Galore 活动只剩一周可收票券。平衡调整中，传送器最大距离从70米砍至50米，CB-01连发步枪伤害降至85，Pike-556爆头倍率降到1.5；霰弹枪命中标记缩短且可关闭。聊天与昵称审核继续磨合，误判可提交复核。</description>
 			</item>
 			<item>
 				<title>《漫威争锋》10.29更新：万圣节「幻象之夜」开启，冬兵天界战士皮肤上架</title>

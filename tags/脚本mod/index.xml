@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>脚本Mod on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%84%9A%E6%9C%ACmod/</link>
+		<description>Recent content in 脚本Mod on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 29 Oct 2026 23:50:55 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%84%9A%E6%9C%ACmod/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《哥特王朝1重制版》Modkit BETA开放脚本源码与创意工坊</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-1297900-d86d282d/</link>
+				<pubDate>Thu, 29 Oct 2026 23:50:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-1297900-d86d282d/</guid>
+				<description>官方兑现承诺，《哥特王朝1重制版》第一阶段Mod支持以Modkit BETA登场：脚本语言与完整脚本源码开放，玩家可依官方文档制作Mod，并通过Steam创意工坊提交作品。Steam启动选项或特定exe参数可进入Mod管理界面。官方暂未公布更多工具时间表。关注@steamhunterlink，获取更新与特惠提醒。</description>
+			</item>
+	</channel>
+</rss>

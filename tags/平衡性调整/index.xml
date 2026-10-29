@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 01:27:58 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 04:29:39 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TF2 官方更新实装：万圣节地图修漏洞，僵尸感染模式全线数值回调</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</link>
+				<pubDate>Fri, 30 Oct 2026 04:29:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</guid>
+				<description>《军团要塞2》推送新一轮官方更新，本体修复 Le Sapeur 烟雾特效与三件饰品穿模问题；cp_wildcat_event 回合时间加 1 分钟并封堵南瓜伪装 15 倍速占点漏洞；zi_ 系列僵尸感染地图集体下调 edicts 数值，僵尸狙击手对空攻击改为暴击，A 点小屋新增掩体。本文梳理改动要点与开黑注意事项。</description>
+			</item>
 			<item>
 				<title>CRACK v1.1.3更新：20%员工折扣解谜与蛋内物理修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-4312190-8c589904/</link>
@@ -26,6 +33,13 @@
 				<pubDate>Thu, 29 Oct 2026 23:06:00 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-381210-68778f65/</guid>
 				<description>《黎明杀机》10.2.2a后端热修上线，三角头与鬼娃迎来关键调参：三角头审判仪式更快、充能更顺、惩罚范围扩至16米；鬼娃躲猫猫冷却缩短、突进翻越更快。本次无需下载新内容，重启游戏即可生效。我会把改动重点、实战影响、练习方向与上手建议一次讲清，帮你快速吃透这波增强。</description>
+			</item>
+			<item>
+				<title>THE FINALS 12.1.0更新：万圣鬼雾来袭，传送器与Pike遭削</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-2073850-e7dee324/</link>
+				<pubDate>Thu, 29 Oct 2026 18:00:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-2073850-e7dee324/</guid>
+				<description>THE FINALS 12.1.0 上线，竞技场被神秘鬼雾笼罩，亡灵伯爵夫人套装和万圣节饰品同步登场，Frights Galore 活动只剩一周可收票券。平衡调整中，传送器最大距离从70米砍至50米，CB-01连发步枪伤害降至85，Pike-556爆头倍率降到1.5；霰弹枪命中标记缩短且可关闭。聊天与昵称审核继续磨合，误判可提交复核。</description>
 			</item>
 			<item>
 				<title>《绝地潜兵2》7.2.2补丁实装：APEX狙击枪口径大砍，Bushwacker伤害暴涨补正</title>

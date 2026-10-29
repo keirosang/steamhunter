@@ -10,9 +10,114 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 01:55:08 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 04:53:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Checkmage! 1.0.2 更新：平局、BGM与像素缩放修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</link>
+				<pubDate>Fri, 30 Oct 2026 04:53:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3613550-45d1c3f5/</guid>
+				<description>《Checkmage!》1.0.2 更新现已上线，这次补丁没有花哨新内容，而是集中处理玩家高频遇到的体验问题：平局后的战后对话恢复正常，背景音乐可以正确循环，退格键不再默认打开菜单，像素缩放设置会被保存并在启动时生效，关卡最终敌人平局时也不会再误解锁徽章。对日常游玩来说，这些都是实打实的顺手度提升，建议已入库玩家尽快更新并进游戏验证。</description>
+			</item>
+			<item>
+				<title>《Checkmage!》1.0正式上线Steam：棋盘法师开卷入坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3613550-b12de9c3/</link>
+				<pubDate>Fri, 30 Oct 2026 04:49:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3613550-b12de9c3/</guid>
+				<description>《Checkmage!》正式迈入1.0版本，Steam与itch.io同步上线。官方开放Discord与Bluesky社区通道，邀请玩家反馈Bug、提交建议并留下评测。本文整理首发版本看点、入坑操作与常见问题，帮你在棋盘上少走弯路。无论你是国际象棋老手还是策略游戏新手，都能快速判断是否适合自己。</description>
+			</item>
+			<item>
+				<title>TF2 官方更新实装：万圣节地图修漏洞，僵尸感染模式全线数值回调</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</link>
+				<pubDate>Fri, 30 Oct 2026 04:29:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</guid>
+				<description>《军团要塞2》推送新一轮官方更新，本体修复 Le Sapeur 烟雾特效与三件饰品穿模问题；cp_wildcat_event 回合时间加 1 分钟并封堵南瓜伪装 15 倍速占点漏洞；zi_ 系列僵尸感染地图集体下调 edicts 数值，僵尸狙击手对空攻击改为暴击，A 点小屋新增掩体。本文梳理改动要点与开黑注意事项。</description>
+			</item>
+			<item>
+				<title>饥荒联机版热修760944：万圣夜诡异变种登场，魔法扫帚免滑免坑</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-322330-99bd987a/</link>
+				<pubDate>Fri, 30 Oct 2026 04:28:24 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-322330-99bd987a/</guid>
+				<description>《饥荒联机版》热修 760944 上线：万圣夜期间猪人、鱼人、兔人新增诡异变种随机出没，并追加 4 款万圣装饰；魔法女巫扫帚飞行时免疫滑倒、地陷与地面黏液，鱼人王也会像猪王一样发糖。另有落叶堆可燃烧、暗影香炉可驱散 NPC 远古织影者，以及世界设置、击退落水、JIMBO 奖励等一批修复。</description>
+			</item>
+			<item>
+				<title>《Kingdom Inc.》热修：Unity LTS 专治神秘崩溃</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4538080-2a9fd4d2/</link>
+				<pubDate>Fri, 30 Oct 2026 04:24:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4538080-2a9fd4d2/</guid>
+				<description>《Kingdom Inc.》推送小型热修，开发组将引擎升级至最新 Unity LTS 版本，专门修复部分玩家此前难以复现的崩溃问题。制作人 Tom 坦言本次更新不涉及核心玩法改动，但稳定性提升值得关注。建议更新后校验文件、备份存档，遇到新问题及时反馈。</description>
+			</item>
+			<item>
+				<title>《E-Files》正式发售：PSX复古心理恐怖独立新作，暗网阴谋氛围拉满</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5100880-1e1f1242/</link>
+				<pubDate>Fri, 30 Oct 2026 03:50:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5100880-1e1f1242/</guid>
+				<description>独立开发者打磨的首部作品《E-Files》正式登陆 Steam，主打 PSX 复古画质与暗网阴谋叙事交织的心理恐怖体验。本文梳理这款新作的氛围卖点、玩法取向与入手建议，并附上关注折扣与限免的实用渠道，帮你判断它是否值得进愿望单。</description>
+			</item>
+			<item>
+				<title>FreeSurf 正式登陆 Steam：19 大冲浪胜地、8 人联机语音开黑一次到位</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5228830-7d8f9477/</link>
+				<pubDate>Fri, 30 Oct 2026 03:32:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5228830-7d8f9477/</guid>
+				<description>等了这么久，FreeSurf 终于在 Steam 正式上线。这次不是小打小闹的抢先体验，而是带着 19 个取自真实海滩的浪点、街机与模拟双模式、8 人在线联机加近距离语音、以及能自己造板的 Shaper 模式一起登场。本文把上线内容、上手思路和联机避坑点一次讲清楚，方便各位浪人第一时间下水。</description>
+			</item>
+			<item>
+				<title>《Dynamite Dashers》正式发售：随机关卡事件上线，强化树经济全面重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4148750-61d1816c/</link>
+				<pubDate>Fri, 30 Oct 2026 03:29:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4148750-61d1816c/</guid>
+				<description>炸了这么久，终于炸到正式版！《Dynamite Dashers》官宣脱离抢先体验正式发售，本次版本带来随机关卡事件、强化树经济重做、强化道具平衡调整、连击系统炫彩演出、全新音乐与多语言支持，并顺手修掉了敌人死后还赖着不走的阴影bug。想先试试手感？免费Demo依旧开着，试完再入库不亏。</description>
+			</item>
+			<item>
+				<title>Probably Stolen 24小时卖35万份，杀进Steam前12</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4348910-433cdbbd/</link>
+				<pubDate>Fri, 30 Oct 2026 03:08:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4348910-433cdbbd/</guid>
+				<description>官方公布《Probably Stolen - Cyberpunk Shopkeeper Sim》发售24小时销量突破35万份，独立玩家超32万，Steam同时在线峰值11.2万，跻身全球最热玩第12名。媒体评价强调赛博朋克设定下的店铺经营与高风险决策，创意工坊和Discord社区已活跃。本文梳理数据看点、玩法定位、入手建议与常见问题。</description>
+			</item>
+			<item>
+				<title>《Catch Meow If You Can》正式发售：猫咪捣蛋合作联机，把盗贼耍到破防</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4306070-f9127e9b/</link>
+				<pubDate>Fri, 30 Oct 2026 03:03:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4306070-f9127e9b/</guid>
+				<description>小体量独立新作《Catch Meow If You Can》正式登陆 Steam，主打多人合作的“反向潜行”捣蛋玩法：你不再是躲躲藏藏的小贼，而是带着一群猫在屋里制造混乱、骚扰盗贼、最后全身而退的麻烦制造者。开发组在发售公告里感谢了从早期视频、试玩测试到加入愿望单的一路同行者，并鼓励玩家把搞笑片段和截图分享出来。本文整理了玩法看点、联机避坑与入手建议。</description>
+			</item>
+			<item>
+				<title>星际战甲Prime重生：Nidus与Saryn携专属装备回归</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-230410-03483ac3/</link>
+				<pubDate>Fri, 30 Oct 2026 02:15:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-230410-03483ac3/</guid>
+				<description>Warframe 星际战甲 Prime 重生轮换迎来 Nidus Prime 与 Saryn Prime，两位高人气 Prime 战甲携招牌武器和配件限时上架。Nidus Prime 靠突变叠层越战越硬，适合正面强攻；Saryn Prime 则以孢子与毒素打出大范围清场。想入手可前往轮换商店使用 Regal Aya 兑换，注意倒计时，别把 Aya 与 Regal Aya 搞混。</description>
+			</item>
+			<item>
+				<title>泰拉瑞亚1.4.6跨平台联机进入最终测试，新版社区经理上任</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-105600-d7b1ed19/</link>
+				<pubDate>Fri, 30 Oct 2026 02:10:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-105600-d7b1ed19/</guid>
+				<description>泰拉瑞亚 1.4.6「跨平台联机第一阶段」已完成功能收尾并进入大范围测试，因测试中发现若干问题，多平台提交审核略有延后，官方预计下周重回正轨，签核通过即刻上线。同时，新任社区经理 @Kerri the Rat Queen 正式到岗，万圣节比赛今年缺席但新活动已在酝酿，跨平台第二阶段也进入规划。</description>
+			</item>
+			<item>
+				<title>《Abyss Depth: Control》正式上线，深海开控别当云玩家</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4053130-62fc60e0/</link>
+				<pubDate>Fri, 30 Oct 2026 02:08:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4053130-62fc60e0/</guid>
+				<description>深海题材作品《Abyss Depth: Control》正式版现已上线，官方用简短公告感谢玩家一路支持。对观望党来说，现在可以按正式版标准重新核对内容完整度、优化表现与后续更新节奏。入手前先看商店页价格、语言和配置需求，老玩家留意存档兼容与版本差异，别让深海压力先把你劝退。</description>
+			</item>
+			<item>
+				<title>《COP BASTARD》正式发售：首发九折，复古硬核FPS大阪极道火拼</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-1742440-8c746496/</link>
+				<pubDate>Fri, 30 Oct 2026 02:05:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-1742440-8c746496/</guid>
+				<description>复古硬核FPS《COP BASTARD》现已登陆Steam，首发九折持续至11月7日。你将扮演暴躁警探片山，在1990年代大阪的夜店、后巷、公寓与仓库里与极道正面火拼。没有技能树、没有解谜，只有致命房间清理、吐口水回血、慢动作突入和鞭尸刷分。Demo已同步正式版，数字设定集也同日上线。</description>
+			</item>
+			<item>
+				<title>《Terraclysm Survivors》正式发售：4人联机肉鸽割草，末日Build玩到失控</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4360290-33a35e90/</link>
+				<pubDate>Fri, 30 Oct 2026 02:01:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4360290-33a35e90/</guid>
+				<description>2D动作肉鸽《Terraclysm Survivors》现已登陆Steam，支持单人及4人在线联机。穿越多个崩坏末日世界，在熔岩上涨、流星雨、火焰龙卷与黑暗中割草求生，用武器、道具、符文和升级堆出离谱联动，还能进化武器、刷精英、做任务解锁新内容。首发入手前先看商店页售价与折扣，叫上朋友开黑更香。</description>
+			</item>
 			<item>
 				<title>《Anomaly Core: Hospital》正式发售：系列首作登场，这次你扮演病人从异常医院里逃出去</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-4689330-a7e9e3c8/</link>
@@ -28,11 +133,25 @@
 				<description>独立开发者Ido的和平策略游戏《Prophet Margin》现已正式登陆Steam。玩家从一个小定居点起步，用商队把贸易路线一段段延伸出去，最终连成覆盖全岛的贸易网络。没有战斗压力，重点在路线规划与慢节奏经营。开发者邀请玩家在Steam讨论区晒出岛屿布局并反馈问题。本文整理玩法看点、上手建议与常见问题。</description>
 			</item>
 			<item>
+				<title>海盗岛主福利拉满！《Laguna Rosa》Steam上线，18&#43;剧情</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4450390-861f7b58/</link>
+				<pubDate>Fri, 30 Oct 2026 01:46:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4450390-861f7b58/</guid>
+				<description>海盗题材18+恋爱经营新作《Laguna Rosa》正式登陆Steam！你将拥有一座自己的海盗岛，与多位美女角色展开暧昧剧情，解锁动态成人场景，体验互动模式与放置玩法。游戏融合RPG与策略元素，支持15种语言，开发团队正积极收集反馈。本文为你梳理核心看点、上手建议与常见问题，助你快速上岛当船长。</description>
+			</item>
+			<item>
 				<title>《Dark Trip》正式版上线：PC与VR全面优化，手柄支持补齐</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-3492640-03492557/</link>
 				<pubDate>Fri, 30 Oct 2026 01:41:42 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-3492640-03492557/</guid>
 				<description>试玩与内测阶段的反馈终于结出果实——《Dark Trip》完整正式版正式上线。本次更新把 PC 平面游玩、VR 模式与手柄支持一并纳入修复与优化范围，官方也专门致谢参与试玩和测试的玩家。本文梳理正式版到底改了什么、老玩家如何更新、VR 与手柄该怎么调，以及现在入手的实操建议。</description>
+			</item>
+			<item>
+				<title>《Spooky Ride》正式发售：四人骑车闯鬼林找大脚怪，万圣节开黑首选</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4613790-58a08fc1/</link>
+				<pubDate>Fri, 30 Oct 2026 01:37:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4613790-58a08fc1/</guid>
+				<description>四个朋友、四辆自行车、一个烂到极点的主意——《Spooky Ride》现已正式登陆 Steam，卡点万圣节档期。支持 1-4 人在线合作，玩家要在诡异森林里追踪线索、破解机关、扛住幽灵与怪物的骚扰，最后把走失的「小大脚怪」平安送回家。布娃娃物理与队友的迷惑操作，往往比鬼更吓人。</description>
 			</item>
 			<item>
 				<title>卡牌编程解谜新游《The Perfect Robot》Steam 发售，首发75折开整</title>
@@ -75,6 +194,13 @@
 				<pubDate>Fri, 30 Oct 2026 01:02:59 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-4348280-1a41024a/</guid>
 				<description>酒馆的门开了。《公主与征服：梅花女王》现已开启抢先体验，Steam 定价 14.99 美元，首发 10% 折扣到手约 13.49 美元。这一版把首批场景、Boss 与物品体系一次性端上桌，官方同步放出完整内容清单与后续更新路线。Demo 不下架，新手可以先试后买；Wiki 已公开，遇坑有据可查。本文把入库方式、开荒思路和报错反馈渠道一次讲清。</description>
+			</item>
+			<item>
+				<title>《Kingdom Inc.》正式发售：首发9折&#43;捆绑包再减15%</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4538080-38aaa7b1/</link>
+				<pubDate>Fri, 30 Oct 2026 01:02:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4538080-38aaa7b1/</guid>
+				<description>《Kingdom Inc.》现已正式登陆Steam，别看名字像画饼，主玩法循环已经完整，并非抢先体验。首发期直接给到9折，已拥有《Widget Inc.》的老玩家买捆绑包还能再叠加15%优惠；试玩Demo继续保留，先尝后买、开厂不慌，喜欢挂机自动化建造的玩家可以重点关注。</description>
 			</item>
 			<item>
 				<title>Hokko Spaces正式发售：治愈微缩造景首发9折，四季氛围由你定</title>
@@ -154,11 +280,25 @@
 				<description>合作恐怖游戏《SOMNIUS》正式结束抢先体验，完整版同步加入“疯狂手套”与“诅咒祭坛”两大新梦魇。前者考验走位、吸物反击与集火能量球，后者要求小队守住祭坛扛过三波亡灵。本文整理机制要点、开黑分工与常见问题，方便老哥们快速上车。如果你正打算拉朋友入坑，或者被新Boss打得满地找牙，这份要点与分工建议可以直接抄作业。</description>
 			</item>
 			<item>
+				<title>《哥特王朝1重制版》Modkit BETA开放脚本源码与创意工坊</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-1297900-d86d282d/</link>
+				<pubDate>Thu, 29 Oct 2026 23:50:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-1297900-d86d282d/</guid>
+				<description>官方兑现承诺，《哥特王朝1重制版》第一阶段Mod支持以Modkit BETA登场：脚本语言与完整脚本源码开放，玩家可依官方文档制作Mod，并通过Steam创意工坊提交作品。Steam启动选项或特定exe参数可进入Mod管理界面。官方暂未公布更多工具时间表。关注@steamhunterlink，获取更新与特惠提醒。</description>
+			</item>
+			<item>
 				<title>《Dystopian Pet Simulator》收官更新：逃生终局解锁，实验室扇区与新宠物登场</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-4298400-5a92cbf6/</link>
 				<pubDate>Thu, 29 Oct 2026 23:47:42 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-4298400-5a92cbf6/</guid>
 				<description>鸽了许久的《Dystopian Pet Simulator》终于放出 Escape Update，而且官方明说这是本作最后一个大型内容更新。本次带来实验室扇区新地图、Grumpy 与 Blob 两只新宠物、真正能逃出 Air Exchange 的终局剧情，以及从零重建的 UI、升级的光照与模型和全新教程。顺手修掉了传送器、信号枪拖尾、AO 降噪等一堆陈年 Bug，单人模式也终于一键可开。</description>
+			</item>
+			<item>
+				<title>极限竞速地平线6春季活动：霍顿Monaro领衔奖励解析，别错过</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-2483190-c5e2961c/</link>
+				<pubDate>Thu, 29 Oct 2026 23:30:31 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-2483190-c5e2961c/</guid>
+				<description>本周《极限竞速：地平线6》春季Festival Playlist把澳洲肌肉车1968 Holden Monaro GTS 327推到台前，20 PTS即可解锁；40 PTS可拿1991 Honda CR-X SiR。系列奖励同步开放，80 PTS给2025 BMW M4 CS，160 PTS给2015 Koenigsegg One:1。7-Eleven车聚本周最后机会，拍照挑战与C级复古拉力路线也别忘了刷。</description>
 			</item>
 			<item>
 				<title>Apex英雄Cipher大版本：Crypto无人机与双持Wingman</title>
@@ -187,6 +327,13 @@
 				<pubDate>Thu, 29 Oct 2026 22:45:19 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-4096830-4953c689/</guid>
 				<description>《S.O.N.A.R.》Demo 1.0迎来正式上线前最后一更：新增按键自定义、模块化画质选项与手柄震动强化，并集中修复稳定性问题。完整版今日发售，已玩过Demo的潜艇指挥官可以直接冲正式版；新玩家建议先试玩Demo熟悉操作，再根据联机与配置表现决定是否入手。</description>
+			</item>
+			<item>
+				<title>《哥特王朝1重制版》功能更新：拍照模式、马力文作弊码与角色捏脸上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-1297900-0d8c6dc9/</link>
+				<pubDate>Thu, 29 Oct 2026 22:27:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-1297900-0d8c6dc9/</guid>
+				<description>《哥特王朝1重制版》推送首个功能更新：拍照模式、马力文作弊码、沼泽营地兄弟会定制与长椅等待功能一并上线，无名英雄还能理发纹身；同时修复大量任务与装备Bug。Steam 系列促销同步开启，重制版 25% off，经典三部曲与 ArcaniA 直降 80%，11 月 5 日截止。</description>
 			</item>
 			<item>
 				<title>战争雷霆F/A-18D与Q-5D预购开启：美系大黄蜂和中国强五怎么选？</title>
@@ -320,6 +467,13 @@
 				<pubDate>Thu, 29 Oct 2026 18:09:36 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-4689770-7bcdf807/</guid>
 				<description>原定 10 月 27 日上线的《Shadow Gangs Zero》终于通过 Steam 最终版本审核，官方 JKM Corp. 宣布本作于 10 月 29 日 17:00 GMT 正式解锁，对应北京时间 10 月 30 日凌晨 1 点。作为 Shadow Gangs 系列的新作，它延续了手绘逐帧动画、老派街机难度与硬核横版清关的招牌配方。本文梳理定档始末、玩法看点、国区解锁时间换算与入手建议，帮你第一时间冲进街头。</description>
+			</item>
+			<item>
+				<title>THE FINALS 12.1.0更新：万圣鬼雾来袭，传送器与Pike遭削</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-2073850-e7dee324/</link>
+				<pubDate>Thu, 29 Oct 2026 18:00:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-2073850-e7dee324/</guid>
+				<description>THE FINALS 12.1.0 上线，竞技场被神秘鬼雾笼罩，亡灵伯爵夫人套装和万圣节饰品同步登场，Frights Galore 活动只剩一周可收票券。平衡调整中，传送器最大距离从70米砍至50米，CB-01连发步枪伤害降至85，Pike-556爆头倍率降到1.5；霰弹枪命中标记缩短且可关闭。聊天与昵称审核继续磨合，误判可提交复核。</description>
 			</item>
 			<item>
 				<title>《漫威争锋》10.29更新：万圣节「幻象之夜」开启，冬兵天界战士皮肤上架</title>
@@ -665,6 +819,13 @@
 				<description>《Rug Cleaning Simulator》今天18:00 CET / 17:00 UTC正式开门营业，首发7天85折。上线前作者和朋友们实测并推送约20个补丁，重点修bug、提稳定性和打磨清洁手感。首次启动会编译着色器，可能等几分钟；Win11若遇Smart App Control拦截未签名文件，文内给了临时处理办法和风险提醒。</description>
 			</item>
 			<item>
+				<title>《FreshWomen》第三季明日上线：40人团队打造9000张4K渲染与17小时多结局互动剧情</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4005870-f66c002c/</link>
+				<pubDate>Thu, 29 Oct 2026 00:43:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4005870-f66c002c/</guid>
+				<description>《FreshWomen》第三季确认明日登陆 Steam：超过 9000 张 4K 渲染、1200 段 60FPS 动画、27 万字与 17 小时以上流程，选择分支、属性成长和多结局全面强化，并内置简繁中文。本文梳理本季核心看点、上手补票建议与常见问题，帮你判断是否值得第一时间入库。</description>
+			</item>
+			<item>
 				<title>《The Kharzov Effect》第一章上线：4小时无武器潜行解谜恐怖，首发周-29%附Demo存档避坑</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-3228900-68916997/</link>
 				<pubDate>Thu, 29 Oct 2026 00:30:46 +0800</pubDate>
@@ -826,6 +987,13 @@
 				<description>AION 2 全球万圣节 Twitch Drops 正式开跑。10 月 28 日至 11 月 3 日（北京时间 10 月 29 日 01:00 至 11 月 4 日 15:59），在任意开启 Drops 的直播频道累计观看 1 至 8 小时，即可依次解锁复活灵石、外观变更券、自定义券、奥黛尔能量，以及压轴的胖熊猫头饰。全程免费、不限频道、可分天累积，但奖励必须在 11 月 17 日前手动从 Twitch 库存领取，逾期作废。</description>
 			</item>
 			<item>
+				<title>《Spooky Ride》Steam上线：惊悚游乐开黑与首发避坑全指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4613790-47efd306/</link>
+				<pubDate>Wed, 28 Oct 2026 21:57:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4613790-47efd306/</guid>
+				<description>官宣只有一行「Spooky Ride LIVE」，但信息量不小：《Spooky Ride》（Steam AppID 4613790）已正式转入可玩状态，蹲愿望单的兄弟姐妹可以动手了。本期我从上线状态、题材氛围、联机开黑准备，到首发到底该不该冲，一次讲清楚，顺手把这波最容易被忽略的避坑点摆到台面上，帮你把钱花在刀刃上。</description>
+			</item>
+			<item>
 				<title>《Gennady》发售：手绘逐帧 Roguelike 平台跳跃，四年打磨</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-2430010-cabb2092/</link>
 				<pubDate>Wed, 28 Oct 2026 21:54:18 +0800</pubDate>
@@ -978,6 +1146,13 @@
 				<pubDate>Wed, 28 Oct 2026 17:44:29 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-236390-9773f9b4/</guid>
 				<description>战争雷霆下一大版本将迎来日本Rank IV重巡IJN高雄号：十门203毫米主炮、出色航速、改进弹药库防护、雷达与60门25毫米防空炮齐上阵，外加16枚610毫米“长矛”鱼雷。它擅长中远距离炮战，近身鱼雷是王牌，但上层建筑巨大、主炮塔转速慢。我梳理核心看点、实战定位、上手建议与常见问题，帮你提前摸清这艘“均衡艺术”重巡的脾气。</description>
+			</item>
+			<item>
+				<title>《Terraclysm Survivors》过审即开卖！Steam审核只差临门一脚，制作组边等边打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4360290-9fe07f18/</link>
+				<pubDate>Wed, 28 Oct 2026 17:22:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4360290-9fe07f18/</guid>
+				<description>《Terraclysm Survivors》官方放出最新消息：游戏本体已经准备完毕，目前只等待 Steam 审核放行，审核一通过就立刻开卖，不再二次预热。制作组同时表示审核期间仍在持续打磨版本，并感谢此前参与测试活动、给出反馈的玩家。本文梳理这次发声的关键信息、审核卡点到底意味着什么，以及想第一时间入库的玩家现在该做哪几件事。</description>
 			</item>
 			<item>
 				<title>COD现代战争4首发在线跌32%：Game Pass缺席与70美元定价</title>
