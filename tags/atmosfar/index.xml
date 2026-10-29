@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ATMOSFAR on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/atmosfar/</link>
+		<description>Recent content in ATMOSFAR on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 00:00:43 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/atmosfar/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《ATMOSFAR》EA正式上线：泰科斯星球生存探险开航，实验分支同步开放</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-1798230-f1bca66a/</link>
+				<pubDate>Fri, 30 Oct 2026 00:00:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-1798230-f1bca66a/</guid>
+				<description>Apog Labs 旗下外星生存探索新作《ATMOSFAR》正式进入 Steam 抢先体验，泰科斯星球全面开放登船。本期梳理 EA 阶段的核心信息：游戏内 Bug 上报工具是唯一保底送达开发组的渠道，官方实验分支（experimental）同步对所有已购玩家开放，可提前试玩未稳定改动，稳定后才会合并回默认分支并发布正式补丁说明。文内含分支切换方法与开荒避坑建议。</description>
+			</item>
+	</channel>
+</rss>
