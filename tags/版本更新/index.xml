@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 10:27:42 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 17:00:21 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《狩猎模拟3》正式发售：37种动物、百平方公里猎场与SimFauna生态</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-2482760-2cd50dc9/</link>
+				<pubDate>Thu, 29 Oct 2026 17:00:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-2482760-2cd50dc9/</guid>
+				<description>《狩猎模拟3》正式登陆 Steam、PS5 与 Xbox Series X|S：科罗拉多与德克萨斯两张各约100平方公里的猎场、37种动物，加上基因决定战利品潜力的 SimFauna 生态。首发补丁同步上线，新增两种猎犬与贝雷塔500周年纪念系列，重做弓箭瞄准并支持箭矢回收，动物感知、追踪、难度预设与新手教学全面调整。</description>
+			</item>
+			<item>
+				<title>《Pro Wrestling Tycoon》1.0正式上线：摔角帝国经营告别抢先体验，排卡合约全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5039120-11e157ce/</link>
+				<pubDate>Thu, 29 Oct 2026 13:34:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5039120-11e157ce/</guid>
+				<description>单人开发者打造的摔角经营模拟《Pro Wrestling Tycoon》正式迈入1.0，告别抢先体验。你将接管或创立摔角公司，安排比赛、剧情、电视合约与选手合同，在90天剧情规划、人才养成、联盟博弈和财务压力之间走钢丝。本文梳理1.0阶段核心系统、开档思路与购买建议，帮新老板少交学费，老 promoter 快速回坑。</description>
+			</item>
+			<item>
+				<title>《Hand-me-downs》1.0正式版上线！15件新饰品与机制重做解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-3870620-350de6d4/</link>
+				<pubDate>Thu, 29 Oct 2026 13:18:31 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-3870620-350de6d4/</guid>
+				<description>卡牌对战游戏《Hand-me-downs》正式迈入1.0并脱离抢先体验。本次更新一口气加入15件全新饰品，覆盖普通到传说品质；同时重做Ouroboros，调整多件饰品的稀有度，并优化诅咒机制、关键词说明与选牌交互。无论你是EA老玩家还是观望党，这波转正都值得重新开一局，体验更完整的构筑深度。</description>
+			</item>
+			<item>
+				<title>游戏王 Master Duel v2.9.0 更新：决斗动画上线，UI 交互全面重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-1449850-7aa1a249/</link>
+				<pubDate>Thu, 29 Oct 2026 13:11:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-1449850-7aa1a249/</guid>
+				<description>游戏王 Master Duel 推送 v2.9.0 客户端更新：新增决斗动画演出，重做决斗界面与连锁、阶段等关键交互，并对各项功能的 UI/UX 全面打磨，同时修复若干已知问题。本次不涉及卡池与禁限卡表调整，属于纯体验向补丁。本文梳理更新要点、更新后的上分注意事项与常见问题排查。</description>
+			</item>
+			<item>
+				<title>AION 2 新通行证「启程之翼」开卖：免费档可白嫖，高级档值不值？</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-3393110-f8b2a3a5/</link>
+				<pubDate>Thu, 29 Oct 2026 11:00:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-3393110-f8b2a3a5/</guid>
+				<description>AION 2 官方公布全新 Daeva Pass「启程之翼」通行证，10 月 28 日开卖，12 月 2 日维护前截止。免费基础档每个角色都能领，高级档售价 1000 Quna，附赠 20 张战斗强化卷轴。通行证最高 50 级，打怪、采集、制作、远征、强化装备都能攒经验，每周每角色上限 15000 经验，满级后还能继续刷重复奖励。这篇把经验效率、奖励构成和氪金性价比一次讲清楚。</description>
+			</item>
 			<item>
 				<title>《CRACK》v1.1.0更新：脚手架大改、四格背包与推车物理全面重做</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-4312190-22e20897/</link>
@@ -28,6 +63,13 @@
 				<description>《Probably Stolen》推送 1.0.0.2 热修：净水器逻辑重做更直观，Moisture Farm 从 650 降到 350、Water Filter 从 50 降到 25，杰克逊医生普通难度加价 25%→15%，Lou 探访期间免疫枪击，另修复打印机说明书、保存天数滑条、敲诈付款与中文市场委托界面等四处问题。</description>
 			</item>
 			<item>
+				<title>《Hand-me-downs》1.0延期：Steam技术问题卡更新，官方预计周五解决</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-3870620-99f38b1e/</link>
+				<pubDate>Thu, 29 Oct 2026 06:28:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-3870620-99f38b1e/</guid>
+				<description>独立游戏《Hand-me-downs》官方发布公告称，由于Steam后台出现技术问题，开发组暂时被锁定、无法推送新版本，原定上线的1.0正式版因此被迫延期。官方强调所有内容均已准备就绪，目前只能等待Steam Support团队处理，最迟预计本周五解决；问题解除后将立刻推送更新并启动1.0。这次跳票并非内容未完成，而是平台侧权限卡壳，玩家可留意后续进展并耐心等待。</description>
+			</item>
+			<item>
 				<title>CS2更新实测：静默换弹可改开关模式，假换弹节奏被彻底重写</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</link>
 				<pubDate>Thu, 29 Oct 2026 05:48:09 +0800</pubDate>
@@ -40,6 +82,13 @@
 				<pubDate>Thu, 29 Oct 2026 04:47:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-3583270-7274d16a/</guid>
 				<description>海洋科学非营利团队 Lionfish Central 打造的潜水模拟《Shipwreck Discovery》今日结束抢先体验，1.0 正式版上线。本次更新加入 SS United States 沉船推进器竞速、博物馆式潜水「Her Last Voyage」、每关 70~100 条狮子鱼的硬核清剿、追踪器升级、动物解救与藏宝图等新玩法，珊瑚礁还会实时生长。首发 14 天 40% 折扣，部分收入用于支持海洋保护。</description>
+			</item>
+			<item>
+				<title>摔角大亨0.16.0更新：连拍录制与售罄徽章，运营更省心</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5039120-8bde9968/</link>
+				<pubDate>Thu, 29 Oct 2026 04:17:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5039120-8bde9968/</guid>
+				<description>《Pro Wrestling Tycoon》0.16.0版本正式上线：电视节目支持连拍录制，最多一次排四期，场地与差旅只付一次；售罄徽章和手册搜索让经营更顺手。本文拆解连拍的经济账、收视衰减与选手疲劳，附上实操建议和常见问题，帮各位摔角老板少走弯路。</description>
 			</item>
 			<item>
 				<title>VRChat 2026.4.1 更新：安全中心与面部追踪升级，非网络兼容注意</title>
