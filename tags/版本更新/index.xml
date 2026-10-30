@@ -21,6 +21,13 @@
 				<description>Kipple 推送小型更新，改善点恰好落在玩家每天都要碰的地方：整体菜单导航逻辑被重新梳理，层级切换与焦点高亮更顺手，同时补上了一批与 UI 缩放相关的无障碍选项。高分辨率屏、小尺寸笔记本和 Steam Deck 掌机玩家终于不必再眯着眼辨认按钮。本次补丁属于界面与无障碍层面的打磨，不涉及玩法数值调整，Steam 自动更新即可完成。</description>
 			</item>
 			<item>
+				<title>SEAMARK 更新速报：Steam 审核未过发售延期，海战手感与新手引导全面翻新</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5397990-ad3059be/</link>
+				<pubDate>Fri, 30 Oct 2026 11:19:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5397990-ad3059be/</guid>
+				<description>UREMORU 放出 SEAMARK 最新开发通报：由于 Steam 对完整版本的审核尚未走完，正式发售档期存在变数。本次更新同步落地一大批体验优化——首次航行引导与港口教学补强、自由航行开局发放 40000 金币且完成准备任务再奖 90000 金币、角色跑步动画上线、海战机动性与交战距离调整、航行与城镇界面新增暂停键，音乐系统还拆出 Modern、Fantasy、Custom 三套主题。</description>
+			</item>
+			<item>
 				<title>《杀戮尖塔2》11月12日大更新：新内容进测试分支</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-2868840-1529381d/</link>
 				<pubDate>Fri, 30 Oct 2026 09:24:58 +0800</pubDate>
@@ -397,6 +404,13 @@
 				<pubDate>Wed, 28 Oct 2026 14:43:27 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-3393110-693d0579/</guid>
 				<description>《AION 2》10月27日（PDT）/28日（CET）补丁：远征与超越Boss降伤，普通一阶段Boss攻击降15%，硬核2-4阶段攻击与伤害增幅各降10%，超越1-2阶段Boss血量降6.5%。新增乌古古峡谷与瓦克伦天空岛硬核模式，入场装等2700、限3次复活；奖励、成就外观与45级职业基础生命同步上调。</description>
+			</item>
+			<item>
+				<title>《Cinderwake》世界大翻新：真实地表、活火与风吹草动，10月30日EA开启</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-5404010-f8b5a889/</link>
+				<pubDate>Wed, 28 Oct 2026 14:38:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-5404010-f8b5a889/</guid>
+				<description>距离10月30日抢先体验只剩最后几天，《Cinderwake》把整个世界重新刷了一遍漆：地面有了碎石、枯枝与裂纹，石板墙有了能反光的浮雕，每个地区换上专属地表；火把篝火变成真实火焰，爆炸带烟、热浪扭曲空气；草丛随风摆动、被踩后留下压痕，荒原飘低雾、沼泽落雷。此外敏捷现在会加快武器攻速，宠物支持Ctrl+右键单件投喂，加载界面也换上了地域插画与故事。</description>
 			</item>
 			<item>
 				<title>Scam With Your Friends 0.1.95语音通话大修</title>
