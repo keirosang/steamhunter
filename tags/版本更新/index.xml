@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 09:24:58 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 12:21:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kipple 小型更新上线：菜单导航重做，UI 缩放无障碍选项补齐</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3120010-0bcfc6ad/</link>
+				<pubDate>Fri, 30 Oct 2026 12:21:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3120010-0bcfc6ad/</guid>
+				<description>Kipple 推送小型更新，改善点恰好落在玩家每天都要碰的地方：整体菜单导航逻辑被重新梳理，层级切换与焦点高亮更顺手，同时补上了一批与 UI 缩放相关的无障碍选项。高分辨率屏、小尺寸笔记本和 Steam Deck 掌机玩家终于不必再眯着眼辨认按钮。本次补丁属于界面与无障碍层面的打磨，不涉及玩法数值调整，Steam 自动更新即可完成。</description>
+			</item>
 			<item>
 				<title>《杀戮尖塔2》11月12日大更新：新内容进测试分支</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-2868840-1529381d/</link>
@@ -33,6 +40,13 @@
 				<pubDate>Fri, 30 Oct 2026 09:00:02 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-4435490-29cf0e3d/</guid>
 				<description>《使命召唤：现代战争4》万圣节限时模式 Possession 正式上线，被击杀后可“夺舍”凶手、传送至其最后位置并接管整套装备。由于玩法与画面表现偏离系列一贯的阴郁写实基调，Infinity Ward 破天荒在匹配列表中加上“Non-MilSim Content”非军事模拟内容提示，玩家搜局前即可看到。这条标签背后，是写实派与整活派多年拉锯的又一次正面交锋。</description>
+			</item>
+			<item>
+				<title>CRACK v1.1.8更新：布娃娃回归、蛇成就减负与FOV修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4312190-0938262b/</link>
+				<pubDate>Fri, 30 Oct 2026 06:05:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4312190-0938262b/</guid>
+				<description>CRACK 正式推送 v1.1.8 小型修复补丁：高处长坠落重新触发布娃娃，但普通跳跃和矮落差不再误伤；电脑终端与街机柜在任意 FOV 下都能完整入镜；蛇成就条件从铺满全盘改为占据半盘，难度骤降。本文从实战角度拆解改动影响，并附上入库、设置与成就速刷建议，帮你快速跟上版本。</description>
 			</item>
 			<item>
 				<title>Checkmage! 1.0.2 更新：平局、BGM与像素缩放修复</title>

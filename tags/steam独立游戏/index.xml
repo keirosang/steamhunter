@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Steam独立游戏 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/steam%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
+		<description>Recent content in Steam独立游戏 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 12:21:18 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/steam%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kipple 小型更新上线：菜单导航重做，UI 缩放无障碍选项补齐</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3120010-0bcfc6ad/</link>
+				<pubDate>Fri, 30 Oct 2026 12:21:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3120010-0bcfc6ad/</guid>
+				<description>Kipple 推送小型更新，改善点恰好落在玩家每天都要碰的地方：整体菜单导航逻辑被重新梳理，层级切换与焦点高亮更顺手，同时补上了一批与 UI 缩放相关的无障碍选项。高分辨率屏、小尺寸笔记本和 Steam Deck 掌机玩家终于不必再眯着眼辨认按钮。本次补丁属于界面与无障碍层面的打磨，不涉及玩法数值调整，Steam 自动更新即可完成。</description>
+			</item>
+	</channel>
+</rss>
