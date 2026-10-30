@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>坦克平衡 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%9D%A6%E5%85%8B%E5%B9%B3%E8%A1%A1/</link>
+		<description>Recent content in 坦克平衡 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 17:30:14 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%9D%A6%E5%85%8B%E5%B9%B3%E8%A1%A1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆坦克机动大改：双差速转向进测试，M1A1转弯半径随档位变</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-236390-c053270c/</link>
+				<pubDate>Fri, 30 Oct 2026 17:30:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-236390-c053270c/</guid>
+				<description>战争雷霆官方公布坦克机动机制新动向：开发服务器将测试双差速、双传动与行星齿轮转向，履带车原地转向和转弯半径会随档位变化，M1A1等车型手感面临重调；双差速车辆低速档转弯更紧凑、高速档半径放大，部分车型原地转向时间可能增加。部分发动机改进计划随Eagle’s Shadow大版本上线，本文梳理机制差异、测试车影响与实战避坑建议。</description>
+			</item>
+	</channel>
+</rss>

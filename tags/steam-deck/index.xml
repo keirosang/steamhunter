@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 01:00:34 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 17:24:13 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Wickshore》V1.0.14性能优化更新详解：Steam Deck手柄适配、界面本地化与46项成就上线，玩家必看</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5379290-482bf12e/</link>
+				<pubDate>Fri, 30 Oct 2026 17:24:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5379290-482bf12e/</guid>
+				<description>《Wickshore》现已推送 V1.0.14 性能优化更新，本次重点降低敌人、士兵与 warden 的目标选择计算开销，减少场景光照刷新，并缓存 HUD 文本以减轻每帧负担。波次面板改用本地化后的 Wave、Dawn、Ward 等词条，暂停菜单新增控制页面，补齐屏幕瞄准标记、手柄专属教程提示，并在手柄激活时隐藏法杖光标，Steam Deck 玩家可直接受益。此外，游戏上线 46 项带图标成就，提供 13 种语言的名称与描述。</description>
+			</item>
 			<item>
 				<title>《Dead Party》正式发售：四人联机守山丘，吉他音波狂扫僵尸潮</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-1270660-14257fe9/</link>
