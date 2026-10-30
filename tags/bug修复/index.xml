@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 23:52:57 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 04:17:12 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CRACK v1.1.12更新：新挎包扩容快捷栏，多项Bug修复实装</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4312190-64f9b26d/</link>
+				<pubDate>Sat, 31 Oct 2026 04:17:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4312190-64f9b26d/</guid>
+				<description>CRACK 推送 v1.1.12 更新，商店新增扩容挎包 Satchel，新档初始 2 个快捷栏，每穿戴一个挎包增加 1 格，上限 4 格，已有 4 格老存档不受影响。使用电脑、街机柜或推车时不再丢下手持物；同时修复存档槽菜单异常、Mattock 耐久误扣、掉落资源卡位与班次结算音效偏吵等问题。整体偏向体验优化与稳定性补强。</description>
+			</item>
 			<item>
 				<title>《伊莫》1.1.385补丁上线：霸体BOSS与30余项卡关BUG全修</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-4126040-d2af8c3f/</link>

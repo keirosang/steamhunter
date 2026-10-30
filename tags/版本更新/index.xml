@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 01:58:40 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 04:17:12 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CRACK v1.1.12更新：新挎包扩容快捷栏，多项Bug修复实装</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4312190-64f9b26d/</link>
+				<pubDate>Sat, 31 Oct 2026 04:17:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4312190-64f9b26d/</guid>
+				<description>CRACK 推送 v1.1.12 更新，商店新增扩容挎包 Satchel，新档初始 2 个快捷栏，每穿戴一个挎包增加 1 格，上限 4 格，已有 4 格老存档不受影响。使用电脑、街机柜或推车时不再丢下手持物；同时修复存档槽菜单异常、Mattock 耐久误扣、掉落资源卡位与班次结算音效偏吵等问题。整体偏向体验优化与稳定性补强。</description>
+			</item>
+			<item>
+				<title>《Enarian: Orbital Command》v1.0 首发补丁：7 艘新舰船模型与打捞机制大调整</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5112040-be153006/</link>
+				<pubDate>Sat, 31 Oct 2026 02:09:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5112040-be153006/</guid>
+				<description>《Enarian: Orbital Command》正式版 v1.0 首发补丁落地，一口气带来 7 个舰船模型改动，其中高级战斗机与电磁炮突击护卫舰两艘全新船体登场；打捞掉率回归设计预期，僚机队长也能替玩家捡战利品。此外低信用点语音改为每局限一次、合同结算界面明示未拾取物资去向、4K 文本缩放与濒死舰船绿框误判等细节一并修复。</description>
+			</item>
 			<item>
 				<title>Primal Realms 首日大补丁深度解析：Elydria新大陆、无尽地牢与DLSS全都有</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5402200-1d480d52/</link>
@@ -68,6 +82,13 @@
 				<pubDate>Fri, 30 Oct 2026 17:24:13 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-5379290-482bf12e/</guid>
 				<description>《Wickshore》现已推送 V1.0.14 性能优化更新，本次重点降低敌人、士兵与 warden 的目标选择计算开销，减少场景光照刷新，并缓存 HUD 文本以减轻每帧负担。波次面板改用本地化后的 Wave、Dawn、Ward 等词条，暂停菜单新增控制页面，补齐屏幕瞄准标记、手柄专属教程提示，并在手柄激活时隐藏法杖光标，Steam Deck 玩家可直接受益。此外，游戏上线 46 项带图标成就，提供 13 种语言的名称与描述。</description>
+			</item>
+			<item>
+				<title>Project Exhibitionist v1.0.1：脱困与优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4688700-2b7143ea/</link>
+				<pubDate>Fri, 30 Oct 2026 15:44:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4688700-2b7143ea/</guid>
+				<description>《Project Exhibitionist》推送 v1.0.1 补丁：新增暂停菜单 Unstuck 脱困按钮，修复新开局卡 32% 加载、地铁门碰撞与交互异常；鼠标横纵反转可独立设置，角色预设支持编辑。同时降低启动与加载内存占用，优化衣柜与 Collection 预览加载，并修正超宽屏 UI、任务提示、音量通道等多项细节。</description>
 			</item>
 			<item>
 				<title>Kipple 小型更新上线：菜单导航重做，UI 缩放无障碍选项补齐</title>

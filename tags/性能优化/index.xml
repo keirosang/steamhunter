@@ -21,6 +21,13 @@
 				<description>《Wickshore》现已推送 V1.0.14 性能优化更新，本次重点降低敌人、士兵与 warden 的目标选择计算开销，减少场景光照刷新，并缓存 HUD 文本以减轻每帧负担。波次面板改用本地化后的 Wave、Dawn、Ward 等词条，暂停菜单新增控制页面，补齐屏幕瞄准标记、手柄专属教程提示，并在手柄激活时隐藏法杖光标，Steam Deck 玩家可直接受益。此外，游戏上线 46 项带图标成就，提供 13 种语言的名称与描述。</description>
 			</item>
 			<item>
+				<title>Project Exhibitionist v1.0.1：脱困与优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4688700-2b7143ea/</link>
+				<pubDate>Fri, 30 Oct 2026 15:44:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4688700-2b7143ea/</guid>
+				<description>《Project Exhibitionist》推送 v1.0.1 补丁：新增暂停菜单 Unstuck 脱困按钮，修复新开局卡 32% 加载、地铁门碰撞与交互异常；鼠标横纵反转可独立设置，角色预设支持编辑。同时降低启动与加载内存占用，优化衣柜与 Collection 预览加载，并修正超宽屏 UI、任务提示、音量通道等多项细节。</description>
+			</item>
+			<item>
 				<title>《Project Exhibitionist》首日杀入Steam畅销榜第11 官方公布崩溃修复与性能优化方案</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-4688700-0d4bcc99/</link>
 				<pubDate>Wed, 28 Oct 2026 19:03:59 +0800</pubDate>

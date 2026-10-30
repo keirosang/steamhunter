@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Exhibitionist v1.0.1：脱困与优化 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《Project Exhibitionist》推送 v1.0.1 补丁：新增暂停菜单 Unstuck 脱困按钮，修复新开局卡 32% 加载、地铁门碰撞与交互异常；鼠标横纵反转可独立设置，角色预设支持编辑。同时降低启动与加载内存占用，优化衣柜与 Collection 预览加载，并修正超宽屏 UI、任务提示、音量通道等多项细节。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Project Exhibitionist v1.0.1：脱困与优化">
+  <meta property="og:description" content="《Project Exhibitionist》推送 v1.0.1 补丁：新增暂停菜单 Unstuck 脱困按钮，修复新开局卡 32% 加载、地铁门碰撞与交互异常；鼠标横纵反转可独立设置，角色预设支持编辑。同时降低启动与加载内存占用，优化衣柜与 Collection 预览加载，并修正超宽屏 UI、任务提示、音量通道等多项细节。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-30-4688700-2b7143ea/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688700/header.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-30-4688700-2b7143ea/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Project Exhibitionist v1.0.1：脱 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Project Exhibitionist</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 4688700</span>
+      
+    </div>
+
+    <h1 class="article-title">Project Exhibitionist v1.0.1：脱困与优化</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-30T15:44:55&#43;08:00" class="meta-date">
+          📅 2026-10-30 15:44
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1619 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/4688700/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/4688700" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688700/header.jpg" alt="Project Exhibitionist v1.0.1：脱困与优化" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《Project Exhibitionist》推送 v1.0.1 补丁：新增暂停菜单 Unstuck 脱困按钮，修复新开局卡 32% 加载、地铁门碰撞与交互异常；鼠标横纵反转可独立设置，角色预设支持编辑。同时降低启动与加载内存占用，优化衣柜与 Collection 预览加载，并修正超宽屏 UI、任务提示、音量通道等多项细节。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="project-exhibitionist-v101-更新速报脱困按钮上线内存占用再瘦身">Project Exhibitionist v1.0.1 更新速报：脱困按钮上线，内存占用再瘦身</h1>
+<blockquote>
+<p>主理人碎碎念：这次补丁没有花里胡哨的大饼，全是“救命”和“顺手”的硬活儿。对一款还在持续打磨的作品来说，能把卡加载、穿模、超宽屏 UI 这些磨人的小妖精按在地上摩擦，比什么都实在。</p>
+</blockquote>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>新增“Unstuck”脱困按钮</strong>：暂停菜单一键把角色从卡墙、掉图里捞出来；但在家、监狱和加载过程中不可用。</li>
+<li><strong>鼠标反转拆成横纵两项</strong>：终于可以只反 Y 轴，不用连 X 轴一起遭殃。</li>
+<li><strong>角色预设可编辑</strong>：自定义角色栏新增铅笔图标的 Edit 按钮，捏脸党狂喜。</li>
+<li><strong>补上特定模式下的走路/跑步脚步声</strong>：不再“静音滑步”。</li>
+<li><strong>修复新开局卡 32% 加载</strong>：这个最要命，先更先享受。</li>
+<li><strong>内存占用下降</strong>：启动与加载阶段减负，低内存机器少一点闪退焦虑。</li>
+<li><strong>超宽屏/高分辨率 UI 修复</strong>：32:9 下角色预览不再挡按钮，1080p 以上动作轮盘也能正常点选。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-卡加载与掉图这次真给了一颗后悔药">1. 卡加载与掉图：这次真给了一颗后悔药</h3>
+<p>新版本重点修了“新开局卡在 32%”的加载问题，同时给暂停菜单加了 <strong>Unstuck</strong> 按钮。以后不小心卡进地铁维护门、掉出地图，或者被场景几何体“抱住”，不用再含泪重开。注意：在家、监狱和加载过程中这个按钮不可用，别在安全区里疯狂点它。</p>
+<h3 id="2-显示适配超宽屏玩家终于被看见">2. 显示适配：超宽屏玩家终于被看见</h3>
+<p>32:9 显示器上角色预览挡菜单按钮、1080p 以上动作/表情/姿势轮盘选不中，这些“高分辨率专属 Bug”都修了。再加上小地图拖拽与标记放置修复，带鱼屏玩家这次可以少摔一次鼠标。</p>
+<h3 id="3-内存与加载优化低配机的续命包">3. 内存与加载优化：低配机的续命包</h3>
+<p>官方把启动和加载阶段的内存占用压了一截，衣柜与 Collection 预览加载也做了优化，城市流式加载的任务分配更均匀。虽然不能说“老爷机瞬间满血”，但至少读图时后台挂个浏览器、语音软件，压力会小一些。</p>
+<h3 id="4-一堆小但烦人的修复">4. 一堆“小但烦人”的修复</h3>
+<p>地铁维护门补碰撞、地铁未发车时再次上车的行为修正、住宅区隐形垃圾桶、地图打开时无限冲刺体力、扭蛋/照相亭被抓时的镜头与操作异常、Stimulation 任务需求描述缺失、段位要求距离四舍五入误导、物品拖拽加右键产生重复图标、Collection 车辆使用计数、小地图与脚步音走错音量通道、特定角色肤色与 Ciel 肤色不匹配、服装动作与 Hide &amp; Flash 道具之间的姿势过渡、奶牛配饰的可用性与保存、设置滑块重开后显示错误数值……看得出来，制作组在认真扫屋角。</p>
+<h3 id="5-多语言与美术小更新">5. 多语言与美术小更新</h3>
+<p>12 种支持语言的文本同步更新，领口 ID 照片会匹配当前 Ciel 预设，人体彩绘笔图标、保龄球馆招牌和商场海报也换了新装。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>先更新再进游戏</strong>：Steam 库中右键游戏 → 属性 → 已安装文件 → 验证游戏文件完整性，能解决大部分更新后的玄学问题。</li>
+<li><strong>低内存机器</strong>：进游戏前关掉多余后台；Windows 虚拟内存别关；画质预设先稳一手，等官方后续性能补丁再拉满。</li>
+<li><strong>超宽屏玩家</strong>：更新后先检查 UI 缩放与轮盘点击区域，如果还有遮挡，截图带分辨率反馈给官方。</li>
+<li><strong>遇到卡死</strong>：优先按 Esc 找 <strong>Unstuck</strong>；如果按钮不可用，再读最近存档，别硬钻地图缝隙。</li>
+<li><strong>反馈 Bug 的正确姿势</strong>：附上 PC 配置、系统版本、复现步骤和截图/录像，官方 Discord 有专门板块，信息越全修得越快。</li>
+<li><strong>购买建议</strong>：本作定位成人向，题材与内容接受度请先自行确认；本次是免费补丁，已入库玩家直接更新即可，无需额外购买 DLC。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间蹲到 Steam 限免、史低、临时工价和更新推送？加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，秒级提醒不迷路，喜加一和背刺信息都能及时收到。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：更新后我的存档会没吗？</strong></p>
+<p>A：正常更新不会主动清存档，但大版本前后建议手动备份存档文件夹。若遇到读档异常，先验证游戏文件完整性，再查看是否有云同步冲突。</p>
+<p><strong>Q2：Unstuck 按钮为什么是灰的/点不了？</strong></p>
+<p>A：官方设定在家、监狱以及加载过程中不可用，这是为了防止在安全区域或读图阶段误触。只有正常探索场景卡住时才建议使用。</p>
+<p><strong>Q3：低配电脑这次优化明显吗？</strong></p>
+<p>A：启动与加载内存占用确实下降了，但性能优化是长期工程。建议先关后台、保留虚拟内存，并用最低/中画质测试；如果仍闪退，把配置和日志反馈给官方。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Project%20Exhibitionist/" class="article-tag-item">#Project Exhibitionist</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96/" class="article-tag-item">#性能优化</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e8%a1%a5%e4%b8%81%e8%af%b4%e6%98%8e/" class="article-tag-item">#补丁说明</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-30-4688700-2b7143ea/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-30-4261080-f5d51d0a/" class="sibling-title">《Expedition of the Guild》正式发售：首发34%折扣，83名英雄组20人团本听你调遣</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-30-4915250-889179b5/" class="sibling-title">《Hatch&#39;n&#39;Wall》正式发售：岳父手作桌游改编，掷骰互坑开黑</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-卡加载与掉图这次真给了一颗后悔药">1. 卡加载与掉图：这次真给了一颗后悔药</a></li>
+        <li><a href="#2-显示适配超宽屏玩家终于被看见">2. 显示适配：超宽屏玩家终于被看见</a></li>
+        <li><a href="#3-内存与加载优化低配机的续命包">3. 内存与加载优化：低配机的续命包</a></li>
+        <li><a href="#4-一堆小但烦人的修复">4. 一堆“小但烦人”的修复</a></li>
+        <li><a href="#5-多语言与美术小更新">5. 多语言与美术小更新</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
