@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 18:48:44 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 01:58:40 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/dlss/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Primal Realms 首日大补丁深度解析：Elydria新大陆、无尽地牢与DLSS全都有</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5402200-1d480d52/</link>
+				<pubDate>Sat, 31 Oct 2026 01:58:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5402200-1d480d52/</guid>
+				<description>Primal Realms 上线首日就甩出重量级补丁：全新 Elydria 大陆带来 4 大生物群系岛屿、14 种矿石与海战玩法，Everfrost Spire 无尽随机地牢按玩家等级缩放，建造系统、UI 自定义与平衡性同步大改，还顺手塞进了 DLSS 和动态天气。本文逐条拆解改动要点、数值调整与开荒实操建议。</description>
+			</item>
 			<item>
 				<title>星战飞梭《STAR WARS: Galactic Racer》紧急热修：显卡驱动门槛提高与DLSS稳定性修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-08-4078430-c5ca7ef9/</link>

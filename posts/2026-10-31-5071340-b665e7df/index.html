@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>INCREMINER 1.1 首个补丁上线：CRT 滤镜可一键关闭，渲染异常问题修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="独立开发者单人自研引擎打造的《INCREMINER》迎来 1.1 首个正式补丁。本次更新针对玩家吐槽的 CRT 扫描线滤镜新增首次启动询问弹窗，不想看雪花屏的可以直接关掉；同时修复了此前导致部分玩家无法进入 Demo 的渲染异常问题。作者坦言，五台测试机都复现不出的玄学 Bug 确实难缠，并承诺若问题依旧可私信反馈日志，别急着退款给差评。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="INCREMINER 1.1 首个补丁上线：CRT 滤镜可一键关闭，渲染异常问题修复">
+  <meta property="og:description" content="独立开发者单人自研引擎打造的《INCREMINER》迎来 1.1 首个正式补丁。本次更新针对玩家吐槽的 CRT 扫描线滤镜新增首次启动询问弹窗，不想看雪花屏的可以直接关掉；同时修复了此前导致部分玩家无法进入 Demo 的渲染异常问题。作者坦言，五台测试机都复现不出的玄学 Bug 确实难缠，并承诺若问题依旧可私信反馈日志，别急着退款给差评。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-31-5071340-b665e7df/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/ea20f45ea993c41b.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-31-5071340-b665e7df/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">INCREMINER 1.1 首个补丁上线：CRT 滤镜可一 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 INCREMINER</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5071340</span>
+      
+    </div>
+
+    <h1 class="article-title">INCREMINER 1.1 首个补丁上线：CRT 滤镜可一键关闭，渲染异常问题修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-31T01:48:58&#43;08:00" class="meta-date">
+          📅 2026-10-31 01:48
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1908 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5071340/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5071340" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/ea20f45ea993c41b.jpg" alt="INCREMINER 1.1 首个补丁上线：CRT 滤镜可一键关闭，渲染异常问题修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>独立开发者单人自研引擎打造的《INCREMINER》迎来 1.1 首个正式补丁。本次更新针对玩家吐槽的 CRT 扫描线滤镜新增首次启动询问弹窗，不想看雪花屏的可以直接关掉；同时修复了此前导致部分玩家无法进入 Demo 的渲染异常问题。作者坦言，五台测试机都复现不出的玄学 Bug 确实难缠，并承诺若问题依旧可私信反馈日志，别急着退款给差评。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>《INCREMINER》这款由单人开发者、用自家引擎从零撸出来的挖矿小品，终于把 1.1 首个正式补丁推上了线。别看版本号只跳了一格，内容却是实打实照着玩家评论区一条条抠出来的：</p>
+<ul>
+<li><strong>CRT 滤镜不再强制喂给你</strong>：此前已有玩家抱怨那层复古扫描线看着头晕，其实设置菜单里本来就能关，但藏得有点深。本次补丁新增<strong>首次启动询问弹窗</strong>，一进游戏就问你「要不要关掉这个效果」，贴心程度直线上升。</li>
+<li><strong>渲染问题修复</strong>：早期有玩家反馈 Demo 根本进不去、画面出不来。作者表示该问题已于昨日修复，并在多台机器上反复验证过。</li>
+<li><strong>开发者态度拉满</strong>：如果你更新完还是进不去，作者明确喊话——留个评论，他会私聊你要日志，一起把问题解决掉，<strong>在你点退款或写差评之前</strong>。</li>
+<li><strong>无新增付费内容</strong>，纯修复向补丁，本体玩家直接更新即可。</li>
+</ul>
+<p>一句话总结：这不是那种「更新了但好像又没更新」的补丁，而是真刀真枪解决痛点的第一波售后服务。</p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="crt-滤镜从藏起来到主动问">CRT 滤镜：从「藏起来」到「主动问」</h3>
+<p>复古 CRT 扫描线这几年在独立游戏圈属于「爱它的人爱到骨子里，恨它的人看一眼就头晕」的典型设计。《INCREMINER》原本把开关放进了选项菜单，逻辑上没毛病，但玩家嘛——谁进游戏第一件事是翻设置？于是吐槽声如约而至。</p>
+<p>作者的应对很聪明：没有粗暴地砍掉滤镜，而是保留了这份复古味道，同时<strong>在首次启动时弹窗询问</strong>。喜欢像素雪花屏的老炮儿点「保留」，追求清晰度的点「关闭」，两边都不得罪。这种「默认尊重玩家选择」的处理方式，比硬塞审美要体面得多。</p>
+<h3 id="渲染异常五台机器测不出的玄学-bug">渲染异常：五台机器测不出的玄学 Bug</h3>
+<p>补丁说明里最真诚的一段，是作者自曝家底：这是他<strong>用自研引擎发布的第一款游戏</strong>，为了排查这个渲染问题，他在五套不同配置的测试机上跑过，愣是一次都没复现。</p>
+<p>懂行的朋友都知道，这类问题往往不是代码写错了，而是驱动版本、显卡型号、系统环境、运行库缺失等等一堆「无法穷举」的因素叠在一起才炸。作者自己也说了，可能是过时驱动，也可能是硬件配置，总之是那种「开发者电脑上永远岁月静好」的经典难题。</p>
+<p>值得点赞的是他的处理姿态：不甩锅、不装死，明确表示<strong>问题应该已修复，但世事无绝对</strong>，如果还炸，请留评论，他会私聊跟进日志。对一个单人项目来说，这份「售前售后一肩挑」的诚意，比任何营销文案都好使。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>1. 老玩家：直接更新，别无脑重开</strong></p>
+<p>Steam 库中右键游戏 → 属性 → 已安装文件 → 验证游戏文件完整性，确保补丁完整落地。纯修复型更新，通常不影响存档，但养成重要进度手动备份的习惯总没错。</p>
+<p><strong>2. 新玩家：首次启动别急着点「是」</strong></p>
+<p>弹窗问你关不关 CRT 滤镜时，建议先保留原味跑两分钟，觉得眼睛累了再回设置菜单关掉——反正开关是双向的，随时可逆。</p>
+<p><strong>3. 仍然黑屏、白屏、渲染异常的排查顺序</strong></p>
+<ul>
+<li>先更新显卡驱动到最新稳定版（别用 Beta）；</li>
+<li>确认系统已安装最新的 Visual C++ 运行库与 DirectX 组件；</li>
+<li>尝试以窗口化 / 无边框窗口模式启动；</li>
+<li>关闭后台的录屏、滤镜、超频工具再试一次；</li>
+<li>以上都无效，去商店页面或社区留评论，附上配置与日志，作者会私聊对接。</li>
+</ul>
+<p><strong>4. 关于「要不要现在入手」</strong></p>
+<p>这款游戏目前体量不大，属于典型的小而美独立挖矿体验。如果你对「单人自研引擎」这种硬核浪漫有滤镜加成，现在入手的性价比不错；如果你属于「必须零 Bug 才敢买」的谨慎派，不妨先加愿望单观望一两周，等修复反馈沉淀下来再决定。<strong>建议关注折扣动态，别急着原价冲。</strong></p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>独立游戏的第一手补丁、临时热修、限时免费与闪促，往往在 Steam 页面上慢半拍。想第一时间收到这类「秒级」推送，欢迎加入官方 Telegram 频道 <strong>@steamhunterlink</strong>——限免喜加一、史低背刺、临时工定价，一个不漏地怼到你手机上。挖矿要趁早，捡漏更要趁早。⛏️</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：CRT 滤镜到底在哪儿关？关掉还能再打开吗？</strong></p>
+<p>A：两个入口。第一，首次启动游戏时会弹出询问窗口，直接选关闭即可；第二，随时进入<strong>选项菜单</strong>手动切换开 / 关。这是双向开关，随时反悔，不会锁死。</p>
+<p><strong>Q2：更新到 1.1 之后，我的画面还是黑屏 / 渲染异常，怎么办？</strong></p>
+<p>A：先按上文顺序排查驱动、运行库与启动模式。如果依旧无效，请到 Steam 社区或商店页面留评论说明情况，作者会主动私聊联系你、索取日志协助定位。他明确表示希望大家<strong>在考虑退款或打差评之前</strong>先给他一次排查的机会。</p>
+<p><strong>Q3：这次 1.1 补丁有加新内容或 DLC 吗？会不会额外收费？</strong></p>
+<p>A：没有。1.1 是纯粹的<strong>修复与体验优化型补丁</strong>，不含新增玩法、关卡或付费内容，本体玩家免费更新，不存在二次收费。</p>
+<p><strong>Q4：为什么单人开发的游戏 Bug 这么难一次修好？</strong></p>
+<p>A：因为作者用的是自研引擎，且只有一个人在维护，测试环境再全面也覆盖不到所有玩家的驱动版本与硬件组合。这类问题往往需要靠玩家反馈日志才能精准定位——所以你的那条评论，可能真的比想象中更有价值。</p>
+<p>—— 保持耐心，继续挖矿。⛏️</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/INCREMINER/" class="article-tag-item">#INCREMINER</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e7%8b%ac%e7%ab%8b%e6%b8%b8%e6%88%8f/" class="article-tag-item">#独立游戏</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e6%b8%b2%e6%9f%93%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#渲染修复</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-31-5071340-b665e7df/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-31-5392600-cc66071f/" class="sibling-title">《SPECTR：重燃世界》今日发售：点击挂机养活整座山谷的放置新作</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-31-5402200-1d480d52/" class="sibling-title">Primal Realms 首日大补丁深度解析：Elydria新大陆、无尽地牢与DLSS全都有</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#crt-滤镜从藏起来到主动问">CRT 滤镜：从「藏起来」到「主动问」</a></li>
+        <li><a href="#渲染异常五台机器测不出的玄学-bug">渲染异常：五台机器测不出的玄学 Bug</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

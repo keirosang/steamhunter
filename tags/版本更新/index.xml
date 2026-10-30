@@ -10,15 +10,50 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 23:00:15 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 01:58:40 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Primal Realms 首日大补丁深度解析：Elydria新大陆、无尽地牢与DLSS全都有</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5402200-1d480d52/</link>
+				<pubDate>Sat, 31 Oct 2026 01:58:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5402200-1d480d52/</guid>
+				<description>Primal Realms 上线首日就甩出重量级补丁：全新 Elydria 大陆带来 4 大生物群系岛屿、14 种矿石与海战玩法，Everfrost Spire 无尽随机地牢按玩家等级缩放，建造系统、UI 自定义与平衡性同步大改，还顺手塞进了 DLSS 和动态天气。本文逐条拆解改动要点、数值调整与开荒实操建议。</description>
+			</item>
+			<item>
+				<title>INCREMINER 1.1 首个补丁上线：CRT 滤镜可一键关闭，渲染异常问题修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5071340-b665e7df/</link>
+				<pubDate>Sat, 31 Oct 2026 01:48:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5071340-b665e7df/</guid>
+				<description>独立开发者单人自研引擎打造的《INCREMINER》迎来 1.1 首个正式补丁。本次更新针对玩家吐槽的 CRT 扫描线滤镜新增首次启动询问弹窗，不想看雪花屏的可以直接关掉；同时修复了此前导致部分玩家无法进入 Demo 的渲染异常问题。作者坦言，五台测试机都复现不出的玄学 Bug 确实难缠，并承诺若问题依旧可私信反馈日志，别急着退款给差评。</description>
+			</item>
+			<item>
+				<title>《伊莫》1.1.385补丁上线：霸体BOSS与30余项卡关BUG全修</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4126040-d2af8c3f/</link>
+				<pubDate>Fri, 30 Oct 2026 23:52:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4126040-d2af8c3f/</guid>
+				<description>10 月 30 日《伊莫》推送 v1.1.3857679.0 热更新，30 余项修复直击痛点：Alpha 格琳瑟拉全程霸体、Irisalis 大招丢伤害两处 Boss 战严重问题被修复；糖果马丁尼公主可被击杀导致任务卡死、主线上游瀑布攀爬与神秘机关卡关同步解决。移动端树下宝箱、力量之岛湿地宝箱、生物形态不刷新、赛季成就无法完成、家园预设与作物时间等生活化问题也一并收尾。</description>
+			</item>
+			<item>
+				<title>战争雷霆Leopard 2A8登场：Trophy防护德瑞顶级新王</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-236390-d33f7293/</link>
+				<pubDate>Fri, 30 Oct 2026 23:34:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-236390-d33f7293/</guid>
+				<description>战争雷霆“Eagle’s Shadow”大版本迎来Leopard 2A8，德国与瑞典VIII级陆战新选择。它带Trophy主动防护系统、6发拦截弹、DM53 APFSDS、GEN3热成像和强化装甲，对直升机和地面ATGM更硬。本文梳理核心机制、开线配件顺序与实战避坑，帮你提前摸清这台欧洲顶级MBT的脾气。</description>
+			</item>
 			<item>
 				<title>战地风云6九月反作弊成绩单：43.9万次作弊被拦，MIR回落3.41%</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-2807960-16c5f740/</link>
 				<pubDate>Fri, 30 Oct 2026 23:00:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-2807960-16c5f740/</guid>
 				<description>《战地风云6》官方公布九月反作弊数据：MIR 从 8 月底的 3.24% 升到季初 3.51%，月末收于 3.41%，9 月 2 日最高 3.64%、9 月 10 日最低 3.27%；EA Javelin 在作弊生效前拦下 439,945 次尝试，追踪的 111 个作弊渠道中已有 107 个出现失效、停服或下线，占比 96.39%。</description>
+			</item>
+			<item>
+				<title>Moon Sweepers 60万玩家达成，1.1大版本12月上线，工厂产线全面扩容</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5335510-58ee13ca/</link>
+				<pubDate>Fri, 30 Oct 2026 22:00:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5335510-58ee13ca/</guid>
+				<description>上线仅一周，《Moon Sweepers》就拿下了 60 万玩家与 7 万同时在线峰值。官方确认 1.1 大版本将于 12 月上线：新增生产机器与生产链、新材料与产品、更多工具升级、更强的自动化与建筑选项，并针对大型基地做性能优化。而把月球擦干净之后的故事，官方暗示也才只是开始。</description>
 			</item>
 			<item>
 				<title>《Boarding House: Night Shift》10月30日贴图更新：夜班公寓细节翻新，恐怖氛围再升级</title>

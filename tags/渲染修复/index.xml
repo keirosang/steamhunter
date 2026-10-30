@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>渲染修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%B8%B2%E6%9F%93%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 渲染修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 01:48:58 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%B8%B2%E6%9F%93%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>INCREMINER 1.1 首个补丁上线：CRT 滤镜可一键关闭，渲染异常问题修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5071340-b665e7df/</link>
+				<pubDate>Sat, 31 Oct 2026 01:48:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5071340-b665e7df/</guid>
+				<description>独立开发者单人自研引擎打造的《INCREMINER》迎来 1.1 首个正式补丁。本次更新针对玩家吐槽的 CRT 扫描线滤镜新增首次启动询问弹窗，不想看雪花屏的可以直接关掉；同时修复了此前导致部分玩家无法进入 Demo 的渲染异常问题。作者坦言，五台测试机都复现不出的玄学 Bug 确实难缠，并承诺若问题依旧可私信反馈日志，别急着退款给差评。</description>
+			</item>
+	</channel>
+</rss>
