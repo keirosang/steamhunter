@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>开发者公告 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%85%AC%E5%91%8A/</link>
+		<description>Recent content in 开发者公告 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 06:12:07 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%85%AC%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Crosstalk遭机器人刷评，开发者退出Steam转投GitHub</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4898790-48c7ca57/</link>
+				<pubDate>Fri, 30 Oct 2026 06:12:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4898790-48c7ca57/</guid>
+				<description>上线仅一周，独立游戏《Crosstalk》就因免费领取机制被机器人账号盯上：大量小号刷好评、刷社区奖励，甚至让独狼开发者背上“买评”质疑。举报 Valve 无果后，作者决定先触发正式版，再申请下架 Steam 商店页，后续转投 GitHub 与 Discord 继续开发。本文梳理事件始末，并给出领取入库与后续关注建议。</description>
+			</item>
+	</channel>
+</rss>

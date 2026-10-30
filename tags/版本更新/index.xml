@@ -378,6 +378,13 @@
 				<description>砍树爽游 BUBBA CHOP GROVE 推送 1.0.0.11 补丁，本次重点修复了后期几乎绝迹的蘑菇环刷新逻辑，仙女环探测器与相关委托终于重新有活干；成就「Sweeping Success」判定放宽，小队骑士全员计入，「Swipe and Stride」需求从 1000 次砍到 100 次。此外重置存档、自动补种进度条、传奇树血量显示、教学指引手等一堆老毛病也一并收拾干净，老存档照旧继承。</description>
 			</item>
 			<item>
+				<title>Crosstalk合并窗口开启：0.1分支抢先体验，0.2主线即将更新</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4898790-f1c1f4b0/</link>
+				<pubDate>Wed, 28 Oct 2026 09:20:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4898790-f1c1f4b0/</guid>
+				<description>Crosstalk 制作组正式打开首个合并窗口，Steam 0.1-mergewindow 测试分支现已开放订阅。想第一时间尝鲜的玩家可以手动切换分支，提前体验最新改动；追求稳定的玩家则建议留在主线，等待 0.2 版本合入。本文把分支切换方法、尝鲜风险、反馈渠道和观望建议一次讲清，帮你决定现在上车还是继续蹲主线。</description>
+			</item>
+			<item>
 				<title>Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-28-5061100-e078124d/</link>
 				<pubDate>Wed, 28 Oct 2026 09:01:38 +0800</pubDate>

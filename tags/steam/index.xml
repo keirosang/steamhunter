@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 02:00:03 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 30 Oct 2026 06:12:07 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Crosstalk遭机器人刷评，开发者退出Steam转投GitHub</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4898790-48c7ca57/</link>
+				<pubDate>Fri, 30 Oct 2026 06:12:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4898790-48c7ca57/</guid>
+				<description>上线仅一周，独立游戏《Crosstalk》就因免费领取机制被机器人账号盯上：大量小号刷好评、刷社区奖励，甚至让独狼开发者背上“买评”质疑。举报 Valve 无果后，作者决定先触发正式版，再申请下架 Steam 商店页，后续转投 GitHub 与 Discord 继续开发。本文梳理事件始末，并给出领取入库与后续关注建议。</description>
+			</item>
+			<item>
+				<title>《足球经理27》免费试玩5天！全模式&#43;生涯继承，预购还享9折</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4530370-2500bd43/</link>
+				<pubDate>Fri, 30 Oct 2026 02:28:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4530370-2500bd43/</guid>
+				<description>足球经理27 Launch Preview 现已在 Steam、Epic、微软商店及 Game Pass 免费开放，持续到 11 月 3 日 18:00 GMT（北京时间 11 月 4 日凌晨 2 点）。无需额外注册，下载即玩，包含 Shuffle Draft 在内的全部模式。试玩生涯可无缝继承到预购版和正式版。预购享 10% 折扣，11 月 10 日正式上线。想白嫖五天再决定是否入手的经理们，抓紧时间。</description>
+			</item>
 			<item>
 				<title>Steam喜加一：《Hexologic》限时免费入库，原价22元永久保留别错过</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-785890-ffa8d036/</link>
@@ -355,6 +369,13 @@
 				<pubDate>Wed, 28 Oct 2026 10:00:32 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-28-1172470-72c4f4b8/</guid>
 				<description>10月26日《Apex英雄》推送小型热修，官方确认移除了部分玩家在排位赛中不支付入场费即可参赛的漏洞。别小看这一行更新，它直接关系到排位门票经济、匹配公平和赛季末冲分环境。我会拆解这次修复的实际影响、普通玩家更新后要注意什么，以及排位开黑避坑建议，帮你别在版本切换期白丢分。</description>
+			</item>
+			<item>
+				<title>Crosstalk合并窗口开启：0.1分支抢先体验，0.2主线即将更新</title>
+				<link>https://info.steamhunter.link/posts/2026-10-28-4898790-f1c1f4b0/</link>
+				<pubDate>Wed, 28 Oct 2026 09:20:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-28-4898790-f1c1f4b0/</guid>
+				<description>Crosstalk 制作组正式打开首个合并窗口，Steam 0.1-mergewindow 测试分支现已开放订阅。想第一时间尝鲜的玩家可以手动切换分支，提前体验最新改动；追求稳定的玩家则建议留在主线，等待 0.2 版本合入。本文把分支切换方法、尝鲜风险、反馈渠道和观望建议一次讲清，帮你决定现在上车还是继续蹲主线。</description>
 			</item>
 			<item>
 				<title>Smiley Steel 1.1.0 修复补丁上线：重复惊吓、主菜单卡死与光照错乱一并修复</title>
