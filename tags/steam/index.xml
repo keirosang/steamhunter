@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 16:26:35 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 01:22:37 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Librarian Together: Manga Tidy Up》正式登陆 Steam，双人合作整理漫画书店的治愈新游开卖</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5399880-48c6ba54/</link>
+				<pubDate>Sun, 01 Nov 2026 01:22:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5399880-48c6ba54/</guid>
+				<description>主打合作整理的治愈系新游《Librarian Together: Manga Tidy Up》已正式登陆 Steam 开卖，开发组同步发布上线公告，感谢玩家一路陪伴并公开征集反馈。本文梳理本次上线的核心信息、玩法定位与联机开黑要点，附入库方法、上手建议与高频问题答疑，帮你在第一时间判断这款“精神按摩型”小游戏值不值得拉上搭子一起入坑。</description>
+			</item>
+			<item>
+				<title>《Usurper》更新实测：光标三档放大，飞镖机动叠加让冲撞流质变</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</link>
+				<pubDate>Sun, 01 Nov 2026 00:43:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</guid>
+				<description>《Usurper》发布新一轮官方更新：战斗中容易糊成一团的光标终于做了颜色与描边强化，并新增 100%/125%/150% 三档尺寸；受控 Dart 的机动加成改为可叠加，控得越多船越灵活；Rammer 冲撞形态的碰撞伤害改随当前移动速度缩放，速度越快撞得越狠；Carrier 系科技 Alloy 花费下调，前期攀科技更轻松。整体利好机动流与冲撞流。</description>
+			</item>
+			<item>
+				<title>Baller Spiel开发者开黑夜：官方服人类抱团硬刚机器人军团，凌晨三点见</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3235390-b8808230/</link>
+				<pubDate>Sat, 31 Oct 2026 22:22:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3235390-b8808230/</guid>
+				<description>Luckywood Studios 今晚 20:00 CET 在官方服务器开黑打 Ballerball：全体真人同队，对面机器人数量随人数同步膨胀，一局只要 10 分钟。本文整理了服务器名称、时区换算、进服流程与开黑避坑要点，想跟开发者同场踢球的别错过这波。</description>
+			</item>
+			<item>
+				<title>ODD ODDS紧急热修：角色缺失二次修复，存档与对局这次稳了吗？</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5159930-482ec37a/</link>
+				<pubDate>Sat, 31 Oct 2026 22:19:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5159930-482ec37a/</guid>
+				<description>ODD ODDS 官方发布热修复，针对角色缺失问题再次处理，公告仅以“refixed sorry”简短致歉。此次更新规模不大，却直接关系到角色显示、存档安全与对局体验。本文梳理更新看点、可能影响、验证文件与备份存档等实操建议，并附常见问题，帮你在第一时间确认修复是否生效。</description>
+			</item>
+			<item>
+				<title>《ODD ODDS》热修补丁实装：缺失角色与文本补齐，细节体验再打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5159930-767800ee/</link>
+				<pubDate>Sat, 31 Oct 2026 22:09:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5159930-767800ee/</guid>
+				<description>《ODD ODDS》推送小型热修复，官方用一句话说明补齐了部分缺失的角色与字符。别小看这条短得像便签的更新日志：漏字、空白对话框、该出场却没出场的角色，恰恰是独立游戏里最伤沉浸感的小毛病。本文梳理补丁看点、更新方式与避坑建议，并附上高频问题解答，帮你把这次更新彻底吃透。</description>
+			</item>
 			<item>
 				<title>《WithoutEyes Chapter1》10月31日补丁：缺陷修复与稳定性观察</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-a64910c5/</link>
@@ -292,6 +327,13 @@
 				<pubDate>Thu, 29 Oct 2026 23:00:10 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-3026450-fe07a337/</guid>
 				<description>Steam 特惠进行中，《Deadly Days: Roadtrip》打出 -35% 折扣：原价 14.99 欧元，现价 9.74 欧元，限时活动支持永久入库。丧尸末日公路求生搭配随机路线与资源管理，喜欢肉鸽生存的玩家可以趁史低上车；国区价格与截止时间以 Steam 页面为准，别错过这波。</description>
+			</item>
+			<item>
+				<title>人类一败涂地万圣节装扮派对：四款免费新皮肤上线，大脚怪外星人巫师蛇头全都有</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-477160-c0c5d5ae/</link>
+				<pubDate>Thu, 29 Oct 2026 23:00:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-477160-c0c5d5ae/</guid>
+				<description>《人类一败涂地》官方推出万圣节“装扮派对”更新，一次上线大脚怪、外星人、巫师、蛇头四款免费皮肤，所有玩家均可直接领取使用。本次更新主打搞怪联机氛围，无需额外付费，搭配好友开黑更能制造混乱笑料。本文整理皮肤内容看点、领取与换装方法、联机避坑建议及常见问题。</description>
 			</item>
 			<item>
 				<title>Steam喜加一：《Hexologic》六边形数独限时免费，永久入库</title>

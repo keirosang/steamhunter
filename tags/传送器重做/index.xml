@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>传送器重做 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E4%BC%A0%E9%80%81%E5%99%A8%E9%87%8D%E5%81%9A/</link>
+		<description>Recent content in 传送器重做 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 08:46:36 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E4%BC%A0%E9%80%81%E5%99%A8%E9%87%8D%E5%81%9A/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《无名勇者见闻录》10月大更新：传送器重做、战斗反馈与性能优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-2157490-6300125c/</link>
+				<pubDate>Sat, 31 Oct 2026 08:46:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-2157490-6300125c/</guid>
+				<description>《无名勇者见闻录》在10月31日带来一轮内容量不小的更新：传送器改为消耗传送票，设置菜单拆分为显示、画质与控制三大页，战斗受击反馈、NPC行为、天气表现与抓钩落地手感同步调整，还针对大规模NPC寻路和远景树木LOD做了性能优化，并修复了传送器、武器耐久、月底睡眠与本地化文本等问题。</description>
+			</item>
+	</channel>
+</rss>

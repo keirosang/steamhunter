@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 07:49:36 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 20:17:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%A1%A5%E4%B8%81%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>WithoutEyes Chapter1补丁修复缺陷，第一章体验再打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-10618820/</link>
+				<pubDate>Sat, 31 Oct 2026 20:17:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-10618820/</guid>
+				<description>2026年10月31日，WithoutEyes Chapter1推送维护性补丁，官方说明很克制：修复若干缺陷。别看字少，这类更新往往直接影响第一章的流程稳定性与交互体验。本期我按更新资讯视角拆解补丁价值、更新方法与避坑建议，并提醒各位先备份存档、再验证文件完整性。是否值得现在回坑？一句话：小补丁也值得更新，但别期待新内容。</description>
+			</item>
 			<item>
 				<title>《Timeless Rain》1.4补丁：死亡回菜单与制图师对话修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-2401350-32325d31/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 17:24:13 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 08:46:36 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《无名勇者见闻录》10月大更新：传送器重做、战斗反馈与性能优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-2157490-6300125c/</link>
+				<pubDate>Sat, 31 Oct 2026 08:46:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-2157490-6300125c/</guid>
+				<description>《无名勇者见闻录》在10月31日带来一轮内容量不小的更新：传送器改为消耗传送票，设置菜单拆分为显示、画质与控制三大页，战斗受击反馈、NPC行为、天气表现与抓钩落地手感同步调整，还针对大规模NPC寻路和远景树木LOD做了性能优化，并修复了传送器、武器耐久、月底睡眠与本地化文本等问题。</description>
+			</item>
 			<item>
 				<title>《Wickshore》V1.0.14性能优化更新详解：Steam Deck手柄适配、界面本地化与46项成就上线，玩家必看</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-5379290-482bf12e/</link>

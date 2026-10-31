@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 04:29:39 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 00:43:08 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Usurper》更新实测：光标三档放大，飞镖机动叠加让冲撞流质变</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</link>
+				<pubDate>Sun, 01 Nov 2026 00:43:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</guid>
+				<description>《Usurper》发布新一轮官方更新：战斗中容易糊成一团的光标终于做了颜色与描边强化，并新增 100%/125%/150% 三档尺寸；受控 Dart 的机动加成改为可叠加，控得越多船越灵活；Rammer 冲撞形态的碰撞伤害改随当前移动速度缩放，速度越快撞得越狠；Carrier 系科技 Alloy 花费下调，前期攀科技更轻松。整体利好机动流与冲撞流。</description>
+			</item>
 			<item>
 				<title>TF2 官方更新实装：万圣节地图修漏洞，僵尸感染模式全线数值回调</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</link>

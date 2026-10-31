@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Usurper on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/usurper/</link>
+		<description>Recent content in Usurper on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 00:43:08 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/usurper/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Usurper》更新实测：光标三档放大，飞镖机动叠加让冲撞流质变</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</link>
+				<pubDate>Sun, 01 Nov 2026 00:43:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</guid>
+				<description>《Usurper》发布新一轮官方更新：战斗中容易糊成一团的光标终于做了颜色与描边强化，并新增 100%/125%/150% 三档尺寸；受控 Dart 的机动加成改为可叠加，控得越多船越灵活；Rammer 冲撞形态的碰撞伤害改随当前移动速度缩放，速度越快撞得越狠；Carrier 系科技 Alloy 花费下调，前期攀科技更轻松。整体利好机动流与冲撞流。</description>
+			</item>
+	</channel>
+</rss>

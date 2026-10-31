@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 07:43:41 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 20:17:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>WithoutEyes Chapter1补丁修复缺陷，第一章体验再打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-10618820/</link>
+				<pubDate>Sat, 31 Oct 2026 20:17:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-10618820/</guid>
+				<description>2026年10月31日，WithoutEyes Chapter1推送维护性补丁，官方说明很克制：修复若干缺陷。别看字少，这类更新往往直接影响第一章的流程稳定性与交互体验。本期我按更新资讯视角拆解补丁价值、更新方法与避坑建议，并提醒各位先备份存档、再验证文件完整性。是否值得现在回坑？一句话：小补丁也值得更新，但别期待新内容。</description>
+			</item>
+			<item>
+				<title>《无名勇者见闻录》10月大更新：传送器重做、战斗反馈与性能优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-2157490-6300125c/</link>
+				<pubDate>Sat, 31 Oct 2026 08:46:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-2157490-6300125c/</guid>
+				<description>《无名勇者见闻录》在10月31日带来一轮内容量不小的更新：传送器改为消耗传送票，设置菜单拆分为显示、画质与控制三大页，战斗受击反馈、NPC行为、天气表现与抓钩落地手感同步调整，还针对大规模NPC寻路和远景树木LOD做了性能优化，并修复了传送器、武器耐久、月底睡眠与本地化文本等问题。</description>
+			</item>
 			<item>
 				<title>《FiND ME》1.0.2更新：修复回合选择Bug，联机流程更顺畅</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5285600-2cea2230/</link>
