@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Strike and Pop on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/strike-and-pop/</link>
+		<description>Recent content in Strike and Pop on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 09:38:38 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/strike-and-pop/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Strike and Pop手柄串键？官方建议关Steam Input</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3624340-5bad3c7d/</link>
+				<pubDate>Sat, 31 Oct 2026 09:38:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3624340-5bad3c7d/</guid>
+				<description>《Strike and Pop》官方确认 Steam Input 兼容性问题：部分手柄会被游戏识别成两个设备，导致重复输入、按键串味和本地多人模式异常。官方给出临时方案——在 Steam 库中右键游戏，进入属性与控制器设置，选择禁用 Steam Input 后重启游戏。仅受影响玩家需要操作，开发团队正在排查并争取永久修复。</description>
+			</item>
+	</channel>
+</rss>

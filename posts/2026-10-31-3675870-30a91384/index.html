@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《Ray&rsquo;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&rsquo;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复">
+  <meta property="og:description" content="《Ray&rsquo;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&rsquo;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3675870/header.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Ray&#39;s Hotel Adventures热修2：大招卡死 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Ray&#39;s Hotel Adventures</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 3675870</span>
+      
+    </div>
+
+    <h1 class="article-title">Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-31T10:55:05&#43;08:00" class="meta-date">
+          📅 2026-10-31 10:55
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 3 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1476 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/3675870/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/3675870" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3675870/header.jpg" alt="Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《Ray&#39;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&#39;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="rays-hotel-adventures-hotfix-2-速报大招卡死修复泳池存钱罐手感调整">Ray&rsquo;s Hotel Adventures Hotfix #2 速报：大招卡死修复，泳池存钱罐手感调整</h1>
+<p>各位老哥，Steam 库里的《Ray&rsquo;s Hotel Adventures》又弹小更新了。这次官方端上来的是 Hotfix #2，没有新地图、没有新角色，主打一个“把恶心 Bug 按在地上摩擦”。别看补丁小，里面那条“大招冻结修复”对实际对局体验挺关键。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>更新类型</strong>：Hotfix #2 小型热修，偏稳定性修复，不是大版本内容更新。</li>
+<li><strong>恶性 Bug 修复</strong>：修复“Booella&rsquo;s Big Bang”终极技能触发后的卡死/冻结问题。</li>
+<li><strong>交互调整</strong>：泳池区域的存钱罐现在“应该更容易被阻挡”，官方目标是改善拦截手感。</li>
+<li><strong>顺手清理</strong>：其他若干小 Bug 一并修复，属于典型的“不声不响但很实用”补丁。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-booellas-big-bang大招卡死修复">1. “Booella&rsquo;s Big Bang”大招卡死修复</h3>
+<p>这次最值得关注的就是终极技能导致的冻结。按官方说明，问题出在“Booella&rsquo;s Big Bang”释放终极能力时可能出现卡死。对局里大招本来是用来翻盘或打节奏的，结果一放就冻住，心态直接裂开。Hotfix #2 把这条列为重点修复，说明官方已经定位到具体技能逻辑，属于优先级很高的体验修复。更新后建议先在单人/低压力局里试放几次，确认帧数与输入响应正常，再拿去联机实战。</p>
+<h3 id="2-泳池存钱罐更容易被阻挡">2. 泳池存钱罐更容易被阻挡</h3>
+<p>官方原话是“Piggy bank in the pool area should be easier to block”。这句话的信息量不算大，但方向很明确：泳池区域的存钱罐在阻挡/拦截判定上做了调整，官方希望它更容易被挡住。对玩家来说，这可能影响你在地图泳池区的走位、卡位和防守路线。实际手感是变“好拦”还是变“难绕”，得进图试两把才知道。建议开局别急着冲，先观察猪罐的碰撞与阻挡反馈，再决定要不要围绕它做文章。</p>
+<h3 id="3-其他小-bug-修复">3. 其他小 Bug 修复</h3>
+<p>虽然官方只写了“Other small bug fixes”，但这种补丁往往才是日常体验的润滑剂。小问题单看不起眼，堆在一起就很容易让人烦躁。Hotfix #2 的价值不在“内容量”，而在于把影响流畅度的刺头先拔掉。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>更新方式</strong>：Steam 库中通常会自动推送；如果没动静，重启 Steam 客户端，或右键游戏 → 属性 → 已安装文件 → 验证游戏文件完整性。</li>
+<li><strong>联机避坑</strong>：开黑前确认队友都更到 Hotfix #2，避免版本不一致导致进不去房或行为不同步。</li>
+<li><strong>大招测试</strong>：更新后先试“Booella&rsquo;s Big Bang”，确认释放过程不再冻结；若仍复现，记录角色、地图和操作顺序，方便反馈。</li>
+<li><strong>泳池区重新适应</strong>：存钱罐阻挡逻辑有调整，原来习惯的绕行/卡位路线可能要微调，别用旧经验硬套。</li>
+<li><strong>配置优化</strong>：本次是小补丁，不需要额外改画质或启动项；如果更新后异常卡顿，优先验证文件并清理旧缓存。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间蹲到 Steam 限免、喜加一、史低特惠和热修推送？建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。秒级推送比你自己刷库更省心，尤其适合不想错过“永久入库”的老哥。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：Hotfix #2 需要手动更新吗？</strong></p>
+<p>A：大多数情况下 Steam 会自动更新。如果游戏库没显示更新，重启客户端或验证文件完整性即可。联机前务必确认版本一致。</p>
+<p><strong>Q2：大招卡死修复后还会复发吗？</strong></p>
+<p>A：官方已针对“Booella&rsquo;s Big Bang”的冻结问题做了修复。若你仍然遇到，建议记录具体场景、角色状态和复现步骤，方便后续反馈。</p>
+<p><strong>Q3：泳池存钱罐“更容易被阻挡”是增强还是削弱？</strong></p>
+<p>A：这取决于你站在进攻还是防守视角。官方目标是改善阻挡交互，让猪罐更容易被拦住；实际影响以进图手感为准，建议先测试再定套路。</p>
+<p><strong>Q4：这次更新有新角色、新地图或新玩法吗？</strong></p>
+<p>A：没有。Hotfix #2 是纯修复补丁，重点是稳定性、技能 Bug 和泳池区交互调整。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Ray%27s%20Hotel%20Adventures/" class="article-tag-item">#Ray&#39;s Hotel Adventures</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e6%9b%b4%e6%96%b0/" class="article-tag-item">#热修更新</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-31-5396420-bcc9f540/" class="sibling-title">《NAME ME IF YOU CAN》上线Steam，派对抓人开战</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-31-1903340-45413660/" class="sibling-title">《光与影：33号远征队》Steam限时8折史低，39.99欧元永久入库</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-booellas-big-bang大招卡死修复">1. “Booella&rsquo;s Big Bang”大招卡死修复</a></li>
+        <li><a href="#2-泳池存钱罐更容易被阻挡">2. 泳池存钱罐更容易被阻挡</a></li>
+        <li><a href="#3-其他小-bug-修复">3. 其他小 Bug 修复</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

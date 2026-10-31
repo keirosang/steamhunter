@@ -10,15 +10,92 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 08:00:05 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 11:00:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《光与影：33号远征队》Steam限时8折史低，39.99欧元永久入库</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-1903340-45413660/</link>
+				<pubDate>Sat, 31 Oct 2026 11:00:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-1903340-45413660/</guid>
+				<description>Steam官方特惠活动中，《光与影：33号远征队》开启-20%限时折扣，原价49.99欧元现仅需39.99欧元，支持永久入库。这款法式回合制RPG以独特美术、实时格挡与扎实剧情收获高口碑，本轮价格来到史低档位，适合剧情党与回合制爱好者果断补票。活动限时进行，想入手的玩家别错过倒计时。</description>
+			</item>
+			<item>
+				<title>Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</link>
+				<pubDate>Sat, 31 Oct 2026 10:55:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</guid>
+				<description>《Ray&amp;rsquo;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&amp;rsquo;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。</description>
+			</item>
+			<item>
+				<title>《NAME ME IF YOU CAN》上线Steam，派对抓人开战</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5396420-bcc9f540/</link>
+				<pubDate>Sat, 31 Oct 2026 10:30:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5396420-bcc9f540/</guid>
+				<description>派对捉迷藏新作《NAME ME IF YOU CAN》正式登陆Steam。你的笔记本就是武器：瞥见对手名牌、记住名字并输入即可淘汰对方，同时别让自己的名字先被看穿。支持自由混战与团队模式，配合道具与陷阱制造反转、脱身或反杀。首发上线，官方在Steam讨论区征集反馈与Bug报告，适合好友开黑整活。</description>
+			</item>
+			<item>
+				<title>《cat.exe》首日补丁速报：黑屏与macOS成就同步修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5328430-8a227d6c/</link>
+				<pubDate>Sat, 31 Oct 2026 10:23:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-8a227d6c/</guid>
+				<description>《cat.exe》在上线当天火速推送 Day 0 补丁，重点处理两类影响体验的启动与平台问题：部分 Windows 机器启动黑屏，以及 macOS 端成就无法正常上报。官方未加入新内容，属于稳定性修复。已入手或准备开玩的玩家建议先更新客户端、检查 Steam 成就同步与系统兼容性，再进入游戏。</description>
+			</item>
+			<item>
+				<title>Strike and Pop手柄串键？官方建议关Steam Input</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3624340-5bad3c7d/</link>
+				<pubDate>Sat, 31 Oct 2026 09:38:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3624340-5bad3c7d/</guid>
+				<description>《Strike and Pop》官方确认 Steam Input 兼容性问题：部分手柄会被游戏识别成两个设备，导致重复输入、按键串味和本地多人模式异常。官方给出临时方案——在 Steam 库中右键游戏，进入属性与控制器设置，选择禁用 Steam Input 后重启游戏。仅受影响玩家需要操作，开发团队正在排查并争取永久修复。</description>
+			</item>
+			<item>
+				<title>AION 2美西11月1日停机维护2.5小时：冬令时切换与开服避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3393110-76d8368d/</link>
+				<pubDate>Sat, 31 Oct 2026 08:42:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3393110-76d8368d/</guid>
+				<description>AION 2 北美西部（NAW）服务器将于 2026 年 11 月 1 日 01:30 PDT 进行约 2 小时 30 分钟的临时维护，登录与游戏服务器暂时不可用。本次核心是配合 PDT 切换 PST 的冬令时调整。本文整理维护时间、北京时间换算、开服前后的实操建议与高频问题，帮各位守护者少踩坑。</description>
+			</item>
+			<item>
+				<title>AION 2 NAE临时维护2.5小时：东部时区切换，登录中断</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3393110-454a144a/</link>
+				<pubDate>Sat, 31 Oct 2026 08:42:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3393110-454a144a/</guid>
+				<description>AION 2 NAE将于2026年10月31日22:30 PDT（11月1日06:30 CET）临时维护，预计2小时30分钟，游戏服务器登录暂时不可用。本次主要配合北美东部夏令时切换至标准时。维护开始会强制断开连接，建议提前下线，留意公告变动。</description>
+			</item>
+			<item>
+				<title>cat.exe正式上线Steam：桌面养猫&#43;首发折扣，创意工坊猫咪随便换</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5328430-f8ffe8b5/</link>
+				<pubDate>Sat, 31 Oct 2026 08:28:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-f8ffe8b5/</guid>
+				<description>那只一直想蹲在你桌面上的猫，终于正式营业了。cat.exe 现已登陆 Steam，主打佛系桌面陪伴，首发期间还有限时折扣，入手即永久入库。开发者同步开放创意工坊，海量玩家自制猫咪随你挑；同时也确认了黑背景显示异常与 macOS 成就不解锁两个已知问题，修复补丁预计今晚推送。本文为你梳理玩法看点、避坑要点与上手建议。</description>
+			</item>
+			<item>
+				<title>《Idle Reef》正式发售：桌面珊瑚礁养鱼，首发8折限时开启</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5188560-aa239da4/</link>
+				<pubDate>Sat, 31 Oct 2026 08:18:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5188560-aa239da4/</guid>
+				<description>桌面挂机水族箱《Idle Reef》正式登陆 Steam，首发 8 折优惠持续至 11 月 6 日。完整版一口气补齐鱼缸装修、F2 边框系统、全屏铺满桌面与 Windows 壁纸联动、离席即长的海带森林，还有 50 种鱼类的全新游动动作、稀有鱼闪光与星轨特效，以及从普通蛋到星蛋超新星的独立开蛋演出。</description>
+			</item>
+			<item>
+				<title>REDSHIFT 1.0正式上线：闭眼窥探双世界，永久免费恐怖解谜佳作</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3851950-96bf5d99/</link>
+				<pubDate>Sat, 31 Oct 2026 08:04:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3851950-96bf5d99/</guid>
+				<description>一年半抢先体验结束，免费恐怖解谜游戏《REDSHIFT》1.0正式版上线！扮演技术员塞缪尔·蔡斯，在废弃设施中睁眼探索现实、闭眼窥见隐藏世界。全新多层地图、更聪明的信号人、全语音叙事与三个结局，统统永久免费。开发组为MS学位学生，用作品说话。免费游戏不领白不领，但心脏不好建议开灯。</description>
+			</item>
 			<item>
 				<title>《Can &#39;Em All》限时10%史低：6.29美元永久入库值得冲</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5133900-f2c0c9e6/</link>
 				<pubDate>Sat, 31 Oct 2026 08:00:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-5133900-f2c0c9e6/</guid>
 				<description>Steam 特惠情报：小众作品《Can &amp;lsquo;Em All》开启限时 10% 折扣，原价 6.99 美元，现价 6.29 美元，支持永久入库。本文从折扣力度、适合人群、入库操作与购买建议四个角度拆解，告诉你这波史低到底该不该冲，以及如何避免错过限时窗口。</description>
+			</item>
+			<item>
+				<title>《FACTORIZE: 1》正式发售：质因数卡牌肉鸽，66打出攻防抽牌</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4932970-f54056e6/</link>
+				<pubDate>Sat, 31 Oct 2026 07:55:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4932970-f54056e6/</guid>
+				<description>《FACTORIZE: 1》正式发售！回合制牌组构筑 Roguelite 把拼数字与质因数效果结合：2 攻击、3 防御、5 治疗、7 多段、11 抽牌，66 可打出攻防抽一体。Fio 六形态拓展组合思路，原声带与纯外观 SKIN 03 DLC 同步上架，捆绑包可选，试玩和愿望单玩家别错过。</description>
 			</item>
 			<item>
 				<title>《FiND ME》1.0.2更新：修复回合选择Bug，联机流程更顺畅</title>
@@ -82,6 +159,20 @@
 				<pubDate>Sat, 31 Oct 2026 05:00:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-1799840-a8e4832c/</guid>
 				<description>《Queen&amp;rsquo;s Domain》在 Steam 开启限时特惠，原价 19.99 美元，现价 16.99 美元，立省 15%，目前达到史低门槛。对还在观望的玩家来说，这波不用苦等大促，入手即永久入库；不过折扣幅度不算夸张，建议先看商店页评价与玩法口味再决定是否出手，预算有限的等等党可以把它列入候选清单。</description>
+			</item>
+			<item>
+				<title>Deadlock万圣节2026：坩埚糖果与中Boss大改，翻盘升温</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-1422450-cddf2b4a/</link>
+				<pubDate>Sat, 31 Oct 2026 04:51:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-1422450-cddf2b4a/</guid>
+				<description>Deadlock 万圣节 2026 活动现已上线，持续至 11 月 2 日：藏身处换装、英雄戴面具，曼哈顿街头新增万圣节坩埚，重击打碎即可拿糖，吃掉获得临时 Sugar Rush 增益。玩法更新同步落地，中 Boss 地形更大、血量与每分钟成长各加 20%，复活水晶改为三颗随机分布；翻盘金、Haunts、治疗零食与隧道移速等也一并调整。主理人帮你划好重点，开黑前先看再冲。</description>
+			</item>
+			<item>
+				<title>《Seashells &amp; Shovels》提前发售！周末开船沙滩寻宝</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5432240-1c485bc0/</link>
+				<pubDate>Sat, 31 Oct 2026 04:42:26 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5432240-1c485bc0/</guid>
+				<description>Bad Bunch Studios 宣布《Seashells &amp;amp; Shovels》现已正式上线，而且比原计划提前发售，正好赶上周末。玩家将扬帆出海、探索岛屿，在沙滩与沙层之下挖掘宝藏，开启轻松又带点惊喜的寻宝冒险。官方表示对当前版本状态满意，也感谢一路关注与支持的玩家。</description>
 			</item>
 			<item>
 				<title>《DUMMY HOUSE》跳票至2026年11月13日：小作坊不糊弄玩家</title>
@@ -1134,6 +1225,13 @@
 				<description>Steam 特惠进行中，《Deadly Days: Roadtrip》打出 -35% 折扣：原价 14.99 欧元，现价 9.74 欧元，限时活动支持永久入库。丧尸末日公路求生搭配随机路线与资源管理，喜欢肉鸽生存的玩家可以趁史低上车；国区价格与截止时间以 Steam 页面为准，别错过这波。</description>
 			</item>
 			<item>
+				<title>《消逝的光芒：困兽》×Embody恐惧音效流媒体节10月30日开播，戴耳机听麻了</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-3008130-f463612d/</link>
+				<pubDate>Thu, 29 Oct 2026 22:59:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-3008130-f463612d/</guid>
+				<description>Dying Light: The Beast 与 Embody 合作的 Hear More Fear Streamfest 将于10月30日至11月1日登陆 Twitch。参与创作者将现场展示 Immerse Gamepack 沉浸音效，玩家可戴耳机感受“恐惧被放大”的实机氛围。本文梳理活动看点、参与方式、联机听声辨位建议与常见问题，帮你不错过这场恐怖音效派对。</description>
+			</item>
+			<item>
 				<title>《S.O.N.A.R.》Demo收官：自定义按键画质，正式版今日上线</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-4096830-4953c689/</link>
 				<pubDate>Thu, 29 Oct 2026 22:45:19 +0800</pubDate>
@@ -1181,6 +1279,13 @@
 				<pubDate>Thu, 29 Oct 2026 21:51:30 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-236390-5ebc6fcb/</guid>
 				<description>战争雷霆推出自定义战斗评分机制：同一架战机可根据挂载配置拥有多个BR。研发高级武器后不会强制升权重，玩家可在机库中自由选择低BR或高BR出击；金币机购买即解锁全部改装，能立刻体验多种配置。官方以虎式UHT与米格-21比森为例，展示从11.0到12.7、从12.3到更高权重的灵活玩法。</description>
+			</item>
+			<item>
+				<title>《Hospital Rhapsody》发售：9位佳人、25处约会与经营</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5129280-015fc611/</link>
+				<pubDate>Thu, 29 Oct 2026 21:35:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5129280-015fc611/</guid>
+				<description>小团队打造的《Hospital Rhapsody》将于北京时间10月31日中午12点正式发售。完整版包含9位可攻略女性角色、25个约会地点、27条约会故事线、20张CG与153张收集快照，同时保留医院经营、接诊与突发事件玩法。本文梳理发售内容、入坑建议与常见问题，想入手的院长别错过。</description>
 			</item>
 			<item>
 				<title>《Copy Cats》正式发售！猫咪克隆解谜逃脱，首周立减10%别错过</title>

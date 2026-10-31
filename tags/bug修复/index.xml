@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 07:43:41 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 10:55:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</link>
+				<pubDate>Sat, 31 Oct 2026 10:55:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</guid>
+				<description>《Ray&amp;rsquo;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&amp;rsquo;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。</description>
+			</item>
 			<item>
 				<title>《FiND ME》1.0.2更新：修复回合选择Bug，联机流程更顺畅</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5285600-2cea2230/</link>

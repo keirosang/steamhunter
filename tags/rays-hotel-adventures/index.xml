@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 06:46:09 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 10:55:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/rays-hotel-adventures/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</link>
+				<pubDate>Sat, 31 Oct 2026 10:55:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</guid>
+				<description>《Ray&amp;rsquo;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&amp;rsquo;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。</description>
+			</item>
 			<item>
 				<title>《Ray&#39;s Hotel Adventures》正式发售：延期打磨后的酒店冒险新作能否成为黑马？</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3675870-a50cc037/</link>

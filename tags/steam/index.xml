@@ -10,9 +10,51 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 04:21:08 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 10:55:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</link>
+				<pubDate>Sat, 31 Oct 2026 10:55:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</guid>
+				<description>《Ray&amp;rsquo;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&amp;rsquo;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。</description>
+			</item>
+			<item>
+				<title>《cat.exe》首日补丁速报：黑屏与macOS成就同步修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5328430-8a227d6c/</link>
+				<pubDate>Sat, 31 Oct 2026 10:23:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-8a227d6c/</guid>
+				<description>《cat.exe》在上线当天火速推送 Day 0 补丁，重点处理两类影响体验的启动与平台问题：部分 Windows 机器启动黑屏，以及 macOS 端成就无法正常上报。官方未加入新内容，属于稳定性修复。已入手或准备开玩的玩家建议先更新客户端、检查 Steam 成就同步与系统兼容性，再进入游戏。</description>
+			</item>
+			<item>
+				<title>AION 2美西11月1日停机维护2.5小时：冬令时切换与开服避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3393110-76d8368d/</link>
+				<pubDate>Sat, 31 Oct 2026 08:42:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3393110-76d8368d/</guid>
+				<description>AION 2 北美西部（NAW）服务器将于 2026 年 11 月 1 日 01:30 PDT 进行约 2 小时 30 分钟的临时维护，登录与游戏服务器暂时不可用。本次核心是配合 PDT 切换 PST 的冬令时调整。本文整理维护时间、北京时间换算、开服前后的实操建议与高频问题，帮各位守护者少踩坑。</description>
+			</item>
+			<item>
+				<title>cat.exe正式上线Steam：桌面养猫&#43;首发折扣，创意工坊猫咪随便换</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5328430-f8ffe8b5/</link>
+				<pubDate>Sat, 31 Oct 2026 08:28:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-f8ffe8b5/</guid>
+				<description>那只一直想蹲在你桌面上的猫，终于正式营业了。cat.exe 现已登陆 Steam，主打佛系桌面陪伴，首发期间还有限时折扣，入手即永久入库。开发者同步开放创意工坊，海量玩家自制猫咪随你挑；同时也确认了黑背景显示异常与 macOS 成就不解锁两个已知问题，修复补丁预计今晚推送。本文为你梳理玩法看点、避坑要点与上手建议。</description>
+			</item>
+			<item>
+				<title>REDSHIFT 1.0正式上线：闭眼窥探双世界，永久免费恐怖解谜佳作</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3851950-96bf5d99/</link>
+				<pubDate>Sat, 31 Oct 2026 08:04:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3851950-96bf5d99/</guid>
+				<description>一年半抢先体验结束，免费恐怖解谜游戏《REDSHIFT》1.0正式版上线！扮演技术员塞缪尔·蔡斯，在废弃设施中睁眼探索现实、闭眼窥见隐藏世界。全新多层地图、更聪明的信号人、全语音叙事与三个结局，统统永久免费。开发组为MS学位学生，用作品说话。免费游戏不领白不领，但心脏不好建议开灯。</description>
+			</item>
+			<item>
+				<title>Deadlock万圣节2026：坩埚糖果与中Boss大改，翻盘升温</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-1422450-cddf2b4a/</link>
+				<pubDate>Sat, 31 Oct 2026 04:51:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-1422450-cddf2b4a/</guid>
+				<description>Deadlock 万圣节 2026 活动现已上线，持续至 11 月 2 日：藏身处换装、英雄戴面具，曼哈顿街头新增万圣节坩埚，重击打碎即可拿糖，吃掉获得临时 Sugar Rush 增益。玩法更新同步落地，中 Boss 地形更大、血量与每分钟成长各加 20%，复活水晶改为三颗随机分布；翻盘金、Haunts、治疗零食与隧道移速等也一并调整。主理人帮你划好重点，开黑前先看再冲。</description>
+			</item>
 			<item>
 				<title>《DUMMY HOUSE》跳票至2026年11月13日：小作坊不糊弄玩家</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3681450-39e7437c/</link>

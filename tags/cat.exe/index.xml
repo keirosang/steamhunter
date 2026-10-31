@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cat.exe on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/cat.exe/</link>
+		<description>Recent content in Cat.exe on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 10:23:34 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/cat.exe/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《cat.exe》首日补丁速报：黑屏与macOS成就同步修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5328430-8a227d6c/</link>
+				<pubDate>Sat, 31 Oct 2026 10:23:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-8a227d6c/</guid>
+				<description>《cat.exe》在上线当天火速推送 Day 0 补丁，重点处理两类影响体验的启动与平台问题：部分 Windows 机器启动黑屏，以及 macOS 端成就无法正常上报。官方未加入新内容，属于稳定性修复。已入手或准备开玩的玩家建议先更新客户端、检查 Steam 成就同步与系统兼容性，再进入游戏。</description>
+			</item>
+			<item>
+				<title>cat.exe正式上线Steam：桌面养猫&#43;首发折扣，创意工坊猫咪随便换</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5328430-f8ffe8b5/</link>
+				<pubDate>Sat, 31 Oct 2026 08:28:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-f8ffe8b5/</guid>
+				<description>那只一直想蹲在你桌面上的猫，终于正式营业了。cat.exe 现已登陆 Steam，主打佛系桌面陪伴，首发期间还有限时折扣，入手即永久入库。开发者同步开放创意工坊，海量玩家自制猫咪随你挑；同时也确认了黑背景显示异常与 macOS 成就不解锁两个已知问题，修复补丁预计今晚推送。本文为你梳理玩法看点、避坑要点与上手建议。</description>
+			</item>
+	</channel>
+</rss>
