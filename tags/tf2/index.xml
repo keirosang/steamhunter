@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 04:29:39 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 07:19:28 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/tf2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《军团要塞2》更新修复南瓜间谍模型，锦标赛奖牌一并补齐</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-440-2a8b0087/</link>
+				<pubDate>Sat, 31 Oct 2026 07:19:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-440-2a8b0087/</guid>
+				<description>军团要塞2近日推送小型更新，重点修复cp_wildcat_event中伪装成南瓜的间谍模型缺失问题，避免万圣节地图出现“隐身南瓜头”的尴尬；同时更新并新增一批锦标赛奖牌，给竞技老兵补上荣誉收藏。本次更新无职业数值与武器平衡改动，重启客户端即可自动应用，适合回坑玩家快速了解。</description>
+			</item>
 			<item>
 				<title>TF2 官方更新实装：万圣节地图修漏洞，僵尸感染模式全线数值回调</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-440-e221be39/</link>

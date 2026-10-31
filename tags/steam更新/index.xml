@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 01:25:54 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 07:43:41 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《FiND ME》1.0.2更新：修复回合选择Bug，联机流程更顺畅</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5285600-2cea2230/</link>
+				<pubDate>Sat, 31 Oct 2026 07:43:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5285600-2cea2230/</guid>
+				<description>《FiND ME》正式推送 1.0.2 小型修复补丁，核心改动是解决回合选择环节的异常，同时处理若干零碎问题。对一款强调流程推进的游戏来说，这种补丁看似不起眼，却直接关系到开局选回合、联机同步与对局节奏。下面我从补丁影响、更新方法和联机避坑三个角度，帮你快速判断这次更新值不值得立刻上线。</description>
+			</item>
 			<item>
 				<title>《Fix it, Please!》小更新：主菜单挂出上线公告，细节修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5334150-5176ae33/</link>

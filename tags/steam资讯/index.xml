@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 04:17:12 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 05:12:28 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/</link>
+				<pubDate>Sat, 31 Oct 2026 05:12:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/</guid>
+				<description>《Terrible Lizards》推送1.0.9补丁，集中修复标题界面残留导致流程软锁、Stella通话卡按钮、滑铲瞬间死亡、手柄无法冲刺、第二场Bronto狩猎隐形碰撞体、第二场Allo狩猎四根保险丝失效以及关卡加载异常等恶性问题。官方表示仍在消化玩家反馈，下一版修复已在路上；若你正被卡关，先对照日志排查，别急着删档。</description>
+			</item>
 			<item>
 				<title>CRACK v1.1.12更新：新挎包扩容快捷栏，多项Bug修复实装</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-4312190-64f9b26d/</link>
@@ -89,6 +96,13 @@
 				<pubDate>Thu, 29 Oct 2026 20:34:09 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-4435490-cf8e0c74/</guid>
 				<description>《使命召唤：现代战争4》开场过场CG被指使用了2022年首尔梨泰院踩踏事件的真实新闻画面，在韩国引发强烈反弹。动视火速回应称相关镜头「并非有意影射或轻描淡写梨泰院灾难及任何现实悲剧」。这波操作到底是系列一贯的「现实主义」叙事，还是踩过了不该踩的线？我把事件脉络、官方措辞和玩家该注意的点都捋了一遍。</description>
+			</item>
+			<item>
+				<title>《Idle Reef》官宣跳票延期：桌面摸鱼再等等，免费Demo先下水</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5188560-6f12209e/</link>
+				<pubDate>Thu, 29 Oct 2026 20:17:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5188560-6f12209e/</guid>
+				<description>原定10月28日上线的桌面养鱼放置游戏《Idle Reef》宣布延期，BoostLab团队称需要更多时间做最终打磨与稳定性调整，暂未公布新发售日。好消息是免费Demo仍可试玩，官方鼓励玩家保留愿望单并关注游戏，以便第一时间收到上线通知。想提前体验桌面云养鱼的玩家，现在就能去Steam下载Demo先过把瘾。</description>
 			</item>
 			<item>
 				<title>《使命召唤：现代战争4》开场CG卷入梨泰院踩踏争议，动视回应遭质疑</title>

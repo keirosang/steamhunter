@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 14:00:04 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 05:12:28 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/terrible-lizards/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/</link>
+				<pubDate>Sat, 31 Oct 2026 05:12:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/</guid>
+				<description>《Terrible Lizards》推送1.0.9补丁，集中修复标题界面残留导致流程软锁、Stella通话卡按钮、滑铲瞬间死亡、手柄无法冲刺、第二场Bronto狩猎隐形碰撞体、第二场Allo狩猎四根保险丝失效以及关卡加载异常等恶性问题。官方表示仍在消化玩家反馈，下一版修复已在路上；若你正被卡关，先对照日志排查，别急着删档。</description>
+			</item>
 			<item>
 				<title>史低20%off！《Terrible Lizards》限时特惠，19.99美元永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-2920220-b1a09e37/</link>

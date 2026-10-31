@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《Terrible Lizards》推送1.0.9补丁，集中修复标题界面残留导致流程软锁、Stella通话卡按钮、滑铲瞬间死亡、手柄无法冲刺、第二场Bronto狩猎隐形碰撞体、第二场Allo狩猎四根保险丝失效以及关卡加载异常等恶性问题。官方表示仍在消化玩家反馈，下一版修复已在路上；若你正被卡关，先对照日志排查，别急着删档。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死">
+  <meta property="og:description" content="《Terrible Lizards》推送1.0.9补丁，集中修复标题界面残留导致流程软锁、Stella通话卡按钮、滑铲瞬间死亡、手柄无法冲刺、第二场Bronto狩猎隐形碰撞体、第二场Allo狩猎四根保险丝失效以及关卡加载异常等恶性问题。官方表示仍在消化玩家反馈，下一版修复已在路上；若你正被卡关，先对照日志排查，别急着删档。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/74515e8925a63901.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Terrible Lizards》1.0.9补丁：修复软锁 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Terrible Lizards</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 2920220</span>
+      
+    </div>
+
+    <h1 class="article-title">《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-10-31T05:12:28&#43;08:00" class="meta-date">
+          📅 2026-10-31 05:12
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1920 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/2920220/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/2920220" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/74515e8925a63901.jpg" alt="《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《Terrible Lizards》推送1.0.9补丁，集中修复标题界面残留导致流程软锁、Stella通话卡按钮、滑铲瞬间死亡、手柄无法冲刺、第二场Bronto狩猎隐形碰撞体、第二场Allo狩猎四根保险丝失效以及关卡加载异常等恶性问题。官方表示仍在消化玩家反馈，下一版修复已在路上；若你正被卡关，先对照日志排查，别急着删档。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位恐龙园观光客注意，Dalton&rsquo;s Dinos 的维修告示终于贴出来了。1.0.9 补丁（10/30/26）没有新恐龙、没有新地图，纯纯的急救包，但这一针扎得挺准——修的全是能把人卡到砸键盘的恶性 Bug。用园长的话说：先别急着看风景，先把路修通。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>版本号</strong>：1.0.9，日期 10/30/26，属于修复型热更。</li>
+<li><strong>最大重点</strong>：标题界面残留进游戏导致软锁、Stella 通话卡按钮、滑铲即死、手柄无法冲刺。</li>
+<li><strong>关卡相关</strong>：第二场 Bronto 狩猎的隐形碰撞体、第二场 Allo 狩猎四根保险丝失效、关卡加载/卸载异常。</li>
+<li><strong>官方态度</strong>：仍在处理发布后的反馈，下一版修复已经在路上；这次先解决“最扎手”的问题。</li>
+<li><strong>注意</strong>：日志没有提到新内容、新机制或平衡性数值调整，别把它当大版本更新看。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-标题界面粘进游戏最要命的软锁">1. 标题界面“粘”进游戏：最要命的软锁</h3>
+<p>这次最值得关注的是标题界面可能卡住并持续到实际游玩中，等于把玩家锁在流程外。对一款以探索推进为主的游戏来说，这种软锁比普通闪退更折磨——画面还在，人却动不了。1.0.9 已针对该问题修复，更新后如果还遇到，先重启游戏并确认版本号。</p>
+<h3 id="2-stella-通话锁按钮对话系统别再抢手柄">2. Stella 通话锁按钮：对话系统别再“抢手柄”</h3>
+<p>与 Stella 通话时，部分按钮可能被锁死，导致流程断掉。这个问题本质上会影响交互状态，玩家可能会误以为是解谜卡住。补丁已经处理，建议卡过这里的玩家更新后从最近检查点再试。</p>
+<h3 id="3-滑铲即死与过场滑铲飞崖速度与激情变事故现场">3. 滑铲即死与过场滑铲飞崖：速度与激情变事故现场</h3>
+<p>滑铲本来是赶路和躲危险的动作，结果之前可能一进入滑铲就直接去世；更离谱的是，某些过场里玩家还能控制滑铲移动，一脚把自己送下悬崖。1.0.9 对这两类问题都做了修复，滑铲键终于不用被当成“自杀键”。</p>
+<h3 id="4-手柄冲刺锁死键鼠玩家别笑手柄党真的会急">4. 手柄冲刺锁死：键鼠玩家别笑，手柄党真的会急</h3>
+<p>有手柄玩家遇到冲刺能力被锁住、怎么按都不触发的情况。本次补丁已修复控制器无法冲刺的问题。更新后建议重新插拔手柄、确认 Steam 输入配置没有冲突，再进游戏试跑一段。</p>
+<h3 id="5-第二场-bronto-狩猎落石之后的空气墙">5. 第二场 Bronto 狩猎：落石之后的“空气墙”</h3>
+<p>第二场 Bronto 狩猎中，巨石落下后可能出现隐形碰撞体，挡路又看不见，堪称恐龙园版鬼打墙。1.0.9 已修复该碰撞体问题。如果你之前正好卡在这里，更新后读档重试，别再对着空气疯狂走位。</p>
+<h3 id="6-第二场-allo-狩猎四根保险丝终于都能干活">6. 第二场 Allo 狩猎：四根保险丝终于都能干活</h3>
+<p>第二场 Allo 狩猎里，四根保险丝可能无法全部生效，直接让解谜推进卡壳。补丁已修复“不是所有四根保险丝都工作”的问题。这个属于典型流程阻塞 Bug，建议更新后优先验证。</p>
+<h3 id="7-关卡加载卸载异常少一点黑屏多一点观光">7. 关卡加载/卸载异常：少一点黑屏，多一点观光</h3>
+<p>日志还提到多个关卡可能无法正确加载或卸载的问题。这类底层问题不一定每次都复现，但一旦撞上就很影响体验。1.0.9 做了集中处理，后续稳定性还得看官方下一版补丁。</p>
+<p>整体看，这不是“加内容”的更新，而是一次很典型的发布后救火：先把软锁、流程断点、输入失效和碰撞事故按住，让玩家能正常把流程跑下去。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>先确认版本</strong>：Steam 库中右键游戏查看更新，或进游戏主界面确认版本号为 1.0.9。没收到推送就重启 Steam，必要时验证游戏文件完整性。</li>
+<li><strong>卡关档先备份</strong>：这次日志没有提到存档结构变动，理论上兼容旧档；但如果你正卡在第二场 Bronto/Allo 狩猎或 Stella 通话节点，稳妥起见先备份存档，再更新重试。</li>
+<li><strong>手柄党检查输入</strong>：更新后重插手柄，确认 Steam 输入没有启用冲突配置；进游戏先试冲刺，再去滑铲，别一上来就冲悬崖。</li>
+<li><strong>卡空气墙别硬挤</strong>：第二场 Bronto 狩猎落石后如果仍有阻挡感，先退出到主菜单重进；还复现就录屏记录位置和步骤。</li>
+<li><strong>保险丝不生效先读检查点</strong>：第二场 Allo 狩猎更新后如果四根保险丝仍无法全部触发，优先从最近检查点重开该段，避免在老状态里反复试。</li>
+<li><strong>遇到未列出的问题</strong>：官方明确说还在处理反馈，没上榜的 Bug 不是不管，而是排队。把复现步骤、平台、手柄型号和截图录屏备好，下一版补丁见分晓。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间收到 Steam 喜加一、限免入库、史低背刺和热修补丁推送，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。这种“刚修完就能知道”的更新情报，比在论坛里翻半天帖子省事多了；限免和特惠也能秒级提醒，手慢党至少不会再错过永久入库。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：1.0.9 是内容更新吗？有新增恐龙或地图吗？</strong>
+A：不是。按日志看，这次是修复型补丁，重点在软锁、流程阻塞、输入和碰撞问题，没有提到新增内容或平衡性数值调整。</p>
+<p><strong>Q2：更新后旧存档还能用吗？</strong>
+A：日志没有提到存档结构变动，通常可以继续用。但如果你正卡在恶性 Bug 节点，建议先备份存档，更新后从最近检查点重试，别直接覆盖老档。</p>
+<p><strong>Q3：手柄还是不能冲刺，或者滑铲依然秒死怎么办？</strong>
+A：先确认游戏版本已经是 1.0.9，重启 Steam 和游戏，重插手柄并检查 Steam 输入配置。如果仍复现，记录具体场景、操作步骤、手柄型号和录屏，提交给官方反馈；官方表示未列出的问题会继续在下一版处理。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Terrible%20Lizards/" class="article-tag-item">#Terrible Lizards</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+          <a href="/tags/%e8%bd%af%e9%94%81%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#软锁修复</a>
+          
+          <a href="/tags/Steam%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam资讯</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-31-1799840-a8e4832c/" class="sibling-title">《Queen&#39;s Domain》15%史低特惠，等等党永久入库正当时</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-10-31-5173660-f3197f0e/" class="sibling-title">《便便杀手：黄金之屁》正式发售：80年代VHS垃圾恐怖喜剧的狂欢</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-标题界面粘进游戏最要命的软锁">1. 标题界面“粘”进游戏：最要命的软锁</a></li>
+        <li><a href="#2-stella-通话锁按钮对话系统别再抢手柄">2. Stella 通话锁按钮：对话系统别再“抢手柄”</a></li>
+        <li><a href="#3-滑铲即死与过场滑铲飞崖速度与激情变事故现场">3. 滑铲即死与过场滑铲飞崖：速度与激情变事故现场</a></li>
+        <li><a href="#4-手柄冲刺锁死键鼠玩家别笑手柄党真的会急">4. 手柄冲刺锁死：键鼠玩家别笑，手柄党真的会急</a></li>
+        <li><a href="#5-第二场-bronto-狩猎落石之后的空气墙">5. 第二场 Bronto 狩猎：落石之后的“空气墙”</a></li>
+        <li><a href="#6-第二场-allo-狩猎四根保险丝终于都能干活">6. 第二场 Allo 狩猎：四根保险丝终于都能干活</a></li>
+        <li><a href="#7-关卡加载卸载异常少一点黑屏多一点观光">7. 关卡加载/卸载异常：少一点黑屏，多一点观光</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
