@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 01:22:37 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 04:01:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Blunderbusted》发售整活：误标1.0正式版，实为抢先体验</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-2294890-1fb6f2d7/</link>
+				<pubDate>Sun, 01 Nov 2026 04:01:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-2294890-1fb6f2d7/</guid>
+				<description>《Blunderbusted》发售日遭遇后台乌龙，Steam页面被误标为1.0正式版，实际仍是抢先体验的预阿尔法构建。官方已联系Valve恢复标签，并提醒玩家：当前版本有Bug、缺生态区、平衡未完成，2.99美元只是抢先体验特价。想等完美版的建议观望，想帮忙测试光枪的可以入场。</description>
+			</item>
 			<item>
 				<title>《Librarian Together: Manga Tidy Up》正式登陆 Steam，双人合作整理漫画书店的治愈新游开卖</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5399880-48c6ba54/</link>
@@ -152,6 +159,13 @@
 				<pubDate>Sat, 31 Oct 2026 01:09:07 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-5100850-add03aa2/</guid>
 				<description>治愈系整理新作《Organize my Shop 2: Pet Shop》现已登陆 Steam，首发 14 天八折特惠。它是完全独立的新作，没玩过前作也能直接入坑，核心就是收拾宠物店、放点音乐慢慢归位的舒适循环。想一次收齐还可看系列捆绑包，老玩家也别忘了留个评测支持独立团队。</description>
+			</item>
+			<item>
+				<title>《红色沙漠》2.04.02更新：配偶不再跟下水、开拓系统优化与崩溃修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3321460-ce8b7827/</link>
+				<pubDate>Sat, 31 Oct 2026 01:00:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3321460-ce8b7827/</guid>
+				<description>《红色沙漠》2.04.02 补丁已登陆 Steam PC 与 Mac 双端，本文把官方更新日志拆成玩家能看懂的内容：配偶与同伴不再跟着下水、战斗中不再抽风，海盗落水瞬移、利维坎停摆、海蛇不攻击、船只静止、船员消失等海战问题一并修复；任务与挑战奖励补发、管理设施收益异常暴涨被正式修正；开拓系统新增进场提示，进区域即可一键接任务，另附崩溃、瀑布贴图、Oongka 隐形与显卡驱动兼容修复。</description>
 			</item>
 			<item>
 				<title>Steam审核又塞车，《Blackboard Ponies》发售延期</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>文本修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%96%87%E6%9C%AC%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 文本修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 03:43:55 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%96%87%E6%9C%AC%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DEADLINE DINNER 文本修复：英文显示异常已修正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-e4c88979/</link>
+				<pubDate>Sun, 01 Nov 2026 03:43:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4922230-e4c88979/</guid>
+				<description>《DEADLINE DINNER》推送小型官方更新，重点修复游戏内部分英文文本显示异常的问题。本次更新没有新增玩法、地图或平衡性调整，属于体验优化型补丁。已经入库的玩家建议重启 Steam 完成更新后再进游戏，避免旧版本残留造成误判；准备入手的玩家也可先关注后续版本表现。</description>
+			</item>
+	</channel>
+</rss>

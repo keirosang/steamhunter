@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pearl Abyss on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/pearl-abyss/</link>
+		<description>Recent content in Pearl Abyss on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 20:16:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/pearl-abyss/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《红色沙漠》2.04.03补丁实装：赠礼多选、婚后送礼修复与十余项打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3321460-2e1f4f38/</link>
+				<pubDate>Sat, 31 Oct 2026 20:16:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3321460-2e1f4f38/</guid>
+				<description>Pearl Abyss 为《红色沙漠》推送 2.04.03 热修，Steam PC 与 Mac 已可更新，其余平台滚动推送。本补丁重心放在生活与社交体验：赠礼支持一次多选并单独设定数量，修复物品误退回、配偶婚后不送礼、节日夜间顾客到访间隔异常；同时处理开拓任务卡关、飞行宠物不跟随、切人变透明、标题画面听到水声、按键提示重叠、面敌手臂抖动等十余项细节。</description>
+			</item>
+			<item>
+				<title>《红色沙漠》2.04.02更新：配偶不再跟下水、开拓系统优化与崩溃修复</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3321460-ce8b7827/</link>
+				<pubDate>Sat, 31 Oct 2026 01:00:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3321460-ce8b7827/</guid>
+				<description>《红色沙漠》2.04.02 补丁已登陆 Steam PC 与 Mac 双端，本文把官方更新日志拆成玩家能看懂的内容：配偶与同伴不再跟着下水、战斗中不再抽风，海盗落水瞬移、利维坎停摆、海蛇不攻击、船只静止、船员消失等海战问题一并修复；任务与挑战奖励补发、管理设施收益异常暴涨被正式修正；开拓系统新增进场提示，进区域即可一键接任务，另附崩溃、瀑布贴图、Oongka 隐形与显卡驱动兼容修复。</description>
+			</item>
+	</channel>
+</rss>
