@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 12:21:18 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 16:42:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/ui%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>暗黑ノ血 -ReVerse- 补丁上线：装备显示纠错、平衡与UI优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</link>
+				<pubDate>Sat, 31 Oct 2026 16:42:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</guid>
+				<description>官方为《暗黑ノ血 -ReVerse-》推送小型修复补丁，重点修正装备属性显示错误，并带来平衡性调整与UI改进。别小看“Small fixes”：装备数值看得准，配装少走弯路；平衡改动虽未展开细表，实战手感仍值得复测；UI优化让菜单与战斗信息更顺眼。本文整理更新要点、回坑与开荒建议，并提醒加入 Telegram 频道获取秒级限免与特惠推送。</description>
+			</item>
 			<item>
 				<title>Kipple 小型更新上线：菜单导航重做，UI 缩放无障碍选项补齐</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-3120010-0bcfc6ad/</link>

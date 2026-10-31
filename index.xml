@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 12:06:47 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 16:42:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>暗黑ノ血 -ReVerse- 补丁上线：装备显示纠错、平衡与UI优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</link>
+				<pubDate>Sat, 31 Oct 2026 16:42:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</guid>
+				<description>官方为《暗黑ノ血 -ReVerse-》推送小型修复补丁，重点修正装备属性显示错误，并带来平衡性调整与UI改进。别小看“Small fixes”：装备数值看得准，配装少走弯路；平衡改动虽未展开细表，实战手感仍值得复测；UI优化让菜单与战斗信息更顺眼。本文整理更新要点、回坑与开荒建议，并提醒加入 Telegram 频道获取秒级限免与特惠推送。</description>
+			</item>
+			<item>
+				<title>Steam独立小品《Blackboard Ponies》正式发售：粉笔小马40分钟跳跳乐</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4670040-88ddb325/</link>
+				<pubDate>Sat, 31 Oct 2026 16:03:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4670040-88ddb325/</guid>
+				<description>Super Stable Games 打造的粉笔风独立小品《Blackboard Ponies》现已正式登陆 Steam。玩家将操控调皮叛逆的粉笔小马，在黑板世界里画画、跳跃、冲刺，把色彩带回生活。官方表示完整流程约 40 分钟，节奏轻快、体量小巧，适合一口气通关。开发团队也感谢作曲家 Clio Em、测试玩家与 The Mane Quest 社区的支持，并欢迎玩家反馈 Bug 和可爱瞬间。感兴趣可先加愿望单或直接入库。</description>
+			</item>
+			<item>
+				<title>《深空当铺：可能是偷的》1.0.0.6更新：模组安全加固与返回键</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</link>
+				<pubDate>Sat, 31 Oct 2026 16:01:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</guid>
+				<description>《深空当铺：可能是偷的》推送1.0.0.6更新，重点在模组系统安全加固，同时新增可替代Esc的“菜单/返回”第二键位。注意：部分旧模组可能失效，需要作者跟进适配。本文梳理更新要点、开档前避坑与按键设置建议，帮你在深空当铺里继续安心做生意。</description>
+			</item>
+			<item>
+				<title>《WithoutEyes Chapter1》万圣节小补丁：修复缺陷，恐怖体验更稳</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-38878274/</link>
+				<pubDate>Sat, 31 Oct 2026 15:42:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-38878274/</guid>
+				<description>万圣节当天，《WithoutEyes Chapter1》推送了一则轻量补丁。官方说明很克制：修复若干小缺陷，并向玩家送上节日问候。本次没有新章节、新怪物或数值调整，核心是让现有流程更稳定。已入库的玩家更新后即可继续冒险；还在观望的朋友，不妨先看看社区反馈和商店页信息，再决定是否入手。</description>
+			</item>
+			<item>
+				<title>战争雷霆第248届截图大赛：残骸战损主题开赛，300金鹰等你拿</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-236390-7e730859/</link>
+				<pubDate>Sat, 31 Oct 2026 13:00:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-236390-7e730859/</guid>
+				<description>战争雷霆第248届 Steam 截图大赛正式开锣，这回的主题是“Beyond Repair！”——缠斗过后、巷战余烬、海面残骸，统统拍下来。11月6日前带上 #WTscreen248 标签投稿，社区投票与官方评委各选3人，每人300金鹰。投稿硬性规则、避坑细节与战损镜头拍法，主理人一次给你讲透。</description>
+			</item>
 			<item>
 				<title>《Triad of Victory》发售：猜拳构筑流派，首周40%折扣</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-4603280-531bf45e/</link>
@@ -63,6 +98,13 @@
 				<description>《Strike and Pop》官方确认 Steam Input 兼容性问题：部分手柄会被游戏识别成两个设备，导致重复输入、按键串味和本地多人模式异常。官方给出临时方案——在 Steam 库中右键游戏，进入属性与控制器设置，选择禁用 Steam Input 后重启游戏。仅受影响玩家需要操作，开发团队正在排查并争取永久修复。</description>
 			</item>
 			<item>
+				<title>Reactance 1.0.2 热修补丁上线：排队与服务器优化，科学怪人开打</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5357500-4270a6aa/</link>
+				<pubDate>Sat, 31 Oct 2026 09:10:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5357500-4270a6aa/</guid>
+				<description>Reactance 推送 1.0.2 小型热修补丁，重点处理匹配排队与服务器稳定性问题，官方用一句“科学怪人们开打”宣告修复完成。本次更新没有大改玩法，但对被排队折磨的玩家来说是实打实的体验优化；如果你正准备拉朋友入坑，先把客户端更到最新版，少走排队弯路。</description>
+			</item>
+			<item>
 				<title>AION 2美西11月1日停机维护2.5小时：冬令时切换与开服避坑指南</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3393110-76d8368d/</link>
 				<pubDate>Sat, 31 Oct 2026 08:42:21 +0800</pubDate>
@@ -82,6 +124,13 @@
 				<pubDate>Sat, 31 Oct 2026 08:28:00 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-f8ffe8b5/</guid>
 				<description>那只一直想蹲在你桌面上的猫，终于正式营业了。cat.exe 现已登陆 Steam，主打佛系桌面陪伴，首发期间还有限时折扣，入手即永久入库。开发者同步开放创意工坊，海量玩家自制猫咪随你挑；同时也确认了黑背景显示异常与 macOS 成就不解锁两个已知问题，修复补丁预计今晚推送。本文为你梳理玩法看点、避坑要点与上手建议。</description>
+			</item>
+			<item>
+				<title>《破壳行动》万圣节更新：蛋不对劲了！全新「不给糖就捣蛋」事件限时开启</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4312190-cb1a9ec4/</link>
+				<pubDate>Sat, 31 Oct 2026 08:21:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4312190-cb1a9ec4/</guid>
+				<description>万圣节的怪气氛吹进了实验室：《破壳行动》迎来节日特别更新，那颗蛋似乎不再是自己熟悉的模样。事件轮换池新增「不给糖就捣蛋」搅动事件，触发时全队必须临场快速反应。活动仅在10月31日零点至11月1日零点限时开放，过后一切照旧——至少官方是这么“大概率”保证的。喊上队友开一班，亲自看看能撞见什么。</description>
 			</item>
 			<item>
 				<title>《Idle Reef》正式发售：桌面珊瑚礁养鱼，首发8折限时开启</title>
@@ -488,6 +537,13 @@
 				<pubDate>Fri, 30 Oct 2026 22:49:24 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-5365190-2c7edf14/</guid>
 				<description>《Tidy Tails》正式登陆 Steam，这款主打治愈气质的整理收纳小品终于和玩家见面。官方在发售公告里感谢了每一位添加愿望单、留言鼓励的玩家，并邀请大家把游戏分享给身边的朋友。本文梳理首发信息的核心要点，聊聊这类独立治愈作品到底值不值得首发入手、买之前该注意什么，以及上线初期的上手指南与避坑提醒。</description>
+			</item>
+			<item>
+				<title>《挂机放置修仙录》10月31日抢先体验：九图全开、90种新怪与药水重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4618670-b855ac14/</link>
+				<pubDate>Fri, 30 Oct 2026 22:38:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4618670-b855ac14/</guid>
+				<description>《挂机放置修仙录》抢先体验版定档 2026 年 10 月 31 日 19:00（北京时间）。EA v0.1.0 修复长时间挂机内存增长、高倍速战斗推进过慢，新增 30/60/120 帧率上限；九张地图全开，51 层起追加 90 种新怪与更多 Boss 精英；药水改为百分比单体回复、各自独立冷却；等级上限跟随大境界，炼气 35 级、筑基 65 级。本文拆解改动要点并附挂机开荒建议。</description>
 			</item>
 			<item>
 				<title>TRENCHWORMS小更新：键盘操作修复与细节优化，键鼠党终于等到了</title>
@@ -1127,6 +1183,13 @@
 				<description>TF2 社区大型企划 Operation: Europa 正式开跑：以欧洲场景为核心的地图创作项目联合 TF2Maps.net 举办第 19 届大型地图大赛，同时面向创意工坊征集饰品、武器涂装与异常特效。本文梳理项目性质、参赛门道、投稿要点与玩家能期待什么，帮想参与的弟兄少走弯路。</description>
 			</item>
 			<item>
+				<title>《Ballerspiel》10月31日首发直播：官方开黑与模式前瞻</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-3235390-e190853f/</link>
+				<pubDate>Fri, 30 Oct 2026 00:23:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-3235390-e190853f/</guid>
+				<description>《Ballerspiel》将于2026年10月31日（周六）正式上线，开发团队当天在Twitch与TikTok开启首发直播，和玩家聊天答疑并展示Battle Royale、Ballerball、Clown-Off等模式，甚至可能出现原子弹级翻车场面。直播结束后还能直连官方服务器开黑，下面是观看入口、玩法看点与首日避坑建议。</description>
+			</item>
+			<item>
 				<title>《HYPNOS》1.0正式版上线：无名之城开放，抢先体验阶段收官</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-2861210-66aadecb/</link>
 				<pubDate>Fri, 30 Oct 2026 00:15:18 +0800</pubDate>
@@ -1209,6 +1272,13 @@
 				<pubDate>Thu, 29 Oct 2026 23:30:31 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-2483190-c5e2961c/</guid>
 				<description>本周《极限竞速：地平线6》春季Festival Playlist把澳洲肌肉车1968 Holden Monaro GTS 327推到台前，20 PTS即可解锁；40 PTS可拿1991 Honda CR-X SiR。系列奖励同步开放，80 PTS给2025 BMW M4 CS，160 PTS给2015 Koenigsegg One:1。7-Eleven车聚本周最后机会，拍照挑战与C级复古拉力路线也别忘了刷。</description>
+			</item>
+			<item>
+				<title>《挂机放置修仙录》Demo第8更：药水卡顿与内存泄漏修复，新手引导重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4618670-2edc206c/</link>
+				<pubDate>Thu, 29 Oct 2026 23:28:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4618670-2edc206c/</guid>
+				<description>《挂机放置修仙录》Demo迎来第八次更新，这次不堆新内容，专治挂机憋屈：自动回血回蓝嗑药时的卡顿与长时间挂机的内存泄漏一并修复，升级换装的假掉血、满屏重叠伤害数字也做了处理；新手引导重做，首次远征入口更好找，主线追踪可一键跳转目的地；锻造台新增“仅可制作”筛选，装备效果描述补全。老存档继续可用，并可继承至2026年10月31日开启的EA版本。</description>
 			</item>
 			<item>
 				<title>Apex英雄Cipher大版本：Crypto无人机与双持Wingman</title>

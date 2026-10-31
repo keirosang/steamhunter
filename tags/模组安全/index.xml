@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 18:21:01 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 16:01:19 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%A8%A1%E7%BB%84%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《深空当铺：可能是偷的》1.0.0.6更新：模组安全加固与返回键</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</link>
+				<pubDate>Sat, 31 Oct 2026 16:01:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</guid>
+				<description>《深空当铺：可能是偷的》推送1.0.0.6更新，重点在模组系统安全加固，同时新增可替代Esc的“菜单/返回”第二键位。注意：部分旧模组可能失效，需要作者跟进适配。本文梳理更新要点、开档前避坑与按键设置建议，帮你在深空当铺里继续安心做生意。</description>
+			</item>
 			<item>
 				<title>《僵尸毁灭工程》官方敲黑板：Java模组能改底层，别见码就装</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-108600-b27e4e10/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>EA抢先体验 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/ea%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C/</link>
+		<description>Recent content in EA抢先体验 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 29 Oct 2026 23:28:36 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/ea%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《挂机放置修仙录》Demo第8更：药水卡顿与内存泄漏修复，新手引导重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4618670-2edc206c/</link>
+				<pubDate>Thu, 29 Oct 2026 23:28:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4618670-2edc206c/</guid>
+				<description>《挂机放置修仙录》Demo迎来第八次更新，这次不堆新内容，专治挂机憋屈：自动回血回蓝嗑药时的卡顿与长时间挂机的内存泄漏一并修复，升级换装的假掉血、满屏重叠伤害数字也做了处理；新手引导重做，首次远征入口更好找，主线追踪可一键跳转目的地；锻造台新增“仅可制作”筛选，装备效果描述补全。老存档继续可用，并可继承至2026年10月31日开启的EA版本。</description>
+			</item>
+	</channel>
+</rss>

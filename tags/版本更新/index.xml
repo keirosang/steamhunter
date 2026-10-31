@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 08:04:11 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 16:42:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>暗黑ノ血 -ReVerse- 补丁上线：装备显示纠错、平衡与UI优化</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</link>
+				<pubDate>Sat, 31 Oct 2026 16:42:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</guid>
+				<description>官方为《暗黑ノ血 -ReVerse-》推送小型修复补丁，重点修正装备属性显示错误，并带来平衡性调整与UI改进。别小看“Small fixes”：装备数值看得准，配装少走弯路；平衡改动虽未展开细表，实战手感仍值得复测；UI优化让菜单与战斗信息更顺眼。本文整理更新要点、回坑与开荒建议，并提醒加入 Telegram 频道获取秒级限免与特惠推送。</description>
+			</item>
+			<item>
+				<title>《深空当铺：可能是偷的》1.0.0.6更新：模组安全加固与返回键</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</link>
+				<pubDate>Sat, 31 Oct 2026 16:01:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</guid>
+				<description>《深空当铺：可能是偷的》推送1.0.0.6更新，重点在模组系统安全加固，同时新增可替代Esc的“菜单/返回”第二键位。注意：部分旧模组可能失效，需要作者跟进适配。本文梳理更新要点、开档前避坑与按键设置建议，帮你在深空当铺里继续安心做生意。</description>
+			</item>
+			<item>
+				<title>《WithoutEyes Chapter1》万圣节小补丁：修复缺陷，恐怖体验更稳</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-38878274/</link>
+				<pubDate>Sat, 31 Oct 2026 15:42:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-38878274/</guid>
+				<description>万圣节当天，《WithoutEyes Chapter1》推送了一则轻量补丁。官方说明很克制：修复若干小缺陷，并向玩家送上节日问候。本次没有新章节、新怪物或数值调整，核心是让现有流程更稳定。已入库的玩家更新后即可继续冒险；还在观望的朋友，不妨先看看社区反馈和商店页信息，再决定是否入手。</description>
+			</item>
 			<item>
 				<title>REDSHIFT 1.0正式上线：闭眼窥探双世界，永久免费恐怖解谜佳作</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3851950-96bf5d99/</link>
@@ -82,6 +103,13 @@
 				<pubDate>Fri, 30 Oct 2026 23:00:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-2807960-16c5f740/</guid>
 				<description>《战地风云6》官方公布九月反作弊数据：MIR 从 8 月底的 3.24% 升到季初 3.51%，月末收于 3.41%，9 月 2 日最高 3.64%、9 月 10 日最低 3.27%；EA Javelin 在作弊生效前拦下 439,945 次尝试，追踪的 111 个作弊渠道中已有 107 个出现失效、停服或下线，占比 96.39%。</description>
+			</item>
+			<item>
+				<title>《挂机放置修仙录》10月31日抢先体验：九图全开、90种新怪与药水重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4618670-b855ac14/</link>
+				<pubDate>Fri, 30 Oct 2026 22:38:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4618670-b855ac14/</guid>
+				<description>《挂机放置修仙录》抢先体验版定档 2026 年 10 月 31 日 19:00（北京时间）。EA v0.1.0 修复长时间挂机内存增长、高倍速战斗推进过慢，新增 30/60/120 帧率上限；九张地图全开，51 层起追加 90 种新怪与更多 Boss 精英；药水改为百分比单体回复、各自独立冷却；等级上限跟随大境界，炼气 35 级、筑基 65 级。本文拆解改动要点并附挂机开荒建议。</description>
 			</item>
 			<item>
 				<title>Moon Sweepers 60万玩家达成，1.1大版本12月上线，工厂产线全面扩容</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>排队修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%8E%92%E9%98%9F%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 排队修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 09:10:30 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%8E%92%E9%98%9F%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reactance 1.0.2 热修补丁上线：排队与服务器优化，科学怪人开打</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5357500-4270a6aa/</link>
+				<pubDate>Sat, 31 Oct 2026 09:10:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5357500-4270a6aa/</guid>
+				<description>Reactance 推送 1.0.2 小型热修补丁，重点处理匹配排队与服务器稳定性问题，官方用一句“科学怪人们开打”宣告修复完成。本次更新没有大改玩法，但对被排队折磨的玩家来说是实打实的体验优化；如果你正准备拉朋友入坑，先把客户端更到最新版，少走排队弯路。</description>
+			</item>
+	</channel>
+</rss>

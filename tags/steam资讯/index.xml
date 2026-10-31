@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 05:12:28 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 16:01:19 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《深空当铺：可能是偷的》1.0.0.6更新：模组安全加固与返回键</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</link>
+				<pubDate>Sat, 31 Oct 2026 16:01:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4348910-0919fa36/</guid>
+				<description>《深空当铺：可能是偷的》推送1.0.0.6更新，重点在模组系统安全加固，同时新增可替代Esc的“菜单/返回”第二键位。注意：部分旧模组可能失效，需要作者跟进适配。本文梳理更新要点、开档前避坑与按键设置建议，帮你在深空当铺里继续安心做生意。</description>
+			</item>
+			<item>
+				<title>Reactance 1.0.2 热修补丁上线：排队与服务器优化，科学怪人开打</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5357500-4270a6aa/</link>
+				<pubDate>Sat, 31 Oct 2026 09:10:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5357500-4270a6aa/</guid>
+				<description>Reactance 推送 1.0.2 小型热修补丁，重点处理匹配排队与服务器稳定性问题，官方用一句“科学怪人们开打”宣告修复完成。本次更新没有大改玩法，但对被排队折磨的玩家来说是实打实的体验优化；如果你正准备拉朋友入坑，先把客户端更到最新版，少走排队弯路。</description>
+			</item>
+			<item>
+				<title>《破壳行动》万圣节更新：蛋不对劲了！全新「不给糖就捣蛋」事件限时开启</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4312190-cb1a9ec4/</link>
+				<pubDate>Sat, 31 Oct 2026 08:21:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4312190-cb1a9ec4/</guid>
+				<description>万圣节的怪气氛吹进了实验室：《破壳行动》迎来节日特别更新，那颗蛋似乎不再是自己熟悉的模样。事件轮换池新增「不给糖就捣蛋」搅动事件，触发时全队必须临场快速反应。活动仅在10月31日零点至11月1日零点限时开放，过后一切照旧——至少官方是这么“大概率”保证的。喊上队友开一班，亲自看看能撞见什么。</description>
+			</item>
 			<item>
 				<title>《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/</link>
@@ -75,6 +96,13 @@
 				<pubDate>Fri, 30 Oct 2026 05:26:39 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-236390-521ba9c5/</guid>
 				<description>战争雷霆下一大版本 Eagle&amp;rsquo;s Shadow 官方预告正式放出。作为常驻前线的主理人，我从预告主题、空战与顶级房可能动向、更新前后实操清单、回归开黑避坑、配置优化、礼包购买建议，以及更新后第一周该先玩什么、别踩哪些匹配和银币坑逐项拆解，帮你提前看懂这次大版本，少走弯路，别让研发点和钱包一起“坠机”。</description>
+			</item>
+			<item>
+				<title>《挂机放置修仙录》Demo第8更：药水卡顿与内存泄漏修复，新手引导重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-4618670-2edc206c/</link>
+				<pubDate>Thu, 29 Oct 2026 23:28:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-4618670-2edc206c/</guid>
+				<description>《挂机放置修仙录》Demo迎来第八次更新，这次不堆新内容，专治挂机憋屈：自动回血回蓝嗑药时的卡顿与长时间挂机的内存泄漏一并修复，升级换装的假掉血、满屏重叠伤害数字也做了处理；新手引导重做，首次远征入口更好找，主线追踪可一键跳转目的地；锻造台新增“仅可制作”筛选，装备效果描述补全。老存档继续可用，并可继承至2026年10月31日开启的EA版本。</description>
 			</item>
 			<item>
 				<title>《S.O.N.A.R.》Demo收官：自定义按键画质，正式版今日上线</title>

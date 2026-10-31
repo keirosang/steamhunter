@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 10:55:05 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 15:42:48 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《WithoutEyes Chapter1》万圣节小补丁：修复缺陷，恐怖体验更稳</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-38878274/</link>
+				<pubDate>Sat, 31 Oct 2026 15:42:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-38878274/</guid>
+				<description>万圣节当天，《WithoutEyes Chapter1》推送了一则轻量补丁。官方说明很克制：修复若干小缺陷，并向玩家送上节日问候。本次没有新章节、新怪物或数值调整，核心是让现有流程更稳定。已入库的玩家更新后即可继续冒险；还在观望的朋友，不妨先看看社区反馈和商店页信息，再决定是否入手。</description>
+			</item>
 			<item>
 				<title>Ray&#39;s Hotel Adventures热修2：大招卡死与猪罐修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</link>
@@ -117,6 +124,13 @@
 				<pubDate>Fri, 30 Oct 2026 23:23:40 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-3471290-320471ef/</guid>
 				<description>四万多人加愿望单的《I&amp;rsquo;m a Wizard, But I Dig》终于正式发售，完整版本现已登陆 Steam。官方发文感谢 Demo 玩家的一路反馈，同时坦白表态：上线只是开始，后续更新照旧。本篇帮你理清这次发售的关键信息，附上写评测、报 Bug 的正确姿势和开荒小建议，看完再决定要不要把这位「不务正业」的法师请进库。</description>
+			</item>
+			<item>
+				<title>《挂机放置修仙录》10月31日抢先体验：九图全开、90种新怪与药水重做</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-4618670-b855ac14/</link>
+				<pubDate>Fri, 30 Oct 2026 22:38:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-4618670-b855ac14/</guid>
+				<description>《挂机放置修仙录》抢先体验版定档 2026 年 10 月 31 日 19:00（北京时间）。EA v0.1.0 修复长时间挂机内存增长、高倍速战斗推进过慢，新增 30/60/120 帧率上限；九张地图全开，51 层起追加 90 种新怪与更多 Boss 精英；药水改为百分比单体回复、各自独立冷却；等级上限跟随大境界，炼气 35 级、筑基 65 级。本文拆解改动要点并附挂机开荒建议。</description>
 			</item>
 			<item>
 				<title>Moon Sweepers 60万玩家达成，1.1大版本12月上线，工厂产线全面扩容</title>
