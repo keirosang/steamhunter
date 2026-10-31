@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>稳定性修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 稳定性修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 16:26:35 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《WithoutEyes Chapter1》10月31日补丁：缺陷修复与稳定性观察</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-a64910c5/</link>
+				<pubDate>Sat, 31 Oct 2026 16:26:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-a64910c5/</guid>
+				<description>《WithoutEyes Chapter1》在2026年10月31日推送小型补丁，官方说明仅提到修复若干缺陷。本期专栏梳理这次热更新的核心信息、可能影响的体验环节，并给出更新后校验文件、备份存档、排查崩溃与反馈问题的实操建议，帮你更稳妥地继续第一章流程，同时提醒关注后续补丁与社区反馈。</description>
+			</item>
+	</channel>
+</rss>

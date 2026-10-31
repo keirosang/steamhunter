@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>YOU on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/you/</link>
+		<description>Recent content in YOU on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 14:20:21 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/you/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《YOU》万圣节惊悚上线：开发者承诺秒修 Bug，这款新作能入吗</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5408670-9ecc6c1e/</link>
+				<pubDate>Sat, 31 Oct 2026 14:20:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5408670-9ecc6c1e/</guid>
+				<description>万圣节档期，惊悚新作《YOU》正式登场。开发者在公告中坦言首发可能存在 Bug，但承诺会第一时间修复，态度相当诚恳。本文从本次上线的核心看点、实际体验预期、购买与入库建议，到常见问题逐一梳理，想尝鲜的玩家不妨先了解清楚再决定是否入手（含避坑提醒）。</description>
+			</item>
+			<item>
+				<title>《YOU》10月31日更新公告：官方只丢下一行字，却让老玩家想回坑</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5408670-2b51473c/</link>
+				<pubDate>Thu, 29 Oct 2026 02:11:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5408670-2b51473c/</guid>
+				<description>10月31日，《YOU》在 Steam 推送了一则标题仅一行的官方更新公告，没有长篇补丁说明，也没有花哨宣传片。这种极简通报反而值得细品：它通常意味着版本已过审上线、进入以稳定性为主的维护阶段。本文梳理这次更新的看点、对存档与联机的影响，并给出更新后必做的几项检查与回坑建议。</description>
+			</item>
+	</channel>
+</rss>

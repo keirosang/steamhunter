@@ -10,15 +10,29 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 16:42:15 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 18:53:46 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Project Exhibitionist v1.1.0 更新：万圣节套装与私人日记登场，晋升路程腰斩、兴趣点翻倍</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4688700-d424850d/</link>
+				<pubDate>Sat, 31 Oct 2026 18:53:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4688700-d424850d/</guid>
+				<description>《Project Exhibitionist》v1.1.0 正式上线：万圣节五件套、一批全新饰品与私人日记本一次性塞进来；自由模式终于能保存进度，地图 App 首次到访即解锁，晋升所需路程直接砍半，兴趣点密度显著提升。此外还有 NPC 攻击性五档调节、长按 E 快速换物，以及地铁堵路、满包丢物品等一箩筐修复。</description>
+			</item>
 			<item>
 				<title>暗黑ノ血 -ReVerse- 补丁上线：装备显示纠错、平衡与UI优化</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</link>
 				<pubDate>Sat, 31 Oct 2026 16:42:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</guid>
 				<description>官方为《暗黑ノ血 -ReVerse-》推送小型修复补丁，重点修正装备属性显示错误，并带来平衡性调整与UI改进。别小看“Small fixes”：装备数值看得准，配装少走弯路；平衡改动虽未展开细表，实战手感仍值得复测；UI优化让菜单与战斗信息更顺眼。本文整理更新要点、回坑与开荒建议，并提醒加入 Telegram 频道获取秒级限免与特惠推送。</description>
+			</item>
+			<item>
+				<title>《WithoutEyes Chapter1》10月31日补丁：缺陷修复与稳定性观察</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4374510-a64910c5/</link>
+				<pubDate>Sat, 31 Oct 2026 16:26:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-a64910c5/</guid>
+				<description>《WithoutEyes Chapter1》在2026年10月31日推送小型补丁，官方说明仅提到修复若干缺陷。本期专栏梳理这次热更新的核心信息、可能影响的体验环节，并给出更新后校验文件、备份存档、排查崩溃与反馈问题的实操建议，帮你更稳妥地继续第一章流程，同时提醒关注后续补丁与社区反馈。</description>
 			</item>
 			<item>
 				<title>Steam独立小品《Blackboard Ponies》正式发售：粉笔小马40分钟跳跳乐</title>
@@ -42,11 +56,32 @@
 				<description>万圣节当天，《WithoutEyes Chapter1》推送了一则轻量补丁。官方说明很克制：修复若干小缺陷，并向玩家送上节日问候。本次没有新章节、新怪物或数值调整，核心是让现有流程更稳定。已入库的玩家更新后即可继续冒险；还在观望的朋友，不妨先看看社区反馈和商店页信息，再决定是否入手。</description>
 			</item>
 			<item>
+				<title>《YOU》万圣节惊悚上线：开发者承诺秒修 Bug，这款新作能入吗</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-5408670-9ecc6c1e/</link>
+				<pubDate>Sat, 31 Oct 2026 14:20:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-5408670-9ecc6c1e/</guid>
+				<description>万圣节档期，惊悚新作《YOU》正式登场。开发者在公告中坦言首发可能存在 Bug，但承诺会第一时间修复，态度相当诚恳。本文从本次上线的核心看点、实际体验预期、购买与入库建议，到常见问题逐一梳理，想尝鲜的玩家不妨先了解清楚再决定是否入手（含避坑提醒）。</description>
+			</item>
+			<item>
+				<title>《Everdeep Idle》1.0正式版上线：七职业挂机流派、离线收益、宠物与Demo存档继承全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4980350-b8c1bd8d/</link>
+				<pubDate>Sat, 31 Oct 2026 14:00:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4980350-b8c1bd8d/</guid>
+				<description>《Everdeep Idle》1.0.0正式版现已上线，七大职业与海量Build正式解禁。Epoch长线成长和Arcade快节奏双模式任你选，离线收益、宠物伴侣、独特装备升级、锻造重铸与Mastery Seal研究系统全部到位。Demo玩家可用云存档与同步码把进度带进正式版，甚至可能收到一份宠物惊喜；本次还优化了战斗、背包、离线进度和云存档控制，菜单可读性也更好。喜欢挂机刷宝的玩家，这波值得回坑。</description>
+			</item>
+			<item>
 				<title>战争雷霆第248届截图大赛：残骸战损主题开赛，300金鹰等你拿</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-236390-7e730859/</link>
 				<pubDate>Sat, 31 Oct 2026 13:00:16 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-236390-7e730859/</guid>
 				<description>战争雷霆第248届 Steam 截图大赛正式开锣，这回的主题是“Beyond Repair！”——缠斗过后、巷战余烬、海面残骸，统统拍下来。11月6日前带上 #WTscreen248 标签投稿，社区投票与官方评委各选3人，每人300金鹰。投稿硬性规则、避坑细节与战损镜头拍法，主理人一次给你讲透。</description>
+			</item>
+			<item>
+				<title>《Queen&#39;s Domain》1.01.01补丁：六大卡死冻结Bug全修</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-1799840-2758bf18/</link>
+				<pubDate>Sat, 31 Oct 2026 12:13:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-1799840-2758bf18/</guid>
+				<description>《Queen&amp;rsquo;s Domain》推送 1.01.01 热修补丁，一口气修掉六个让玩家血压飙升的恶性问题：绝望之坑软锁、武器进化卡死、处刑者大门卡门、宝箱怪冻结、涅西德周边缺失的回水坑，以及星蜥蜴掉袋悬空。下面把修复清单、老存档自救思路和更新后的避坑要点一次讲清。</description>
 			</item>
 			<item>
 				<title>《Triad of Victory》发售：猜拳构筑流派，首周40%折扣</title>
@@ -61,6 +96,13 @@
 				<pubDate>Sat, 31 Oct 2026 10:55:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-3675870-30a91384/</guid>
 				<description>《Ray&amp;rsquo;s Hotel Adventures》Hotfix #2 已推送，这次补丁不整花活，专治影响体验的硬伤：修复“Booella&amp;rsquo;s Big Bang”大招导致的卡死/冻结问题，调整泳池区域存钱罐的阻挡逻辑，让它更容易被拦住，并顺手清理若干小 Bug。本文整理更新要点、实操建议与常见问题，帮你快速判断值不值得立刻更新。</description>
+			</item>
+			<item>
+				<title>《Brand of Betrayal》正式发售：首发8折，NTR题材RPG讨伐魔王的沉重代价</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4690880-665d9f09/</link>
+				<pubDate>Sat, 31 Oct 2026 10:46:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4690880-665d9f09/</guid>
+				<description>Crazy Beryl 开发、Saikey Studios 发行的成人向RPG《Brand of Betrayal》已在 Steam 正式发售（AppID 4690880），上线即享 20% 首发折扣。玩家将扮演男主 Rein，携妻子与两位青梅竹马踏上讨伐魔王之路，在战斗与探索中不断变强并解锁剧情事件——只是变强的账单，最后由谁来买，可就说不准了。</description>
 			</item>
 			<item>
 				<title>《NAME ME IF YOU CAN》上线Steam，派对抓人开战</title>
@@ -1622,6 +1664,13 @@
 				<pubDate>Thu, 29 Oct 2026 02:22:06 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-3184290-6a0f0a16/</guid>
 				<description>Interrogator 2 迎来 1.0 正式版，开发者坦言小型嵌入模型加向量数据库的审讯方案已基本定型：输入映射、相似语义和上下文缺失仍是主要槽点，但正确回应能鼓励玩家推理。有人靠耐心破案，也有人被系统逗笑甚至误触作弊码。值不值得入？先看这份上手避坑与购买建议。</description>
+			</item>
+			<item>
+				<title>《YOU》10月31日更新公告：官方只丢下一行字，却让老玩家想回坑</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5408670-2b51473c/</link>
+				<pubDate>Thu, 29 Oct 2026 02:11:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5408670-2b51473c/</guid>
+				<description>10月31日，《YOU》在 Steam 推送了一则标题仅一行的官方更新公告，没有长篇补丁说明，也没有花哨宣传片。这种极简通报反而值得细品：它通常意味着版本已过审上线、进入以稳定性为主的维护阶段。本文梳理这次更新的看点、对存档与联机的影响，并给出更新后必做的几项检查与回坑建议。</description>
 			</item>
 			<item>
 				<title>《Just One More Coin》正式发售：40%折扣，挖穿巨龙宝库寻找金钥匙</title>

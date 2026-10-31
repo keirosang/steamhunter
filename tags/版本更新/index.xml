@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 16:42:15 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 18:53:46 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Project Exhibitionist v1.1.0 更新：万圣节套装与私人日记登场，晋升路程腰斩、兴趣点翻倍</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4688700-d424850d/</link>
+				<pubDate>Sat, 31 Oct 2026 18:53:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4688700-d424850d/</guid>
+				<description>《Project Exhibitionist》v1.1.0 正式上线：万圣节五件套、一批全新饰品与私人日记本一次性塞进来；自由模式终于能保存进度，地图 App 首次到访即解锁，晋升所需路程直接砍半，兴趣点密度显著提升。此外还有 NPC 攻击性五档调节、长按 E 快速换物，以及地铁堵路、满包丢物品等一箩筐修复。</description>
+			</item>
 			<item>
 				<title>暗黑ノ血 -ReVerse- 补丁上线：装备显示纠错、平衡与UI优化</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3052820-9e74bc92/</link>
@@ -33,6 +40,13 @@
 				<pubDate>Sat, 31 Oct 2026 15:42:48 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-4374510-38878274/</guid>
 				<description>万圣节当天，《WithoutEyes Chapter1》推送了一则轻量补丁。官方说明很克制：修复若干小缺陷，并向玩家送上节日问候。本次没有新章节、新怪物或数值调整，核心是让现有流程更稳定。已入库的玩家更新后即可继续冒险；还在观望的朋友，不妨先看看社区反馈和商店页信息，再决定是否入手。</description>
+			</item>
+			<item>
+				<title>《Queen&#39;s Domain》1.01.01补丁：六大卡死冻结Bug全修</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-1799840-2758bf18/</link>
+				<pubDate>Sat, 31 Oct 2026 12:13:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-1799840-2758bf18/</guid>
+				<description>《Queen&amp;rsquo;s Domain》推送 1.01.01 热修补丁，一口气修掉六个让玩家血压飙升的恶性问题：绝望之坑软锁、武器进化卡死、处刑者大门卡门、宝箱怪冻结、涅西德周边缺失的回水坑，以及星蜥蜴掉袋悬空。下面把修复清单、老存档自救思路和更新后的避坑要点一次讲清。</description>
 			</item>
 			<item>
 				<title>REDSHIFT 1.0正式上线：闭眼窥探双世界，永久免费恐怖解谜佳作</title>
@@ -425,6 +439,13 @@
 				<pubDate>Thu, 29 Oct 2026 02:22:06 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-29-3184290-6a0f0a16/</guid>
 				<description>Interrogator 2 迎来 1.0 正式版，开发者坦言小型嵌入模型加向量数据库的审讯方案已基本定型：输入映射、相似语义和上下文缺失仍是主要槽点，但正确回应能鼓励玩家推理。有人靠耐心破案，也有人被系统逗笑甚至误触作弊码。值不值得入？先看这份上手避坑与购买建议。</description>
+			</item>
+			<item>
+				<title>《YOU》10月31日更新公告：官方只丢下一行字，却让老玩家想回坑</title>
+				<link>https://info.steamhunter.link/posts/2026-10-29-5408670-2b51473c/</link>
+				<pubDate>Thu, 29 Oct 2026 02:11:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-29-5408670-2b51473c/</guid>
+				<description>10月31日，《YOU》在 Steam 推送了一则标题仅一行的官方更新公告，没有长篇补丁说明，也没有花哨宣传片。这种极简通报反而值得细品：它通常意味着版本已过审上线、进入以稳定性为主的维护阶段。本文梳理这次更新的看点、对存档与联机的影响，并给出更新后必做的几项检查与回坑建议。</description>
 			</item>
 			<item>
 				<title>Blockflow 首次更新上线：屏幕尺寸适配 Bug 修复，独立小作坊的诚意补丁</title>
