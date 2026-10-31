@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 11:00:05 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 12:06:47 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Triad of Victory》发售：猜拳构筑流派，首周40%折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4603280-531bf45e/</link>
+				<pubDate>Sat, 31 Oct 2026 12:06:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4603280-531bf45e/</guid>
+				<description>《Triad of Victory》正式登陆 Steam，首发首周直接给出 40% 的四折力度。游戏把人人都会的石头剪刀布拆成可构筑的策略骨架，技能、天赋、装备三层叠加，既能稳健运营也能极限赌脸。本文整理发售折扣规则、核心机制拆解、新手开局思路与高频问题，帮你判断这波要不要冲。</description>
+			</item>
 			<item>
 				<title>《光与影：33号远征队》Steam限时8折史低，39.99欧元永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-1903340-45413660/</link>
@@ -40,6 +47,13 @@
 				<pubDate>Sat, 31 Oct 2026 10:23:34 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-5328430-8a227d6c/</guid>
 				<description>《cat.exe》在上线当天火速推送 Day 0 补丁，重点处理两类影响体验的启动与平台问题：部分 Windows 机器启动黑屏，以及 macOS 端成就无法正常上报。官方未加入新内容，属于稳定性修复。已入手或准备开玩的玩家建议先更新客户端、检查 Steam 成就同步与系统兼容性，再进入游戏。</description>
+			</item>
+			<item>
+				<title>《The Dark Forest Calls》正式发售：独狼开发者一年半的心血，免费更新路线已定</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4088940-92fdf0f9/</link>
+				<pubDate>Sat, 31 Oct 2026 09:58:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4088940-92fdf0f9/</guid>
+				<description>由 Black Amber Studio 单人开发者 Difry 耗时约一年半打造的恐怖新作《The Dark Forest Calls》正式发售，故事围绕神秘的 Psara 岛与幽深黑森林展开，本体就是一段完整叙事并自带结局。官方同时公开了后续免费更新计划：新的可探索区域、更多岛屿往事与剧情细节、更丰富的敌人种类以及全新玩法机制，但具体档期尚未敲定。想第一时间跟进动态与捡漏的玩家，建议先加愿望单、盯紧社区讨论区。</description>
 			</item>
 			<item>
 				<title>Strike and Pop手柄串键？官方建议关Steam Input</title>
