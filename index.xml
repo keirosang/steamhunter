@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 23:00:04 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 01:05:11 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Exitus》发售：验尸流水线判错三次即处决，13班次多结局</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-2754480-2c4980bd/</link>
+				<pubDate>Mon, 02 Nov 2026 01:05:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-2754480-2c4980bd/</guid>
+				<description>反乌托邦验尸官模拟器《Exitus》正式发售。你是HFU公司的操作员OP_107，每班次面对流水线送来的尸体，核对证件、跑血检、抠文件里的小字，判错三次直接处决。13个班次、多种结局，下班后还得用工资扛住房租暖气与女儿的开销。本文梳理玩法要点、上手避坑与常见问题。</description>
+			</item>
+			<item>
+				<title>FRAGLINE电竞经理1.0正式版上线：旧存档兼容，对局AI更自然</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-4923480-fd4ee0f7/</link>
+				<pubDate>Mon, 02 Nov 2026 01:00:31 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-4923480-fd4ee0f7/</guid>
+				<description>单人开发者打磨多时的电竞俱乐部模拟经营游戏《FRAGLINE: Esports Manager》迎来 1.0 正式版。本次更新让整体体验更稳定、更有深度，旧存档与试玩版存档均可继续使用，官方同时公布后续将重点优化对局内 AI 与 Draft Run 选秀模式。</description>
+			</item>
+			<item>
+				<title>《Loadout Rush》正式发售首周9折！背包塞武器就能打的肉鸽，87件道具56种配方</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-5021730-96bebcc8/</link>
+				<pubDate>Mon, 02 Nov 2026 00:29:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-5021730-96bebcc8/</guid>
+				<description>以背包摆放决定战力的肉鸽新作《Loadout Rush》正式登陆 Steam，首发一周 10% 折扣，试玩版同步保留可先试后买。正式版共 5 名英雄、87 种道具、56 条合成配方、38 项成就与三档难度，武器占格、相邻联动、同名合成的三重机制让每局构筑都不一样。本文拆解核心玩法、开荒摆位思路与首发折扣购买建议。</description>
+			</item>
+			<item>
+				<title>欧洲卡车模拟2客车DLC定档11月12日：三款授权大巴开启载客生涯</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-227300-de60bda0/</link>
+				<pubDate>Mon, 02 Nov 2026 00:10:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-227300-de60bda0/</guid>
+				<description>SCS Software 正式官宣：《欧洲卡车模拟2》全新 Coaches 客车 DLC 将于 2026 年 11 月 12 日正式发车。Scania Touring、Volvo 9700 DD、MAN Lion&amp;rsquo;s Coach 三款官方授权大巴齐上阵，带来载客任务、多站点时刻表与 G 力舒适度系统。本文一次讲清玩法机制、三种任务模式的区别，以及老司机上手前该做哪些准备。</description>
+			</item>
+			<item>
+				<title>《Gimbap Heaven》Steam上线：拖卡做小吃，订单爆满救火</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4501140-b2a2747a/</link>
+				<pubDate>Sun, 01 Nov 2026 23:38:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4501140-b2a2747a/</guid>
+				<description>又一款让手速和算账能力同时报警的模拟经营新游来了。《Gimbap Heaven》现已正式上线 Steam，你要带着自己的小团队经营韩式小吃店：食材、工具和员工全是卡牌，拖拽组合就能完成切菜、烹饪和装盘。订单堆成山时别端着老板架子，亲自下厨救火才是正经事。采购控本、安排菜单、盯紧顾客耐心，忙到飞起也要把店开下去。</description>
+			</item>
 			<item>
 				<title>《PEAK》Steam史低特惠：限时立省38%仅4.95美元</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-3527290-2d975b1a/</link>
@@ -40,6 +75,27 @@
 				<pubDate>Sun, 01 Nov 2026 22:23:17 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-5282040-23bd00d8/</guid>
 				<description>《Myriad Auction》推送了一轮以体验优化为主的更新。本次最实在的改动是设置里新增了“无尽模式自动出售红色藏品”开关，同时修复了后期背包红藏品堆积导致的卡顿掉帧，并把背包每行槽位重新排布，让单页能容纳更多藏品。常跑长线无尽局的玩家，这次能直观感受到背包管理更省心、帧数更稳。</description>
+			</item>
+			<item>
+				<title>《HALFTIME Manager》2.0结束抢先体验正式上线：战术系统重做、临场指挥与转会全面升级</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5005920-239e81de/</link>
+				<pubDate>Sun, 01 Nov 2026 21:00:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5005920-239e81de/</guid>
+				<description>《HALFTIME Manager》2.0正式结束抢先体验，带来上线以来最大规模更新：全新战术系统支持3D战术板预览跑位与区域，试运行模拟会揭示体能、黄牌和对手调整；场边喊话、半场更衣室、更多比赛镜头、转会报价卡与助教换人窗口同步升级，并集中修复比赛与经营问题。高压迫收益更高但体能压力明显，老玩家可重新研究战术，新玩家入坑正当时。</description>
+			</item>
+			<item>
+				<title>《Obrum》正式发售：硬核解谜新作上线，每一步都要付出代价</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4009170-7ef31993/</link>
+				<pubDate>Sun, 01 Nov 2026 18:54:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4009170-7ef31993/</guid>
+				<description>打磨一年多的硬核解谜新作《Obrum》正式登陆 Steam 发售。开发者明确表态：想找一款闭着眼睛点点点就能通关的休闲解谜，请移步别处——这款游戏会反复拷问你的每一步决策，以及随之而来的连锁后果。本文梳理本作的核心机制、上手思路、入库方法与购买建议，并附上新手最容易踩的坑。</description>
+			</item>
+			<item>
+				<title>《Corner TCG》正式发售！首发30%折扣，卡牌对战新游上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5180260-d0061d66/</link>
+				<pubDate>Sun, 01 Nov 2026 18:13:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5180260-d0061d66/</guid>
+				<description>卡牌对战新作《Corner TCG》终于结束漫长等待，正式登陆 Steam！官方同步开启首发 30% 折扣，对喜欢构筑卡组、享受策略博弈的玩家来说，这波入手窗口值得关注。本期专栏梳理发售信息、折扣规则、上手建议与常见问题，助你快速判断是否入坑；如果你正在寻找一款强调卡组搭配的新卡牌游戏，不妨趁首发优惠体验一番。</description>
 			</item>
 			<item>
 				<title>《Anubis Temple》埃及神庙发售：50个一屏一房的复古平台跳跃关卡，首周9折</title>
@@ -936,6 +992,13 @@
 				<pubDate>Fri, 30 Oct 2026 23:23:40 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-3471290-320471ef/</guid>
 				<description>四万多人加愿望单的《I&amp;rsquo;m a Wizard, But I Dig》终于正式发售，完整版本现已登陆 Steam。官方发文感谢 Demo 玩家的一路反馈，同时坦白表态：上线只是开始，后续更新照旧。本篇帮你理清这次发售的关键信息，附上写评测、报 Bug 的正确姿势和开荒小建议，看完再决定要不要把这位「不务正业」的法师请进库。</description>
+			</item>
+			<item>
+				<title>Corner TCG官宣跳票延期：单人开发首作继续打磨，承诺11月底前发售</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5180260-89943230/</link>
+				<pubDate>Fri, 30 Oct 2026 23:12:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5180260-89943230/</guid>
+				<description>Steam 卡牌对战新作 Corner TCG 官方宣布延期，开发者坦言这是自己第一款登陆 Steam 的作品，需要比预期更多的时间打磨，新的发售日期将很快公布，但承诺最迟不晚于 11 月底。本文梳理延期原因、当前开发状态、愿望单关注建议，以及发售后第一时间入库与上手要点。</description>
 			</item>
 			<item>
 				<title>战地风云6九月反作弊成绩单：43.9万次作弊被拦，MIR回落3.41%</title>
