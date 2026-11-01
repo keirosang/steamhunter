@@ -10,15 +10,36 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 07:33:09 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 10:18:37 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Lacey&#39;s Flash Games》热修复v3：Grace告别害羞，对话量明显增加</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3459340-bd4f7f05/</link>
+				<pubDate>Sun, 01 Nov 2026 10:18:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3459340-bd4f7f05/</guid>
+				<description>《Lacey&amp;rsquo;s Flash Games》迎来 Hot Fix v.3，这次补丁不修崩溃也不调数值，而是把 Grace 从‘害羞社恐’改成‘健谈选手’。官方说明只有一句，但对叙事游戏来说，角色对话量直接关系到人设弧光、信息密度和玩家代入感。本文拆解这次热修复的实际影响，并给出更新、回看剧情和避坑建议。</description>
+			</item>
+			<item>
+				<title>Switch 2版《使命召唤：现代战争4》输入延迟翻倍，掌机125ms</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4435490-dffffa59/</link>
+				<pubDate>Sun, 01 Nov 2026 08:04:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4435490-dffffa59/</guid>
+				<description>Digital Foundry 实测给 Switch 2 版《使命召唤：现代战争4》泼了盆冷水：多人模式虽能稳住 60 帧，但电视模式输入延迟 81ms、掌机模式 100ms，最高飙到 125ms，对比 PS5 的 49.1ms 几乎翻倍。单人战役锁 30 帧且画质妥协，底座支持 4K。想拿 Switch 2 打排位的兄弟，先看完这份避坑指南。</description>
+			</item>
 			<item>
 				<title>Lacey&#39;s Flash Games 更新补丁：匈牙利语与意大利语本地化修复到位，细节打磨不含糊</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</link>
 				<pubDate>Sun, 01 Nov 2026 07:33:09 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</guid>
 				<description>复古 Flash 小游戏合集《Lacey&amp;rsquo;s Flash Games》推送小型本地化补丁，主要针对匈牙利语与意大利语文本进行校对修复，解决错字、断行溢出与描述不准等问题。本次不涉及玩法机制、数值平衡与新内容，属纯文本层优化，已购玩家启动 Steam 即可自动更新。国区玩家基本无感，但开发者仍在维护是个好信号。</description>
+			</item>
+			<item>
+				<title>《Polyion》1.0正式版上线：建造重做，多岛屿存档与掌机支持</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-1838980-d1e72d52/</link>
+				<pubDate>Sun, 01 Nov 2026 05:07:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-1838980-d1e72d52/</guid>
+				<description>历经数年抢先体验，《Polyion》1.0正式版终于上线！本次更新全面重做建造与资源管理系统，优化菜单导航、提示信息与 UI 可读性，并加入多存档、多岛屿与不同城镇规模。画面色彩与对比度同步提升。官方还确认后续将推出新建筑、新岛屿、动物与天气系统，Steam Deck 与手柄支持也在计划中。</description>
 			</item>
 			<item>
 				<title>《Blunderbusted》发售整活：误标1.0正式版，实为抢先体验</title>
@@ -35,6 +56,13 @@
 				<description>《DEADLINE DINNER》推送小型官方更新，重点修复游戏内部分英文文本显示异常的问题。本次更新没有新增玩法、地图或平衡性调整，属于体验优化型补丁。已经入库的玩家建议重启 Steam 完成更新后再进游戏，避免旧版本残留造成误判；准备入手的玩家也可先关注后续版本表现。</description>
 			</item>
 			<item>
+				<title>Steam Deck 实测稳定 60 帧！《Librarian Together: Manga Tidy Up》掌机整理漫画体验报告</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5399880-86314db3/</link>
+				<pubDate>Sun, 01 Nov 2026 03:01:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5399880-86314db3/</guid>
+				<description>《Librarian Together: Manga Tidy Up》官方宣布已通过 Steam Deck 实测，游戏在掌机上可稳定跑满 60 FPS，随手揣兜就能开整理。本文拆解这条更新对掌机党的实际意义、联机开黑与画质续航的取舍建议，并附上社区反馈的正确姿势与常见问题答疑。</description>
+			</item>
+			<item>
 				<title>KeyQu 创作者与悬浮窗大更新：防丢稿、跳跃动画与音效优化全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</link>
 				<pubDate>Sun, 01 Nov 2026 02:44:34 +0800</pubDate>
@@ -42,11 +70,25 @@
 				<description>KeyQu 迎来创作者与悬浮窗体验更新：悬浮窗关闭后可重新打开，编辑未保存会提前提醒，新增按键跳跃动画，并支持两秒以内的短音效剪辑，被拒绝的文件也会给出明确提示。本文整理更新要点、实操建议与常见问题，帮你快速上手新版本。</description>
 			</item>
 			<item>
+				<title>《Librarian Together》光照热修上线，联机整理漫画不再摸黑搬书</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5399880-3a0fa8f6/</link>
+				<pubDate>Sun, 01 Nov 2026 02:41:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5399880-3a0fa8f6/</guid>
+				<description>《Librarian Together: Manga Tidy Up》推送了一枚小型热修补丁，官方日志只有一句“修复光照问题”，却直击这款联机整理漫画游戏里最容易影响玩家的地方——亮度与可读性。本文梳理这次修复的实际影响、联机更新注意事项、入库与开黑建议，以及玩家最关心的高频疑问解答。</description>
+			</item>
+			<item>
 				<title>《人类一败涂地》Steam史低17.4元，70%折扣限时开启联机整活</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-477160-c9c9d57a/</link>
 				<pubDate>Sun, 01 Nov 2026 02:00:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-477160-c9c9d57a/</guid>
 				<description>Steam 官方推荐特惠开启，《人类一败涂地》直降 70%，原价 58 元现仅 17.4 元，平历史最低。限时活动，购买永久入库。软体小人物理沙雕玩法，单人解谜、多人联机整活皆宜。本文整理折扣规则、上手建议与联机避坑要点，帮你快乐上车。无论是想找一款能笑出声的派对游戏，还是补票收藏，这波都值得关注。</description>
+			</item>
+			<item>
+				<title>恐怖独立新作《My Name Is...》发售：第4关掉帧先修，AI寻路将重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</link>
+				<pubDate>Sun, 01 Nov 2026 01:51:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</guid>
+				<description>独立恐怖新作《My Name Is&amp;hellip;》正式发售，开发者同步公布首日修复与后续路线：第4关FPS骤降将被优先处理，Godot内置导航不满足墙面/地板追击需求，AI寻路计划重写；同时还会分批加入4个特殊实体、新地点与道具强化，并评估让第五关豪宅回归。</description>
 			</item>
 			<item>
 				<title>《Librarian Together: Manga Tidy Up》正式登陆 Steam，双人合作整理漫画书店的治愈新游开卖</title>

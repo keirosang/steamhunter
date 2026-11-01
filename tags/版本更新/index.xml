@@ -21,6 +21,13 @@
 				<description>KeyQu 迎来创作者与悬浮窗体验更新：悬浮窗关闭后可重新打开，编辑未保存会提前提醒，新增按键跳跃动画，并支持两秒以内的短音效剪辑，被拒绝的文件也会给出明确提示。本文整理更新要点、实操建议与常见问题，帮你快速上手新版本。</description>
 			</item>
 			<item>
+				<title>恐怖独立新作《My Name Is...》发售：第4关掉帧先修，AI寻路将重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</link>
+				<pubDate>Sun, 01 Nov 2026 01:51:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</guid>
+				<description>独立恐怖新作《My Name Is&amp;hellip;》正式发售，开发者同步公布首日修复与后续路线：第4关FPS骤降将被优先处理，Godot内置导航不满足墙面/地板追击需求，AI寻路计划重写；同时还会分批加入4个特殊实体、新地点与道具强化，并评估让第五关豪宅回归。</description>
+			</item>
+			<item>
 				<title>《Usurper》更新实测：光标三档放大，飞镖机动叠加让冲撞流质变</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</link>
 				<pubDate>Sun, 01 Nov 2026 00:43:08 +0800</pubDate>

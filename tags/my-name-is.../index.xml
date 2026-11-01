@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My Name Is... on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/my-name-is.../</link>
+		<description>Recent content in My Name Is... on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 01:51:23 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/my-name-is.../index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>恐怖独立新作《My Name Is...》发售：第4关掉帧先修，AI寻路将重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</link>
+				<pubDate>Sun, 01 Nov 2026 01:51:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</guid>
+				<description>独立恐怖新作《My Name Is&amp;hellip;》正式发售，开发者同步公布首日修复与后续路线：第4关FPS骤降将被优先处理，Godot内置导航不满足墙面/地板追击需求，AI寻路计划重写；同时还会分批加入4个特殊实体、新地点与道具强化，并评估让第五关豪宅回归。</description>
+			</item>
+	</channel>
+</rss>

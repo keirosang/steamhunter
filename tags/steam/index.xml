@@ -21,6 +21,20 @@
 				<description>《Blunderbusted》发售日遭遇后台乌龙，Steam页面被误标为1.0正式版，实际仍是抢先体验的预阿尔法构建。官方已联系Valve恢复标签，并提醒玩家：当前版本有Bug、缺生态区、平衡未完成，2.99美元只是抢先体验特价。想等完美版的建议观望，想帮忙测试光枪的可以入场。</description>
 			</item>
 			<item>
+				<title>《Librarian Together》光照热修上线，联机整理漫画不再摸黑搬书</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5399880-3a0fa8f6/</link>
+				<pubDate>Sun, 01 Nov 2026 02:41:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5399880-3a0fa8f6/</guid>
+				<description>《Librarian Together: Manga Tidy Up》推送了一枚小型热修补丁，官方日志只有一句“修复光照问题”，却直击这款联机整理漫画游戏里最容易影响玩家的地方——亮度与可读性。本文梳理这次修复的实际影响、联机更新注意事项、入库与开黑建议，以及玩家最关心的高频疑问解答。</description>
+			</item>
+			<item>
+				<title>恐怖独立新作《My Name Is...》发售：第4关掉帧先修，AI寻路将重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</link>
+				<pubDate>Sun, 01 Nov 2026 01:51:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3698670-cb9802b2/</guid>
+				<description>独立恐怖新作《My Name Is&amp;hellip;》正式发售，开发者同步公布首日修复与后续路线：第4关FPS骤降将被优先处理，Godot内置导航不满足墙面/地板追击需求，AI寻路计划重写；同时还会分批加入4个特殊实体、新地点与道具强化，并评估让第五关豪宅回归。</description>
+			</item>
+			<item>
 				<title>《Librarian Together: Manga Tidy Up》正式登陆 Steam，双人合作整理漫画书店的治愈新游开卖</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5399880-48c6ba54/</link>
 				<pubDate>Sun, 01 Nov 2026 01:22:37 +0800</pubDate>
