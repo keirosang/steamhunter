@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Queen&rsquo;s Domain 推送 1.01.02 补丁，全程只修问题不添新内容：新增 DX12 启动选项，修复海王 Dagoom 旋转状态死亡异常、多处可把角色卡住的地形点、地面波弹道判定框、读档后饰品属性失效，以及黑骨女巫 Husipo 的 BOSS 战触发问题。本文逐条拆解修复影响，并给出启动项设置、旧存档检查与卡关救援的实操建议。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复">
+  <meta property="og:description" content="Queen&rsquo;s Domain 推送 1.01.02 补丁，全程只修问题不添新内容：新增 DX12 启动选项，修复海王 Dagoom 旋转状态死亡异常、多处可把角色卡住的地形点、地面波弹道判定框、读档后饰品属性失效，以及黑骨女巫 Husipo 的 BOSS 战触发问题。本文逐条拆解修复影响，并给出启动项设置、旧存档检查与卡关救援的实操建议。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/25b5708e229b9f94.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Queen&#39;s Domain 更新：DX12 启动项与 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Queen&#39;s Domain</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 1799840</span>
+      
+    </div>
+
+    <h1 class="article-title">Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-01T06:06:17&#43;08:00" class="meta-date">
+          📅 2026-11-01 06:06
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2157 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/1799840/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/1799840" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/25b5708e229b9f94.jpg" alt="Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Queen&#39;s Domain 推送 1.01.02 补丁，全程只修问题不添新内容：新增 DX12 启动选项，修复海王 Dagoom 旋转状态死亡异常、多处可把角色卡住的地形点、地面波弹道判定框、读档后饰品属性失效，以及黑骨女巫 Husipo 的 BOSS 战触发问题。本文逐条拆解修复影响，并给出启动项设置、旧存档检查与卡关救援的实操建议。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="queens-domain-10102-补丁上线dx12-启动项终于安排卡关党的春天也来了">Queen&rsquo;s Domain 1.01.02 补丁上线：DX12 启动项终于安排，卡关党的春天也来了</h1>
+<p>各位还在 Queen&rsquo;s Domain 的城堡与地牢里摸爬滚打的兄弟姐妹们，注意查收更新。开发组这次端上来的 1.01.02 补丁，体量不大，但每一条都精准踩在玩家的痛点上——没有花里胡哨的新内容，全是「把你卡住的地方帮你掰开」的实在活儿。俗话说得好，修 bug 修得准，比塞十个新系统更让人感动。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<table>
+	<thead>
+			<tr>
+					<th>改动项</th>
+					<th>类型</th>
+					<th>玩家体感</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>新增 DX12 启动选项</td>
+					<td>性能/兼容</td>
+					<td>高配显卡党可以试试新 API，掉帧或崩溃可一键回退</td>
+			</tr>
+			<tr>
+					<td>修复海王 Dagoom 旋转中死亡异常</td>
+					<td>战斗结算</td>
+					<td>不再出现 BOSS 死了但不结算、掉落异常的尴尬</td>
+			</tr>
+			<tr>
+					<td>修复若干卡位点</td>
+					<td>地图/地形</td>
+					<td>探索时被塞进墙缝、卡在角落的惨案减少</td>
+			</tr>
+			<tr>
+					<td>调整地面波弹道判定框</td>
+					<td>战斗手感</td>
+					<td>命中判定不再玄学，该中就是中</td>
+			</tr>
+			<tr>
+					<td>修复读档后饰品属性失效</td>
+					<td>存档/数值</td>
+					<td>老存档面板数值不再莫名缩水</td>
+			</tr>
+			<tr>
+					<td>修复黑骨女巫 Husipo 战斗触发</td>
+					<td>BOSS 进度</td>
+					<td>走到门口却不开打的卡关情况得到处理</td>
+			</tr>
+	</tbody>
+</table>
+<p>一句话总结：这版是纯正的「体验修补包」，没有平衡性大改，没有数值背刺，属于那种你打开 Steam 看到它自动更完了，会心一笑然后继续开档的类型。</p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一dx12-启动选项高配玩家的新玩具">一、DX12 启动选项：高配玩家的新玩具</h3>
+<p>本次最受关注的自然是新增的 DX12 启动选项。以往在部分新架构显卡上，老渲染路径偶尔会出现帧生成不稳、画面撕裂或加载偏慢的情况，DX12 路径给了玩家多一个选择。注意这是「选项」而不是强制切换，说明开发组保留了两条路线，稳定性优先的玩家完全可以继续用原来的模式。</p>
+<p>我的建议很朴素：先备份存档，再试 DX12。跑得顺就留着，遇到闪退、贴图异常、全屏切换黑屏，立刻切回默认启动方式，别跟自己的游戏时间过不去。</p>
+<h3 id="二海王-dagoom-的旋转死亡问题">二、海王 Dagoom 的旋转死亡问题</h3>
+<p>Dagoom the Sea King 这场战斗里，BOSS 在旋转状态下被击杀，有机会导致结算流程卡住或状态机错乱——也就是俗称的「打死了，但没完全打死」。这次直接把这条路径封了。对于正在推进海王进度的玩家，这大概是本补丁里最救命的改动：不用再对着血条归零却干瞪眼的 BOSS 怀疑人生。</p>
+<h3 id="三地形卡位点修复">三、地形卡位点修复</h3>
+<p>官方说法是修复了「几处会让你卡住的位置」。玩过这类动作探索游戏的都懂，被卡进地形缝隙后只有两条路：读档，或者对着墙疯狂转圈祈祷判定救你。这类修复看起来不起眼，实际上是长期游玩体验的地基，尤其是喜欢贴着墙根找隐藏路线的探索党。</p>
+<h3 id="四地面波弹道判定框调整">四、地面波弹道判定框调整</h3>
+<p>地面波类投射物的判定框做了修正，官方目标是让命中更可靠。实战意义在于：不再出现你明明站在波纹正中央却毫发无伤，或者视觉上已经侧身躲开却莫名其妙掉血的情况。判定清晰了，躲技能的节奏才练得出来，硬核玩家的肌肉记忆也能真正建立。</p>
+<h3 id="五读档后饰品属性失效">五、读档后饰品属性失效</h3>
+<p>这条属于「不修能忍，修了真香」的类型。此前读档后饰品类装备的属性加成有概率不生效或显示错乱，等于你辛苦配的 Build 读一次档就打了折扣。现在修复之后，建议所有老玩家读档后打开装备面板核对一遍数值，确认加成回来了，再决定要不要重新配装。</p>
+<h3 id="六黑骨女巫-husipo-战斗触发">六、黑骨女巫 Husipo 战斗触发</h3>
+<p>Black Skeletal Witch Husipo 的 BOSS 战触发条件此前存在异常，会导致部分玩家走到指定位置却无法进入战斗，进度就此僵住。如果你之前正是被卡在这里弃档的，现在可以回头再试一次——大概率能顺利开打。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>1. 怎么更新最稳妥</strong></p>
+<p>Steam 库中右键 Queen&rsquo;s Domain → 属性 → 已安装文件 → 校验游戏文件完整性，让它自动把 1.01.02 的补丁补齐。如果你之前手动动过配置文件，建议更新后先让游戏重新生成一遍，避免旧配置和新版本打架。</p>
+<p><strong>2. DX12 启动项怎么开</strong></p>
+<p>在 Steam 库中右键游戏进入属性，找到启动选项一栏，或者直接看游戏启动时弹出的图形接口选择窗口，切换到 DX12 尝试。第一次进游戏建议先跑一段熟悉的场景对比帧数，别一上来就打 BOSS——万一崩了，损失的可不只是时间。</p>
+<p><strong>3. 更新前先备份存档</strong></p>
+<p>涉及饰品属性和读档逻辑的修复，理论上不会破坏存档，但备份永远是最便宜的保险。存档目录位置可以在游戏内或社区指南里查到，复制一份到桌面，出问题随时回滚。</p>
+<p><strong>4. 被卡住的进度怎么办</strong></p>
+<p>如果你之前因为黑骨女巫不触发而卡关，更新后重新进入该区域即可；如果仍旧不触发，尝试回主菜单重进地图，或者从稍早的存档再走一遍触发流程。至于之前卡在地形里的存档，更新后原地读档多数能正常脱身。</p>
+<p><strong>5. 联机与开黑的小提醒</strong></p>
+<p>版本不一致是老生常谈的坑。拉朋友一起玩之前，确认双方都已更新到 1.01.02，否则容易出现进不去房间、进度不同步的情况。老规矩，先在群里喊一声「都更了吗」，能省下半小时互相排查的时间。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>补丁推送、限时免费领取、临时工手滑打出的史低价格，往往都是几个小时内的窗口期。想第一时间收到消息，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，秒级推送限免与特惠信息，不用天天守着商店页面刷新。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：DX12 启动选项是必须开启吗？开了会不会掉帧？</strong></p>
+<p>不是必须。它只是一个新增的可选项，游戏依然保留默认渲染路径。是否开启取决于你的显卡型号和驱动版本，建议实际对比帧数与稳定性，出现闪退、贴图异常或切屏黑屏就切回默认即可。</p>
+<p><strong>Q2：我之前的存档因为黑骨女巫 BOSS 不触发卡住了，现在能救吗？</strong></p>
+<p>大概率可以。更新后重新进入该区域触发战斗即可；若仍无反应，尝试退回主菜单重进，或用稍早的存档再走一遍流程。记得先备份存档，操作更安心。</p>
+<p><strong>Q3：读档后饰品属性不对，更新后会自动修正吗？</strong></p>
+<p>修复针对的是读档时属性未能正确加载的问题。更新后建议读档进入游戏，打开装备面板逐件核对加成数值；如果显示仍异常，重新穿戴一次饰品通常就能刷新属性计算。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Queen%27s%20Domain/" class="article-tag-item">#Queen&#39;s Domain</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e8%a1%a5%e4%b8%81%e8%af%b4%e6%98%8e/" class="article-tag-item">#补丁说明</a>
+          
+          <a href="/tags/BUG%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#BUG修复</a>
+          
+          <a href="/tags/Steam%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam资讯</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-01-5246020-408d3235/" class="sibling-title">《Sex Shop Chaos》正式登陆Steam：混乱店铺经营开张，首发反馈征集中</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-01-5437880-b1d2bac0/" class="sibling-title">《Domain Controller》正式发售：在丧尸实验室当IT运维，用PowerShell和AD打僵尸</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一dx12-启动选项高配玩家的新玩具">一、DX12 启动选项：高配玩家的新玩具</a></li>
+        <li><a href="#二海王-dagoom-的旋转死亡问题">二、海王 Dagoom 的旋转死亡问题</a></li>
+        <li><a href="#三地形卡位点修复">三、地形卡位点修复</a></li>
+        <li><a href="#四地面波弹道判定框调整">四、地面波弹道判定框调整</a></li>
+        <li><a href="#五读档后饰品属性失效">五、读档后饰品属性失效</a></li>
+        <li><a href="#六黑骨女巫-husipo-战斗触发">六、黑骨女巫 Husipo 战斗触发</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

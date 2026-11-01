@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 22:19:04 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 06:35:58 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AE%98%E6%96%B9%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Domain Controller》正式发售：在丧尸实验室当IT运维，用PowerShell和AD打僵尸</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5437880-b1d2bac0/</link>
+				<pubDate>Sun, 01 Nov 2026 06:35:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5437880-b1d2bac0/</guid>
+				<description>Kelmore Biological 的新人 Helpdesk 上岗了——白天处理锁定账号、打印机、Wi-Fi 和钓鱼邮件，晚上抱着仅剩的子弹在 B1 到 B9 之间清剿脱逃体。十个楼层、十天工期，一层一个真实的 Windows 运维技能，一次更新还顺手修好了一堆见鬼的小毛病。</description>
+			</item>
 			<item>
 				<title>ODD ODDS紧急热修：角色缺失二次修复，存档与对局这次稳了吗？</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5159930-482ec37a/</link>

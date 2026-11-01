@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 00:27:34 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 11:00:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lacey&#39;s Flash Games热修v.4上线：修复黑暗桥段小游戏异常失败状态</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3459340-56ea076c/</link>
+				<pubDate>Sun, 01 Nov 2026 11:00:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3459340-56ea076c/</guid>
+				<description>Lacey&amp;rsquo;s Flash Games 推送 Hot Fix v.4，规模不大但很关键：开发组修复了某个小游戏在极暗场景/黑暗桥段中可能触发的异常失败状态。对氛围向作品来说，这类问题一旦出现就容易打断探索节奏，甚至让玩家误以为走进死局。本次热修不涉及新内容与大改，重点是让流程更稳。已入坑的玩家更新后继续推进即可；准备开玩的玩家也建议先确认版本，避免在黑暗关卡里被莫名卡住。</description>
+			</item>
+			<item>
+				<title>Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/</link>
+				<pubDate>Sun, 01 Nov 2026 06:06:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/</guid>
+				<description>Queen&amp;rsquo;s Domain 推送 1.01.02 补丁，全程只修问题不添新内容：新增 DX12 启动选项，修复海王 Dagoom 旋转状态死亡异常、多处可把角色卡住的地形点、地面波弹道判定框、读档后饰品属性失效，以及黑骨女巫 Husipo 的 BOSS 战触发问题。本文逐条拆解修复影响，并给出启动项设置、旧存档检查与卡关救援的实操建议。</description>
+			</item>
 			<item>
 				<title>CRACK v1.1.20 更新详解：超大存档秒加载，货架卡物有救了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-4312190-7fd4014d/</link>

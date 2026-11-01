@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 00:27:34 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 06:06:17 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/</link>
+				<pubDate>Sun, 01 Nov 2026 06:06:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/</guid>
+				<description>Queen&amp;rsquo;s Domain 推送 1.01.02 补丁，全程只修问题不添新内容：新增 DX12 启动选项，修复海王 Dagoom 旋转状态死亡异常、多处可把角色卡住的地形点、地面波弹道判定框、读档后饰品属性失效，以及黑骨女巫 Husipo 的 BOSS 战触发问题。本文逐条拆解修复影响，并给出启动项设置、旧存档检查与卡关救援的实操建议。</description>
+			</item>
 			<item>
 				<title>CRACK v1.1.20 更新详解：超大存档秒加载，货架卡物有救了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-4312190-7fd4014d/</link>

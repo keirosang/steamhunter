@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 02:44:34 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 12:44:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《DEADLINE DINNER》更新：UI观赏性优化，这顿晚餐更顺眼</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-650d4086/</link>
+				<pubDate>Sun, 01 Nov 2026 12:44:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4922230-650d4086/</guid>
+				<description>Steam 独立小品《DEADLINE DINNER》推送例行更新，官方这次只做了一件事——优化界面 UI 的观赏性。别嫌这句话短，UI 精修往往意味着信息层级更清晰、按钮更好点、氛围更对味。本文聊聊这版补丁到底动了哪儿、老存档要不要担心、现在还该不该入手，顺带把蹲更新、蹲特惠的正确姿势一并讲清。</description>
+			</item>
+			<item>
+				<title>《Sort Sort Yokai》1.1.3更新：双显卡与鼠标手感修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5417330-bd476ef0/</link>
+				<pubDate>Sun, 01 Nov 2026 12:27:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5417330-bd476ef0/</guid>
+				<description>《Sort Sort Yokai》1.1.3 补丁主打笔记本体验修复：双显卡机型现在会正确调用独显，告别核显拖后腿；帧率不足时自动降画质并提示，手动设置则会锁定；低帧率下快速甩鼠标不再丢输入，新增 Raw input 开关让视角更跟手，bug 报告也会附带帧率数据。</description>
+			</item>
+			<item>
+				<title>Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/</link>
+				<pubDate>Sun, 01 Nov 2026 06:06:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-1799840-f020ddf3/</guid>
+				<description>Queen&amp;rsquo;s Domain 推送 1.01.02 补丁，全程只修问题不添新内容：新增 DX12 启动选项，修复海王 Dagoom 旋转状态死亡异常、多处可把角色卡住的地形点、地面波弹道判定框、读档后饰品属性失效，以及黑骨女巫 Husipo 的 BOSS 战触发问题。本文逐条拆解修复影响，并给出启动项设置、旧存档检查与卡关救援的实操建议。</description>
+			</item>
+			<item>
+				<title>DEADLINE DINNER 更新：UI 文本排版精修，按钮间距终于不逼死强迫症</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-11dc42e0/</link>
+				<pubDate>Sun, 01 Nov 2026 05:10:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4922230-11dc42e0/</guid>
+				<description>DEADLINE DINNER 推送了一版纯体验向的小补丁，官方把重心全放在界面与文本的展示效果上：按钮边缘间距、控件留白、文字排版这些平时最容易被忽略的细节被逐一打磨。本次更新不涉及玩法机制、数值与内容扩充，属于人人都能吃到的“手感型”优化。本文拆解这次 UI 精修到底修了哪些地方、对实际游玩有什么影响，以及更新后遇到界面问题的处理办法。</description>
+			</item>
 			<item>
 				<title>KeyQu 创作者与悬浮窗大更新：防丢稿、跳跃动画与音效优化全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</link>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sort Sort Yokai on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/sort-sort-yokai/</link>
+		<description>Recent content in Sort Sort Yokai on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 13:01:15 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/sort-sort-yokai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Sort Sort Yokai》正式发售：整理640只妖怪玩偶，首周九折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5417330-524b94db/</link>
+				<pubDate>Sun, 01 Nov 2026 13:01:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5417330-524b94db/</guid>
+				<description>把640只玩偶、16个家族归位听起来像治愈系收纳小品，但《Sort Sort Yokai》偏要给你加料——不肯待在原位的妖怪、伪装成别的东西的冒牌货、趁你不注意顺走货架的小偷，还有随店铺成型才逐步解锁的隐藏谜题。游戏现已发售，首周九折，支持键鼠与手柄，Windows 与 Steam Deck 均可畅玩。</description>
+			</item>
+			<item>
+				<title>《Sort Sort Yokai》1.1.3更新：双显卡与鼠标手感修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5417330-bd476ef0/</link>
+				<pubDate>Sun, 01 Nov 2026 12:27:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5417330-bd476ef0/</guid>
+				<description>《Sort Sort Yokai》1.1.3 补丁主打笔记本体验修复：双显卡机型现在会正确调用独显，告别核显拖后腿；帧率不足时自动降画质并提示，手动设置则会锁定；低帧率下快速甩鼠标不再丢输入，新增 Raw input 开关让视角更跟手，bug 报告也会附带帧率数据。</description>
+			</item>
+	</channel>
+</rss>

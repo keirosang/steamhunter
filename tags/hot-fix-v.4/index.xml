@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hot Fix V.4 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/hot-fix-v.4/</link>
+		<description>Recent content in Hot Fix V.4 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 11:00:15 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/hot-fix-v.4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lacey&#39;s Flash Games热修v.4上线：修复黑暗桥段小游戏异常失败状态</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3459340-56ea076c/</link>
+				<pubDate>Sun, 01 Nov 2026 11:00:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3459340-56ea076c/</guid>
+				<description>Lacey&amp;rsquo;s Flash Games 推送 Hot Fix v.4，规模不大但很关键：开发组修复了某个小游戏在极暗场景/黑暗桥段中可能触发的异常失败状态。对氛围向作品来说，这类问题一旦出现就容易打断探索节奏，甚至让玩家误以为走进死局。本次热修不涉及新内容与大改，重点是让流程更稳。已入坑的玩家更新后继续推进即可；准备开玩的玩家也建议先确认版本，避免在黑暗关卡里被莫名卡住。</description>
+			</item>
+	</channel>
+</rss>

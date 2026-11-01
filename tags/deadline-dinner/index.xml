@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 03:43:55 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 12:44:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/deadline-dinner/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《DEADLINE DINNER》更新：UI观赏性优化，这顿晚餐更顺眼</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-650d4086/</link>
+				<pubDate>Sun, 01 Nov 2026 12:44:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4922230-650d4086/</guid>
+				<description>Steam 独立小品《DEADLINE DINNER》推送例行更新，官方这次只做了一件事——优化界面 UI 的观赏性。别嫌这句话短，UI 精修往往意味着信息层级更清晰、按钮更好点、氛围更对味。本文聊聊这版补丁到底动了哪儿、老存档要不要担心、现在还该不该入手，顺带把蹲更新、蹲特惠的正确姿势一并讲清。</description>
+			</item>
+			<item>
+				<title>DEADLINE DINNER 更新：UI 文本排版精修，按钮间距终于不逼死强迫症</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-11dc42e0/</link>
+				<pubDate>Sun, 01 Nov 2026 05:10:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4922230-11dc42e0/</guid>
+				<description>DEADLINE DINNER 推送了一版纯体验向的小补丁，官方把重心全放在界面与文本的展示效果上：按钮边缘间距、控件留白、文字排版这些平时最容易被忽略的细节被逐一打磨。本次更新不涉及玩法机制、数值与内容扩充，属于人人都能吃到的“手感型”优化。本文拆解这次 UI 精修到底修了哪些地方、对实际游玩有什么影响，以及更新后遇到界面问题的处理办法。</description>
+			</item>
 			<item>
 				<title>DEADLINE DINNER 文本修复：英文显示异常已修正</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-e4c88979/</link>
