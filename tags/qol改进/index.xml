@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>QoL改进 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>QOL改进 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/qol%E6%94%B9%E8%BF%9B/</link>
-		<description>Recent content in QoL改进 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in QOL改进 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 22:05:09 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 02:44:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/qol%E6%94%B9%E8%BF%9B/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>KeyQu 创作者与悬浮窗大更新：防丢稿、跳跃动画与音效优化全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</link>
+				<pubDate>Sun, 01 Nov 2026 02:44:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</guid>
+				<description>KeyQu 迎来创作者与悬浮窗体验更新：悬浮窗关闭后可重新打开，编辑未保存会提前提醒，新增按键跳跃动画，并支持两秒以内的短音效剪辑，被拒绝的文件也会给出明确提示。本文整理更新要点、实操建议与常见问题，帮你快速上手新版本。</description>
+			</item>
 			<item>
 				<title>《钢铁雄心4》1.19.4 QoL大更新：自动贸易上线，学说平衡大洗牌</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-394360-0b87f574/</link>

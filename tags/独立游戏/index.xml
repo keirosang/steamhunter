@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 04:01:04 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 07:33:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lacey&#39;s Flash Games 更新补丁：匈牙利语与意大利语本地化修复到位，细节打磨不含糊</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</link>
+				<pubDate>Sun, 01 Nov 2026 07:33:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</guid>
+				<description>复古 Flash 小游戏合集《Lacey&amp;rsquo;s Flash Games》推送小型本地化补丁，主要针对匈牙利语与意大利语文本进行校对修复，解决错字、断行溢出与描述不准等问题。本次不涉及玩法机制、数值平衡与新内容，属纯文本层优化，已购玩家启动 Steam 即可自动更新。国区玩家基本无感，但开发者仍在维护是个好信号。</description>
+			</item>
 			<item>
 				<title>《Blunderbusted》发售整活：误标1.0正式版，实为抢先体验</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-2294890-1fb6f2d7/</link>
@@ -320,6 +327,13 @@
 				<pubDate>Fri, 30 Oct 2026 06:12:07 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-4898790-48c7ca57/</guid>
 				<description>上线仅一周，独立游戏《Crosstalk》就因免费领取机制被机器人账号盯上：大量小号刷好评、刷社区奖励，甚至让独狼开发者背上“买评”质疑。举报 Valve 无果后，作者决定先触发正式版，再申请下架 Steam 商店页，后续转投 GitHub 与 Discord 继续开发。本文梳理事件始末，并给出领取入库与后续关注建议。</description>
+			</item>
+			<item>
+				<title>Steam《Too Many Orbs!》免费Demo上线：满屋魔法球整理成魔法图书馆，解压神作先玩为敬</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5392290-26a005a4/</link>
+				<pubDate>Fri, 30 Oct 2026 05:54:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5392290-26a005a4/</guid>
+				<description>整理控狂喜！《Too Many Orbs!》官方免费 Demo 现已登陆 Steam，带你走进堆满魔法球的“球书馆”（Orbirary）：拿起每一颗球、端详它的魔法特性、再把它放回正确的位置。本文梳理 Demo 玩法看点、入库下载步骤、上手小技巧，以及制作人 Shahin 亲自征集反馈的渠道，顺便聊聊为什么这作值得先加个愿望单。</description>
 			</item>
 			<item>
 				<title>《Checkmage!》1.0正式上线Steam：棋盘法师开卷入坑指南</title>

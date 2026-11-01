@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 19:45:16 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 07:33:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%9C%AC%E5%9C%B0%E5%8C%96%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lacey&#39;s Flash Games 更新补丁：匈牙利语与意大利语本地化修复到位，细节打磨不含糊</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</link>
+				<pubDate>Sun, 01 Nov 2026 07:33:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</guid>
+				<description>复古 Flash 小游戏合集《Lacey&amp;rsquo;s Flash Games》推送小型本地化补丁，主要针对匈牙利语与意大利语文本进行校对修复，解决错字、断行溢出与描述不准等问题。本次不涉及玩法机制、数值平衡与新内容，属纯文本层优化，已购玩家启动 Steam 即可自动更新。国区玩家基本无感，但开发者仍在维护是个好信号。</description>
+			</item>
 			<item>
 				<title>Deep Frost 1.2.2 更新上线：切语言后通知残留旧文本被修，韩语玩家终于清爽了</title>
 				<link>https://info.steamhunter.link/posts/2026-10-26-4675840-e077febc/</link>

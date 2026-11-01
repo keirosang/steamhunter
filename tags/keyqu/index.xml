@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>KeyQu on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/keyqu/</link>
+		<description>Recent content in KeyQu on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 02:44:34 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/keyqu/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>KeyQu 创作者与悬浮窗大更新：防丢稿、跳跃动画与音效优化全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</link>
+				<pubDate>Sun, 01 Nov 2026 02:44:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</guid>
+				<description>KeyQu 迎来创作者与悬浮窗体验更新：悬浮窗关闭后可重新打开，编辑未保存会提前提醒，新增按键跳跃动画，并支持两秒以内的短音效剪辑，被拒绝的文件也会给出明确提示。本文整理更新要点、实操建议与常见问题，帮你快速上手新版本。</description>
+			</item>
+	</channel>
+</rss>

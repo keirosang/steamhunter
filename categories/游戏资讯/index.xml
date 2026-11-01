@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 04:01:04 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 07:33:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lacey&#39;s Flash Games 更新补丁：匈牙利语与意大利语本地化修复到位，细节打磨不含糊</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</link>
+				<pubDate>Sun, 01 Nov 2026 07:33:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3459340-250da95a/</guid>
+				<description>复古 Flash 小游戏合集《Lacey&amp;rsquo;s Flash Games》推送小型本地化补丁，主要针对匈牙利语与意大利语文本进行校对修复，解决错字、断行溢出与描述不准等问题。本次不涉及玩法机制、数值平衡与新内容，属纯文本层优化，已购玩家启动 Steam 即可自动更新。国区玩家基本无感，但开发者仍在维护是个好信号。</description>
+			</item>
 			<item>
 				<title>《Blunderbusted》发售整活：误标1.0正式版，实为抢先体验</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-2294890-1fb6f2d7/</link>
@@ -26,6 +33,13 @@
 				<pubDate>Sun, 01 Nov 2026 03:43:55 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-4922230-e4c88979/</guid>
 				<description>《DEADLINE DINNER》推送小型官方更新，重点修复游戏内部分英文文本显示异常的问题。本次更新没有新增玩法、地图或平衡性调整，属于体验优化型补丁。已经入库的玩家建议重启 Steam 完成更新后再进游戏，避免旧版本残留造成误判；准备入手的玩家也可先关注后续版本表现。</description>
+			</item>
+			<item>
+				<title>KeyQu 创作者与悬浮窗大更新：防丢稿、跳跃动画与音效优化全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</link>
+				<pubDate>Sun, 01 Nov 2026 02:44:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5417590-b58ca421/</guid>
+				<description>KeyQu 迎来创作者与悬浮窗体验更新：悬浮窗关闭后可重新打开，编辑未保存会提前提醒，新增按键跳跃动画，并支持两秒以内的短音效剪辑，被拒绝的文件也会给出明确提示。本文整理更新要点、实操建议与常见问题，帮你快速上手新版本。</description>
 			</item>
 			<item>
 				<title>《Librarian Together: Manga Tidy Up》正式登陆 Steam，双人合作整理漫画书店的治愈新游开卖</title>
@@ -362,6 +376,13 @@
 				<pubDate>Sat, 31 Oct 2026 07:19:28 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-440-2a8b0087/</guid>
 				<description>军团要塞2近日推送小型更新，重点修复cp_wildcat_event中伪装成南瓜的间谍模型缺失问题，避免万圣节地图出现“隐身南瓜头”的尴尬；同时更新并新增一批锦标赛奖牌，给竞技老兵补上荣誉收藏。本次更新无职业数值与武器平衡改动，重启客户端即可自动应用，适合回坑玩家快速了解。</description>
+			</item>
+			<item>
+				<title>《Polyion》抢先体验大更新：建造重做、动物繁衍与居民就业上线</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-1838980-d96c1ed3/</link>
+				<pubDate>Sat, 31 Oct 2026 07:16:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-1838980-d96c1ed3/</guid>
+				<description>《Polyion》抢先体验阶段迎来最后一轮大改：建造系统换成可滚动菜单，一次点选就能连续铺设；动物开始配对繁衍、变老、挨饿，居民被分配住宅与工作，建筑达不到工人配额直接停摆；光照与绝大多数模型重制，UI 和世界贴图全面翻新，还补齐了一堆 QoL 设置。官方强调这只是冰山一角，完整版今晚登场。</description>
 			</item>
 			<item>
 				<title>绝地求生 PGS12 总决赛开打：240 分终极混战，PGC2026 名额争夺战</title>
@@ -1013,6 +1034,13 @@
 				<pubDate>Fri, 30 Oct 2026 06:05:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-4312190-0938262b/</guid>
 				<description>CRACK 正式推送 v1.1.8 小型修复补丁：高处长坠落重新触发布娃娃，但普通跳跃和矮落差不再误伤；电脑终端与街机柜在任意 FOV 下都能完整入镜；蛇成就条件从铺满全盘改为占据半盘，难度骤降。本文从实战角度拆解改动影响，并附上入库、设置与成就速刷建议，帮你快速跟上版本。</description>
+			</item>
+			<item>
+				<title>Steam《Too Many Orbs!》免费Demo上线：满屋魔法球整理成魔法图书馆，解压神作先玩为敬</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-5392290-26a005a4/</link>
+				<pubDate>Fri, 30 Oct 2026 05:54:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-5392290-26a005a4/</guid>
+				<description>整理控狂喜！《Too Many Orbs!》官方免费 Demo 现已登陆 Steam，带你走进堆满魔法球的“球书馆”（Orbirary）：拿起每一颗球、端详它的魔法特性、再把它放回正确的位置。本文梳理 Demo 玩法看点、入库下载步骤、上手小技巧，以及制作人 Shahin 亲自征集反馈的渠道，顺便聊聊为什么这作值得先加个愿望单。</description>
 			</item>
 			<item>
 				<title>《Lethal Justice》正式发售！Steam 新作上线情报与入手建议</title>
