@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>钥匙卡 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%92%A5%E5%8C%99%E5%8D%A1/</link>
+		<description>Recent content in 钥匙卡 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 22:25:12 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%92%A5%E5%8C%99%E5%8D%A1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Cradle of Ash》热修上线：墙体碰撞与钥匙卡跨关卡问题修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5230310-f273d0ec/</link>
+				<pubDate>Sun, 01 Nov 2026 22:25:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5230310-f273d0ec/</guid>
+				<description>《Cradle of Ash》推送小型热修复，集中处理玩家反馈的墙体异常，并让钥匙与钥匙卡在所有关卡中正常生效。别小看这两行更新说明，前者关系到穿模卡关与路线稳定性，后者可能直接影响跨章节解谜与推进。本文梳理更新要点、老存档注意事项与开荒避坑建议，帮你快速回归灰烬世界。</description>
+			</item>
+	</channel>
+</rss>

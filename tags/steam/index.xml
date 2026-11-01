@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 16:10:58 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 22:25:12 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Cradle of Ash》热修上线：墙体碰撞与钥匙卡跨关卡问题修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5230310-f273d0ec/</link>
+				<pubDate>Sun, 01 Nov 2026 22:25:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5230310-f273d0ec/</guid>
+				<description>《Cradle of Ash》推送小型热修复，集中处理玩家反馈的墙体异常，并让钥匙与钥匙卡在所有关卡中正常生效。别小看这两行更新说明，前者关系到穿模卡关与路线稳定性，后者可能直接影响跨章节解谜与推进。本文梳理更新要点、老存档注意事项与开荒避坑建议，帮你快速回归灰烬世界。</description>
+			</item>
 			<item>
 				<title>Steam联机新游《Fish with Friends》正式发售：四人挤小船钓鱼，贪心翻船合作笑到落水</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5398190-ae4948dc/</link>

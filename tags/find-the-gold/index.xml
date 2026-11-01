@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Find the Gold on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/find-the-gold/</link>
+		<description>Recent content in Find the Gold on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 22:56:54 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/find-the-gold/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Find The Gold 1.0.1 补丁上线：三路进料加物流升级，繁忙工厂卡顿也治了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5417030-b39a740d/</link>
+				<pubDate>Sun, 01 Nov 2026 22:56:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5417030-b39a740d/</guid>
+				<description>工厂物流模拟《Find The Gold》推送 1.0.1 更新。销售传送带新增两侧进料支线，最多支持三路同时输入；高效汇流与高效分流各 3 级升级直接拉高传输速度。传送带可从任一端铺设，流向跟随选中端口，同时修复自由端贴地、平台预览重叠等建造问题。繁忙工厂的路由与无人机规划优化明显缓解卡顿，扫描仪、分流器、挖掘臂、卡车装载等老问题也一并处理。注意：端点高度修复只对新建段生效，老产线需要自己重铺。</description>
+			</item>
+	</channel>
+</rss>
