@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bug反馈 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/bug%E5%8F%8D%E9%A6%88/</link>
+		<description>Recent content in Bug反馈 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 06:19:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/bug%E5%8F%8D%E9%A6%88/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kill The Frog 推送热修复补丁：官方只写一句 Fixed Bugs，猎蛙人该期待什么</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4950720-c34e7c99/</link>
+				<pubDate>Sat, 31 Oct 2026 06:19:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4950720-c34e7c99/</guid>
+				<description>Steam 上体量轻巧的 Kill The Frog 迎来一波官方热修复更新，可更新日志短到只有一句 Fixed Bugs。这篇专栏就把这类“闷头修 Bug”的小补丁掰开聊清楚：它通常改了哪些东西、要不要特意重开档、Steam 客户端怎么第一时间拿到更新、遇到残留问题怎样高效反馈给开发者，以及现在该不该入手这款游戏。</description>
+			</item>
+	</channel>
+</rss>

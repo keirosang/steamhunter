@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 09:10:30 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 03:40:23 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nomad Drive 1.0.1热修：联机延迟大降，车辆卡死修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-2223980-cf65e5e0/</link>
+				<pubDate>Mon, 02 Nov 2026 03:40:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-2223980-cf65e5e0/</guid>
+				<description>《Nomad Drive》抢先体验版 1.0.1 热修上线，重点解决联机加入后延迟飙升、弱网丢包重传和车辆外观加载卡顿，修复载具物品错位、翻车复位卡死与多人修复作业偏移。新增 UPnP/NAT-PMP 自动端口映射和载具外观加载 x/y 提示，Unstuck Vehicle 可把车送回 300 米内最近道路。</description>
+			</item>
 			<item>
 				<title>Reactance 1.0.2 热修补丁上线：排队与服务器优化，科学怪人开打</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5357500-4270a6aa/</link>

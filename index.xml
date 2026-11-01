@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Mon, 02 Nov 2026 01:05:11 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 03:40:23 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nomad Drive 1.0.1热修：联机延迟大降，车辆卡死修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-2223980-cf65e5e0/</link>
+				<pubDate>Mon, 02 Nov 2026 03:40:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-2223980-cf65e5e0/</guid>
+				<description>《Nomad Drive》抢先体验版 1.0.1 热修上线，重点解决联机加入后延迟飙升、弱网丢包重传和车辆外观加载卡顿，修复载具物品错位、翻车复位卡死与多人修复作业偏移。新增 UPnP/NAT-PMP 自动端口映射和载具外观加载 x/y 提示，Unstuck Vehicle 可把车送回 300 米内最近道路。</description>
+			</item>
+			<item>
+				<title>《搬家公司模拟器》联机修复更新：物品残影、乘客漂移与上车BUG全修</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-5050520-4c978490/</link>
+				<pubDate>Mon, 02 Nov 2026 03:22:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-5050520-4c978490/</guid>
+				<description>《搬家公司模拟器》推送联机专项修复，重点处理客机物品装载后仍停在原地、乘客上车后被甩到远处、交互提示已出现却无法进车等高频糟心问题，同时降低乘客视角抖动，并把 Pickup 调整为推荐首发车辆。下面按修复清单、开黑实操和常见问题拆开聊，帮你和搭子少踩坑、多搬货。</description>
+			</item>
+			<item>
+				<title>《Wheel Make It》正式发售！4.99 美元首发折扣，一份游戏也能拉上好友远程开黑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-4213320-f203db41/</link>
+				<pubDate>Mon, 02 Nov 2026 03:22:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-4213320-f203db41/</guid>
+				<description>等待 Steam 审核的日子终于熬过去了，《Wheel Make It》现已正式上架：4.99 美元定价外加限时首发折扣，四个章节的战役内容一次性给全。支持单人闯关、在线双人（需两份）、本地同屏合作，还能靠 Remote Play Together 用一份游戏在线开黑。本文把发售信息、联机姿势、购买与开坑建议一次讲清楚。</description>
+			</item>
 			<item>
 				<title>《Exitus》发售：验尸流水线判错三次即处决，13班次多结局</title>
 				<link>https://info.steamhunter.link/posts/2026-11-02-2754480-2c4980bd/</link>
@@ -665,6 +686,13 @@
 				<description>《饥荒联机版》推送 761239 热修，重点调整弗兰肯猪、鱼人木乃伊与吸血鬼兔的仇恨联动：单独激怒时不再自动互相共享目标，围殴场面更可控。同时修复薇洛暗影火绕圈、地螨无法选中、虚空面具误加效果、月阿比盖尔冲出圣所大厅、月盲乌鸦贴墙卡攻击动画等问题。联机开荒与月岛阵容玩家建议尽快更新。</description>
 			</item>
 			<item>
+				<title>Kill The Frog 推送热修复补丁：官方只写一句 Fixed Bugs，猎蛙人该期待什么</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-4950720-c34e7c99/</link>
+				<pubDate>Sat, 31 Oct 2026 06:19:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-4950720-c34e7c99/</guid>
+				<description>Steam 上体量轻巧的 Kill The Frog 迎来一波官方热修复更新，可更新日志短到只有一句 Fixed Bugs。这篇专栏就把这类“闷头修 Bug”的小补丁掰开聊清楚：它通常改了哪些东西、要不要特意重开档、Steam 客户端怎么第一时间拿到更新、遇到残留问题怎样高效反馈给开发者，以及现在该不该入手这款游戏。</description>
+			</item>
+			<item>
 				<title>《便便杀手：黄金之屁》正式发售：80年代VHS垃圾恐怖喜剧的狂欢</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-5173660-f3197f0e/</link>
 				<pubDate>Sat, 31 Oct 2026 05:27:30 +0800</pubDate>
@@ -950,6 +978,13 @@
 				<pubDate>Sat, 31 Oct 2026 00:29:28 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-31-5327880-5d9d3d1a/</guid>
 				<description>安静的夜森林里，一只猫头鹰靠一个按钮跳绳——听起来人畜无害，直到绳子开始反向、分裂、乱换花样。《Owl Skips》现已登陆Steam：蓄力起跳、空中振翅、悬浮、开盾，搭配越叠越离谱的升级构筑；游玩时长还会掉落54张Steam库存卡（27种动物塔罗×普通/稀有）。本文整理了机制拆解、上手节奏建议与卡牌玩法说明。</description>
+			</item>
+			<item>
+				<title>Relictor 0.9.6 更新：多人联机合作、观战与全UI重制</title>
+				<link>https://info.steamhunter.link/posts/2026-10-31-3323460-e2d6dbc2/</link>
+				<pubDate>Sat, 31 Oct 2026 00:01:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-31-3323460-e2d6dbc2/</guid>
+				<description>Relictor 迎来 0.9.6 大版本更新，正式加入多人联机与合作模式：Steam 好友邀请、观战、内置聊天和合作任务投票一应俱全。同时 UI 全面重制，适配超宽屏，科技树、快速设置、Tab 玩家列表与控制组热键同步优化，并大幅修复网络同步问题。无论开黑还是独狼，这次都值得回坑。</description>
 			</item>
 			<item>
 				<title>《伊莫》1.1.385补丁上线：霸体BOSS与30余项卡关BUG全修</title>
