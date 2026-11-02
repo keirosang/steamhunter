@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Mon, 02 Nov 2026 13:56:25 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 16:55:43 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nyangdom</title>
+				<link>https://info.steamhunter.link/tags/nyangdom/</link>
+				<pubDate>Mon, 02 Nov 2026 16:55:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/nyangdom/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Steam资讯</title>
+				<link>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</link>
+				<pubDate>Mon, 02 Nov 2026 16:55:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>UI更新</title>
+				<link>https://info.steamhunter.link/tags/ui%E6%9B%B4%E6%96%B0/</link>
+				<pubDate>Mon, 02 Nov 2026 16:55:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/ui%E6%9B%B4%E6%96%B0/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>暗猫塔防</title>
+				<link>https://info.steamhunter.link/tags/%E6%9A%97%E7%8C%AB%E5%A1%94%E9%98%B2/</link>
+				<pubDate>Mon, 02 Nov 2026 16:55:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E6%9A%97%E7%8C%AB%E5%A1%94%E9%98%B2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>独立游戏</title>
+				<link>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
+				<pubDate>Mon, 02 Nov 2026 16:55:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>ArcheAge Chronicles</title>
 				<link>https://info.steamhunter.link/tags/archeage-chronicles/</link>
@@ -189,13 +224,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>独立游戏</title>
-				<link>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
-				<pubDate>Mon, 02 Nov 2026 10:41:03 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>发售资讯</title>
 				<link>https://info.steamhunter.link/tags/%E5%8F%91%E5%94%AE%E8%B5%84%E8%AE%AF/</link>
 				<pubDate>Mon, 02 Nov 2026 10:41:03 +0800</pubDate>
@@ -235,13 +263,6 @@
 				<link>https://info.steamhunter.link/tags/%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF/</link>
 				<pubDate>Mon, 02 Nov 2026 10:37:47 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Steam资讯</title>
-				<link>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</link>
-				<pubDate>Mon, 02 Nov 2026 10:04:02 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -15435,7 +15456,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Sifu</title>
+				<title>SIFU</title>
 				<link>https://info.steamhunter.link/tags/sifu/</link>
 				<pubDate>Sat, 10 Oct 2026 15:35:04 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/sifu/</guid>
