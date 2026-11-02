@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 00:43:08 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 02:58:50 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kando Realm 1.0.0：跨服Realm与附魔系统重磅上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-3017040-7b764096/</link>
+				<pubDate>Mon, 02 Nov 2026 02:58:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-3017040-7b764096/</guid>
+				<description>Kando Realm 1.0.0正式版今日上线，Realm系统全面重构：账号与角色跨服共享、拍卖行全Realm互通，新增附魔与分解专业、12款新面孔和侧梳发型。UI与视频设置重建，登录错误提示更明确，拍卖行挂单延长至90天，并伴随全职业平衡、性能与网络优化。本文梳理核心改动、跨服组队避坑与附魔实操建议。</description>
+			</item>
 			<item>
 				<title>《Usurper》更新实测：光标三档放大，飞镖机动叠加让冲撞流质变</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5214750-8dc2019a/</link>

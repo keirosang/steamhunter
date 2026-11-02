@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 20:16:44 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 12:31:57 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%BA%A2%E8%89%B2%E6%B2%99%E6%BC%A0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>红色沙漠增强版2.04.04补丁上线：修复同伴装备复制与农场牲畜消失</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-3321460-57810c78/</link>
+				<pubDate>Sun, 01 Nov 2026 12:31:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-3321460-57810c78/</guid>
+				<description>Pearl Abyss 旗下《红色沙漠：增强版》2.04.04 补丁已在 Steam（PC/Mac）等全平台陆续推送。本次更新专门针对玩家反馈的几个恶性 BUG：灰鬃同伴身上装备的关键道具会在读档或重启后被卸下并复制、农场登记的牲畜莫名消失，以及“赠送”界面部分文本错乱显示为韩文的问题。补丁体量不大，但刀刀见血。本文整理了更新要点、老玩家避坑建议与常见问答。</description>
+			</item>
 			<item>
 				<title>《红色沙漠》2.04.03补丁实装：赠礼多选、婚后送礼修复与十余项打磨</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-3321460-2e1f4f38/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>跨服Realm on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%B7%A8%E6%9C%8Drealm/</link>
+		<description>Recent content in 跨服Realm on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 02 Nov 2026 02:58:50 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%B7%A8%E6%9C%8Drealm/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kando Realm 1.0.0：跨服Realm与附魔系统重磅上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-3017040-7b764096/</link>
+				<pubDate>Mon, 02 Nov 2026 02:58:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-3017040-7b764096/</guid>
+				<description>Kando Realm 1.0.0正式版今日上线，Realm系统全面重构：账号与角色跨服共享、拍卖行全Realm互通，新增附魔与分解专业、12款新面孔和侧梳发型。UI与视频设置重建，登录错误提示更明确，拍卖行挂单延长至90天，并伴随全职业平衡、性能与网络优化。本文梳理核心改动、跨服组队避坑与附魔实操建议。</description>
+			</item>
+	</channel>
+</rss>
