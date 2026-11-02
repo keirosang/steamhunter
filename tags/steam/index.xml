@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Mon, 02 Nov 2026 01:56:42 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 12:27:26 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Message From Aliens》发售：存档继承与折扣乌龙</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-1858720-0f18a205/</link>
+				<pubDate>Mon, 02 Nov 2026 12:27:26 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-1858720-0f18a205/</guid>
+				<description>《Message From Aliens》现已正式发售。试玩版与完整版共用存档目录，进度可直接继承；想重开需自行摸索切换存档槽，删除进度可前往指定路径。Mac版还要等几周，作者也承认发布日设置、仓促上线和忘记勾选首发折扣连续出错并致歉。想入手本作的玩家，先别等折扣，留意后续补丁与官方推送。</description>
+			</item>
+			<item>
+				<title>《Adventurer&#39;s Life》正式版上线，像素开放世界冒险开启</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-4691490-56a2442c/</link>
+				<pubDate>Mon, 02 Nov 2026 10:37:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-4691490-56a2442c/</guid>
+				<description>像素开放世界冒险游戏《Adventurer&amp;rsquo;s Life》正式版现已登陆Steam。玩家将从露光村出发，接取任务、挑战敌人、结识居民，并在探索与成长之余经营属于自己的冒险生活。官方邀请玩家通过Steam社区反馈问题与建议，附上截图、复现步骤和系统配置更利于排查；如果喜欢本作，也别忘了留下真实评价。</description>
+			</item>
+			<item>
+				<title>《DARK PRAY》正式上线：安装目录自带攻略，开玩前先看避坑提醒</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-3422710-f106f8f4/</link>
+				<pubDate>Mon, 02 Nov 2026 10:00:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-3422710-f106f8f4/</guid>
+				<description>《DARK PRAY》官方正式版现已登陆 Steam，开发团队同步确认：游戏安装目录内附有一份简明流程攻略文档，方便新玩家快速上手。本次为正式发售节点，建议入手前先核对版本与安装路径，进游戏后优先阅读攻略，少走弯路。本文整理上线看点、实操建议与高频问题，帮你顺利开玩。</description>
+			</item>
 			<item>
 				<title>Bongo Cat秋季大更新：邦戈鼓槽位、节奏通行证与秋季活动齐上线</title>
 				<link>https://info.steamhunter.link/posts/2026-11-02-3419430-213098ab/</link>
@@ -313,6 +334,13 @@
 				<pubDate>Fri, 30 Oct 2026 17:34:00 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-10-30-4842380-2f4888af/</guid>
 				<description>10月30日，《Boarding House: Night Shift》推送贴图翻新补丁，官方说明关键词只有 Teksture Update，未提及新剧情、新怪物或数值调整。对靠氛围吃饭的恐怖游戏来说，材质细节就是吓人的地基。本文划重点：更新改了什么、老玩家要不要回坑、低配机怎么设置更稳，以及贴图闪烁的排查办法；文末还附上限免与特惠的秒级推送渠道。</description>
+			</item>
+			<item>
+				<title>Active Matter薄边界调查开启：裂隙异界作物限时登场</title>
+				<link>https://info.steamhunter.link/posts/2026-10-30-2887580-f866c3b7/</link>
+				<pubDate>Fri, 30 Oct 2026 17:04:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-10-30-2887580-f866c3b7/</guid>
+				<description>《Active Matter》官方开启“薄边界”调查：10月30日09:00至11月2日09:00（UTC），多维裂隙将在量子不稳定区撕开缺口，残余印记与敌对实体跨界而来。完成目标、确保样本安全，还能收获独特作物装点庇护所。限时窗口不长，想拿异界装饰与活动奖励的干员别错过。</description>
 			</item>
 			<item>
 				<title>Project Exhibitionist v1.0.1：脱困与优化</title>
