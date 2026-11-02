@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 07 Oct 2026 19:55:02 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 13:09:20 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rose Bullet 1.0.1 补丁上线：浴缸互动修复，猎人任务黑屏与队友消失问题解决</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-2677950-970a1193/</link>
+				<pubDate>Mon, 02 Nov 2026 13:09:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-2677950-970a1193/</guid>
+				<description>《Rose Bullet》1.0.1 小型补丁现已推送，集中修复浴缸互动、庄园图书馆背景错误，以及“猎人任务”结尾黑屏、Wan 被移出队伍与立绘错位等恶性 Bug，并新增图书馆互动。官方确认视频序列卡死问题仍在处理中。对于刚入坑或卡在猎人任务的玩家来说，这次修复能显著减少读档与重开成本，本文整理更新要点、实操建议与常见问题，帮你快速避坑。</description>
+			</item>
 			<item>
 				<title>《EA SPORTS FC 27》v1.0.4更新补丁上线：经理模式妖人生成削弱与FUT掉线修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-07-4080220-af9fa629/</link>

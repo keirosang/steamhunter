@@ -10,15 +10,36 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 01:25:06 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 02:30:49 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Unbroken》1.0上线：9结局新区域与难度测试服</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-2377020-07704d04/</link>
+				<pubDate>Tue, 03 Nov 2026 02:30:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-2377020-07704d04/</guid>
+				<description>《Unbroken: The Awakening》终于结束抢先体验，1.0正式版带来9大结局、Grachtenstieg等全新关卡与更庞大可探索区域。官方同时上调默认售价至12.99美元，并开放HeadStart测试分支，方便觉得难度偏高的玩家获得初始属性、手枪、燧发枪与金色树脂等加成。中文支持与Steam集换式卡牌也在安排中。</description>
+			</item>
 			<item>
 				<title>赛博卡牌Neon Blackfall今日上线：五大阵营百章战役开打</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-4816210-489e5a81/</link>
 				<pubDate>Tue, 03 Nov 2026 01:25:06 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-03-4816210-489e5a81/</guid>
 				<description>快节奏赛博朋克卡牌游戏《Neon Blackfall》于11月2日18:30 CET正式上线，国区对应次日凌晨1:30。首发五大阵营加中立卡，带来100+单人章节与60个构筑挑战，支持在线多人。开发组表示首发内容超出原计划，后续还会追加故事、挑战与优化，牌佬们可以准备开包上分了。</description>
+			</item>
+			<item>
+				<title>《农夫被替换了》矿工DLC上线！手机版同步推出编程自动化新挑战</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-2060160-86abf7ce/</link>
+				<pubDate>Mon, 02 Nov 2026 22:42:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-2060160-86abf7ce/</guid>
+				<description>《The Farmer Was Replaced》大型DLC《The Miner Was Replaced》现已上线：无人机下矿挖煤、找石英、分蘑菇、黏土种稻，还有扫雷式编程挑战。本体同步重做游戏内文档，交互式代码示例可直接运行；手机版也带着DLC一起登场，并配备专属代码键盘。</description>
+			</item>
+			<item>
+				<title>《恐鬼症》Resonance更新定档11月底 Unity 6升级与语音互动齐上阵</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-739630-d0c64544/</link>
+				<pubDate>Mon, 02 Nov 2026 19:48:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-739630-d0c64544/</guid>
+				<description>《恐鬼症》Development Preview #22 放出重磅路线：Resonance 更新将于11月底上线，并把 Unity 6 升级与内容更新打包推出。新语音识别指令、声感地图、占卜棒、随机地图池、新游戏内警告、角色视觉更新与42 Edgefield Road重做一同登场，Xbox Play Anywhere 也在计划中。本文梳理核心看点、开黑实操与常见疑问，方便你提前备战。</description>
 			</item>
 			<item>
 				<title>暗猫塔防《Nyangdom : Dark Cat Defense》UI更新：任务与帮助按钮更醒目，字体配色优化体验升级</title>
