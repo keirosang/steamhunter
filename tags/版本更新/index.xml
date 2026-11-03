@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 22:57:46 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 01:39:27 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《The Farmer Was Replaced》采矿统计上线，多项脚本崩溃修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-2060160-4769569d/</link>
+				<pubDate>Wed, 04 Nov 2026 01:39:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-2060160-4769569d/</guid>
+				<description>《The Farmer Was Replaced》推送新一轮修复更新：jump() 正确返回 None，place() 多参数崩溃、FMOD 音效崩溃、代码窗口停靠镜头跳错、炸药被快速放方块阻止爆炸等问题被处理；同时修复特殊文件名存档失败与采矿音效设置，并新增所有采矿资源每分钟统计。本文梳理改动重点、脚本兼容注意和实操建议。</description>
+			</item>
+			<item>
+				<title>《战地风云6》服务器浏览器提前上线，11月10日后分批推送</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-2807960-78d17380/</link>
+				<pubDate>Wed, 04 Nov 2026 00:02:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-2807960-78d17380/</guid>
+				<description>《战地风云6》官方宣布服务器浏览器提前上线：原定第5赛季第3阶段，现改为11月10日第2阶段后分批推送。先小规模公开测试，再全球全量上线；支持官方服与玩家托管服统一浏览、筛选排序、完整经验与武器精通，并保留连续对局大厅，联机找服更省心，整体值得期待。</description>
+			</item>
 			<item>
 				<title>Factory Works Idle 1.0正式版上线：跨维度全自动挂机，一路造到现实熔炉终局</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-3950000-d8d32044/</link>
