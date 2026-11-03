@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>骰子肉鸽 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%AA%B0%E5%AD%90%E8%82%89%E9%B8%BD/</link>
+		<description>Recent content in 骰子肉鸽 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 03:36:11 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%AA%B0%E5%AD%90%E8%82%89%E9%B8%BD/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Diecast更新：双新Boss登场，无尽模式软锁终修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-2443590-44fa5e24/</link>
+				<pubDate>Sun, 01 Nov 2026 03:36:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-2443590-44fa5e24/</guid>
+				<description>Diecast 0.9.9.5 预发布补丁正式上线，作者为上一版无尽模式软锁致歉并回滚。本次“重做工程”完成后新增 Stale Bread 与 Crystalmancer 两个Boss，暗晶碎片骰会污染手牌并带20%掉分自毁风险；同时修复动物骰标签、无尽模式软锁与 Fading Reverie 结算等问题。总体是一次影响构筑与冲分节奏的关键更新。</description>
+			</item>
+	</channel>
+</rss>

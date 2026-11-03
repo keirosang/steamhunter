@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 08:08:16 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 18:58:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《全面战争：战锤3》9.0.5补丁上线：胜利奖励史诗级加强，传奇领主开局20级满神装</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1142710-2aa7aa34/</link>
+				<pubDate>Tue, 03 Nov 2026 18:58:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1142710-2aa7aa34/</guid>
+				<description>CA终于对战役胜利奖励动真格了！Patch 9.0.5中，通过胜利获得的独特领主和英雄直接以20级登场，自带稀有装备和全新独特特性，野兽人、蜥蜴人、巴托尼亚等派系多位传奇角色获得专属强化。同时补丁还包含大量Bug修复与平衡性调整，胜利目标也同步优化。本文为你拆解核心改动，并附上升级避坑与开荒建议。</description>
+			</item>
+			<item>
+				<title>《SOLITAIRE.EXE》纸牌肉鸽发售：首发8折，129插件36老板</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4952090-8c411797/</link>
+				<pubDate>Tue, 03 Nov 2026 17:02:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4952090-8c411797/</guid>
+				<description>夜班摸鱼神作《SOLITAIRE.EXE》正式上架Steam，首发首周直接8折。你在一台可操作的复古桌面上打纸牌、装129个插件、扛36位“绩效考核”Boss，还有每日种子、无尽模式和联机ZONE.EXE。67首、超过6小时的俱乐部风格原声带同步发售，本体+原声带捆绑再省10%。</description>
+			</item>
+			<item>
+				<title>《Light Source》正式发售！起始武器喜提新技能，全新结局与免费DLC路线图同步公开</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4989280-753e00bf/</link>
+				<pubDate>Tue, 03 Nov 2026 16:27:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4989280-753e00bf/</guid>
+				<description>潜心打磨的《Light Source》今日正式发售，开发者在发售公告中一口气放出多项改动：玩法数值重新平衡、起始武器新增技能、部分无音乐区域完成修复，并实装了一个全新结局。更有免费DLC与后续大版本更新在路上。本文梳理本次更新要点，并给出开荒上手与多结局探索的实用建议。</description>
+			</item>
+			<item>
+				<title>《MOBA Manager》1.0正式上线：双MOBA电竞王朝从失业经理起步</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4813930-688b45af/</link>
+				<pubDate>Tue, 03 Nov 2026 16:23:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4813930-688b45af/</guid>
+				<description>等了三个半月、六轮试玩更新，MOBA Manager 终于把1.0端上桌。你将接手一家电竞俱乐部，在《League of Heroes》与《Ancient Defense 2》两套赛事体系里签人、谈合同、拉赞助、做BP，从失业教练一路熬成王朝掌舵人。148位冠军与115位英雄随赛季平衡补丁流动，自定义数据库和上帝模式也安排上了。后续还有训练与青训大更新。</description>
+			</item>
+			<item>
+				<title>Verdreamia更新：零重力花园昼夜循环上线，脚下星球首尾相接</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5055800-c897466c/</link>
+				<pubDate>Tue, 03 Nov 2026 14:49:26 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5055800-c897466c/</guid>
+				<description>零重力的花园终于有了昼夜：拖动太阳滑杆，看它绕空间站升起落下，夜晚脚下星球亮起海岸城市灯火。本次更新还重绘了整颗星球，让陆地与天气首尾相接，明信片可隐藏二维码，帮助搜索也听得懂人话了。星星与尘埃换成柔和圆点，舒适设置里能一键停下星球的缓慢自转，晕动症玩家也能安心种花。已入库玩家免费更新。</description>
+			</item>
 			<item>
 				<title>Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/</link>
@@ -189,6 +224,13 @@
 				<description>《Queen&amp;rsquo;s Domain》推送 1.01.03 小型补丁，重点修复地波投射物判定，让命中更可靠；同时处理 hempie SVT 经验与资源产出、b33 拳击回血异常，并提升整体稳定性，修正海王 Dagoom 死亡动画 bug。对正在推图、刷资源或挑战海王的玩家来说，这波属于实打实的手感与流程优化，建议尽快更新后再开荒。</description>
 			</item>
 			<item>
+				<title>《Cartoon Crime》Update 10 大更新：街头随机事件、武器轮盘与车辆破坏系统全面上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5057090-884f5152/</link>
+				<pubDate>Sun, 01 Nov 2026 12:46:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5057090-884f5152/</guid>
+				<description>《Cartoon Crime》Update 10 正式推送：八类街头随机事件、四大可重复挑战（每次成功可拿 5000-7000 美元并永久 +500 生命上限）、可脱落的保险杠与引擎盖、Tab 一键武器轮盘、银行存款保命机制，外加地图与性能优化，一份更新全解析。</description>
+			</item>
+			<item>
 				<title>《DEADLINE DINNER》更新：UI观赏性优化，这顿晚餐更顺眼</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-650d4086/</link>
 				<pubDate>Sun, 01 Nov 2026 12:44:35 +0800</pubDate>
@@ -236,6 +278,13 @@
 				<pubDate>Sun, 01 Nov 2026 05:10:22 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-4922230-11dc42e0/</guid>
 				<description>DEADLINE DINNER 推送了一版纯体验向的小补丁，官方把重心全放在界面与文本的展示效果上：按钮边缘间距、控件留白、文字排版这些平时最容易被忽略的细节被逐一打磨。本次更新不涉及玩法机制、数值与内容扩充，属于人人都能吃到的“手感型”优化。本文拆解这次 UI 精修到底修了哪些地方、对实际游玩有什么影响，以及更新后遇到界面问题的处理办法。</description>
+			</item>
+			<item>
+				<title>Diecast更新：双新Boss登场，无尽模式软锁终修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-2443590-44fa5e24/</link>
+				<pubDate>Sun, 01 Nov 2026 03:36:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-2443590-44fa5e24/</guid>
+				<description>Diecast 0.9.9.5 预发布补丁正式上线，作者为上一版无尽模式软锁致歉并回滚。本次“重做工程”完成后新增 Stale Bread 与 Crystalmancer 两个Boss，暗晶碎片骰会污染手牌并带20%掉分自毁风险；同时修复动物骰标签、无尽模式软锁与 Fading Reverie 结算等问题。总体是一次影响构筑与冲分节奏的关键更新。</description>
 			</item>
 			<item>
 				<title>KeyQu 创作者与悬浮窗大更新：防丢稿、跳跃动画与音效优化全解析</title>

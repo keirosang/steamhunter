@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 14:00:03 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 18:01:19 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《艾尔登法环》情报核对：2.4.0死眼套装实为ARC Raiders更新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1808500-c9107ba6/</link>
+				<pubDate>Tue, 03 Nov 2026 18:01:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1808500-c9107ba6/</guid>
+				<description>《ARC Raiders》2.4.0商店更新现已上线：死眼套装（Dead Eye Set）加入商店，同时修复装备不同皮肤时Raider Tool仍显示默认外观的问题。本次更新无需重启客户端，官方恢复每周商店轮换、每三周集中修复的节奏，并继续盯紧关键问题。需要提醒的是，这组公告文本与Steam AppID 1808500的归属信息存在冲突，玩家请以实际商店页为准。</description>
+			</item>
+			<item>
+				<title>《上古世纪：编年史》更新：追加日葡文文本，家庭共享确认不支持</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-3218230-4b87abd3/</link>
+				<pubDate>Tue, 03 Nov 2026 14:28:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-3218230-4b87abd3/</guid>
+				<description>抢先体验上线在即，《上古世纪：编年史》官方放出两条关键情报：日语与巴西葡萄牙语将以免安装补丁的形式提供自动化文本适配，入口在设置里一键切换；同时明确不支持 Steam 家庭共享，理由是 MMO 同世界共享账号会影响账号管理与游戏内经济秩序。本文梳理规则细节、语言切换路径与开服前的实操准备。</description>
+			</item>
 			<item>
 				<title>绝地求生11月商城大更新：全新皮肤套装与限定外观齐上阵，钱包又要遭殃</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-578080-fb250d63/</link>
@@ -126,6 +140,13 @@
 				<description>《极限竞速：地平线6》11月2日至8日社区活动周开跑，九项常驻玩法覆盖EventLab多人、俱乐部对抗、热圈挑战、Legends Queue开放测试与周五乱斗等；Street Legends第1赛季则持续至11月27日。想找车队、刷计时或体验角色扮演，按Discord链接报名即可。提前检查网络与车辆调校，联机更稳。</description>
 			</item>
 			<item>
+				<title>《HEART ABYSS》11月3日燃爆发售：愤怒Jinko手撕恶魔妖怪，Steam Deck完全兼容</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-1892100-ca39b4c9/</link>
+				<pubDate>Mon, 02 Nov 2026 15:56:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-1892100-ca39b4c9/</guid>
+				<description>各位老铁，硬核动作游戏《HEART ABYSS》将于11月3日正式登陆Steam！愤怒的Jinko将带着满腔怒火迎战恶魔与妖怪，整个帝国都要颤抖。主角Leon已准备就绪，你的手指热身好了吗？更棒的是，游戏完全兼容Steam Deck，随时随地都能开打。本文为你梳理发售看点、上手建议及常见问题，助你第一时间爽快入坑。</description>
+			</item>
+			<item>
 				<title>《Message From Aliens》发售：存档继承与折扣乌龙</title>
 				<link>https://info.steamhunter.link/posts/2026-11-02-1858720-0f18a205/</link>
 				<pubDate>Mon, 02 Nov 2026 12:27:26 +0800</pubDate>
@@ -196,6 +217,13 @@
 				<description>Heaven Miner 试玩版在正式版到来前迎来一轮实用更新：小游戏中的彩色插画全部加入动态演出，2048 的目标分数下调，挑战失败后还能点击专属按钮主动降低难度，相当于官方递来的一颗“后悔药”。同时修复了 Love 数值增长过高导致超出显示上限的问题以及若干已知 bug。本文梳理本次改动细节、上手建议与高频疑问，帮你提前摸清正式版的节奏。</description>
 			</item>
 			<item>
+				<title>《Cartoon Crime》Update 10 大更新：街头随机事件、武器轮盘与车辆破坏系统全面上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5057090-884f5152/</link>
+				<pubDate>Sun, 01 Nov 2026 12:46:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5057090-884f5152/</guid>
+				<description>《Cartoon Crime》Update 10 正式推送：八类街头随机事件、四大可重复挑战（每次成功可拿 5000-7000 美元并永久 +500 生命上限）、可脱落的保险杠与引擎盖、Tab 一键武器轮盘、银行存款保命机制，外加地图与性能优化，一份更新全解析。</description>
+			</item>
+			<item>
 				<title>《DEADLINE DINNER》更新：UI观赏性优化，这顿晚餐更顺眼</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-4922230-650d4086/</link>
 				<pubDate>Sun, 01 Nov 2026 12:44:35 +0800</pubDate>
@@ -222,6 +250,13 @@
 				<pubDate>Sun, 01 Nov 2026 04:01:04 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-2294890-1fb6f2d7/</guid>
 				<description>《Blunderbusted》发售日遭遇后台乌龙，Steam页面被误标为1.0正式版，实际仍是抢先体验的预阿尔法构建。官方已联系Valve恢复标签，并提醒玩家：当前版本有Bug、缺生态区、平衡未完成，2.99美元只是抢先体验特价。想等完美版的建议观望，想帮忙测试光枪的可以入场。</description>
+			</item>
+			<item>
+				<title>Diecast更新：双新Boss登场，无尽模式软锁终修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-2443590-44fa5e24/</link>
+				<pubDate>Sun, 01 Nov 2026 03:36:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-2443590-44fa5e24/</guid>
+				<description>Diecast 0.9.9.5 预发布补丁正式上线，作者为上一版无尽模式软锁致歉并回滚。本次“重做工程”完成后新增 Stale Bread 与 Crystalmancer 两个Boss，暗晶碎片骰会污染手牌并带20%掉分自毁风险；同时修复动物骰标签、无尽模式软锁与 Fading Reverie 结算等问题。总体是一次影响构筑与冲分节奏的关键更新。</description>
 			</item>
 			<item>
 				<title>《Librarian Together》光照热修上线，联机整理漫画不再摸黑搬书</title>
