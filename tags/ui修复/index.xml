@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>UI修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/ui%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in UI修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Nov 2026 05:15:18 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/ui%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>MAKAI CITY CHI-BA 官方小更新：操作说明换行修复，键位提示终于不糊成一坨</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5410560-a4e037e0/</link>
+				<pubDate>Tue, 03 Nov 2026 05:15:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5410560-a4e037e0/</guid>
+				<description>Steam AppID 5410560 的《MAKAI CITY CHI-BA》推送了一则 Minor fix 小型修补：官方修好了操作说明文本里那几处闹心的换行错位，键位与操作提示重新变得清清爽爽。本次不含玩法、数值与平衡性改动，属于纯 UI 文本层面的微调。入手了新作准备开荒、或是曾被那串挤在一起的按键说明看懵的朋友，让 Steam 自动更新后重启游戏即可，无需重开存档。</description>
+			</item>
+	</channel>
+</rss>

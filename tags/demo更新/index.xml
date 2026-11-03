@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 23:28:36 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 01:45:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/demo%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>First Person Basketball Demo更新：房间列表直连开黑更省心</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-5478590-df55d3ee/</link>
+				<pubDate>Sun, 01 Nov 2026 01:45:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-5478590-df55d3ee/</guid>
+				<description>第一人称篮球游戏《First Person Basketball》Demo多人模式迎来关键更新：玩家自建房间现在会直接出现在房间列表中，任何人都能一眼看到并一键加入对局。开发者也公开征集联机体验反馈，连接失败、掉线等问题都可以直接反馈，Demo联机开黑终于不用再靠私下约房了。</description>
+			</item>
 			<item>
 				<title>《挂机放置修仙录》Demo第8更：药水卡顿与内存泄漏修复，新手引导重做</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-4618670-2edc206c/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 20:20:15 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 01 Nov 2026 15:30:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%AF%95%E7%8E%A9%E7%89%88%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Heaven Miner 试玩版更新：插画动效上线，2048 降分且失败可降难度</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4655130-6b9f448f/</link>
+				<pubDate>Sun, 01 Nov 2026 15:30:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4655130-6b9f448f/</guid>
+				<description>Heaven Miner 试玩版在正式版到来前迎来一轮实用更新：小游戏中的彩色插画全部加入动态演出，2048 的目标分数下调，挑战失败后还能点击专属按钮主动降低难度，相当于官方递来的一颗“后悔药”。同时修复了 Love 数值增长过高导致超出显示上限的问题以及若干已知 bug。本文梳理本次改动细节、上手建议与高频疑问，帮你提前摸清正式版的节奏。</description>
+			</item>
 			<item>
 				<title>Moadra 获 Steam Deck 认证：试玩版更新与 10 月 22 日发售</title>
 				<link>https://info.steamhunter.link/posts/2026-10-21-1713730-c1200133/</link>

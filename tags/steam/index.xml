@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 03:45:18 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 07:42:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IRON SOL热修更新：新增环境污渍开关，低配设备帧数终于有救了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</link>
+				<pubDate>Tue, 03 Nov 2026 07:42:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</guid>
+				<description>IRON SOL 最新热修补丁上线，核心改动只有一个：视觉设置新增 ENVIRO. STAINS 环境污渍开关。关闭后可减少场景污渍类细节的渲染负担，官方表示对部分设备有性能改善。本文帮你快速定位开关、判断是否该关，并整理更新后的实操建议与常见问题。</description>
+			</item>
+			<item>
+				<title>《Castellan》v1.0正式版上线：13章13位BOSS的实时肉鸽城堡防守，首发直降20%</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5005480-1714aa38/</link>
+				<pubDate>Tue, 03 Nov 2026 07:19:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5005480-1714aa38/</guid>
+				<description>单人开发的实时肉鸽城堡防守《Castellan》迎来1.0正式版：13章13位BOSS、33种士兵对位85种敌人、9系法术与204项永久升级分列11个页签，另有37个成就与Steam云存档，支持15种语言。Demo存档不继承，需重开新档，首发两周8折入手更划算。</description>
+			</item>
+			<item>
+				<title>marblebuilds发售延期：Steam审核卡关，弹珠建造党还得再等等</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4285270-be7d9bfa/</link>
+				<pubDate>Tue, 03 Nov 2026 04:37:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4285270-be7d9bfa/</guid>
+				<description>原定太平洋时间上午10点上线的《marblebuilds》没能准时开闸：开发者Grizzyyo透露，游戏包体两周前就已提交Steam审核，至今仍在排队，因此首发被迫延期。官方表示会持续跟踪审核进度，一有消息立刻同步。想第一时间蹲到开售的玩家，先把愿望单点上，别白刷商店页。</description>
+			</item>
 			<item>
 				<title>BOOST VECTOR EX 正式发售：全手工赛道&#43;剧情模式，独狼开发者的竞速黑马杀到</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-3832030-a8ac4838/</link>
@@ -131,6 +152,13 @@
 				<pubDate>Sun, 01 Nov 2026 16:10:58 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-5398190-ae4948dc/</guid>
 				<description>四人合作钓鱼游戏《Fish with Friends》正式发售。你和最多三位好友挤进小艇，每条鱼都占船位，贪心多钓一条就可能全员舀水补漏。卖鱼换鱼竿和更大的船，从平静潟湖闯到礁石、沉船与深海，鱼更大，鲨鱼也更大。单人可玩，但联机互坑才是精髓。遇到bug或找船队可去官方Discord；玩得开心别忘了留评测，对小工作室很重要。</description>
+			</item>
+			<item>
+				<title>Heaven Miner 试玩版更新：插画动效上线，2048 降分且失败可降难度</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4655130-6b9f448f/</link>
+				<pubDate>Sun, 01 Nov 2026 15:30:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4655130-6b9f448f/</guid>
+				<description>Heaven Miner 试玩版在正式版到来前迎来一轮实用更新：小游戏中的彩色插画全部加入动态演出，2048 的目标分数下调，挑战失败后还能点击专属按钮主动降低难度，相当于官方递来的一颗“后悔药”。同时修复了 Love 数值增长过高导致超出显示上限的问题以及若干已知 bug。本文梳理本次改动细节、上手建议与高频疑问，帮你提前摸清正式版的节奏。</description>
 			</item>
 			<item>
 				<title>《DEADLINE DINNER》更新：UI观赏性优化，这顿晚餐更顺眼</title>

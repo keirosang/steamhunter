@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>画面设置 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE/</link>
+		<description>Recent content in 画面设置 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Nov 2026 07:42:04 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IRON SOL热修更新：新增环境污渍开关，低配设备帧数终于有救了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</link>
+				<pubDate>Tue, 03 Nov 2026 07:42:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</guid>
+				<description>IRON SOL 最新热修补丁上线，核心改动只有一个：视觉设置新增 ENVIRO. STAINS 环境污渍开关。关闭后可减少场景污渍类细节的渲染负担，官方表示对部分设备有性能改善。本文帮你快速定位开关、判断是否该关，并整理更新后的实操建议与常见问题。</description>
+			</item>
+	</channel>
+</rss>

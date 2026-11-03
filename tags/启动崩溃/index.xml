@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>启动崩溃 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%90%AF%E5%8A%A8%E5%B4%A9%E6%BA%83/</link>
+		<description>Recent content in 启动崩溃 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Nov 2026 05:42:08 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%90%AF%E5%8A%A8%E5%B4%A9%E6%BA%83/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IRON SOL 发售即遇启动崩溃？开发者回应兼容性与修复计划</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5271880-8671b762/</link>
+				<pubDate>Tue, 03 Nov 2026 05:42:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5271880-8671b762/</guid>
+				<description>独立新作 IRON SOL 正式登陆 Steam，发售反响超出开发者预期，但部分玩家遭遇启动即崩溃的尴尬问题。开发者 belo 表示，故障疑似与 GameMaker 引擎及特定 PC 配置、驱动兼容性有关，已公开征集报错信息与硬件规格，并承诺未来几天持续推进修复，但也坦言无法保证彻底解决。想尝鲜的玩家建议先看社区反馈，遇到崩溃可按本文步骤排查与反馈。</description>
+			</item>
+	</channel>
+</rss>

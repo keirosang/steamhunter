@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 22:56:54 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 07:42:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IRON SOL热修更新：新增环境污渍开关，低配设备帧数终于有救了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</link>
+				<pubDate>Tue, 03 Nov 2026 07:42:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</guid>
+				<description>IRON SOL 最新热修补丁上线，核心改动只有一个：视觉设置新增 ENVIRO. STAINS 环境污渍开关。关闭后可减少场景污渍类细节的渲染负担，官方表示对部分设备有性能改善。本文帮你快速定位开关、判断是否该关，并整理更新后的实操建议与常见问题。</description>
+			</item>
 			<item>
 				<title>Find The Gold 1.0.1 补丁上线：三路进料加物流升级，繁忙工厂卡顿也治了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-5417030-b39a740d/</link>

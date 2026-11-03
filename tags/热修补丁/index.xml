@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 02 Nov 2026 03:40:23 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 07:42:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IRON SOL热修更新：新增环境污渍开关，低配设备帧数终于有救了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</link>
+				<pubDate>Tue, 03 Nov 2026 07:42:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5271880-868c2f65/</guid>
+				<description>IRON SOL 最新热修补丁上线，核心改动只有一个：视觉设置新增 ENVIRO. STAINS 环境污渍开关。关闭后可减少场景污渍类细节的渲染负担，官方表示对部分设备有性能改善。本文帮你快速定位开关、判断是否该关，并整理更新后的实操建议与常见问题。</description>
+			</item>
 			<item>
 				<title>Nomad Drive 1.0.1热修：联机延迟大降，车辆卡死修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-02-2223980-cf65e5e0/</link>
