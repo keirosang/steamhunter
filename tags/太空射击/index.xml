@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>太空射击 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%A4%AA%E7%A9%BA%E5%B0%84%E5%87%BB/</link>
+		<description>Recent content in 太空射击 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Nov 2026 08:08:16 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%A4%AA%E7%A9%BA%E5%B0%84%E5%87%BB/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/</link>
+				<pubDate>Tue, 03 Nov 2026 08:08:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/</guid>
+				<description>太空射击新作 Void Havoc 推送 v1.0.1 补丁，一口气修掉了机库舱与维修舱升级成就无法解锁的老毛病，同时校正结算界面的巡洋舰名称错乱与计时显示异常，并封堵了仓储炮塔能插进错误尺寸槽位的漏洞。本篇把四项改动的实际影响、老存档兼容性以及开荒配装思路一并讲清，帮你避免配船误区。</description>
+			</item>
+	</channel>
+</rss>

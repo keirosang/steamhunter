@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 04:24:44 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 08:08:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/</link>
+				<pubDate>Tue, 03 Nov 2026 08:08:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/</guid>
+				<description>太空射击新作 Void Havoc 推送 v1.0.1 补丁，一口气修掉了机库舱与维修舱升级成就无法解锁的老毛病，同时校正结算界面的巡洋舰名称错乱与计时显示异常，并封堵了仓储炮塔能插进错误尺寸槽位的漏洞。本篇把四项改动的实际影响、老存档兼容性以及开荒配装思路一并讲清，帮你避免配船误区。</description>
+			</item>
+			<item>
+				<title>Castellan v1.1小更新：窗口名去DEBUG，存档无忧，独狼开发者喊你反馈</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-5005480-52df7028/</link>
+				<pubDate>Tue, 03 Nov 2026 08:05:31 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-5005480-52df7028/</guid>
+				<description>Castellan v1.1来啦！这次更新只干了一件事：把游戏窗口和Windows音量混音器里的“Castellan (DEBUG)”改成了干净利落的“Castellan”。玩法没变、存档保留，独立开发者Bozalt Games在线等反馈，还贴心地放出了Steam讨论区和Discord入口。小细节见真章，一起来看这次更新到底值不值得你重启游戏。</description>
+			</item>
 			<item>
 				<title>Warframe星际战甲198期直播全解析：Tau星图年内上线、Brysko战甲与Perita荒漠资源战</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-230410-7b5c5a98/</link>
@@ -47,6 +61,13 @@
 				<pubDate>Tue, 03 Nov 2026 02:02:03 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-03-2483190-0b1e210e/</guid>
 				<description>地平线6迎来 City Life 大版本：东京市区新增江户环道公路赛与首都高冲刺街头赛两条永久路线，2016 本田 S660 Alpha、2025 雪铁龙 Ami、1987 菲亚特 Panda 三台新车进入播放列表，解锁积分门槛同步下调。另有 IKEA 车库家具包、XBOX 与光环 25 周年士官长联动，以及车库筛选器、单人赛季难度自选等一堆体验补丁，PR 特技排行榜则被整体清空重来。</description>
+			</item>
+			<item>
+				<title>彩虹六号围攻Y11S3.3：传奇段位常驻、地图池改制与Noor加强</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-359550-006021f1/</link>
+				<pubDate>Tue, 03 Nov 2026 01:51:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-359550-006021f1/</guid>
+				<description>彩虹六号：围攻Y11S3.3社区检查点带来多项关键调整：传奇段位成为常驻单人排位列表，并对冠军段位、安全启动与信誉等级提出门槛；下赛季起排位地图池取消赛季轮换，改为约15张强图常驻；Noor的Horus Lance发射器在破墙、破盾、出枪速度与直击伤害上获得加强。本文梳理规则变化、实操建议与FAQ，方便玩家快速跟上版本。</description>
 			</item>
 			<item>
 				<title>《现代战争4》Warzone更新：Hajin地图与移动掩体11月6日上线</title>
@@ -187,6 +208,13 @@
 				<pubDate>Sun, 01 Nov 2026 12:27:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-01-5417330-bd476ef0/</guid>
 				<description>《Sort Sort Yokai》1.1.3 补丁主打笔记本体验修复：双显卡机型现在会正确调用独显，告别核显拖后腿；帧率不足时自动降画质并提示，手动设置则会锁定；低帧率下快速甩鼠标不再丢输入，新增 Raw input 开关让视角更跟手，bug 报告也会附带帧率数据。</description>
+			</item>
+			<item>
+				<title>《Clearance Defence》定档11月2日：十夜战役全开，Demo进度继承</title>
+				<link>https://info.steamhunter.link/posts/2026-11-01-4387610-ca68b176/</link>
+				<pubDate>Sun, 01 Nov 2026 10:19:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-01-4387610-ca68b176/</guid>
+				<description>塔防新作《Clearance Defence》的Steam发售日从10月30日顺延到11月2日，原因是审核排队，现已过审。完整版一次放出十夜战役，Demo存档可在同一Windows PC继承。第6夜新增充气虎鲸Boss，第9夜守安全区，第10夜迎战Grillmarshal；普通与困难第6、7夜防守者上限提到20，简单模式大幅减负。</description>
 			</item>
 			<item>
 				<title>Queen&#39;s Domain 更新：DX12 启动项与 BOSS 战修复</title>

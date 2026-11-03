@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 05:19:48 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 08:08:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/void-havoc/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/</link>
+				<pubDate>Tue, 03 Nov 2026 08:08:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/</guid>
+				<description>太空射击新作 Void Havoc 推送 v1.0.1 补丁，一口气修掉了机库舱与维修舱升级成就无法解锁的老毛病，同时校正结算界面的巡洋舰名称错乱与计时显示异常，并封堵了仓储炮塔能插进错误尺寸槽位的漏洞。本篇把四项改动的实际影响、老存档兼容性以及开荒配装思路一并讲清，帮你避免配船误区。</description>
+			</item>
 			<item>
 				<title>Void Havoc 正式发售：首发 15% 折扣开启，早鸟入手正当时</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-4134760-542391f9/</link>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="太空射击新作 Void Havoc 推送 v1.0.1 补丁，一口气修掉了机库舱与维修舱升级成就无法解锁的老毛病，同时校正结算界面的巡洋舰名称错乱与计时显示异常，并封堵了仓储炮塔能插进错误尺寸槽位的漏洞。本篇把四项改动的实际影响、老存档兼容性以及开荒配装思路一并讲清，帮你避免配船误区。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正">
+  <meta property="og:description" content="太空射击新作 Void Havoc 推送 v1.0.1 补丁，一口气修掉了机库舱与维修舱升级成就无法解锁的老毛病，同时校正结算界面的巡洋舰名称错乱与计时显示异常，并封堵了仓储炮塔能插进错误尺寸槽位的漏洞。本篇把四项改动的实际影响、老存档兼容性以及开荒配装思路一并讲清，帮你避免配船误区。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/5ca5d55ecfd26186.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Void Havoc v1.0.1 更新：成就修复与炮塔槽位 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Void Havoc</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 4134760</span>
+      
+    </div>
+
+    <h1 class="article-title">Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-03T08:08:16&#43;08:00" class="meta-date">
+          📅 2026-11-03 08:08
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1733 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/4134760/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/4134760" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/5ca5d55ecfd26186.jpg" alt="Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>太空射击新作 Void Havoc 推送 v1.0.1 补丁，一口气修掉了机库舱与维修舱升级成就无法解锁的老毛病，同时校正结算界面的巡洋舰名称错乱与计时显示异常，并封堵了仓储炮塔能插进错误尺寸槽位的漏洞。本篇把四项改动的实际影响、老存档兼容性以及开荒配装思路一并讲清，帮你避免配船误区。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位船长好，我是你们的老朋友。太空射击这块自留地我一直盯着，Void Havoc 这艘小船刚出港没多久就吃了不少玩家的反馈火力，官方这次手脚挺快，v1.0.1 修复补丁已经落地。别看只是个小版本号跳动，里头几条都是实打实影响体验的硬伤——尤其对成就党和喜欢钻研配船的老哥来说，这回算是松了口气。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>本次 v1.0.1 属于纯修复向补丁，没有新增内容，也没有数值削弱或加强，四项改动集中在稳定性和界面表现：</p>
+<ul>
+<li><strong>成就修复</strong>：机库舱（Hangar Bay）与维修舱（Repair Bay）升级相关的成就此前无法正常跳杯，现已补全；</li>
+<li><strong>结算界面文本修复</strong>：结算画面里巡洋舰（Cruiser）显示为错误名称的问题已修正；</li>
+<li><strong>结算计时修复</strong>：通关结算界面的时间显示不再抽风；</li>
+<li><strong>配装逻辑修复</strong>：仓储炮塔（Storage turret）此前能被塞进尺寸不匹配的槽位，这条漏洞已经堵上。</li>
+</ul>
+<p>一句话总结：不改变你打法的强度，但让你打完之后看到的数字和奖杯都对得上号。</p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="成就党终于不用反复刷关">成就党终于不用反复刷关</h3>
+<p>机库舱和维修舱属于中前期就能点出来的关键升级，很多玩家的推进节奏都是先摸到这两个再谈其他。之前成就死活不跳，导致不少人以为是自己没达成触发条件，反复开新档重刷，白熬了好几个通宵。补丁上线后，这两条成就的判定链路恢复正常，只要升级动作实际完成，奖杯/成就就会正常入账。</p>
+<p>需要提醒的是：<strong>成就系统一般不做历史回溯</strong>。也就是说，如果你的存档里早就把这两个舱室升到顶了，更新后大概率不会自动补发。稳妥做法是开一个短局重新走一遍升级流程，反正前期节奏不慢，顺手还能试试新配装，不算亏。</p>
+<h3 id="结算界面的两块面子工程">结算界面的两块“面子工程”</h3>
+<p>结算画面虽然只露脸几秒钟，但它承载了玩家一整局的情绪出口。巡洋舰名字显示错误、通关时间读出来对不上，这种小毛病最伤沉浸感——尤其是速通玩家，计时不准等于成绩作废。这次一并修好，跑图刷纪录的老哥可以放心把自己的成绩截图发出来了。</p>
+<h3 id="仓储炮塔槽位修复配装逻辑归位">仓储炮塔槽位修复：配装逻辑归位</h3>
+<p>这四条里我认为最有分量的是最后一条。仓储炮塔能插进错误尺寸槽位，本质上是配装校验环节的漏洞。短期看是“白嫖”了一个槽位，长期看会派生出一堆脏数据：伤害计算异常、UI 显示错位，甚至影响后续存档的稳定性。现在校验逻辑收紧，尺寸不匹配就是插不进去，老实按槽位规格选炮。</p>
+<p>这也意味着，此前依赖这个漏洞搭出来的“邪道 build”更新后大概率直接失效。如果你上线发现某艘船的配装提示异常，别慌，回港重新排一下炮塔顺序即可。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>更新方式</strong>：Steam 客户端一般会自动拉取小补丁，没动静的话在库列表右键游戏 → 属性 → 已安装文件 → 验证文件完整性，顺手看看有没有残留的旧版本缓存。</li>
+<li><strong>成就补救</strong>：更新后先开一局短程，把机库舱与维修舱各升一次，确认成就正常触发，再决定要不要继续肝长线存档。</li>
+<li><strong>配装重排</strong>：更新后第一件事是进船坞检查所有槽位，尤其是此前用仓储炮塔填过小槽的配置，把尺寸不匹配的炮塔换掉，避免进图后才报错。</li>
+<li><strong>速通党注意</strong>：结算计时已经修复，此前记录的旧成绩如果和新计时口径不一致，建议重新跑一次定基准，别拿着旧数据自我怀疑。</li>
+<li><strong>反馈渠道</strong>：v1.0.1 属于快速响应型补丁，如果更新后还遇到结算文本或成就相关的残留问题，带上截图与存档信息去官方社区反馈，这类小团队对具体复现步骤的响应速度通常很快。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>补丁、限免、临时工价这类消息，最怕的就是慢半拍。想第一时间拿到秒级推送，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，喜加一、史低、突袭式免费周末都会在那边同步播报，不用天天刷商店页碰运气。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：更新后机库舱和维修舱的成就还是不跳，怎么办？</strong>
+先确认 Steam 客户端确实完成了补丁下载，然后开一局新的短程存档重新执行一次升级操作。若旧档已经升满，成就系统通常不会回溯补发，此时用新档触发是最稳的路径。</p>
+<p><strong>Q2：这次更新会影响我的老存档和已有配装吗？</strong>
+存档本身不受影响，但仓储炮塔的槽位校验收紧了。更新后进船坞检查一遍炮塔尺寸，把此前靠漏洞塞进去的配置换掉，就能避免进图后出现异常。</p>
+<p><strong>Q3：v1.0.1 有没有新增关卡、船只或平衡性调整？</strong>
+没有。这是一次纯 Bug 修复补丁，四项改动全部围绕成就判定、结算界面显示和配装校验逻辑，玩法强度与内容体量维持原样。</p>
+<p>—— 我是你们的主理人，打完补丁记得先看船坞再开船。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Void%20Havoc/" class="article-tag-item">#Void Havoc</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e8%a1%a5%e4%b8%81%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#补丁修复</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e5%a4%aa%e7%a9%ba%e5%b0%84%e5%87%bb/" class="article-tag-item">#太空射击</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-03-4134760-91ee641b/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-03-5005480-52df7028/" class="sibling-title">Castellan v1.1小更新：窗口名去DEBUG，存档无忧，独狼开发者喊你反馈</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-03-4655130-1d08b542/" class="sibling-title">《Heaven Miner》正式上线 Steam：天使角色、完整主线与转生系统同步解锁，首发限时折扣开抢</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#成就党终于不用反复刷关">成就党终于不用反复刷关</a></li>
+        <li><a href="#结算界面的两块面子工程">结算界面的两块“面子工程”</a></li>
+        <li><a href="#仓储炮塔槽位修复配装逻辑归位">仓储炮塔槽位修复：配装逻辑归位</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
