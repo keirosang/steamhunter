@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DLSS 5 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/dlss-5/</link>
+		<description>Recent content in DLSS 5 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Nov 2026 22:11:53 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/dlss-5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆DLSS 5随鹰影大更新上线：RTX 50系画质帧率双起飞</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-236390-992d18a9/</link>
+				<pubDate>Tue, 03 Nov 2026 22:11:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-236390-992d18a9/</guid>
+				<description>战争雷霆官方确认，DLSS 5将随“鹰影”大版本更新登场，基于3D引导神经渲染，实时增强光照、材质与阴影表现，并保留原3D场景和美术意图。RTX 50系与RTX Spark设备可解锁路径追踪等光追特效，在高压场景下获得更高帧率。老玩家关心的DLSS 2.0时代即将翻篇，这次画质与性能能否双赢，本文一次讲清。</description>
+			</item>
+	</channel>
+</rss>

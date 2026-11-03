@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 18:01:19 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 21:52:13 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《雾锁王国》热修4上线：语音音量、联机拾取音效与水体崩溃全面修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1203620-2c7c3103/</link>
+				<pubDate>Tue, 03 Nov 2026 21:52:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1203620-2c7c3103/</guid>
+				<description>《雾锁王国》推送热修4（v1.0.1.1），这次没整花活，专治各种小毛病：语音音量恢复正常，多人联机拾取音效不再全队共享，体素墙面不再“融化”，水体模拟崩溃与日志刷屏问题一并处理，性能表现也更稳。还顺手更新了日语、韩语和繁体中文的 Discord 链接。本文梳理更新要点、联机避坑与实操建议，帮你快速回坑继续开荒。</description>
+			</item>
+			<item>
+				<title>Apex英雄EA Play会员武器挂饰上线：订阅福利与领取避坑全指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1172470-09c78cab/</link>
+				<pubDate>Tue, 03 Nov 2026 21:47:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1172470-09c78cab/</guid>
+				<description>EA Play 新一轮会员福利落地 Apex 英雄，专属武器挂饰成为本月主打奖励。本文把订阅能拿到的东西一次讲清：Play List 畅玩库、新作最长 10 小时试玩、进度继承机制，以及挂饰的领取路径与自动续费避坑要点，帮你在不花冤枉钱的前提下把能薅的福利薅干净。</description>
+			</item>
+			<item>
+				<title>永劫无间11月3日封神榜：120名作弊者落网，举报可拿传奇长枪皮肤</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1203220-81f709f1/</link>
+				<pubDate>Tue, 03 Nov 2026 21:43:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1203220-81f709f1/</guid>
+				<description>永劫无间官方公布11月3日反作弊封禁名单：10月26日至11月1日共封禁120名作弊玩家，并升级举报奖励——成功举报可获基础奖励，累计10次且低误报率可拿10倍奖励，重大贡献者可得传奇长枪皮肤“Righteous Polearm”。本文拆解本次封禁重点、举报实操与防误封避坑建议，并提醒玩家通过游戏内举报系统提交证据，避免恶意误报。</description>
+			</item>
+			<item>
+				<title>《ArcheAge Chronicles》预载开启！11月3日共赴欧罗利亚</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-3218230-a23c12f7/</link>
+				<pubDate>Tue, 03 Nov 2026 21:38:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-3218230-a23c12f7/</guid>
+				<description>《ArcheAge Chronicles》Steam 预下载正式开放！来自希望之塔的信笺确认，2026 年 11 月 3 日通往欧罗利亚的航路开启，抢先体验版本可提前装进硬盘。本文梳理预载入库方法、开服排队避坑、EA 阶段的合理预期与开黑组队建议，老玩家的情怀点和新玩家的上手门槛一次说清。</description>
+			</item>
+			<item>
+				<title>《私酒贩模拟器》1.0正式版上线：剧情补完、自动化送货与声望系统全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4179280-3e619e81/</link>
+				<pubDate>Tue, 03 Nov 2026 20:54:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4179280-3e619e81/</guid>
+				<description>《私酒贩模拟器》正式结束抢先体验！1.0 版补上主角背景开场、兄弟任务线续章、送货工人与补给自动化、发酵保温设备、商贩声望与特殊订单，还能从垃圾桶和商人处搞配方。老鼠会咬人、多人可同车、公园垃圾桶可搜刮。本文梳理更新要点、开荒优先级与联机避坑。</description>
+			</item>
 			<item>
 				<title>《艾尔登法环》情报核对：2.4.0死眼套装实为ARC Raiders更新</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-1808500-c9107ba6/</link>
@@ -75,6 +110,13 @@
 				<pubDate>Tue, 03 Nov 2026 07:19:32 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-03-5005480-1714aa38/</guid>
 				<description>单人开发的实时肉鸽城堡防守《Castellan》迎来1.0正式版：13章13位BOSS、33种士兵对位85种敌人、9系法术与204项永久升级分列11个页签，另有37个成就与Steam云存档，支持15种语言。Demo存档不继承，需重开新档，首发两周8折入手更划算。</description>
+			</item>
+			<item>
+				<title>三人四年熬一碗拉面！《Ramen Shop Simulator》愿望单破5万，今日开启小店经营抢先体验</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-3393720-6ef0e17e/</link>
+				<pubDate>Tue, 03 Nov 2026 07:17:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-3393720-6ef0e17e/</guid>
+				<description>由三人小团队耗时四年打造的日式拉面店经营游戏《Ramen Shop Simulator》愿望单突破5万，并于11月3日登陆Steam抢先体验。玩家将在被遗忘的小横丁里经营自己的拉面店，官方承诺后续追加更多配方、顾客、商店与厨房混乱。本文整理核心看点、上手建议与常见问题。</description>
 			</item>
 			<item>
 				<title>marblebuilds发售延期：Steam审核卡关，弹珠建造党还得再等等</title>
