@@ -21,6 +21,13 @@
 				<description>《文字刷宝录》v1.0.2 补丁正式落地，重点修复部分光环无法作用于召唤物的老毛病，同时优化多人联机同步逻辑。对召唤流玩家来说，这是一次实打实的体验提升；对开黑党而言，卡顿与状态不同步也有望缓解。本文梳理更新要点、实操建议与高频问题，帮你快速判断是否值得回坑。</description>
 			</item>
 			<item>
+				<title>《Sump》小型热修：F8入口门软锁修复，死亡重生不再被一扇门关在外面</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5290910-437ccfad/</link>
+				<pubDate>Wed, 04 Nov 2026 08:20:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5290910-437ccfad/</guid>
+				<description>《Sump》推送小型热修复，专治 F8 入口门软锁：玩家关闭入口门后死亡重生，大门依旧紧闭导致卡关。此前只能退回主菜单再继续游戏，如今死亡重生时门会自动重置。本文拆解触发机制、更新影响与开黑避坑建议，并附常见问题解答。</description>
+			</item>
+			<item>
 				<title>《Marblebuilds》v1.0.2 更新：相机倒挂修好，创意工坊发布不再报错</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-4285270-bc5a80c1/</link>
 				<pubDate>Tue, 03 Nov 2026 11:19:45 +0800</pubDate>

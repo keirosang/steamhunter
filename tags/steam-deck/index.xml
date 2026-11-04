@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 00:26:31 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 05:39:13 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam客户端Beta更新：成就套装登场，手柄触控不再误触</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-1675200-f4c138af/</link>
+				<pubDate>Wed, 04 Nov 2026 05:39:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-1675200-f4c138af/</guid>
+				<description>11月3日 Steam 客户端 Beta 通道推送新版本，修复窗口偶发闪黑；成就系统迎来「成就套装」展示、总数统计与稀有度阈值修复，播放栏成就按钮直达面板；Steam 手柄固件同步下调摇杆触摸灵敏度，减少未触碰就误判的幽灵触控，掌机与成就猎人都有得聊。</description>
+			</item>
 			<item>
 				<title>《地牢暴走重制版》1.0上线：双新英雄、110&#43;成就与60帧重制</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-3053950-e20b17de/</link>

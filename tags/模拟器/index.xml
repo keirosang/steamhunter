@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 09 Oct 2026 06:19:37 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 11:47:43 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Potato Please》1.0.1热修上线：告别卡关、存档可重看结局，自动堆叠拯救手残党</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5266240-4603ccc4/</link>
+				<pubDate>Wed, 04 Nov 2026 11:47:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5266240-4603ccc4/</guid>
+				<description>《Potato Please》发布1.0.1热修，集中修复存档损坏、卡关卡模型、控制失灵等首发问题。通关存档可重看结局，卡住后自救冷却缩至60秒，起重机自动驾驶每3分钟自动重整土豆堆，新增小狗静音选项。宽屏适配、按键绑定错误一并解决，困难难度改用Strict削皮，并调整任务判定。削土豆工友们，是时候重返流水线了。</description>
+			</item>
 			<item>
 				<title>异常保洁工集合！《Anomalous Cleaning Detail》正式发售：蜘蛛恐惧模式实装，低配也能丝滑洗地</title>
 				<link>https://info.steamhunter.link/posts/2026-10-09-4378370-a31743bc/</link>

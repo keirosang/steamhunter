@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>垂直同步 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%9E%82%E7%9B%B4%E5%90%8C%E6%AD%A5/</link>
+		<description>Recent content in 垂直同步 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 04 Nov 2026 05:16:19 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%9E%82%E7%9B%B4%E5%90%8C%E6%AD%A5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《哥斯拉：消灭所有怪物 重制版》热修：垂直同步默认开启，画面撕裂说再见</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4251460-9b599b2d/</link>
+				<pubDate>Wed, 04 Nov 2026 05:16:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4251460-9b599b2d/</guid>
+				<description>2026年11月3日，《哥斯拉：消灭所有怪物 重制版》推送小型热修复，将垂直同步（VSync）改为默认开启。更新只有一行，却牵动画面撕裂、帧数上限与输入延迟三根神经。本文拆解VSync对怪兽格斗手感的影响，并给高刷屏、低配机和联机党分别开出设置处方，帮你在东京湾乱斗里既稳又跟手。</description>
+			</item>
+	</channel>
+</rss>

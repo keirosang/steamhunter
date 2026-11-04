@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 05:12:28 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 08:20:42 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%BD%AF%E9%94%81%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Sump》小型热修：F8入口门软锁修复，死亡重生不再被一扇门关在外面</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5290910-437ccfad/</link>
+				<pubDate>Wed, 04 Nov 2026 08:20:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5290910-437ccfad/</guid>
+				<description>《Sump》推送小型热修复，专治 F8 入口门软锁：玩家关闭入口门后死亡重生，大门依旧紧闭导致卡关。此前只能退回主菜单再继续游戏，如今死亡重生时门会自动重置。本文拆解触发机制、更新影响与开黑避坑建议，并附常见问题解答。</description>
+			</item>
 			<item>
 				<title>《Terrible Lizards》1.0.9补丁：修复软锁与滑铲即死</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-2920220-6e245d57/</link>

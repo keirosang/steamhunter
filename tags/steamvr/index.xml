@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>SteamVR on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/steamvr/</link>
+		<description>Recent content in SteamVR on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 04 Nov 2026 08:36:51 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/steamvr/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Frame 推送 SteamOS 0.5.7 Beta：注视点锐化独立，高级超采样功能被移除</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4165890-b30a00c5/</link>
+				<pubDate>Wed, 04 Nov 2026 08:36:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4165890-b30a00c5/</guid>
+				<description>Valve 为 Steam Frame 放出了 SteamOS 0.5.7 Beta 更新，SteamVR、手柄、系统与音频四大块都有改动：注视点锐化不再依赖眼动追踪、默认居中生效，高级超采样在 Steam Frame 上被移除，手柄 0% 电量显示修复，还给《Chromalab》《蝙蝠侠：阿卡姆》《Doom VFR》补上了默认按键绑定。Chromium 157 以上开始支持 WebXR。想尝鲜的玩家可在头显内切换到 Beta 通道。</description>
+			</item>
+	</channel>
+</rss>

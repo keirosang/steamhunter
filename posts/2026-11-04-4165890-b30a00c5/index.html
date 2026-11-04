@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Steam Frame 推送 SteamOS 0.5.7 Beta：注视点锐化独立，高级超采样功能被移除 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Valve 为 Steam Frame 放出了 SteamOS 0.5.7 Beta 更新，SteamVR、手柄、系统与音频四大块都有改动：注视点锐化不再依赖眼动追踪、默认居中生效，高级超采样在 Steam Frame 上被移除，手柄 0% 电量显示修复，还给《Chromalab》《蝙蝠侠：阿卡姆》《Doom VFR》补上了默认按键绑定。Chromium 157 以上开始支持 WebXR。想尝鲜的玩家可在头显内切换到 Beta 通道。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Steam Frame 推送 SteamOS 0.5.7 Beta：注视点锐化独立，高级超采样功能被移除">
+  <meta property="og:description" content="Valve 为 Steam Frame 放出了 SteamOS 0.5.7 Beta 更新，SteamVR、手柄、系统与音频四大块都有改动：注视点锐化不再依赖眼动追踪、默认居中生效，高级超采样在 Steam Frame 上被移除，手柄 0% 电量显示修复，还给《Chromalab》《蝙蝠侠：阿卡姆》《Doom VFR》补上了默认按键绑定。Chromium 157 以上开始支持 WebXR。想尝鲜的玩家可在头显内切换到 Beta 通道。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-04-4165890-b30a00c5/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/2ee7840267621e02.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-04-4165890-b30a00c5/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Steam Frame 推送 SteamOS 0.5.7 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Steam Frame</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 4165890</span>
+      
+    </div>
+
+    <h1 class="article-title">Steam Frame 推送 SteamOS 0.5.7 Beta：注视点锐化独立，高级超采样功能被移除</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-04T08:36:51&#43;08:00" class="meta-date">
+          📅 2026-11-04 08:36
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 6 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2825 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/4165890/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/4165890" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/2ee7840267621e02.jpg" alt="Steam Frame 推送 SteamOS 0.5.7 Beta：注视点锐化独立，高级超采样功能被移除" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Valve 为 Steam Frame 放出了 SteamOS 0.5.7 Beta 更新，SteamVR、手柄、系统与音频四大块都有改动：注视点锐化不再依赖眼动追踪、默认居中生效，高级超采样在 Steam Frame 上被移除，手柄 0% 电量显示修复，还给《Chromalab》《蝙蝠侠：阿卡姆》《Doom VFR》补上了默认按键绑定。Chromium 157 以上开始支持 WebXR。想尝鲜的玩家可在头显内切换到 Beta 通道。
+      </div>
+      
+
+      <div class="article-body">
+        <p>Steam Frame 的 Beta 通道又有新包了。Valve 这回推的是 <strong>SteamOS 0.5.7 (for Steam Frame)</strong>，属于还在测试阶段的版本，主打的不是那种&quot;一眼惊艳&quot;的大功能，而是一堆用久了才会骂出声、修好了才会念好的细节。我先把结论摆在前头：<strong>渲染管线做减法，音频链路做加法，手柄显示做修补</strong>。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>更新性质</strong>：Steam Frame Beta 通道版本，仍在测试中，稳定性不保证，主力机慎入。</li>
+<li><strong>SteamVR</strong>：振动过滤针对姿态预测做了优化；休眠前屏幕会先变暗 30 秒；<strong>注视点锐化（Foveated Sharpening）与眼动追踪彻底解绑</strong>，眼动关掉也不再一并失效，默认走居中区域；<strong>Steam Frame 上的高级超采样（Advanced Supersampling）支持被移除</strong>；引导导览过程中 Steam 界面固定停靠在前方。</li>
+<li><strong>Frame Controllers</strong>：电量 0% 时终于能正确显示；为《Chromalab》《蝙蝠侠：阿卡姆》《Doom VFR》补上默认按键绑定。</li>
+<li><strong>OS</strong>：Chromium 157 及以上版本启用 WebXR 支持。</li>
+<li><strong>音频</strong>：修复应用调用麦克风时 USB / 蓝牙音箱突然哑火的问题；新增可单独关闭麦克风回声消除与降噪的开关（需搭配当前 Steam 客户端 Beta）。</li>
+<li><strong>切换方式</strong>：头显内 <code>设置 &gt; 系统 &gt; 系统更新通道</code>；客户端 Beta 走 <code>设置 &gt; 系统 &gt; Steam Client 更新通道</code>。</li>
+</ul>
+<p>SteamVR 本体的完整更新说明可以看官方公告：https://store.steampowered.com/news/app/250820/view/683017363938871519</p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一渲染把高级下线把锐化解绑">一、渲染：把&quot;高级&quot;下线，把&quot;锐化&quot;解绑</h3>
+<p>这次最值得聊的是两件听着相反的事。</p>
+<p><strong>第一件，注视点锐化独立了。</strong> 以前它挂在眼动追踪上，眼动一关，锐化就跟着躺平，等于逼着你必须开着 Eye Tracking 才能吃到画质红利——这对眼动校准不稳、或者单纯不想让摄像头一直盯着自己眼球的玩家很不友好。0.5.7 之后两者解耦，眼动关掉，锐化依然在，只是退回<strong>居中区域</strong>生效。说白了就是：不吃眼动，也能白嫖一档清晰度，代价是画面边缘该糊还是糊。</p>
+<p><strong>第二件，Steam Frame 上移除了高级超采样支持。</strong> 这条对长期折腾参数的玩家来说有点像被背刺——好不容易调顺手的超采样档位，说没就没了。从工程角度看，这更像是 Valve 在给 Steam Frame 的渲染路径收口：与其让玩家在多个互相打架的放大方案之间反复横跳，不如砍掉一个、把默认链路做稳。<strong>建议别急着找第三方工具硬塞回来</strong>，Beta 阶段的渲染管线本来就在动刀，叠加非官方方案很容易出画面撕裂或掉帧。</p>
+<p>顺带还有个体验向的小改动：<strong>休眠前屏幕会先变暗 30 秒</strong>。摘下头显随手一放，不会再被突然黑屏闪一下，这个过渡挺人性化。</p>
+<h3 id="二手柄0-电量的尊严">二、手柄：0% 电量的尊严</h3>
+<p>Frame Controllers 这次修的是个老实问题——<strong>电量掉到 0% 时显示不正常</strong>。听着像小 bug，实际用起来很折磨：手柄明明已经快断气，界面还给你留着一格电，等你进 Boss 战的时候它才诚实地关机。</p>
+<p>另一个务实改动是给 <strong>《Chromalab》《蝙蝠侠：阿卡姆》《Doom VFR》</strong> 补了默认按键绑定。VR 老玩家都懂，默认绑定做得好不好，直接决定一款游戏是&quot;能玩&quot;还是&quot;能开&quot;。尤其是《Doom VFR》这种快节奏射击，键位映射一乱，跑图就跟跳探戈一样。这次官方给了默认方案，至少不用进游戏先花十分钟进设置里自己摸。</p>
+<h3 id="三系统与音频麦克风不再抢麦">三、系统与音频：麦克风不再&quot;抢麦&quot;</h3>
+<p>OS 层这边，<strong>Chromium 157 及以上版本启用 WebXR 支持</strong>。这条对普通玩家来说感知不强，但对喜欢在浏览器里直接开 VR 场景、看 3D 展示页的人是真香——不用再为打开一个网页场景来回折腾客户端。</p>
+<p>音频部分才是这次真正救人的修复：<strong>当某个应用尝试访问麦克风时，USB 或蓝牙音箱会直接失声</strong>。这个 bug 属于典型&quot;你永远猜不到是它&quot;的类型——游戏里开了语音，结果音箱没声了，玩家第一反应往往是查线、重连蓝牙、怀疑设备坏了，折腾半小时才发现是系统在打架。0.5.7 把它修了。</p>
+<p>同时新增了<strong>选择性关闭麦克风回声消除和降噪</strong>的控件。别小看这两个开关：默认开启的降噪对键盘声、风扇声很友好，但它也会顺手把你的语音啃掉一部分，听起来发闷、断字。开黑时队友说&quot;你声音像在水里&quot;，多半就是这个原因。<strong>注意这个开关需要搭配当前的 Steam 客户端 Beta 才生效</strong>，光更新头显固件是看不到的。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>1. 怎么升到 Beta</strong>
+头显内直接走：<code>设置 &gt; 系统 &gt; 系统更新通道</code>，选 Beta 后回来检查更新即可。
+如果你还想吃到音频那组新开关，<strong>额外</strong>在头显里进 <code>设置 &gt; 系统 &gt; Steam Client 更新通道</code>，把客户端也切到 Beta。两个通道互不影响，只开一个会出现&quot;更新日志里有、界面上找不到&quot;的尴尬。</p>
+<p><strong>2. 升级前的准备</strong></p>
+<ul>
+<li>手柄先充满电，别在 20% 以下刷固件，中途掉电容易出玄学问题；</li>
+<li>记录一下你现在用的超采样设置，因为 Advanced Supersampling 在 Steam Frame 上已经没了，升完回不去只能重调；</li>
+<li>如果你有正在进行的联机局或者长时间串流需求，建议<strong>等 Beta 稳一两个版本再上车</strong>，主力机别当小白鼠。</li>
+</ul>
+<p><strong>3. 想回滚怎么办</strong>
+原路返回：<code>设置 &gt; 系统 &gt; 系统更新通道</code> 切回稳定通道，再检查更新一次。回滚后手柄的默认绑定和音频开关可能保留，画面相关设置大概率重置，做好心理准备。</p>
+<p><strong>4. 音频问题的排查顺序</strong>
+升级后如果还有杂音或者断连，先别怀疑硬件。依次检查：麦克风降噪 / 回声消除开关是否被某些应用覆盖、蓝牙音箱是不是同时被系统和其他设备占用、以及是否只在&quot;应用请求麦克风&quot;时才复现。这一套排查下来，能省掉一次不必要的售后。</p>
+<p><strong>5. 开黑避坑</strong>
+如果你经常和朋友连麦，建议把降噪手动关掉先听一遍自己的声音，再决定留不留。默认值不等于最适合你的值，尤其是用外接麦克风的朋友。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>Beta 通道的推送节奏向来飘忽，今天更、明天不更都是常事，靠手动去设置里点&quot;检查更新&quot;效率太低。<strong>建议加入官方 Telegram 频道 <a href="https://t.me/steamhunterlink">@steamhunterlink</a></strong>，限免喜加一、临时工特惠、以及 Steam Frame / SteamOS 这类固件与客户端 Beta 推送，都是秒级同步到手机。像这种&quot;更新了但你没发现&quot;的小包，往往就差一条推送提醒。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：这次 0.5.7 Beta 是强制更新吗？我在稳定通道会不会被推？</strong>
+不会。这是 Steam Frame <strong>Beta 通道</strong>的版本，稳定通道的玩家不会自动收到。想尝鲜必须手动在 <code>设置 &gt; 系统 &gt; 系统更新通道</code> 里切到 Beta，切回去同样手动，不存在被动升级。</p>
+<p><strong>Q2：高级超采样被移除了，我的画质是不是就废了？</strong>
+不至于。被移除的是&quot;高级超采样&quot;这一档额外方案，基础渲染链路和注视点锐化都还在，而且锐化这次还解绑了眼动追踪，默认居中就能生效。实际观感上，多数场景属于&quot;参数选项少了，但默认更省心&quot;。真觉得画面不够锐，优先调基础渲染分辨率，别急着上第三方超采样工具。</p>
+<p><strong>Q3：音频修复和新的降噪开关，为什么我更新完没看到？</strong>
+麦克风回声消除 / 降噪的开关<strong>需要当前 Steam 客户端 Beta</strong> 配合，只更新 SteamOS 是不够的。请额外在头显内进 <code>设置 &gt; 系统 &gt; Steam Client 更新通道</code> 切到 Beta 并完成客户端更新。至于 USB / 蓝牙音箱失声的修复，只要升到 0.5.7 就会生效，不需要额外操作。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Steam%20Frame/" class="article-tag-item">#Steam Frame</a>
+          
+          <a href="/tags/SteamOS/" class="article-tag-item">#SteamOS</a>
+          
+          <a href="/tags/SteamVR/" class="article-tag-item">#SteamVR</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/Beta%e6%b5%8b%e8%af%95/" class="article-tag-item">#Beta测试</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-04-4165890-b30a00c5/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-5290910-437ccfad/" class="sibling-title">《Sump》小型热修：F8入口门软锁修复，死亡重生不再被一扇门关在外面</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-4946100-d1424cb1/" class="sibling-title">SIDExLINES上线Steam：21点肉鸽构筑，百种边注联机开赌</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一渲染把高级下线把锐化解绑">一、渲染：把&quot;高级&quot;下线，把&quot;锐化&quot;解绑</a></li>
+        <li><a href="#二手柄0-电量的尊严">二、手柄：0% 电量的尊严</a></li>
+        <li><a href="#三系统与音频麦克风不再抢麦">三、系统与音频：麦克风不再&quot;抢麦&quot;</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

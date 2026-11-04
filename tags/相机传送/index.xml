@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>相机传送 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%9B%B8%E6%9C%BA%E4%BC%A0%E9%80%81/</link>
+		<description>Recent content in 相机传送 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 04 Nov 2026 06:15:12 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%9B%B8%E6%9C%BA%E4%BC%A0%E9%80%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Mycelarium 快速修复补丁上线：性能优化、相机传送控制与视觉修正同步实装</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5181520-a2b1d355/</link>
+				<pubDate>Wed, 04 Nov 2026 06:15:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5181520-a2b1d355/</guid>
+				<description>Mycelarium 官方推送快速修复补丁，围绕运行优化、相机传送控制与视觉表现三项痛点开刀。本次虽非大版本，但新增的 UI 相机传送控制让跑图与场景检查更顺手，性能与画面问题也得到针对性修正。本文整理补丁要点、更新后的实操建议与常见问题，帮你快速确认这次修复是否命中你的卡顿与镜头困扰。</description>
+			</item>
+	</channel>
+</rss>
