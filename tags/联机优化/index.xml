@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 21:52:13 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 10:49:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《文字刷宝录》v1.0.2更新：召唤物光环修复，联机同步更稳</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5319550-f928ffe5/</link>
+				<pubDate>Wed, 04 Nov 2026 10:49:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5319550-f928ffe5/</guid>
+				<description>《文字刷宝录》v1.0.2 补丁正式落地，重点修复部分光环无法作用于召唤物的老毛病，同时优化多人联机同步逻辑。对召唤流玩家来说，这是一次实打实的体验提升；对开黑党而言，卡顿与状态不同步也有望缓解。本文梳理更新要点、实操建议与高频问题，帮你快速判断是否值得回坑。</description>
+			</item>
 			<item>
 				<title>《雾锁王国》热修4上线：语音音量、联机拾取音效与水体崩溃全面修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-1203620-2c7c3103/</link>

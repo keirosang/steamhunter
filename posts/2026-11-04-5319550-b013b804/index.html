@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>文字刷宝录 v1.0.1：多人地牢门隐身 Bug 修复，联机不再抓瞎 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《文字刷宝录》推送 v1.0.1 小补丁，只干一件事：修掉多人模式里地牢门偶尔隐身的老毛病。别小看这扇门，在文字刷宝玩法里它就是推进下一层的命门，门一消失，小队立刻原地表演“我是谁、我在哪、下一层怎么走”。更新后 Steam 会自动替换文件，开黑前记得让主机和客机都确认版本号，顺手验证完整性、清掉冲突 MOD，联机体验会稳不少。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="文字刷宝录 v1.0.1：多人地牢门隐身 Bug 修复，联机不再抓瞎">
+  <meta property="og:description" content="《文字刷宝录》推送 v1.0.1 小补丁，只干一件事：修掉多人模式里地牢门偶尔隐身的老毛病。别小看这扇门，在文字刷宝玩法里它就是推进下一层的命门，门一消失，小队立刻原地表演“我是谁、我在哪、下一层怎么走”。更新后 Steam 会自动替换文件，开黑前记得让主机和客机都确认版本号，顺手验证完整性、清掉冲突 MOD，联机体验会稳不少。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-04-5319550-b013b804/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/7d490961b314ac5b.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-04-5319550-b013b804/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">文字刷宝录 v1.0.1：多人地牢门隐身 Bug 修复，联机 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 文字刷宝录 Text Loot Codex</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5319550</span>
+      
+    </div>
+
+    <h1 class="article-title">文字刷宝录 v1.0.1：多人地牢门隐身 Bug 修复，联机不再抓瞎</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-04T09:33:53&#43;08:00" class="meta-date">
+          📅 2026-11-04 09:33
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 3 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1478 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5319550/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5319550" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/7d490961b314ac5b.jpg" alt="文字刷宝录 v1.0.1：多人地牢门隐身 Bug 修复，联机不再抓瞎" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《文字刷宝录》推送 v1.0.1 小补丁，只干一件事：修掉多人模式里地牢门偶尔隐身的老毛病。别小看这扇门，在文字刷宝玩法里它就是推进下一层的命门，门一消失，小队立刻原地表演“我是谁、我在哪、下一层怎么走”。更新后 Steam 会自动替换文件，开黑前记得让主机和客机都确认版本号，顺手验证完整性、清掉冲突 MOD，联机体验会稳不少。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>补丁版本</strong>：v1.0.1（Steam AppID：5319550）</li>
+<li><strong>核心修复</strong>：多人模式下，地牢门偶尔不可见的问题</li>
+<li><strong>影响范围</strong>：官方说明只点名多人联机场景，单人流程未提及改动</li>
+<li><strong>内容性质</strong>：纯 Bug 修复型小补丁，没有新职业、新装备、新地图，也没有平衡性数值调整</li>
+<li><strong>更新方式</strong>：Steam 默认自动更新；开黑前建议主机与客机都确认版本号一致</li>
+</ul>
+<p>一句话总结：这次不是“大版本更新”，但对联机车队来说，是一颗相当关键的定心丸。</p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一扇门为什么值得单独发补丁">一扇门，为什么值得单独发补丁？</h3>
+<p>在《文字刷宝录》这类以文本信息驱动刷宝循环的游戏里，地牢门不是装饰，而是关卡状态的“锚点”。当门在客机端不渲染，玩家看到的可能是一堵墙或一片空白，但主机那边也许一切正常。结果就是：主机喊“门在这”，客机回“你别骗我”。轻则绕圈，重则以为存档坏了直接退房。多人同步类显示 Bug 最烦人的地方就在这——它不崩游戏，只崩沟通。</p>
+<h3 id="本次修复的实际价值">本次修复的实际价值</h3>
+<ul>
+<li><strong>开荒车队</strong>：减少“找门半小时、打怪五分钟”的尴尬</li>
+<li><strong>带新体验</strong>：新人不会因为看不到入口而误判游戏卡死</li>
+<li><strong>速刷节奏</strong>：路线记忆不再被客户端显示差异打断</li>
+</ul>
+<h3 id="没改什么也要说清楚">没改什么，也要说清楚</h3>
+<p>v1.0.1 的说明里只有这一条修复项。也就是说：别期待数值重做、掉落池调整或新内容空降。对老玩家而言，这是一次“把路标擦干净”的维护；对手里还压着一堆 Build 没成型的朋友，先把联机稳定性提上来，比塞新装备更实在。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="1-先把更新吃进肚子">1. 先把更新吃进肚子</h3>
+<p>Steam 库 → 右键游戏 → 属性 → 已安装文件 → 检查更新；或者直接重启 Steam 客户端，看下载队列里有没有 v1.0.1。更新完成后进游戏主界面或设置页确认版本号，别凭感觉。</p>
+<h3 id="2-联机前对齐版本">2. 联机前对齐版本</h3>
+<p>多人游戏最怕“我修了，你没修”。开黑前统一动作：主机先更新并进房，客机再进；如果一方版本落后，先退房更新，别硬连。版本不一致时，显示类 Bug 最容易死灰复燃。</p>
+<h3 id="3-还看不到门按这个顺序排查">3. 还看不到门？按这个顺序排查</h3>
+<ul>
+<li>退出房间重进，让主机重新加载地牢层</li>
+<li>在 Steam 里验证游戏文件完整性</li>
+<li>暂时禁用地图、UI、字体类 MOD（如果有），排除渲染冲突</li>
+<li>切换全屏/窗口化，排除极端分辨率下的显示异常</li>
+<li>仍复现就录屏，并记下楼层与队伍人数，去社区反馈</li>
+</ul>
+<h3 id="4-开黑小技巧">4. 开黑小技巧</h3>
+<p>文字刷宝的联机沟通成本比动作游戏更高，建议固定报点格式：“层数+方向+门/事件”。遇到门消失先别急着退，让主机报一下门的相对位置，很多情况下交互仍在，只是画面没画出来。带新人时优先打短层，减少长时间副本带来的同步压力。</p>
+<h3 id="5-配置与购买建议">5. 配置与购买建议</h3>
+<p>这类文字驱动游戏对显卡压力不大，真正影响体验的是字体大小、窗口分辨率和语音软件占用。笔记本玩家建议窗口化+合适字体缩放，方便一边查资料一边刷。还没入库的朋友，先加愿望单盯特惠，别急着原价冲；本体与 DLC 按自己刷宝强度来，先确认联机朋友买的是同一版本内容。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间收到 Steam 限免喜加一、史低特惠和这类“小补丁但很关键”的更新提醒，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。秒级推送，不用天天刷商店页，适合我这种一边挂下载一边摸鱼的老玩家。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：v1.0.1 到底更新了什么？</strong>
+A：按官方补丁说明，本次只修复了多人模式中地牢门偶尔不可见的问题。没有提到新内容或平衡性调整，属于体验修复型小补丁。</p>
+<p><strong>Q2：为什么我的 Steam 没显示更新？</strong>
+A：先重启 Steam 客户端，检查下载队列；再到库中右键游戏→属性→已安装文件→检查更新。若你刚启动过游戏，也可能已经自动更新完成，进游戏确认版本号即可。</p>
+<p><strong>Q3：更新后联机还是看不到地牢门怎么办？</strong>
+A：先确认主机和客机版本一致，然后验证文件完整性、暂时关闭 UI/地图类 MOD，并让主机重开房间。仍能稳定复现的话，录屏记录楼层、人数和操作步骤，提交给官方社区反馈。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e6%96%87%e5%ad%97%e5%88%b7%e5%ae%9d%e5%bd%95/" class="article-tag-item">#文字刷宝录</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+          <a href="/tags/%e5%a4%9a%e4%ba%ba%e8%81%94%e6%9c%ba/" class="article-tag-item">#多人联机</a>
+          
+          <a href="/tags/Steam%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam资讯</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-04-5319550-b013b804/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-3700350-ec43b8e9/" class="sibling-title">《Kokuhaku Confessional》正式发售！Shiravune 全新视觉小说登陆 Steam</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-5319550-f928ffe5/" class="sibling-title">《文字刷宝录》v1.0.2更新：召唤物光环修复，联机同步更稳</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一扇门为什么值得单独发补丁">一扇门，为什么值得单独发补丁？</a></li>
+        <li><a href="#本次修复的实际价值">本次修复的实际价值</a></li>
+        <li><a href="#没改什么也要说清楚">没改什么，也要说清楚</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#1-先把更新吃进肚子">1. 先把更新吃进肚子</a></li>
+        <li><a href="#2-联机前对齐版本">2. 联机前对齐版本</a></li>
+        <li><a href="#3-还看不到门按这个顺序排查">3. 还看不到门？按这个顺序排查</a></li>
+        <li><a href="#4-开黑小技巧">4. 开黑小技巧</a></li>
+        <li><a href="#5-配置与购买建议">5. 配置与购买建议</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

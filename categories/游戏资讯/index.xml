@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 07:52:44 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 10:49:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《文字刷宝录》v1.0.2更新：召唤物光环修复，联机同步更稳</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5319550-f928ffe5/</link>
+				<pubDate>Wed, 04 Nov 2026 10:49:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5319550-f928ffe5/</guid>
+				<description>《文字刷宝录》v1.0.2 补丁正式落地，重点修复部分光环无法作用于召唤物的老毛病，同时优化多人联机同步逻辑。对召唤流玩家来说，这是一次实打实的体验提升；对开黑党而言，卡顿与状态不同步也有望缓解。本文梳理更新要点、实操建议与高频问题，帮你快速判断是否值得回坑。</description>
+			</item>
+			<item>
+				<title>文字刷宝录 v1.0.1：多人地牢门隐身 Bug 修复，联机不再抓瞎</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5319550-b013b804/</link>
+				<pubDate>Wed, 04 Nov 2026 09:33:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5319550-b013b804/</guid>
+				<description>《文字刷宝录》推送 v1.0.1 小补丁，只干一件事：修掉多人模式里地牢门偶尔隐身的老毛病。别小看这扇门，在文字刷宝玩法里它就是推进下一层的命门，门一消失，小队立刻原地表演“我是谁、我在哪、下一层怎么走”。更新后 Steam 会自动替换文件，开黑前记得让主机和客机都确认版本号，顺手验证完整性、清掉冲突 MOD，联机体验会稳不少。</description>
+			</item>
+			<item>
+				<title>《Kokuhaku Confessional》正式发售！Shiravune 全新视觉小说登陆 Steam</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-3700350-ec43b8e9/</link>
+				<pubDate>Wed, 04 Nov 2026 09:13:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-3700350-ec43b8e9/</guid>
+				<description>Shiravune 与 Co-FUN Games 联手打造的视觉小说新作《Kokuhaku Confessional》已在 Steam 正式上架（AppID 3700350），无需蹲预售，点开即买即玩。官方同步放出全套兄弟作品链接，并喊话玩家“玩得开心就留个好评”。本文梳理本作看点、发行商背景、入手与避坑要点，以及这类小体量 ADV 该如何正确支持。</description>
+			</item>
 			<item>
 				<title>BugPot 热修 v1.0.1：老虎机最左侧滚轮越界显示问题修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-5243610-29cd5cdc/</link>
@@ -831,6 +852,13 @@
 				<pubDate>Tue, 03 Nov 2026 02:04:54 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-03-1938090-2c142355/</guid>
 				<description>《使命召唤：战区》第1赛季将于11月6日上线，全面接入《现代战争4》：新增Hajin大型生存地图与Zodiac卷土重来地图，加入滑索发射器、抓取无人机、可移动油桶与可推掩体等机制，还有精英特长、武器强化与多模式轮换。本文梳理核心改动、开荒建议与常见问题，助你第一时间冲进新赛季。</description>
+			</item>
+			<item>
+				<title>土豆兄弟Primal Dread DLC上线：丛林新图与进化机制</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1942280-bc5378e4/</link>
+				<pubDate>Tue, 03 Nov 2026 02:03:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1942280-bc5378e4/</guid>
+				<description>《土豆兄弟》迄今规模最大的DLC“Primal Dread”正式上线，带来丛林新地图、20波新敌人、10名新角色、17把武器、40件道具以及全新进化机制。免费更新同步加入道具套装、梦魇敌人平衡与老角色加强。我整理了核心看点、购买与开荒建议，以及更新后必须注意的Mod兼容问题。</description>
 			</item>
 			<item>
 				<title>《Capy Farm》正式发售：首发8折，水豚陪你四季种田冲全球榜</title>
