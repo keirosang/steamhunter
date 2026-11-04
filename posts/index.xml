@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 17:00:05 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 18:32:00 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Circuit Pulse》Steam 正式发售：独立新作首发上线，开发者亲自蹲守社区等你的 bug 反馈</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4503110-0fee880e/</link>
+				<pubDate>Wed, 04 Nov 2026 18:32:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4503110-0fee880e/</guid>
+				<description>独立新作《Circuit Pulse》已在 Steam 正式解锁发售，开发者第一时间在社区发帖宣布上线，并公开 Discord 反馈渠道与社区留言区，承诺尽快回复玩家遇到的 bug 与体验问题。本文梳理本次首发上线的核心信息、开发者沟通方式、入手与反馈实操建议，以及购买前需要留意的几个细节，帮你判断这款新游值不值得现在就入手。</description>
+			</item>
+			<item>
+				<title>《SUPER GAHAKU》正式发售：首发两周直降 30%，拉上朋友一起玩疯 3D 绘画</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4966560-dc1516ae/</link>
+				<pubDate>Wed, 04 Nov 2026 17:58:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4966560-dc1516ae/</guid>
+				<description>主打“画得越离谱越好笑”的 3D 绘画派对游戏《SUPER GAHAKU》现已正式上架 Steam，官方同步开启为期两周的 30% 首发折扣，这也是本作短期内最值得入手的窗口期。本文梳理了本次发售的核心信息、玩法看点、开黑建议与购买时机判断，并附上高频问题解答，帮你决定要不要现在就拽朋友入坑。</description>
+			</item>
+			<item>
+				<title>Crystal Ascend 1.0.1：光敏警告可关，健康提示成亮点</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4553780-4b6935f6/</link>
+				<pubDate>Wed, 04 Nov 2026 17:23:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4553780-4b6935f6/</guid>
+				<description>Crystal Ascend 1.0.1 补丁上线，公开条目相当克制，重点放在启动体验与玩家健康提示：启动时新增光敏性警告，后续可在设置中关闭，官方建议在光线充足的环境下游玩。对光敏敏感、长时间刷本的玩家来说，这是实用的小补丁；本文整理更新要点、设置建议与常见问题，帮你快速完成更新并安心开玩。</description>
+			</item>
+			<item>
+				<title>《影之刃零》新补丁实装：抓取攻击减频、着色器重构大幅缩短启动时间</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4115450-280dc07a/</link>
+				<pubDate>Wed, 04 Nov 2026 17:20:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4115450-280dc07a/</guid>
+				<description>《影之刃零》推送 1.0302256 版本补丁：重构着色器编译流程，光追着色器不再默认于启动时编译，开机进游戏快了一大截；新增打击音效强度滑杆与互动键重映射；「旅人」「破关者」难度下 Hua 的抓取攻击明显降频；同时修复蓝牙手柄卡顿、卡地形与 AMD 显卡头发渲染异常等一系列问题。</description>
+			</item>
 			<item>
 				<title>《Mycelarium》限时20%史低，3.99美元永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-5181520-9087b427/</link>
@@ -152,6 +180,13 @@
 				<pubDate>Wed, 04 Nov 2026 08:20:42 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-04-5290910-437ccfad/</guid>
 				<description>《Sump》推送小型热修复，专治 F8 入口门软锁：玩家关闭入口门后死亡重生，大门依旧紧闭导致卡关。此前只能退回主菜单再继续游戏，如今死亡重生时门会自动重置。本文拆解触发机制、更新影响与开黑避坑建议，并附常见问题解答。</description>
+			</item>
+			<item>
+				<title>Bustbound 跳票致歉送补偿：首发七天 85 折，上架即开抢</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5459170-fb46c1ab/</link>
+				<pubDate>Wed, 04 Nov 2026 08:12:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5459170-fb46c1ab/</guid>
+				<description>原定档期没能守住，Bustbound 开发者 Kukjinman 亲自发公告致歉：不是内容卡壳，而是商店发布检查已全部走完，只等后台开闸放行。为了安抚排队等待的玩家，官方把诚意写进了价格——游戏正式开卖后的前七天直接 15% off，上架即开折、不用等促销节点。本篇把跳票的真实原因、折扣窗口怎么算、怎么第一时间入库以及几点实操建议，一次说清楚。</description>
 			</item>
 			<item>
 				<title>《Loftia》史低特惠：立省17%仅24.89新币，治愈系联机党上车</title>
@@ -1321,6 +1356,13 @@
 				<pubDate>Mon, 02 Nov 2026 20:48:18 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-02-4430260-7984a12f/</guid>
 				<description>等待终于到头！音乐竞速《Beat For Speed》将于北京时间11月4日凌晨2点全球解锁，试玩Demo在正式版上线前关闭，工坊创作者记得提前备份自制关卡。官方同步开启首发福利：11月3日至9日（太平洋时间）购买可享8折优惠。本文整理了全球解锁时间、Demo下架注意事项与入手建议，帮你第一时间上车不被落下。</description>
+			</item>
+			<item>
+				<title>《Lost Host》发售在即：58K愿望单达成，开发者术后谈更新计划</title>
+				<link>https://info.steamhunter.link/posts/2026-11-02-3273260-94941d10/</link>
+				<pubDate>Mon, 02 Nov 2026 20:22:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-02-3273260-94941d10/</guid>
+				<description>《Lost Host》将于11月4日登陆Steam，愿望单突破58,000。开发者在发售前突发阑尾炎接受手术，现已回家准备亲手按下发布键。官方公布发售后计划：Mac版、转向灵敏度调节、车辆物理预设与Bug修复。免费Demo已上线，完整版定价亲民。开发者还提醒Key请求诈骗泛滥，暂停回复大部分索取请求。</description>
 			</item>
 			<item>
 				<title>战争雷霆鹰之影大版本：集束炸弹登陆空战，轻装甲车队要遭重</title>

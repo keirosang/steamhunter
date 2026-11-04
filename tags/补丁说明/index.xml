@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 01 Nov 2026 14:31:41 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 17:23:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%A1%A5%E4%B8%81%E8%AF%B4%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Crystal Ascend 1.0.1：光敏警告可关，健康提示成亮点</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4553780-4b6935f6/</link>
+				<pubDate>Wed, 04 Nov 2026 17:23:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4553780-4b6935f6/</guid>
+				<description>Crystal Ascend 1.0.1 补丁上线，公开条目相当克制，重点放在启动体验与玩家健康提示：启动时新增光敏性警告，后续可在设置中关闭，官方建议在光线充足的环境下游玩。对光敏敏感、长时间刷本的玩家来说，这是实用的小补丁；本文整理更新要点、设置建议与常见问题，帮你快速完成更新并安心开玩。</description>
+			</item>
+			<item>
+				<title>《影之刃零》新补丁实装：抓取攻击减频、着色器重构大幅缩短启动时间</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-4115450-280dc07a/</link>
+				<pubDate>Wed, 04 Nov 2026 17:20:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-4115450-280dc07a/</guid>
+				<description>《影之刃零》推送 1.0302256 版本补丁：重构着色器编译流程，光追着色器不再默认于启动时编译，开机进游戏快了一大截；新增打击音效强度滑杆与互动键重映射；「旅人」「破关者」难度下 Hua 的抓取攻击明显降频；同时修复蓝牙手柄卡顿、卡地形与 AMD 显卡头发渲染异常等一系列问题。</description>
+			</item>
 			<item>
 				<title>《Queen&#39;s Domain》1.01.03补丁：地波终于能打中</title>
 				<link>https://info.steamhunter.link/posts/2026-11-01-1799840-ee0421b1/</link>
