@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>僵尸毁灭工程42.22.1热修：JRE完整性检测上线，存档兼容不炸档 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《僵尸毁灭工程》42.22.1 预发布热修已推送：本次重点修复 eMudhra 数字证书校验漏洞，并加入 JRE 完整性检查，检测到 Java 运行环境被改动会在版本水印中提示，同时更新第三方软件许可声明。官方表示一般不会损坏存档，但报 Bug 前请先用无 Mod 新档复现。尝鲜党可更新体验，保守党建议备份存档再上车。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="僵尸毁灭工程42.22.1热修：JRE完整性检测上线，存档兼容不炸档">
+  <meta property="og:description" content="《僵尸毁灭工程》42.22.1 预发布热修已推送：本次重点修复 eMudhra 数字证书校验漏洞，并加入 JRE 完整性检查，检测到 Java 运行环境被改动会在版本水印中提示，同时更新第三方软件许可声明。官方表示一般不会损坏存档，但报 Bug 前请先用无 Mod 新档复现。尝鲜党可更新体验，保守党建议备份存档再上车。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-04-108600-11da5874/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/8c1c2082f5cfc3e1.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-04-108600-11da5874/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">僵尸毁灭工程42.22.1热修：JRE完整性检测上线，存档兼 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Project Zomboid</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 108600</span>
+      
+    </div>
+
+    <h1 class="article-title">僵尸毁灭工程42.22.1热修：JRE完整性检测上线，存档兼容不炸档</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-04T18:07:37&#43;08:00" class="meta-date">
+          📅 2026-11-04 18:07
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1810 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/108600/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/108600" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/8c1c2082f5cfc3e1.jpg" alt="僵尸毁灭工程42.22.1热修：JRE完整性检测上线，存档兼容不炸档" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《僵尸毁灭工程》42.22.1 预发布热修已推送：本次重点修复 eMudhra 数字证书校验漏洞，并加入 JRE 完整性检查，检测到 Java 运行环境被改动会在版本水印中提示，同时更新第三方软件许可声明。官方表示一般不会损坏存档，但报 Bug 前请先用无 Mod 新档复现。尝鲜党可更新体验，保守党建议备份存档再上车。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位僵尸幸存者，我是你们的老朋友，Steam 专栏主理人。先说结论：这次 42.22.1 不是塞满新枪新地图的大版本，而是一份偏底层安全的预发布热修。没有喜加一，也没有史低背刺，但如果你正在 Build 42 预发布分支里折腾 Mod、开服务器，或者对 Java 运行环境动过手脚，这份补丁值得看一眼。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>安全漏洞修复</strong>：修复了与 eMudhra 数字证书校验相关的漏洞，属于底层加固型更新。</li>
+<li><strong>JRE 完整性检查</strong>：新增对 Java 运行环境的完整性检测，检测到改动会在版本水印中提示。</li>
+<li><strong>许可声明更新</strong>：更新了 credits 与 licence 文档里的第三方软件许可声明。</li>
+<li><strong>存档兼容口风</strong>：官方表示本次更新“应该不会”损坏存档；遇到 Bug 请先在无 Mod 新档复现再报。</li>
+<li><strong>讨论帖指路</strong>：相关讨论已置顶在 Steam 讨论区，报 Bug 走官方论坛。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-emudhra-证书校验漏洞普通玩家感知不强但底裤得补">1. eMudhra 证书校验漏洞：普通玩家感知不强，但底裤得补</h3>
+<p>这次热修排在第一条的是 eMudhra 数字证书校验漏洞修复。简单说，就是补上证书验证环节的缺口，避免某些非法证书绕过校验。对绝大多数只关心“今天去哪儿搜刮罐头”的玩家来说，这条改动感受几乎为零；但对开服、做整合包、折腾运行环境的硬核老哥来说，底层安全少个窟窿总是好事。</p>
+<h3 id="2-jre-完整性检查改过-java-环境的版本水印会记账">2. JRE 完整性检查：改过 Java 环境的，版本水印会“记账”</h3>
+<p>《僵尸毁灭工程》跑在 Java 上，这次开发组给 JRE 加了完整性检查，用来发现 Java 运行环境是否被修改。<strong>检测到改动后，会在版本水印里给出提示。</strong> 这不是说改了就一定封号，也不是查 Mod 文件，而是让官方在接 Bug 报告时能一眼看出：你这环境是不是原装。</p>
+<p>对普通玩家：正常启动、正常装 Mod，基本无感。对喜欢替换 JRE、魔改启动器、用优化整合包的朋友：版本水印可能多一行“标记”，报 Bug 前最好先换回干净环境复现，不然官方团队大概率会先让你排除环境干扰。</p>
+<h3 id="3-许可声明与-credits-更新例行公事但合规不能少">3. 许可声明与 credits 更新：例行公事，但合规不能少</h3>
+<p>第三条是更新第三方软件许可声明，涉及 credits 和 licence 文档。属于“没人会专门庆祝，但不能不写”的合规维护。普通玩家直接略过即可。</p>
+<h3 id="4-存档与联机避坑官方说应该不炸你别真不备份">4. 存档与联机避坑：官方说“应该不炸”，你别真不备份</h3>
+<p>官方原话是这次更新“should not break saves”，也就是一般不会坏档。但注意，这是预发布分支的热修，加上 Mod、服务器插件、魔改环境之后，玄学概率永远存在。<strong>更新前把 Saves 文件夹复制一份，比事后在论坛哭坟有用。</strong> 如果遇到 Bug，官方要求先在无 Mod 的新存档里复现，再去 <a href="https://theindiestone.com/forums/forum/85-bug-reports/">Bug 报告区</a> 提交，不然他们很难判断是游戏问题还是 Mod 打架。</p>
+<p>联机玩家还要注意：服务器和客户端尽量同步到 42.22.1，别一个已经热修、一个还在旧版，否则连接失败、物品不同步、幽灵僵尸都可能来串门。Mod 服建议等常用 Mod 作者确认兼容后再集体上车。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>更新方式</strong>：Steam 库右键《僵尸毁灭工程》→ 属性 → 测试版，确认自己是否在预发布分支；回到游戏主菜单看版本水印是否变成 42.22.1。</li>
+<li><strong>存档备份</strong>：默认存档路径通常在 <code>C:/Users/你的用户名/Zomboid/Saves</code>，把整个 Saves 文件夹复制到桌面或移动硬盘，更新前花十秒，炸档后少哭两小时。</li>
+<li><strong>报 Bug 姿势</strong>：无 Mod 新档复现 + 版本水印截图 + 复现步骤 + 控制台日志，三件套齐全，官方处理效率更高。</li>
+<li><strong>联机开黑</strong>：先更新服务器，再让客户端跟进；确认双方版本号一致。Mod 服别急着第一时间冲，等 Mod 兼容名单更新。</li>
+<li><strong>保守党建议</strong>：不折腾 JRE、不追预发布分支的玩家，可以继续蹲稳定版；想尝鲜 Build 42 新内容的，再切预发布分支，但别把主力档放进去做实验。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间收到 Steam 喜加一、限免入库、史低背刺和热修补丁提醒？欢迎加入我的 Telegram 频道 <a href="https://t.me/steamhunterlink">@steamhunterlink</a>，推送比 Steam 弹窗还快半拍。白嫖不迷路，更新不掉队。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：42.22.1 热修会坏存档吗？</strong></p>
+<p>A：官方表示“应该不会”，但预发布分支 + Mod + 服务器插件叠加后没人敢打包票。更新前备份 Saves 文件夹；真遇到问题，先用无 Mod 新档复现，再去官方论坛报 Bug。</p>
+<p><strong>Q2：JRE 完整性检查会不会误伤 Mod？</strong></p>
+<p>A：它检测的是 Java 运行环境有没有被改动，不是扫描 Mod 文件。正常装 Mod 一般不受影响；如果你替换过 JRE、用了魔改启动器或整合包，版本水印可能被标记。标记不等于封号，但报 Bug 时官方会知道你的运行环境不是原装。</p>
+<p><strong>Q3：怎么确认自己更到 42.22.1？联机要注意什么？</strong></p>
+<p>A：Steam 库右键游戏 → 属性 → 测试版，确认预发布分支；进游戏看主菜单版本水印。联机时服务器和客户端必须同版本，建议服务器先更、玩家后更，Mod 服等兼容确认再开。</p>
+<hr>
+<p>更多讨论可以看官方置顶帖：<a href="https://steamcommunity.com/app/108600/discussions/0/564798511301823001/">Steam 讨论区</a>。祝各位在肯塔基活得久一点，别刚更新完就被门后的老六送走。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e5%83%b5%e5%b0%b8%e6%af%81%e7%81%ad%e5%b7%a5%e7%a8%8b/" class="article-tag-item">#僵尸毁灭工程</a>
+          
+          <a href="/tags/42.22.1%e7%83%ad%e4%bf%ae/" class="article-tag-item">#42.22.1热修</a>
+          
+          <a href="/tags/JRE%e5%ae%8c%e6%95%b4%e6%80%a7%e6%a3%80%e6%9f%a5/" class="article-tag-item">#JRE完整性检查</a>
+          
+          <a href="/tags/%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0/" class="article-tag-item">#安全更新</a>
+          
+          <a href="/tags/%e5%ad%98%e6%a1%a3%e5%85%bc%e5%ae%b9/" class="article-tag-item">#存档兼容</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-04-108600-11da5874/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-3393110-d940b345/" class="sibling-title">AION 2 卢德拉觉醒活动：14天签到白嫖7档奖励，硬核首杀刻名殿堂</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-4503110-0fee880e/" class="sibling-title">《Circuit Pulse》Steam 正式发售：独立新作首发上线，开发者亲自蹲守社区等你的 bug 反馈</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-emudhra-证书校验漏洞普通玩家感知不强但底裤得补">1. eMudhra 证书校验漏洞：普通玩家感知不强，但底裤得补</a></li>
+        <li><a href="#2-jre-完整性检查改过-java-环境的版本水印会记账">2. JRE 完整性检查：改过 Java 环境的，版本水印会“记账”</a></li>
+        <li><a href="#3-许可声明与-credits-更新例行公事但合规不能少">3. 许可声明与 credits 更新：例行公事，但合规不能少</a></li>
+        <li><a href="#4-存档与联机避坑官方说应该不炸你别真不备份">4. 存档与联机避坑：官方说“应该不炸”，你别真不备份</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

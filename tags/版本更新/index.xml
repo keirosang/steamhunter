@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 01:02:58 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 03:53:17 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《ArcheAge Chronicles》临时维护结束：Krogal手感修复、先锋大厅禁PK、任务栏大扫除</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-3218230-51c52c97/</link>
+				<pubDate>Thu, 05 Nov 2026 03:53:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-3218230-51c52c97/</guid>
+				<description>《ArcheAge Chronicles》临时维护已完成，服务器重新开放。本次更新优化了Krogal战斗模式的攻击判定，冲突频道先锋大厅内禁用互相攻击，钻石海岸四个任务终于可以放弃，Hereafter Stone不再可出售，同时还修复了Meliot不出现、封印祭坛无法重试、教程卡关、密语不显示等多项Bug。进游戏前记得先在Steam库中更新。</description>
+			</item>
+			<item>
+				<title>What&#39;Sub 1.0正式版上线：任务成就、手柄支持与分支路线全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-4269100-e3a29e0c/</link>
+				<pubDate>Thu, 05 Nov 2026 03:10:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-4269100-e3a29e0c/</guid>
+				<description>Khaos Games宣布独立游戏《What&amp;rsquo;Sub》结束抢先体验，正式踏入1.0版本。本次更新带来任务与成就系统、完整手柄支持与按键重绑定、祝福与诅咒机制、分支旅程路线，以及全新大厅和NPC。官方还进行了大量打磨、优化与Bug修复。本文梳理核心改动、上手建议与常见问题，帮你快速判断是否回归或入坑。</description>
+			</item>
+			<item>
+				<title>雪场经营模拟器1.0上线：DJ酒吧与自定义雪道全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-3299080-7b5ed857/</link>
+				<pubDate>Thu, 05 Nov 2026 02:53:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-3299080-7b5ed857/</guid>
+				<description>《Snow Resort Simulator》迎来1.0.0正式版，并带来特别玩法直播。本次更新加入Après-Ski酒吧与DJ打碟三轨节奏小游戏、可自建T-bar缆车塔和手绘雪道、与员工并肩经营酒吧餐厅票务，以及扩展山体、收藏与客人互动。想开雪场、搞夜场、做布局的玩家，这波值得回坑。</description>
+			</item>
+			<item>
+				<title>《King&#39;s Heart》完整版正式发售：内容全线解锁，官方开放Discord反馈直通车</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-2995290-1e6b1c77/</link>
+				<pubDate>Thu, 05 Nov 2026 02:16:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-2995290-1e6b1c77/</guid>
+				<description>《King&amp;rsquo;s Heart》终于摘掉“未完成”的帽子，完整版正式登陆 Steam 与玩家见面。本次并非小修小补，而是整部作品的正式交付节点：内容全线解锁，制作组同步开通 Discord 与 Steam 论坛双反馈通道，明确表示愿意倾听玩家声音。对于此前观望的玩家来说，现在是判断“入不入”的关键窗口期，本文把发售要点、入手建议与避坑细节一次说清。</description>
+			</item>
+			<item>
+				<title>《雪场模拟器》1.0大版本上线：滑雪后派对、DJ音游与自由缆车全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-3299080-670a9314/</link>
+				<pubDate>Thu, 05 Nov 2026 01:18:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-3299080-670a9314/</guid>
+				<description>《雪场模拟器》结束抢先体验，1.0版本带来滑雪后派对区、三轨DJ节奏玩法、九首手工谱面、可自由搭建的缆车与雪道，以及员工协作、收藏系统和完整手柄支持等大量改动。本文从主理人视角梳理核心机制、开荒路线、操作设置与更新避坑要点，帮你快速把雪场经营成山顶夜店。</description>
+			</item>
 			<item>
 				<title>《光年拓荒》1.0正式上线！世界扩40%、自动化重做迎结局</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-1677110-36f483cc/</link>
@@ -47,6 +82,13 @@
 				<pubDate>Wed, 04 Nov 2026 22:30:26 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-04-1203620-e4a30ebd/</guid>
 				<description>《雾锁王国》推送 Hotfix #5（v1.0.1.2），这次没有大改玩法，却把玩家天天吐槽的“配方钉选一读条就掉”给修了，同时处理了水域罕见崩溃、废弃物品进世界崩溃、特定世界登录黑屏以及废弃蓝图触发崩溃等问题。官方也再次呼吁：遇到问题按 F1 报 Bug，带上存档与日志，帮助团队更快定位。</description>
+			</item>
+			<item>
+				<title>战争雷霆尼古拉一世战列舰登场：十二门305主炮中线布局，硬抗巡洋舰</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-236390-c4d8a705/</link>
+				<pubDate>Wed, 04 Nov 2026 21:56:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-236390-c4d8a705/</guid>
+				<description>战争雷霆苏联/俄罗斯海军V级新战列舰“尼古拉一世”正式亮相：十二门305毫米主炮沿中线四座炮塔布局，射速可观，装甲带更宽更厚，低矮舰桥提升生存性，副炮二十门130毫米。缺点也明显：航速不快、防空火力薄弱。本文拆解火力、防护与实战走位，并给出上手建议。</description>
 			</item>
 			<item>
 				<title>《影之刃零》新补丁实装：抓取攻击减频、着色器重构大幅缩短启动时间</title>

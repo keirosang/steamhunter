@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 23:45:01 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 18:07:37 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%83%B5%E5%B0%B8%E6%AF%81%E7%81%AD%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>僵尸毁灭工程42.22.1热修：JRE完整性检测上线，存档兼容不炸档</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-108600-11da5874/</link>
+				<pubDate>Wed, 04 Nov 2026 18:07:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-108600-11da5874/</guid>
+				<description>《僵尸毁灭工程》42.22.1 预发布热修已推送：本次重点修复 eMudhra 数字证书校验漏洞，并加入 JRE 完整性检查，检测到 Java 运行环境被改动会在版本水印中提示，同时更新第三方软件许可声明。官方表示一般不会损坏存档，但报 Bug 前请先用无 Mod 新档复现。尝鲜党可更新体验，保守党建议备份存档再上车。</description>
+			</item>
 			<item>
 				<title>《僵尸毁灭工程》42.22预发布：梯子攀爬上线，撬棍撬门开窗</title>
 				<link>https://info.steamhunter.link/posts/2026-10-27-108600-568d308d/</link>
