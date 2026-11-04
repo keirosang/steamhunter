@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>老虎机 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%80%81%E8%99%8E%E6%9C%BA/</link>
+		<description>Recent content in 老虎机 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 04 Nov 2026 07:52:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%80%81%E8%99%8E%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BugPot 热修 v1.0.1：老虎机最左侧滚轮越界显示问题修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5243610-29cd5cdc/</link>
+				<pubDate>Wed, 04 Nov 2026 07:52:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5243610-29cd5cdc/</guid>
+				<description>BugPot 推送 v1.0.1 热修，专门修掉老虎机界面上那个总想往外跑的滚轮——最左侧转轮不会再溢出屏幕可视边界。本次更新只修正视觉表现，概率、掉落和玩法数值都没有改动，老存档也不用重开。顺便说说热更新后怎么动、遇到分辨率导致的同类问题怎么自己排查，以及出现其他 Bug 该去哪儿反馈。</description>
+			</item>
+			<item>
+				<title>老虎机&#43;Roguelike？BugPot 上线 Steam，首发 23% 折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-5243610-edc51bef/</link>
+				<pubDate>Wed, 04 Nov 2026 06:42:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-5243610-edc51bef/</guid>
+				<description>单机老虎机 Roguelike《BugPot》正式登陆 Steam，首发期间提供 23% 折扣。每一转都决定你的下一步：匹配武器与护符、挖掘强力联动、随时调整构筑，硬刚越来越凶的虫子大军。本文整理了玩法机制拆解、新手开荒思路、入库购买建议与常见问题解答，帮你少走弯路。</description>
+			</item>
+	</channel>
+</rss>

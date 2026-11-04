@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BugPot 热修 v1.0.1：老虎机最左侧滚轮越界显示问题修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="BugPot 推送 v1.0.1 热修，专门修掉老虎机界面上那个总想往外跑的滚轮——最左侧转轮不会再溢出屏幕可视边界。本次更新只修正视觉表现，概率、掉落和玩法数值都没有改动，老存档也不用重开。顺便说说热更新后怎么动、遇到分辨率导致的同类问题怎么自己排查，以及出现其他 Bug 该去哪儿反馈。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="BugPot 热修 v1.0.1：老虎机最左侧滚轮越界显示问题修复">
+  <meta property="og:description" content="BugPot 推送 v1.0.1 热修，专门修掉老虎机界面上那个总想往外跑的滚轮——最左侧转轮不会再溢出屏幕可视边界。本次更新只修正视觉表现，概率、掉落和玩法数值都没有改动，老存档也不用重开。顺便说说热更新后怎么动、遇到分辨率导致的同类问题怎么自己排查，以及出现其他 Bug 该去哪儿反馈。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-04-5243610-29cd5cdc/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/47d42bedbb4d268b.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-04-5243610-29cd5cdc/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">BugPot 热修 v1.0.1：老虎机最左侧滚轮越界显示问 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 BugPot</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5243610</span>
+      
+    </div>
+
+    <h1 class="article-title">BugPot 热修 v1.0.1：老虎机最左侧滚轮越界显示问题修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-04T07:52:44&#43;08:00" class="meta-date">
+          📅 2026-11-04 07:52
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1952 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5243610/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5243610" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/47d42bedbb4d268b.jpg" alt="BugPot 热修 v1.0.1：老虎机最左侧滚轮越界显示问题修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>BugPot 推送 v1.0.1 热修，专门修掉老虎机界面上那个总想往外跑的滚轮——最左侧转轮不会再溢出屏幕可视边界。本次更新只修正视觉表现，概率、掉落和玩法数值都没有改动，老存档也不用重开。顺便说说热更新后怎么动、遇到分辨率导致的同类问题怎么自己排查，以及出现其他 Bug 该去哪儿反馈。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>版本号</strong>：v1.0.1（Hotfix 小型热修）</li>
+<li><strong>推送状态</strong>：已正式上线，Steam 客户端会自动后台拉取，重启即可生效</li>
+<li><strong>修复内容</strong>：老虎机界面<strong>最左侧滚轮（reel）会超出机器屏幕可视边界</strong>的显示异常</li>
+<li><strong>影响范围</strong>：纯视觉表现层，抽奖概率、掉落池、玩法机制、数值平衡<strong>一律没有改动</strong></li>
+<li><strong>玩家需要做什么</strong>：什么都不用做，更新完继续转就行；存档无需重开</li>
+<li><strong>官方表态</strong>：感谢玩家游玩，并明确表示欢迎继续上报问题，反馈会用于后续改进</li>
+</ul>
+<hr>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一个滚轮越界为什么值得单独发版">一个滚轮越界，为什么值得单独发版</h3>
+<p>先给不在现场的朋友补个背景：BugPot 的核心界面就是一台老虎机，三个滚轮并排转，玩家靠读符号判断结果。这次的问题说大不大——<strong>最左边那只滚轮会跑到机器外壳外面去</strong>，就像老虎机的第一格玻璃被人用撬棍顶开了。</p>
+<p>在别的游戏里，这大概属于“睁一只眼闭一只眼”的级别。但放在<strong>以滚轮为视觉核心的老虎机游戏</strong>里，这种事对体验的伤害其实不小：</p>
+<ol>
+<li><strong>符号可读性直接下降</strong>。滚轮有一部分超出可视区，落点符号的显示可以被裁掉一角，玩家第一眼读不准。</li>
+<li><strong>影响玩家对公平性的感受</strong>。老虎机游戏最忌讳“我看不清”，一旦画面不整齐，玩家很容易怀疑“是不是结算和显示对不上”。</li>
+<li><strong>UI 遮罩的本质问题</strong>。这类越界通常来自界面遮罩（mask）范围与不同分辨率、窗口比例不匹配；开发组这次直接把它修了，说明他们确实在盯这些细节问题。</li>
+</ol>
+<p>所以这版更新虽然只有一条 changelog，但它是那种典型的<strong>修得快、修得准的补丁</strong>：不打乱节奏、不动数值、只处理画面。对于一款刚上线的作品来说，这是诚恳的态度。</p>
+<h3 id="顺带一提这次背刺了谁">顺带一提：这次“背刺”了谁</h3>
+<p>没有背刺任何人。概率没动、难度没调、DLC 没涨价、也没有削弱你昨天刚肝出来的套路。本次热修对玩法影响为零，是纯粹的显示修复。如果你在其他地方看到“更新后爆率变了”之类的说法，大概率是心理作用加上运气波动，别信。</p>
+<h3 id="开发组的沟通方式也挺圈粉">开发组的沟通方式也挺圈粉</h3>
+<p>补丁说明写得很简洁：先说修了什么，再感谢玩家，最后一句“遇到其他问题请告诉我们，你的反馈能帮我们把游戏做得更好”。没有含糊的措辞，也没有掩盖。对于独立作品来说，<strong>这种稳定的响应速度比一次性堆内容更值钱</strong>。</p>
+<hr>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="一如何确认自己已经更新到-v101">一、如何确认自己已经更新到 v1.0.1</h3>
+<ul>
+<li>最省事的办法：退出 BugPot，重启 Steam 客户端，等待库内游戏自动更新完成再启动；</li>
+<li>想确认得更仔细：Steam 库 → 右键 BugPot → <strong>属性 → 已安装文件 → 验证游戏文件的完整性</strong>，它会顺带把版本对齐；</li>
+<li>更新完成后，进入老虎机界面看一下最左侧滚轮是否老老实实待在边框内，那就是打上补丁了。</li>
+</ul>
+<h3 id="二更新后滚轮还是越界按这个顺序排查">二、更新后滚轮还是越界？按这个顺序排查</h3>
+<p>这类 UI 溢出问题常常和显示设置绑定，建议按下面的顺序处理：</p>
+<ol>
+<li><strong>彻底退出重开</strong>：不是点关闭窗口，而是退出到桌面再启动，避免旧渲染缓存残留；</li>
+<li><strong>切一次显示模式</strong>：全屏 ↔ 窗口化 ↔ 无边框窗口，来回切一遍再切回你习惯的模式；</li>
+<li><strong>检查分辨率与缩放</strong>：把 Windows 显示缩放（125%/150%）临时调回 100%，看看是否恢复正常；</li>
+<li><strong>更新显卡驱动</strong>：老驱动在 UI 遮罩裁切上偶发异常，不是玄学，确实是常见原因；</li>
+<li>以上都试过仍不行，就带上<strong>截图 + 你的分辨率 + 显示模式</strong>去社区反馈，这种信息齐全的 Bug 报告处理起来最快。</li>
+</ol>
+<h3 id="三新手向的上手提示">三、新手向的上手提示</h3>
+<ul>
+<li>这类轻量作品不要一直连续玩好几个小时，节奏快、反馈密集，容易玩到麻木；<strong>分段游玩、每次定个小目标</strong>体验更好；</li>
+<li>遇到显示类的怪问题，第一反应永远是“先验证完整性、再切分辨率”，比到处找补丁靠谱得多；</li>
+<li>想蹲后续更新和修复节奏，把游戏加入愿望单/关注列表，正式补丁和热修都会第一时间推到你眼前。</li>
+</ul>
+<hr>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>热修这种更新有个特点：<strong>来得快、去得也快</strong>，一不留神就错过公告。想第一时间掌握 BugPot 后续的补丁动态，以及 Steam 平台上的限时免费领取、史低特惠、免费周末信息，建议加入我们的 Telegram 频道 <strong>@steamhunterlink</strong>。</p>
+<p>频道会做<strong>秒级推送</strong>：限免开始、特惠开抢、补丁上线，基本不用你手动刷商店页面。对于喜欢“永久入库”的朋友来说，这种推送能实打实帮你少漏掉几次喜加一。</p>
+<hr>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：这次 v1.0.1 热修改了中奖概率或掉落吗？</strong>
+A：没有。官方说明里只提到修复老虎机最左侧滚轮超出可视边界的显示问题，属于纯视觉层面。概率、数值、玩法机制全部保持原样，也不存在“更新后更容易中”这种说法。</p>
+<p><strong>Q2：更新完了，左侧滚轮看着还是有点出界怎么办？</strong>
+A：先彻底退出游戏再重启，然后在全屏 / 窗口化之间切换一次，并把 Windows 显示缩放临时调回 100% 验证。如果仍然复现，请带上截图、分辨率和显示模式去官方社区反馈，这类信息能帮开发组快速定位。</p>
+<p><strong>Q3：需要重开存档或者重新下载整个游戏吗？</strong>
+A：都不需要。热修只替换受影响的部分，进度完全保留；如果担心文件异常，用 Steam 的“验证游戏文件完整性”即可，不必卸载重装。</p>
+<hr>
+<p>一句话总结：<strong>这版补丁不改变玩法，只让老虎机看起来更像一台正常的老虎机。</strong> 更新完就可以继续转，剩下的事交给运气和开发组的下一个补丁。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/BugPot/" class="article-tag-item">#BugPot</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e6%9b%b4%e6%96%b0/" class="article-tag-item">#热修更新</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+          <a href="/tags/%e8%80%81%e8%99%8e%e6%9c%ba/" class="article-tag-item">#老虎机</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-04-5243610-29cd5cdc/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-3218230-bb1e4bec/" class="sibling-title">ArcheAge Chronicles 抢先体验开启：奥罗利亚大陆开放世界正式开荒</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-04-2320980-005040cf/" class="sibling-title">《Loftia》史低特惠：立省17%仅24.89新币，治愈系联机党上车</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一个滚轮越界为什么值得单独发版">一个滚轮越界，为什么值得单独发版</a></li>
+        <li><a href="#顺带一提这次背刺了谁">顺带一提：这次“背刺”了谁</a></li>
+        <li><a href="#开发组的沟通方式也挺圈粉">开发组的沟通方式也挺圈粉</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#一如何确认自己已经更新到-v101">一、如何确认自己已经更新到 v1.0.1</a></li>
+        <li><a href="#二更新后滚轮还是越界按这个顺序排查">二、更新后滚轮还是越界？按这个顺序排查</a></li>
+        <li><a href="#三新手向的上手提示">三、新手向的上手提示</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
