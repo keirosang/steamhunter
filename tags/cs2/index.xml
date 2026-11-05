@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 05:48:09 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 08:54:07 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/cs2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CS2更新详解：Retakes拆弹提速与宠物鸡彩蛋，地图脚本API大改</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-730-ff979722/</link>
+				<pubDate>Thu, 05 Nov 2026 08:54:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-730-ff979722/</guid>
+				<description>Valve为CS2推送新一轮官方更新，Retakes模式在时间充足且无残留道具时拆弹会即时结算，并缩短冻结时间与回合重启延迟；冻结期ping宠物鸡还能触发特技，隐藏物品文本后鸡名也不再显示。地图脚本方面新增实体预缓存、生成与控制机器人等接口，多项方法迁移到Entities体系，旧接口暂留但标记弃用。</description>
+			</item>
 			<item>
 				<title>CS2更新实测：静默换弹可改开关模式，假换弹节奏被彻底重写</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-730-ee759476/</link>

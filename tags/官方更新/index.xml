@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 06:15:12 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 08:54:07 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AE%98%E6%96%B9%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CS2更新详解：Retakes拆弹提速与宠物鸡彩蛋，地图脚本API大改</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-730-ff979722/</link>
+				<pubDate>Thu, 05 Nov 2026 08:54:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-730-ff979722/</guid>
+				<description>Valve为CS2推送新一轮官方更新，Retakes模式在时间充足且无残留道具时拆弹会即时结算，并缩短冻结时间与回合重启延迟；冻结期ping宠物鸡还能触发特技，隐藏物品文本后鸡名也不再显示。地图脚本方面新增实体预缓存、生成与控制机器人等接口，多项方法迁移到Entities体系，旧接口暂留但标记弃用。</description>
+			</item>
 			<item>
 				<title>Mycelarium 快速修复补丁上线：性能优化、相机传送控制与视觉修正同步实装</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-5181520-a2b1d355/</link>
