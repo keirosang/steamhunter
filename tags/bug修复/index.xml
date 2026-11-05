@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 10:43:46 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 14:24:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《伊莫》补丁修复19项问题：账号解绑上线，一级设施可用季节配方</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-4126040-7d06e2ed/</link>
+				<pubDate>Thu, 05 Nov 2026 14:24:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-4126040-7d06e2ed/</guid>
+				<description>《伊莫》推送 v1.1.3880756.0 补丁，核心是 19 项 Bug 修复和两项体验优化：Steam/Epic 玩家可在设置中解绑平台账号，1 级设施也能使用季节配方生产物品。蛋劫行动、成就解锁、PS5 组队、仓库传送等高频痛点均被处理，属于实打实的修车减负包。</description>
+			</item>
 			<item>
 				<title>《Apex英雄》11月4日热更新：密客召回只要0.7秒，两大毒瘤玩法被官方连夜缝合</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-1172470-44ecd505/</link>
