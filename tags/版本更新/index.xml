@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 10:43:46 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 13:44:17 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Pathos热修补丁上线：默认图块集回归Sonyvanda，新玩家开荒第一眼更顺眼</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-5062560-33892ef7/</link>
+				<pubDate>Thu, 05 Nov 2026 13:44:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-5062560-33892ef7/</guid>
+				<description>Pathos推送小型热修补丁，把默认图块集改回开发者原本设定的Sonyvanda，解决此前新建存档时自动套用其它画风、导致新手误以为画面走样的问题。本文梳理这次修正的实际影响、图块集切换方法，以及给刚入坑的Roguelike玩家准备的实操建议与常见疑问解答。</description>
+			</item>
 			<item>
 				<title>《Apex英雄》11月4日热更新：密客召回只要0.7秒，两大毒瘤玩法被官方连夜缝合</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-1172470-44ecd505/</link>

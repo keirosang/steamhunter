@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 04:52:58 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 13:33:02 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Potato Please》1.0.2热修补丁上线：后期卡顿、存档吞土豆与卡死问题一次性清账</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-5266240-b2aecfb6/</link>
+				<pubDate>Thu, 05 Nov 2026 13:33:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-5266240-b2aecfb6/</guid>
+				<description>削土豆削到一半游戏卡成PPT？存档一读机器里的土豆集体失踪？《Potato Please》1.0.2 热修正式推送，官方一口气修掉了后期水道堵塞引发的严重掉帧与崩溃、机器料斗与真空罐的存档丢失、以及从无限坠落到「解除卡死」失灵的一系列事故，还顺手加了无障碍血 color 与色盲滤镜，并清理了全球排行榜的无效成绩。</description>
+			</item>
 			<item>
 				<title>《哥斯拉：怪兽大乱斗 重制版》热修上线：坏档锁角色与音频输出双修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-4251460-a617576f/</link>

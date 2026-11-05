@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Potato Please》1.0.2热修补丁上线：后期卡顿、存档吞土豆与卡死问题一次性清账 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="削土豆削到一半游戏卡成PPT？存档一读机器里的土豆集体失踪？《Potato Please》1.0.2 热修正式推送，官方一口气修掉了后期水道堵塞引发的严重掉帧与崩溃、机器料斗与真空罐的存档丢失、以及从无限坠落到「解除卡死」失灵的一系列事故，还顺手加了无障碍血 color 与色盲滤镜，并清理了全球排行榜的无效成绩。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Potato Please》1.0.2热修补丁上线：后期卡顿、存档吞土豆与卡死问题一次性清账">
+  <meta property="og:description" content="削土豆削到一半游戏卡成PPT？存档一读机器里的土豆集体失踪？《Potato Please》1.0.2 热修正式推送，官方一口气修掉了后期水道堵塞引发的严重掉帧与崩溃、机器料斗与真空罐的存档丢失、以及从无限坠落到「解除卡死」失灵的一系列事故，还顺手加了无障碍血 color 与色盲滤镜，并清理了全球排行榜的无效成绩。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-05-5266240-b2aecfb6/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/e80f2b1c2192710a.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-05-5266240-b2aecfb6/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Potato Please》1.0.2热修补丁上线：后期卡 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Potato Please</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5266240</span>
+      
+    </div>
+
+    <h1 class="article-title">《Potato Please》1.0.2热修补丁上线：后期卡顿、存档吞土豆与卡死问题一次性清账</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-05T13:33:02&#43;08:00" class="meta-date">
+          📅 2026-11-05 13:33
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 6 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2686 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5266240/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5266240" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/e80f2b1c2192710a.jpg" alt="《Potato Please》1.0.2热修补丁上线：后期卡顿、存档吞土豆与卡死问题一次性清账" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>削土豆削到一半游戏卡成PPT？存档一读机器里的土豆集体失踪？《Potato Please》1.0.2 热修正式推送，官方一口气修掉了后期水道堵塞引发的严重掉帧与崩溃、机器料斗与真空罐的存档丢失、以及从无限坠落到「解除卡死」失灵的一系列事故，还顺手加了无障碍血 color 与色盲滤镜，并清理了全球排行榜的无效成绩。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>同志们，削土豆的班次可以重新排上了。《Potato Please》官方推送了 <strong>1.0.2 热修补丁</strong>，这是一次典型的「事后算账」型更新——把上线以来玩家骂得最凶的几笔烂账一次性结清：</p>
+<ul>
+<li><strong>性能</strong>：修复后期土豆堵死水道导致的重度卡顿与崩溃，同时放宽水流推动逻辑，最后两级水道速度略微加快；</li>
+<li><strong>存档</strong>：机器料斗、真空罐里的土豆终于能被正确写入存档；水桶和独轮车里的土豆读档后会回到土豆堆，不再凭空蒸发；新班次开局显示错误军衔、暴风雪寒冷与免费喷火器提前出现等问题一并修复；</li>
+<li><strong>卡死</strong>：无限坠落循环、「解除卡死」之后没有 HUD 也没有操作、结局后读档黑屏、开场黑屏时按 ESC 直接冻住、Master Peeler 配额完成后不给奖励、关键土豆被真空吸走或被小狗叼跑、空投卡在起重机上……统统安排；</li>
+<li><strong>土豆堆与机械</strong>：重新点数计时改为购买起重机后启动，每 6 分钟一次，自动驾驶状态下缩短为 2.5 分钟；喇叭改为隔一次播报；屏幕上的红色「按住 R 重新堆叠」提示被移除，功能仍保留在暂停菜单；</li>
+<li><strong>设置与文本</strong>：新增 <strong>无障碍（Accessibility）</strong> 标签页，可调血液颜色与色盲滤镜，绿/蓝/紫血更鲜亮；小狗静音后连「走丢呜咽」也一起闭嘴；</li>
+<li><strong>排行榜</strong>：清理无效班次时间，重放结局不再污染你的通关计时。</li>
+</ul>
+<p>一句话总结：<strong>这不是加内容，是把地基重新灌了一遍水泥。</strong></p>
+<hr>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一性能水道才是真正的幕后-boss">一、性能：水道才是真正的幕后 BOSS</h3>
+<p>如果你玩到后期，会发现真正的敌人不是配额，而是那条被土豆皮堵死的水道。本次更新明确修复了「大量土豆堵塞水道时引发的严重掉帧与崩溃」，并让水流对土豆的推力更顺畅，<strong>最后两级水道速度各提升了一点点</strong>。</p>
+<p>这改动看似保守，实际体感会很明显：中后期流水线吞吐上来之后，卡成幻灯片的情况会大幅减少。跑高难度、冲排行榜的固定车队，这批优化等于白送了几帧稳定性。</p>
+<h3 id="二存档终于不再吞土豆了">二、存档：终于不再「吞土豆」了</h3>
+<p>过去最让人血压飙升的，莫过于辛辛苦苦攒满料斗、存个档吃饭，回来一看机器空空如也。1.0.2 明确修正了以下存档行为：</p>
+<ul>
+<li>机器料斗内的土豆在读档后保留；</li>
+<li>真空罐内的土豆读档后保留；</li>
+<li>水桶与独轮车内的土豆在载入时归还到土豆堆（不再凭空消失）；</li>
+<li>修复新班次开局显示错误军衔；</li>
+<li>修复新开档或读取「暴风雪前」存档后，暴风雪的寒冷效果与免费喷火器提前登场的问题。</li>
+</ul>
+<p>换句话说：<strong>你现在可以放心地在中途存档去上厕所了。</strong>（虽然队友大概率会把土豆堆搞乱。）</p>
+<h3 id="三卡死把薛定谔的重开钉死在棺材里">三、卡死：把「薛定谔的重开」钉死在棺材里</h3>
+<p>本次补丁里最值得鼓掌的部分，是那一长串「Getting Stuck」修复清单：</p>
+<table>
+	<thead>
+			<tr>
+					<th>问题</th>
+					<th>现状</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>错误重置后被弹回空中、无限坠落</td>
+					<td>已修复</td>
+			</tr>
+			<tr>
+					<td>使用「解除卡死」后失去操作与 HUD</td>
+					<td>已修复</td>
+			</tr>
+			<tr>
+					<td>结局后读档 HUD 空白</td>
+					<td>已修复</td>
+			</tr>
+			<tr>
+					<td>开场黑屏时按 ESC 冻结游戏</td>
+					<td>已修复</td>
+			</tr>
+			<tr>
+					<td>Master Peeler 配额完成后不给奖励</td>
+					<td>已修复，卡住的存档读档后自动恢复</td>
+			</tr>
+			<tr>
+					<td>关键土豆被真空吸走 / 被小狗叼跑</td>
+					<td>现在会乖乖待在原地直到你亲手捡起</td>
+			</tr>
+			<tr>
+					<td>空投挂在起重机上</td>
+					<td>现在必定落在雪地或地面上</td>
+			</tr>
+	</tbody>
+</table>
+<p>尤其是「关键土豆被小狗叼走」这条——懂的都懂，这不是 bug，这是某种意义上的队友行为艺术。现在官方把这条路堵死了，可怜的小狗失去了它唯一的副业。</p>
+<h3 id="四土豆堆与机械少一点手忙脚乱">四、土豆堆与机械：少一点手忙脚乱</h3>
+<ul>
+<li><strong>重新点数节奏调整</strong>：买下起重机后才开始计时，常规每 6 分钟一次，自动驾驶开启时缩短到 2.5 分钟。喇叭改为每两次播报一次，耳边清净了一半。</li>
+<li><strong>红色「按住 R 重新堆叠」提示移除</strong>：界面更干净了，功能还在暂停菜单里。</li>
+<li><strong>麻袋倾倒逻辑</strong>：现在会倒进料斗中部，而不是在卡住的位置直接撕裂；机器装满时麻袋保持完整，可以留着下次用。</li>
+<li><strong>按住 E 的交互修正</strong>：装载好的村民箱子按住 E 会正常送出，而不是把里面的土豆倒空——误操作损失一整箱的惨案从此减少。</li>
+<li><strong>暴风雪后房间内出现雪块</strong>：已清理。</li>
+</ul>
+<h3 id="五设置与排行榜细节控的胜利">五、设置与排行榜：细节控的胜利</h3>
+<p>新增的<strong>无障碍标签页</strong>支持自定义血液颜色与色盲滤镜，绿、蓝、紫三种血液颜色也调得更亮，雪地里更容易辨认。对晕血或者有色彩辨识需求的玩家来说，这个更新很实在。</p>
+<p>排行榜方面，官方复核了全球榜单，<strong>删除了无效的班次时间</strong>。如果你确信自己的成绩被误删，可以带上录像去反馈申诉。另外，从已通关存档重放结局不再改动你的班次用时——速通玩家不用再担心手滑毁掉自己的记录。</p>
+<hr>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>1. 更新后第一件事：先读一次老存档</strong></p>
+<p>官方说明「卡在 Master Peeler 页面的存档会在读档后自动恢复」，所以别急着开新档，先把你那个卡住的老档读一遍，说不定奖励就自动到账了。</p>
+<p><strong>2. 组队开黑的分工建议</strong></p>
+<ul>
+<li>一人专职守水道，负责把堵住的土豆皮与堆积物清掉（本次优化后水流更顺，但仍然需要人盯着）；</li>
+<li>一人负责料斗与麻袋，利用「满机保留整袋」的新机制囤货，别再无脑倒空；</li>
+<li>一人跑空投与村民箱，注意现在空投必定落地，不用再爬起重机捞箱子了；</li>
+<li>关键土豆出现时<strong>全员停手先捡</strong>，它现在不会跑，但你队友可能会把它当普通土豆扔进机器。</li>
+</ul>
+<p><strong>3. 解除卡死的新姿势</strong></p>
+<p>修复后「解除卡死」不再吞掉你的操作与 HUD。如果仍然遇到演出问题，建议先用暂停菜单里的重新堆叠整理现场，再去官方 Troubleshooting 页面提交报告。</p>
+<p><strong>4. 冲榜玩家注意</strong></p>
+<p>排行榜已清洗过一轮无效成绩，现在是重新刷个人最佳的好时机。另外重放结局不会影响你的班次时间，放心重看剧情。</p>
+<p><strong>5. 配置与流畅度</strong></p>
+<p>如果你的机器在后期仍然吃力，可以先把血液特效、色盲滤镜等新增视觉选项调的保守一些，配合更新后的水道优化，整体帧数会更稳。</p>
+<hr>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间吃到热修补丁、限免喜加一与史低特惠？欢迎加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。热修推送、折扣开抢、免费周末提醒，都是秒级推送，不用再靠刷新商店页面碰运气。土豆可以等，特惠不能等，同志们速来集合。</p>
+<hr>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：我更新后还是偶尔卡顿，是不是补丁没生效？</strong></p>
+<p>A：本次主要修复的是「后期大量土豆堵塞水道」导致的掉帧与崩溃，属于特定场景优化。如果你在开局阶段仍然卡顿，建议检查是否装的还是旧版本，或者把画质与特效档位下调一档再试。问题持续可以在官方 Troubleshooting 页面提交报告，附上你的存档与复现步骤会更有效。</p>
+<p><strong>Q2：更新前存的档，机器里的土豆还会丢吗？</strong></p>
+<p>A：旧存档中已经丢失的土豆无法凭空找回，这是既定事实。但从 1.0.2 之后产生的存档，料斗、真空罐里的土豆都会被正确保留；水桶与独轮车里的土豆读档时会归还到土豆堆。建议更新后重新存一次档，确保写入的是新格式数据。</p>
+<p><strong>Q3：我的排行榜成绩不见了，怎么办？</strong></p>
+<p>A：本次官方主动清理了无效的班次时间，如果你的成绩属于异常数据，会被移除。若你确信是误删，可以按官方说明提交一份完整的通关录像申请复核，人工会重新审核。</p>
+<p><strong>Q4：小狗还会把关键土豆叼走吗？</strong></p>
+<p>A：不会了。关键土豆现在会留在原地直到你亲手拾取，真空与小狗都无法搬运它。不过小狗依然会走丢、依然会呜咽，只是现在你把它静音之后，连那声委屈的叫声也听不见了——某种意义上更让人心疼。</p>
+<p>继续削土豆吧，同志们！</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Potato%20Please/" class="article-tag-item">#Potato Please</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e6%9b%b4%e6%96%b0/" class="article-tag-item">#热修更新</a>
+          
+          <a href="/tags/%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96/" class="article-tag-item">#性能优化</a>
+          
+          <a href="/tags/%e5%ad%98%e6%a1%a3%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#存档修复</a>
+          
+          <a href="/tags/%e8%81%94%e6%9c%ba%e5%90%88%e4%bd%9c/" class="article-tag-item">#联机合作</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-05-5266240-b2aecfb6/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-05-3432860-af8d4b84/" class="sibling-title">《Psycho-Sleuth》直播指南：商播自由，结局剧透请藏好</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-05-5062560-33892ef7/" class="sibling-title">Pathos热修补丁上线：默认图块集回归Sonyvanda，新玩家开荒第一眼更顺眼</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一性能水道才是真正的幕后-boss">一、性能：水道才是真正的幕后 BOSS</a></li>
+        <li><a href="#二存档终于不再吞土豆了">二、存档：终于不再「吞土豆」了</a></li>
+        <li><a href="#三卡死把薛定谔的重开钉死在棺材里">三、卡死：把「薛定谔的重开」钉死在棺材里</a></li>
+        <li><a href="#四土豆堆与机械少一点手忙脚乱">四、土豆堆与机械：少一点手忙脚乱</a></li>
+        <li><a href="#五设置与排行榜细节控的胜利">五、设置与排行榜：细节控的胜利</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
