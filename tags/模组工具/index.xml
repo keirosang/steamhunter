@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>模组工具 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%A8%A1%E7%BB%84%E5%B7%A5%E5%85%B7/</link>
+		<description>Recent content in 模组工具 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Nov 2026 11:19:40 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%A8%A1%E7%BB%84%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/</link>
+				<pubDate>Tue, 03 Nov 2026 11:19:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/</guid>
+				<description>tModLoader 十一月稳定版更新来了！本月官方重点汇报泰拉瑞亚 1.4.5 支持进度：适配工作高速推进，1.4.5-dev 测试分支持续敞开，新增功能、API 调整与一批生活质量修复同步落地。模组作者可以关注新钩子与 API 变更，普通玩家建议先备份存档再尝鲜，别拿主力世界硬冲测试版。</description>
+			</item>
+	</channel>
+</rss>

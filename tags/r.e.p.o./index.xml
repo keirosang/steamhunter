@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 21:06:53 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 17:07:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/r.e.p.o./index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>R.E.P.O. v0.5.1 小补丁大修：手柄聊天优化、知识方块加强及联机修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-3241660-4182328c/</link>
+				<pubDate>Thu, 05 Nov 2026 17:07:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-3241660-4182328c/</guid>
+				<description>R.E.P.O. 推送 v0.5.1 小补丁：新增可选键位解绑和手柄聊天、按键说话、静音键位，优化手柄文字输入与转向灵敏度；小马骑乘碰撞、知识方块最终形态、庄园棺材等平衡调整；并修复翻滚翅膀、表情轮盘、可破坏地板、观战、赛车软锁、物品生成、万圣节卡车渲染与抓取卡顿等联机痛点。</description>
+			</item>
 			<item>
 				<title>R.E.P.O. v0.5.0太阳石更新：新地图新敌人与手柄支持</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-3241660-d0d607a2/</link>

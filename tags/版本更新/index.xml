@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 13:44:17 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 17:10:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆新版本：英国Fulmar舰载机带8000发弹药加入一级科技树</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-236390-467c523c/</link>
+				<pubDate>Thu, 05 Nov 2026 17:10:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-236390-467c523c/</guid>
+				<description>《战争雷霆》Eagle’s Shadow大版本更新迎来英国一级科技树新面孔——Fulmar Mk.II舰载战斗机。它搭载八挺7.7毫米机枪，基础弹药高达8000发，堪称空中弹药库；但机动偏笨、滚转较慢。本期从火力、战术定位到陆战混合编队用法，一次讲清这架低速重火力老鸟该怎么飞。</description>
+			</item>
+			<item>
+				<title>R.E.P.O. v0.5.1 小补丁大修：手柄聊天优化、知识方块加强及联机修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-3241660-4182328c/</link>
+				<pubDate>Thu, 05 Nov 2026 17:07:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-3241660-4182328c/</guid>
+				<description>R.E.P.O. 推送 v0.5.1 小补丁：新增可选键位解绑和手柄聊天、按键说话、静音键位，优化手柄文字输入与转向灵敏度；小马骑乘碰撞、知识方块最终形态、庄园棺材等平衡调整；并修复翻滚翅膀、表情轮盘、可破坏地板、观战、赛车软锁、物品生成、万圣节卡车渲染与抓取卡顿等联机痛点。</description>
+			</item>
 			<item>
 				<title>Pathos热修补丁上线：默认图块集回归Sonyvanda，新玩家开荒第一眼更顺眼</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-5062560-33892ef7/</link>
@@ -299,6 +313,13 @@
 				<pubDate>Tue, 03 Nov 2026 14:49:26 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-03-5055800-c897466c/</guid>
 				<description>零重力的花园终于有了昼夜：拖动太阳滑杆，看它绕空间站升起落下，夜晚脚下星球亮起海岸城市灯火。本次更新还重绘了整颗星球，让陆地与天气首尾相接，明信片可隐藏二维码，帮助搜索也听得懂人话了。星星与尘埃换成柔和圆点，舒适设置里能一键停下星球的缓慢自转，晕动症玩家也能安心种花。已入库玩家免费更新。</description>
+			</item>
+			<item>
+				<title>tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/</link>
+				<pubDate>Tue, 03 Nov 2026 11:19:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/</guid>
+				<description>tModLoader 十一月稳定版更新来了！本月官方重点汇报泰拉瑞亚 1.4.5 支持进度：适配工作高速推进，1.4.5-dev 测试分支持续敞开，新增功能、API 调整与一批生活质量修复同步落地。模组作者可以关注新钩子与 API 变更，普通玩家建议先备份存档再尝鲜，别拿主力世界硬冲测试版。</description>
 			</item>
 			<item>
 				<title>Void Havoc v1.0.1 更新：成就修复与炮塔槽位逻辑校正</title>

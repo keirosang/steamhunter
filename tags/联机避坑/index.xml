@@ -21,6 +21,13 @@
 				<description>《Sump》推送小型热修复，专治 F8 入口门软锁：玩家关闭入口门后死亡重生，大门依旧紧闭导致卡关。此前只能退回主菜单再继续游戏，如今死亡重生时门会自动重置。本文拆解触发机制、更新影响与开黑避坑建议，并附常见问题解答。</description>
 			</item>
 			<item>
+				<title>tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/</link>
+				<pubDate>Tue, 03 Nov 2026 11:19:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/</guid>
+				<description>tModLoader 十一月稳定版更新来了！本月官方重点汇报泰拉瑞亚 1.4.5 支持进度：适配工作高速推进，1.4.5-dev 测试分支持续敞开，新增功能、API 调整与一批生活质量修复同步落地。模组作者可以关注新钩子与 API 变更，普通玩家建议先备份存档再尝鲜，别拿主力世界硬冲测试版。</description>
+			</item>
+			<item>
 				<title>VRChat 2026.4.1 更新：安全中心与面部追踪升级，非网络兼容注意</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-438100-e5a51afc/</link>
 				<pubDate>Thu, 29 Oct 2026 04:14:28 +0800</pubDate>

@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="tModLoader 十一月稳定版更新来了！本月官方重点汇报泰拉瑞亚 1.4.5 支持进度：适配工作高速推进，1.4.5-dev 测试分支持续敞开，新增功能、API 调整与一批生活质量修复同步落地。模组作者可以关注新钩子与 API 变更，普通玩家建议先备份存档再尝鲜，别拿主力世界硬冲测试版。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化">
+  <meta property="og:description" content="tModLoader 十一月稳定版更新来了！本月官方重点汇报泰拉瑞亚 1.4.5 支持进度：适配工作高速推进，1.4.5-dev 测试分支持续敞开，新增功能、API 调整与一批生活质量修复同步落地。模组作者可以关注新钩子与 API 变更，普通玩家建议先备份存档再尝鲜，别拿主力世界硬冲测试版。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/e5091259aa7a063f.png">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 tModLoader</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 1281930</span>
+      
+    </div>
+
+    <h1 class="article-title">tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-03T11:19:40&#43;08:00" class="meta-date">
+          📅 2026-11-03 11:19
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1898 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/1281930/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/1281930" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/e5091259aa7a063f.png" alt="tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>tModLoader 十一月稳定版更新来了！本月官方重点汇报泰拉瑞亚 1.4.5 支持进度：适配工作高速推进，1.4.5-dev 测试分支持续敞开，新增功能、API 调整与一批生活质量修复同步落地。模组作者可以关注新钩子与 API 变更，普通玩家建议先备份存档再尝鲜，别拿主力世界硬冲测试版。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位泰拉人，先把手里的镐子放一放，tModLoader（Steam AppID：1281930）的十一月稳定版更新来了。</p>
+<p>这次官方公告信息量不小：一边是泰拉瑞亚 1.4.5 支持进度继续狂飙，一边是过去一个月新模组的快速展示，外加新稳定版的更新日志。对普通玩家来说，最实在的是稳定版可更新；对模组作者来说，1.4.5-dev 测试分支和 API 变动才是重头戏。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>十一月稳定版上线</strong>：tModLoader 新稳定版已发布，Steam 端会按正常流程推送更新。</li>
+<li><strong>1.4.5 支持持续推进</strong>：官方明确表示适配工作“继续高速推进”，但任务仍然不少，1.4.5-dev 测试分支持续开放。</li>
+<li><strong>新功能与 API 调整落地</strong>：本月合并了多项新功能、API 变更与生活质量修复，电路/线路显示相关钩子是亮点之一。</li>
+<li><strong>社区贡献是主旋律</strong>：代码贡献、Bug 反馈、测试和 Discord 讨论都在推进 1.4.5 适配，模组作者可以认领任务或反馈 API 短板。</li>
+<li><strong>新模组展示</strong>：官方照例晒了过去一个月的新模组，社区创作热度依旧在线。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="145-适配不是点一下更新那么简单">1.4.5 适配：不是“点一下更新”那么简单</h3>
+<p>tModLoader 是泰拉瑞亚模组生态的底座，泰拉瑞亚本体大版本一动，底层 API、钩子、渲染、网络同步都可能跟着抖三抖。官方这次说得很直白：进度很快，但活儿还很多。</p>
+<p>目前 1.4.5 的改动会先进入 <strong>1.4.5-dev</strong> 测试分支，而且 beta 分支上的改动是“实现即上线”，目的是让测试和反馈跑得更快。换句话说，这个分支适合尝鲜、测试、抓虫，不适合把主力存档一股脑搬进去。</p>
+<p>想参与贡献的开发者，可以看 GitHub 上的任务页： <a href="https://github.com/tModLoader/tModLoader/issues/5070">tModLoader 1.4.5 贡献说明与任务列表</a>。页面里也写了如何加入 1.4.5-dev 测试分支。普通玩家想帮忙，最简单的姿势就是进 beta 分支玩一玩、遇到问题认真反馈。</p>
+<h3 id="更新日志拆解新钩子api-变更与-qol-修复">更新日志拆解：新钩子、API 变更与 QoL 修复</h3>
+<p>本月更新日志分为几块：</p>
+<ul>
+<li><strong>新功能</strong>：Solxan、JavidPack、flye-name、合作一号等贡献者提交了新功能。其中 <code>(Mod|Global)(Tile|Wall).(CanDoWireStuffHere|CanShowWireStuffHere)</code> 这组钩子很值得电路类、显示类模组关注——它让模组能更精细地控制物块/墙体附近能否布线、能否显示线路。</li>
+<li><strong>API 变更</strong>：Destructor_Ben、JavidPack、Chicken-Bones 等推进了多项 API 调整。对模组作者来说，这类改动意味着要留意编译兼容和旧代码行为变化。</li>
+<li><strong>Bug 修复与生活质量</strong>：Laika、JavidPack、Chicken-Bones 等提交了一批修复，涉及生活质量和其他问题。稳定版用户能直接受益，模组作者则建议对照更新日志检查自己的代码。</li>
+</ul>
+<p>PR 编号和提交记录这里就不逐条刷屏了，硬核作者可以直接去 GitHub 翻个痛快。对普通玩家来说，记住一句话就行：<strong>稳定版更稳，测试版更潮，别拿存档开玩笑。</strong></p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="普通玩家先更新再备份别急着冲测试版">普通玩家：先更新，再备份，别急着冲测试版</h3>
+<ol>
+<li><strong>更新稳定版</strong>：打开 Steam，等 tModLoader 自动更新即可。更新前建议把 <code>我的文档/My Games/Terraria/tModLoader</code> 下的 <code>Worlds</code>、<code>Players</code> 和模组配置备份一份。</li>
+<li><strong>大型整合包先等等</strong>：如果你玩的是几十个模组起步的大型整合包，建议等核心模组作者适配稳定版后再动。别一更新就发现存档进不去，那就真成“泰拉瑞亚：重开人生”了。</li>
+<li><strong>想尝鲜 1.4.5-dev</strong>：Steam 库右键 tModLoader → 属性 → 测试版 → 选择 <code>1.4.5-dev</code>。注意这个分支更新节奏快，崩溃和模组不兼容都算正常现象，测试请用副本存档。</li>
+</ol>
+<h3 id="模组作者盯紧-api多去-discord-聊需求">模组作者：盯紧 API，多去 Discord 聊需求</h3>
+<ul>
+<li>对照更新日志检查新钩子、API 变更和旧代码兼容性，尤其是涉及物块/墙体布线显示的逻辑。</li>
+<li>有 API 短板别憋着，官方明确鼓励模组作者去 Discord 和团队、贡献者讨论。大版本更新正是修历史遗留问题的窗口期。</li>
+<li>想直接出力，去 GitHub 任务页看看有没有能接的活，代码、测试、Bug 反馈都算贡献。</li>
+</ul>
+<h3 id="联机避坑版本和模组列表必须对齐">联机避坑：版本和模组列表必须对齐</h3>
+<p>开黑前确认三件事：<strong>客户端与服务端 tModLoader 版本一致、模组列表一致、模组版本一致</strong>。稳定版和 1.4.5-dev 不要混连，否则轻则进不去，重则存档表演自由落体。崩溃时先看日志，内存分配按需，别一股脑拉满，再用“禁用最近新增模组 + 二分排查”的老办法，别一上来就重装游戏。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间蹲 Steam 限免、史低、临时工价和喜加一？加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，推送速度按秒算，别再等群友喊你上车。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：十一月稳定版需要重新买吗？怎么更新？</strong></p>
+<p>不需要。tModLoader 本体免费，拥有泰拉瑞亚即可使用；已入库的玩家等 Steam 自动推送更新，或者在库中手动检查更新即可。</p>
+<p><strong>Q2：1.4.5-dev 测试分支能当日常版本玩吗？</strong></p>
+<p>不建议。测试分支改动快、模组兼容和存档风险都更高，适合尝鲜和反馈 Bug。想玩请备份存档，最好用副本世界和副本角色。</p>
+<p><strong>Q3：更新后模组崩溃、联机进不去怎么办？</strong></p>
+<p>先回稳定版，确认客户端和服务端版本、模组列表完全一致；再更新模组并查看日志。如果还崩，禁用最近新增的模组做二分排查，或者等模组作者适配。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e6%b3%b0%e6%8b%89%e7%91%9e%e4%ba%9a/" class="article-tag-item">#泰拉瑞亚</a>
+          
+          <a href="/tags/%e6%a8%a1%e7%bb%84%e5%b7%a5%e5%85%b7/" class="article-tag-item">#模组工具</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e6%b5%8b%e8%af%95%e5%88%86%e6%94%af/" class="article-tag-item">#测试分支</a>
+          
+          <a href="/tags/%e8%81%94%e6%9c%ba%e9%81%bf%e5%9d%91/" class="article-tag-item">#联机避坑</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-03-5232130-5ec06091/" class="sibling-title">KanaCross Together发售：首发九折，联机拼日语单词</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-03-4285270-bc5a80c1/" class="sibling-title">《Marblebuilds》v1.0.2 更新：相机倒挂修好，创意工坊发布不再报错</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#145-适配不是点一下更新那么简单">1.4.5 适配：不是“点一下更新”那么简单</a></li>
+        <li><a href="#更新日志拆解新钩子api-变更与-qol-修复">更新日志拆解：新钩子、API 变更与 QoL 修复</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#普通玩家先更新再备份别急着冲测试版">普通玩家：先更新，再备份，别急着冲测试版</a></li>
+        <li><a href="#模组作者盯紧-api多去-discord-聊需求">模组作者：盯紧 API，多去 Discord 聊需求</a></li>
+        <li><a href="#联机避坑版本和模组列表必须对齐">联机避坑：版本和模组列表必须对齐</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
