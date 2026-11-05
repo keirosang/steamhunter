@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 17:10:15 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 23:00:01 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>MUPO 1.0 正式版免费上线：联机对战、全球排行榜与地图编辑器全面翻新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-4146650-f4491e48/</link>
+				<pubDate>Thu, 05 Nov 2026 23:00:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-4146650-f4491e48/</guid>
+				<description>MUPO 终于结束 Demo 阶段，1.0 正式版在 Steam 免费开玩，愿望单也突破一万。本次更新带来 Steam 好友联机大厅、25 个成就、可排序的全球排行榜，以及更宽容的漏键扣血、按键标签切换、音频偏移校准等手感优化；地图编辑器同步重做操作方式与存档保护。本文整理核心改动、上手建议与入库方式。</description>
+			</item>
+			<item>
+				<title>Coverage 1.0.3更新：UI对齐小修小补，强迫症玩家舒服了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-5000880-0f62cbc2/</link>
+				<pubDate>Thu, 05 Nov 2026 20:00:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-5000880-0f62cbc2/</guid>
+				<description>《Coverage》推送1.0.3小版本更新，本次补丁专注于修复UI布局与文本对齐的小毛病。虽然不是什么大动作，但细节打磨往往决定体验上限。开发者对玩家反馈的响应值得点赞，建议所有玩家更新以获得更顺滑的视觉体验。毕竟在独立游戏的世界里，细节决定成败，一次小小的对齐修复可能让整个界面焕然一新。Steam会自动下载更新，无需额外操作。</description>
+			</item>
 			<item>
 				<title>战争雷霆新版本：英国Fulmar舰载机带8000发弹药加入一级科技树</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-236390-467c523c/</link>
@@ -28,11 +42,25 @@
 				<description>R.E.P.O. 推送 v0.5.1 小补丁：新增可选键位解绑和手柄聊天、按键说话、静音键位，优化手柄文字输入与转向灵敏度；小马骑乘碰撞、知识方块最终形态、庄园棺材等平衡调整；并修复翻滚翅膀、表情轮盘、可破坏地板、观战、赛车软锁、物品生成、万圣节卡车渲染与抓取卡顿等联机痛点。</description>
 			</item>
 			<item>
+				<title>漫威争锋11.5更新：月光骑士护盾穿透修复，蜘蛛侠至臻礼包同步上架</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-2767030-ab08a5aa/</link>
+				<pubDate>Thu, 05 Nov 2026 17:07:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-2767030-ab08a5aa/</guid>
+				<description>漫威争锋将于2026年11月5日17:00（北京时间）推送新补丁，全程不停机、打完即开。本次更新修复了月光骑士与艾尔莎·血石组队时孔苏之爪无法对举盾奇异博士造成伤害的判定问题，也修正了美国队长与冬兵组队时落地位置与技能范围脱节、增益拿不到的尴尬情况。商城同日上新蜘蛛侠至臻礼包、石头人宇宙厨师礼包等四件外观，11月6日10:00开卖。</description>
+			</item>
+			<item>
 				<title>Pathos热修补丁上线：默认图块集回归Sonyvanda，新玩家开荒第一眼更顺眼</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-5062560-33892ef7/</link>
 				<pubDate>Thu, 05 Nov 2026 13:44:17 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-05-5062560-33892ef7/</guid>
 				<description>Pathos推送小型热修补丁，把默认图块集改回开发者原本设定的Sonyvanda，解决此前新建存档时自动套用其它画风、导致新手误以为画面走样的问题。本文梳理这次修正的实际影响、图块集切换方法，以及给刚入坑的Roguelike玩家准备的实操建议与常见疑问解答。</description>
+			</item>
+			<item>
+				<title>Deadlock 11.4更新：Apollo缴械，Baba大幅降温</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-1422450-5629d6ef/</link>
+				<pubDate>Thu, 05 Nov 2026 13:02:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-1422450-5629d6ef/</guid>
+				<description>Deadlock 11月4日小更新落地，Apollo的Riposte获得缴械与清格挡能力，Baba、Celeste、Deadman Danny多名英雄数值降温；Healbane叠加收益被削，Mo &amp;amp; Krill、Nurse Harrow、Rat King迎来加强。本文速览全部改动、解析环境风向，并附上开黑实操与入库建议。</description>
 			</item>
 			<item>
 				<title>《Apex英雄》11月4日热更新：密客召回只要0.7秒，两大毒瘤玩法被官方连夜缝合</title>
