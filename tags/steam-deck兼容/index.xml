@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Steam Deck兼容 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/steam-deck%E5%85%BC%E5%AE%B9/</link>
+		<description>Recent content in Steam Deck兼容 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Nov 2026 02:52:34 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/steam-deck%E5%85%BC%E5%AE%B9/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《银河飞将3》30周年纪念版FAQ：手柄存档与掌机避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-2008740-29a56389/</link>
+				<pubDate>Fri, 06 Nov 2026 02:52:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-2008740-29a56389/</guid>
+				<description>Wing Commander III 30周年纪念版上线后，官方FAQ把玩家最关心的坑一次说清：手柄能用但要按Extras里的PDF激活映射，游戏没有自动存档，得在TCS Victory电脑终端手动存，云存档兜底；Steam Deck的Kilrathi Saga Enhanced版可运行，但全动态视频会延迟数秒，且官方Steam Input默认配置临时移除。本文把重点、实操和避坑建议揉成一篇，老飞行员和新入坑都能少走弯路。</description>
+			</item>
+	</channel>
+</rss>

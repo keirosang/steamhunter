@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rust大版本更新：蓝图重做、UZI上线与手柄支持齐至 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Rust本轮大版本把开荒节奏重新洗牌：工作台不再耗蓝图碎片制作，科技树改用蓝图碎片、蓝图页和蓝图书三阶货币，废料只保留研究台研究。UZI 9mm上线，折叠全自动可配盾、展开半自动更准；Steam Input手柄支持落地；牲畜系统也更省心，买牛或喂槽即锁定主人，牛不再老死。开荒党、独狼和手柄玩家都值得关注。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Rust大版本更新：蓝图重做、UZI上线与手柄支持齐至">
+  <meta property="og:description" content="Rust本轮大版本把开荒节奏重新洗牌：工作台不再耗蓝图碎片制作，科技树改用蓝图碎片、蓝图页和蓝图书三阶货币，废料只保留研究台研究。UZI 9mm上线，折叠全自动可配盾、展开半自动更准；Steam Input手柄支持落地；牲畜系统也更省心，买牛或喂槽即锁定主人，牛不再老死。开荒党、独狼和手柄玩家都值得关注。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-06-252490-454c8e7e/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/065fe6c71c7e4fa9.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-06-252490-454c8e7e/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Rust大版本更新：蓝图重做、UZI上线与手柄支持齐至</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Rust</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 252490</span>
+      
+    </div>
+
+    <h1 class="article-title">Rust大版本更新：蓝图重做、UZI上线与手柄支持齐至</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-06T02:24:44&#43;08:00" class="meta-date">
+          📅 2026-11-06 02:24
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1601 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/252490/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/252490" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/065fe6c71c7e4fa9.jpg" alt="Rust大版本更新：蓝图重做、UZI上线与手柄支持齐至" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Rust本轮大版本把开荒节奏重新洗牌：工作台不再耗蓝图碎片制作，科技树改用蓝图碎片、蓝图页和蓝图书三阶货币，废料只保留研究台研究。UZI 9mm上线，折叠全自动可配盾、展开半自动更准；Steam Input手柄支持落地；牲畜系统也更省心，买牛或喂槽即锁定主人，牛不再老死。开荒党、独狼和手柄玩家都值得关注。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位老伙计，我是你们的主理人。Rust这波大版本更新把开荒、战斗和养老三条线一起动了刀：蓝图系统重做、UZI 9mm进场、Steam Input手柄支持落地，连牛棚都迎来了减负。下面我按老规矩拆开聊，顺便给开荒党和手柄党几条实操避坑建议。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>蓝图系统重做</strong>：工作台制作不再需要蓝图碎片，科技树也不再用废料；改为蓝图碎片、蓝图页、蓝图书三阶货币，分别对应科技树层级。研究台研究物品仍可用废料。</li>
+<li><strong>低级蓝图更易获取</strong>：最低阶蓝图能从桶、箱子等常见来源摸到，还能升级成下一阶；谜题房与高难内容仍是推进最快的路线。</li>
+<li><strong>工作台升级调整</strong>：回收工作台升级改为20%概率不消耗蓝图；原型工作台升级改为固定25%成功率，并移除双倍成本。</li>
+<li><strong>UZI 9mm上线</strong>：折叠状态全自动且兼容盾牌；展开状态半自动、精度更高，按住开火模式键切换。</li>
+<li><strong>手柄支持</strong>：Steam Input覆盖核心玩法，背包与制作UI默认摇杆光标，新设置里可用D-pad切换。</li>
+<li><strong>牲畜重做</strong>：买牛或让牛吃槽即成为主人，不必贴身守着；牛不再老死，饥饿时1血躺下；槽UI会显示能养活一群牛多久。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="蓝图重做开荒不再一卡就锁死">蓝图重做：开荒不再一卡就锁死</h3>
+<p>这轮改动最关键的是把“没时间肝就进不了门”的摩擦降下来。以前蓝图碎片卡在早期推进上，尤其对时间少的玩家不友好；现在工作台制作不吃蓝图碎片，科技树货币分成三档，低级蓝图在桶箱里就能出，还能往上合。我的理解是：独狼开荒更看路线选择，交易和抱团找盟友的价值被重新放大。工作台升级方面，回收升级的20%不消耗蓝图适合细水长流，原型升级固定25%成功率且取消双倍成本，脸黑党也能算期望。</p>
+<h3 id="uzi-9mm折叠盾牌流的新玩具">UZI 9mm：折叠盾牌流的新玩具</h3>
+<p>UZI的两种形态很直给：折叠全自动、能配盾，适合贴脸压制和盾牌推进；展开半自动、精度提升，中距离点人更舒服。按住开火模式键切换，实战里别临战才想起来切，进房区前先调好。</p>
+<h3 id="手柄支持沙发党先别急着开香槟">手柄支持：沙发党先别急着开香槟</h3>
+<p>Steam Input已经覆盖核心玩法，背包和制作UI默认用摇杆光标，新游戏手柄选项里能切D-pad，还有一堆手感设置可调。不过首版并非每个功能都有专属手柄支持，后续还会补；想纯手柄开荒可以，但建议先在低风险服熟悉键位。</p>
+<h3 id="牲畜重做牛主子终于不折腾人">牲畜重做：牛主子终于不折腾人</h3>
+<p>买牛或让牛在自家槽吃食就能锁定主人，不用天天站旁边刷脸；牛不再老死，饿到1血会躺下而不是直接没。槽UI会显示维持时间，养牛规划更直观。对基地养老党和后勤玩家来说，这波是实打实的减负。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>更新与进服</strong>：Steam库更新Rust后，先确认常玩服务器是否已同步版本；官服、社区服进度不同，别急着冲进去白给。</li>
+<li><strong>开荒路线</strong>：优先摸桶箱拿低级蓝图，能升级就升级；谜题房和高难内容仍是快车道。工作台制作不再卡蓝图碎片，早期先把基础工作台立起来。</li>
+<li><strong>研究台别忘</strong>：研究物品仍用废料，废料别全砸科技树，留一点给研究台和日常周转。</li>
+<li><strong>独狼与组队</strong>：这版更鼓励交易和找盟友，独狼可以拿多余蓝图换急需件，别硬锁死科技树。</li>
+<li><strong>UZI使用</strong>：折叠全自动配盾打近战，展开半自动打中距离；按住开火模式键切换，进房前先检查形态。</li>
+<li><strong>手柄设置</strong>：进新游戏手柄选项试D-pad光标和摇杆灵敏度，背包整理先练熟再打架。</li>
+<li><strong>养牛避坑</strong>：买牛或喂槽即锁定主人，槽UI看维持时间；牛饿到1血躺下要尽快补饲料。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间蹲Steam限免、喜加一和特惠背刺？加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，秒级推送限免与特惠，别等入库截止才拍大腿。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：蓝图碎片现在还有用吗？</strong>
+A：有用。它是科技树最低阶货币，常见桶箱能出，还能升级成蓝图页；工作台制作不再需要它，研究台研究物品仍用废料。</p>
+<p><strong>Q2：UZI 9mm怎么切换开火模式？</strong>
+A：按住开火模式键切换。折叠状态全自动且兼容盾牌，展开状态半自动、精度更高；进房区前先调好形态。</p>
+<p><strong>Q3：手柄支持完整吗？</strong>
+A：首版已覆盖核心玩法，背包和制作UI默认摇杆光标，可在设置里切D-pad；并非每个功能都有专属支持，后续会继续补。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Rust/" class="article-tag-item">#Rust</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e8%93%9d%e5%9b%be%e9%87%8d%e5%81%9a/" class="article-tag-item">#蓝图重做</a>
+          
+          <a href="/tags/UZI%209mm/" class="article-tag-item">#UZI 9mm</a>
+          
+          <a href="/tags/%e6%89%8b%e6%9f%84%e6%94%af%e6%8c%81/" class="article-tag-item">#手柄支持</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-06-252490-454c8e7e/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-1476680-a6f3f1b8/" class="sibling-title">《Runika》1.0正式版上线：六年EA收官，主线终章与建筑系统齐至</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-5423620-e0284dbe/" class="sibling-title">《Cabinet Fever》发售：31台能亲手玩的街机，首发10%折扣到11月12日</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#蓝图重做开荒不再一卡就锁死">蓝图重做：开荒不再一卡就锁死</a></li>
+        <li><a href="#uzi-9mm折叠盾牌流的新玩具">UZI 9mm：折叠盾牌流的新玩具</a></li>
+        <li><a href="#手柄支持沙发党先别急着开香槟">手柄支持：沙发党先别急着开香槟</a></li>
+        <li><a href="#牲畜重做牛主子终于不折腾人">牲畜重做：牛主子终于不折腾人</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

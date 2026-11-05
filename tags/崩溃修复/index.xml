@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 22:30:26 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 20:43:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B4%A9%E6%BA%83%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>艾尔登法环热修2.4.1：隐身碰撞崩溃修复与乌克兰语支持</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-1808500-578234e2/</link>
+				<pubDate>Thu, 05 Nov 2026 20:43:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-1808500-578234e2/</guid>
+				<description>艾尔登法环 Steam 端迎来 Hotfix 2.4.1，本次属于小型稳定性补丁：修复封闭撤离点误入、弹道缆车离场隐身、住宅建筑隐形碰撞及 Xbox 崩溃等问题，并新增乌克兰语支持。更新后需重启游戏下载，联机前建议统一版本并校验文件，避免开黑掉线或召唤失败。</description>
+			</item>
 			<item>
 				<title>《雾锁王国》热修复5上线：配方钉选常驻，多项崩溃修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-1203620-e4a30ebd/</link>

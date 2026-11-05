@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 03:10:14 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 02:56:01 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%89%8B%E6%9F%84%E6%94%AF%E6%8C%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Wing Commander Prophecy》30周年纪念版FAQ：手柄、存档与Steam Deck避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3067120-243929f8/</link>
+				<pubDate>Fri, 06 Nov 2026 02:56:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3067120-243929f8/</guid>
+				<description>《Wing Commander™ Prophecy: 30th Anniversary Edition》公布FAQ与已知问题：手柄需在Midway暂停菜单手动切换Joystick，无自动存档需勤用终端存档，云存档可跨设备续玩；Steam Deck增强版可跑玩法，但新版过场动画异常，可切Original FMV。Extras文件夹内含扫描手册与手柄映射PDF，新手先读再起飞。</description>
+			</item>
+			<item>
+				<title>《银河飞将4》30周年纪念版FAQ：手柄支持、云存档与Steam Deck避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-2008750-292f8973/</link>
+				<pubDate>Fri, 06 Nov 2026 02:54:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-2008750-292f8973/</guid>
+				<description>EA与社区模组作者联手修复的《银河飞将4》30周年纪念版发布官方FAQ，集中回应手柄支持、存档机制与Steam Deck兼容性。游戏支持多家族手柄但需按Extras内PDF激活；无自动存档，需在TCS Victory终端手动保存，所幸有云存档；Steam Deck可跑增强版，但过场视频延迟与Steam Input配置缺失需注意。老船长们开飞前先读手册。</description>
+			</item>
+			<item>
+				<title>《银河飞将3》30周年纪念版FAQ：手柄存档与掌机避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-2008740-29a56389/</link>
+				<pubDate>Fri, 06 Nov 2026 02:52:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-2008740-29a56389/</guid>
+				<description>Wing Commander III 30周年纪念版上线后，官方FAQ把玩家最关心的坑一次说清：手柄能用但要按Extras里的PDF激活映射，游戏没有自动存档，得在TCS Victory电脑终端手动存，云存档兜底；Steam Deck的Kilrathi Saga Enhanced版可运行，但全动态视频会延迟数秒，且官方Steam Input默认配置临时移除。本文把重点、实操和避坑建议揉成一篇，老飞行员和新入坑都能少走弯路。</description>
+			</item>
+			<item>
+				<title>Rust大版本更新：蓝图重做、UZI上线与手柄支持齐至</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-252490-454c8e7e/</link>
+				<pubDate>Fri, 06 Nov 2026 02:24:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-252490-454c8e7e/</guid>
+				<description>Rust本轮大版本把开荒节奏重新洗牌：工作台不再耗蓝图碎片制作，科技树改用蓝图碎片、蓝图页和蓝图书三阶货币，废料只保留研究台研究。UZI 9mm上线，折叠全自动可配盾、展开半自动更准；Steam Input手柄支持落地；牲畜系统也更省心，买牛或喂槽即锁定主人，牛不再老死。开荒党、独狼和手柄玩家都值得关注。</description>
+			</item>
 			<item>
 				<title>What&#39;Sub 1.0正式版上线：任务成就、手柄支持与分支路线全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-4269100-e3a29e0c/</link>

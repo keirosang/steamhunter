@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 05:39:13 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 02:56:01 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Wing Commander Prophecy》30周年纪念版FAQ：手柄、存档与Steam Deck避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3067120-243929f8/</link>
+				<pubDate>Fri, 06 Nov 2026 02:56:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3067120-243929f8/</guid>
+				<description>《Wing Commander™ Prophecy: 30th Anniversary Edition》公布FAQ与已知问题：手柄需在Midway暂停菜单手动切换Joystick，无自动存档需勤用终端存档，云存档可跨设备续玩；Steam Deck增强版可跑玩法，但新版过场动画异常，可切Original FMV。Extras文件夹内含扫描手册与手柄映射PDF，新手先读再起飞。</description>
+			</item>
+			<item>
+				<title>《银河飞将4》30周年纪念版FAQ：手柄支持、云存档与Steam Deck避坑指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-2008750-292f8973/</link>
+				<pubDate>Fri, 06 Nov 2026 02:54:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-2008750-292f8973/</guid>
+				<description>EA与社区模组作者联手修复的《银河飞将4》30周年纪念版发布官方FAQ，集中回应手柄支持、存档机制与Steam Deck兼容性。游戏支持多家族手柄但需按Extras内PDF激活；无自动存档，需在TCS Victory终端手动保存，所幸有云存档；Steam Deck可跑增强版，但过场视频延迟与Steam Input配置缺失需注意。老船长们开飞前先读手册。</description>
+			</item>
 			<item>
 				<title>Steam客户端Beta更新：成就套装登场，手柄触控不再误触</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-1675200-f4c138af/</link>

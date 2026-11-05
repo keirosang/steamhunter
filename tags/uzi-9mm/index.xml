@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>UZI 9mm on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/uzi-9mm/</link>
+		<description>Recent content in UZI 9mm on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Nov 2026 02:24:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/uzi-9mm/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rust大版本更新：蓝图重做、UZI上线与手柄支持齐至</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-252490-454c8e7e/</link>
+				<pubDate>Fri, 06 Nov 2026 02:24:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-252490-454c8e7e/</guid>
+				<description>Rust本轮大版本把开荒节奏重新洗牌：工作台不再耗蓝图碎片制作，科技树改用蓝图碎片、蓝图页和蓝图书三阶货币，废料只保留研究台研究。UZI 9mm上线，折叠全自动可配盾、展开半自动更准；Steam Input手柄支持落地；牲畜系统也更省心，买牛或喂槽即锁定主人，牛不再老死。开荒党、独狼和手柄玩家都值得关注。</description>
+			</item>
+	</channel>
+</rss>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 18:01:19 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 05 Nov 2026 20:43:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>艾尔登法环热修2.4.1：隐身碰撞崩溃修复与乌克兰语支持</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-1808500-578234e2/</link>
+				<pubDate>Thu, 05 Nov 2026 20:43:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-1808500-578234e2/</guid>
+				<description>艾尔登法环 Steam 端迎来 Hotfix 2.4.1，本次属于小型稳定性补丁：修复封闭撤离点误入、弹道缆车离场隐身、住宅建筑隐形碰撞及 Xbox 崩溃等问题，并新增乌克兰语支持。更新后需重启游戏下载，联机前建议统一版本并校验文件，避免开黑掉线或召唤失败。</description>
+			</item>
 			<item>
 				<title>《艾尔登法环》情报核对：2.4.0死眼套装实为ARC Raiders更新</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-1808500-c9107ba6/</link>

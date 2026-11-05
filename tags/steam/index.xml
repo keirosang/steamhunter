@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 01:29:26 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 04:27:40 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Chronicles of Veldoria》1.0正式版上线：三年打磨的回合制RPG完整故事与融合系统全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3426850-1c4bce99/</link>
+				<pubDate>Fri, 06 Nov 2026 04:27:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3426850-1c4bce99/</guid>
+				<description>熬了三年多，单人独立开发者 Gene 终于把《Chronicles of Veldoria》推进到 1.0 正式版。这次不是小修小补，而是完整故事、双主角、六元素区域、Veldomon 招募融合与 Press Turn 策略战斗一并端上桌。还在观望的玩家可以先下免费 Demo，觉得对味再永久入库；老玩家也不妨回归看看完整版成色，顺手留个评价，对小团队真的很关键。</description>
+			</item>
+			<item>
+				<title>猫咖放置游戏《Cat Caffeine》正式上线！首发8折，边工作边撸猫的ASMR神器</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4681680-82914a5f/</link>
+				<pubDate>Fri, 06 Nov 2026 02:02:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4681680-82914a5f/</guid>
+				<description>《Cat Caffeine》是一款治愈系放置ASMR猫咖游戏，现已登陆Steam并开启首发8折特惠。你可以把咖啡馆缩放到屏幕任意角落，让猫咪员工们自动营业，边工作边享受lofi音乐和呼噜声。升级解锁家具，雇佣猫咪团队，自定义你的迷你咖啡帝国。首发周入手立省20%，轻松摸鱼从此不孤单。</description>
+			</item>
+			<item>
+				<title>免费惊悚《PROPERTY INSPECTION》上线30分钟公寓检查</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5128170-34d3d3f5/</link>
+				<pubDate>Fri, 06 Nov 2026 02:00:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5128170-34d3d3f5/</guid>
+				<description>独立开发者 Amir 耗时九个月打造的免费第一人称惊悚游戏《PROPERTY INSPECTION》现已登陆 Steam。你将扮演检查员 8821-A，深夜进入一间公寓处理四项投诉，全程约 30-40 分钟，建议戴耳机、关灯独自体验。官方同时给出性能优化建议，并欢迎玩家在社区反馈 Bug。</description>
+			</item>
 			<item>
 				<title>《Maria IV: A Cozy Botanical Sim》正式发售：1499年巴黎开花店，还能撸猫</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-4887370-6da761ba/</link>
@@ -33,6 +54,13 @@
 				<pubDate>Thu, 05 Nov 2026 22:00:59 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-05-5048700-8bdd1c62/</guid>
 				<description>《Hunted Within: Terminal Rust》作为系列第三章正式发售，玩家要在灼热废土上顶着沙暴与重力异常，用有限火力硬刚生化机械怪物，最终找疯狂博士清算旧账。本文梳理本作核心看点、战斗与探索节奏，附上入库方式、上手建议与常见问题解答，帮你在废土少走弯路。</description>
+			</item>
+			<item>
+				<title>艾尔登法环热修2.4.1：隐身碰撞崩溃修复与乌克兰语支持</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-1808500-578234e2/</link>
+				<pubDate>Thu, 05 Nov 2026 20:43:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-1808500-578234e2/</guid>
+				<description>艾尔登法环 Steam 端迎来 Hotfix 2.4.1，本次属于小型稳定性补丁：修复封闭撤离点误入、弹道缆车离场隐身、住宅建筑隐形碰撞及 Xbox 崩溃等问题，并新增乌克兰语支持。更新后需重启游戏下载，联机前建议统一版本并校验文件，避免开黑掉线或召唤失败。</description>
 			</item>
 			<item>
 				<title>《使命召唤：现代战争4》登顶PS十月下载榜，付费与免费双线霸榜</title>
@@ -124,6 +152,13 @@
 				<pubDate>Thu, 05 Nov 2026 04:53:01 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-05-4677370-aa9eb7f3/</guid>
 				<description>光标采矿、顺手打怪、护住塔基——《Just Keep Defending And Mining》正式版现已登陆 Steam。相比 Demo，正式版加入了更多地区、独特防御塔、全新敌人与更丰富的升级路线，并新增灵魂币与灵魂恩惠系统，菜单、奖励结算与升级树也全面翻新。本文拆解玩法核心、流派思路与开荒避坑要点，帮你判断这款“边挖边守”的小体量硬核作品值不值得入库。</description>
+			</item>
+			<item>
+				<title>《FreshWomen》第三季上线六天好评如潮，官方邀你进群“指点江山”改游戏</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-4005870-5eccce26/</link>
+				<pubDate>Thu, 05 Nov 2026 04:13:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-4005870-5eccce26/</guid>
+				<description>《FreshWomen - Season 3》登陆Steam仅六天便收获超400条评测，整体口碑相当能打。开发组趁热打铁，正式向所有老玩家发出“OppaiLovers”社群邀请函——只要玩过任意一季并完成简短问卷，就能跳转Discord，直接和制作组面对面聊剧情、美术、动画、配音乃至本地化质量。你的每一条吐槽，都可能变成下个补丁的改动方向。</description>
 			</item>
 			<item>
 				<title>《ArcheAge Chronicles》临时维护结束：Krogal手感修复、先锋大厅禁PK、任务栏大扫除</title>
