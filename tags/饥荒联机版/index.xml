@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 06:42:28 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 11:23:29 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E9%A5%A5%E8%8D%92%E8%81%94%E6%9C%BA%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>饥荒联机版热修上线：疯猪无限硬直锁修复，深潜蠕虫终于肯露面</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-322330-cfbb6512/</link>
+				<pubDate>Fri, 06 Nov 2026 11:23:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-322330-cfbb6512/</guid>
+				<description>《饥荒联机版》推送 Hotfix 762172，一口气修掉疯猪被攻击后永久硬直锁、鱼人木乃伊反复读档刷怪、深潜蠕虫波浪开启却永不出现等一批老毛病；同时补上地图界面音效，并解决多玩家同时切分片卡加载、烧毁漏水小屋进档崩溃、Linux 黑 UI 等问题。本文梳理改动要点、对刷肉与联机开荒的实际影响，以及更新避坑建议。</description>
+			</item>
 			<item>
 				<title>饥荒联机版热修761239：三怪不再共享仇恨，月阿比盖尔与乌鸦修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-322330-199a2b16/</link>

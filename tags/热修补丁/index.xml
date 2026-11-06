@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 13:44:17 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 11:23:29 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>饥荒联机版热修上线：疯猪无限硬直锁修复，深潜蠕虫终于肯露面</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-322330-cfbb6512/</link>
+				<pubDate>Fri, 06 Nov 2026 11:23:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-322330-cfbb6512/</guid>
+				<description>《饥荒联机版》推送 Hotfix 762172，一口气修掉疯猪被攻击后永久硬直锁、鱼人木乃伊反复读档刷怪、深潜蠕虫波浪开启却永不出现等一批老毛病；同时补上地图界面音效，并解决多玩家同时切分片卡加载、烧毁漏水小屋进档崩溃、Linux 黑 UI 等问题。本文梳理改动要点、对刷肉与联机开荒的实际影响，以及更新避坑建议。</description>
+			</item>
 			<item>
 				<title>Pathos热修补丁上线：默认图块集回归Sonyvanda，新玩家开荒第一眼更顺眼</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-5062560-33892ef7/</link>
