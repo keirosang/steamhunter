@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>E-District on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/e-district/</link>
+		<description>Recent content in E-District on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 02:48:48 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/e-district/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apex英雄11.6更新：E-District夜图下线，视野优化前瞻</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-1172470-adb5256a/</link>
+				<pubDate>Sat, 07 Nov 2026 02:48:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-1172470-adb5256a/</guid>
+				<description>Apex英雄11月6日官方更新调整地图轮换：E-District夜间版暂时移出全部地图池，白天版顶班上线。开发组承认夜图视野问题，将降低雾密度、拉远雾距并调整色彩平衡，预计本月末带着改进版夜图回归；排位与匹配的跳点、交火判断和观赛体验都会受影响，玩家反馈仍是关键。</description>
+			</item>
+	</channel>
+</rss>

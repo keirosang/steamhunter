@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>法术导入 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%B3%95%E6%9C%AF%E5%AF%BC%E5%85%A5/</link>
+		<description>Recent content in 法术导入 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 04:44:17 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%B3%95%E6%9C%AF%E5%AF%BC%E5%85%A5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/</link>
+				<pubDate>Sat, 07 Nov 2026 04:44:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/</guid>
+				<description>Glyphforge 迎来 1.0.1 热修补丁，此前在界面里神秘消失的法术导入按钮正式回归，位置被安排到 Share spellpage 按钮下方，导入与分享终于凑成了一对。本次更新属于纯 UI 入口修复，不涉及数值与平衡改动，也不影响已有存档与法术页。本文整理了更新要点、导入入口的寻找方式、搬运他人构筑时的避坑建议，以及玩家最关心的几个高频问题解答，帮你第一时间把别人的骚套路搬进自己的法术页。</description>
+			</item>
+	</channel>
+</rss>

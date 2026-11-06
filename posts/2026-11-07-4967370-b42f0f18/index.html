@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Glyphforge 迎来 1.0.1 热修补丁，此前在界面里神秘消失的法术导入按钮正式回归，位置被安排到 Share spellpage 按钮下方，导入与分享终于凑成了一对。本次更新属于纯 UI 入口修复，不涉及数值与平衡改动，也不影响已有存档与法术页。本文整理了更新要点、导入入口的寻找方式、搬运他人构筑时的避坑建议，以及玩家最关心的几个高频问题解答，帮你第一时间把别人的骚套路搬进自己的法术页。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑">
+  <meta property="og:description" content="Glyphforge 迎来 1.0.1 热修补丁，此前在界面里神秘消失的法术导入按钮正式回归，位置被安排到 Share spellpage 按钮下方，导入与分享终于凑成了一对。本次更新属于纯 UI 入口修复，不涉及数值与平衡改动，也不影响已有存档与法术页。本文整理了更新要点、导入入口的寻找方式、搬运他人构筑时的避坑建议，以及玩家最关心的几个高频问题解答，帮你第一时间把别人的骚套路搬进自己的法术页。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/30926e20c3ce6e5a.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Glyphforge 1.0.1 热修上线：法术导入按钮重见 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Glyphforge</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 4967370</span>
+      
+    </div>
+
+    <h1 class="article-title">Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-07T04:44:17&#43;08:00" class="meta-date">
+          📅 2026-11-07 04:44
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1605 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/4967370/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/4967370" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/30926e20c3ce6e5a.jpg" alt="Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Glyphforge 迎来 1.0.1 热修补丁，此前在界面里神秘消失的法术导入按钮正式回归，位置被安排到 Share spellpage 按钮下方，导入与分享终于凑成了一对。本次更新属于纯 UI 入口修复，不涉及数值与平衡改动，也不影响已有存档与法术页。本文整理了更新要点、导入入口的寻找方式、搬运他人构筑时的避坑建议，以及玩家最关心的几个高频问题解答，帮你第一时间把别人的骚套路搬进自己的法术页。
+      </div>
+      
+
+      <div class="article-body">
+        <p>刚上线不久的 Glyphforge，官方就端出了 1.0.1 这碗热汤——别小看这次补丁的分量，它修的不是数值、不是平衡，而是一个让无数玩家抓耳挠腮的入口：法术导入按钮，回来了。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>版本号</strong>：1.0.1（Release hotfix，上线后紧急热修）</li>
+<li><strong>核心修复</strong>：法术导入（Import）按钮此前在界面中被隐藏，本次更新后重新可见</li>
+<li><strong>按钮新位置</strong>：收纳在 <strong>Share spellpage</strong>（分享法术页）按钮下方</li>
+<li><strong>改动性质</strong>：纯 UI 入口恢复，不涉及法术强度、数值与平衡性调整</li>
+<li><strong>数据影响</strong>：已有存档、已构筑的法术页不受影响，无需重开档</li>
+<li><strong>平台</strong>：Steam（AppID 4967370）</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一个按钮消失卡住的是一整条社区链路">一个按钮消失，卡住的是一整条社区链路</h3>
+<p>对 Glyphforge 这类以法术构筑为核心乐趣的作品来说，法术页就是玩家的作品集。构筑成型之后，把它分享出去、让朋友或者陌生人一键搬走，本身就是游戏最有生命力的部分——论坛里讨论半天，不如直接甩一个法术页过去。</p>
+<p>而导入按钮一旦在界面里隐身，这条链路就断了一半：能分享、不能接收，等于只让你往外发名片，却不让你收名片。1.0 版本里这个入口被界面调整顺手盖住，属于典型的「功能没坏，只是你看不见」型事故，也难怪官方要火速推出热修。</p>
+<h3 id="为什么归到-share-spellpage-下面">为什么归到 Share spellpage 下面</h3>
+<p>这次修复不只是把按钮塞回来，还顺手理了一下逻辑：导入和分享本质是一对镜像操作，一个往外送、一个往里收，放在同一个入口下面符合玩家的直觉。以后要找导入功能，别再盯着菜单栏翻半天，直接定位 <strong>Share spellpage</strong>，往下看就对了。</p>
+<h3 id="这次热修没动什么反而更值得说">这次热修没动什么，反而更值得说</h3>
+<p>值得强调的是，1.0.1 没有夹带任何数值私货：没有偷偷削弱你辛苦构筑出来的流派，也没有给某个法术塞隐藏加强。对刚打完开荒、正打算研究构筑的玩家来说，这是最舒服的一种补丁——只修路，不动刀。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="1-先把游戏更到最新">1. 先把游戏更到最新</h3>
+<p>Steam 客户端一般会自动拉取热修。如果你刚开过游戏没提示更新，退出后重启客户端即可；实在不放心，右键游戏 →「属性」→「已安装文件」→「验证游戏文件完整性」，让它自己校对一遍。版本号确认到 1.0.1 再进游戏，才不会对着旧界面怀疑人生。</p>
+<h3 id="2-导入入口的实际找法">2. 导入入口的实际找法</h3>
+<p>进入法术页相关界面，找到 <strong>Share spellpage</strong> 按钮，导入选项就在它的下方展开。这个层级关系记牢，以后版本再怎么翻新 UI，你也能顺着「分享 → 导入」这条线摸过去。</p>
+<h3 id="3-搬运别人构筑时别当无脑复读机">3. 搬运别人构筑时别当无脑复读机</h3>
+<p>导入的乐趣在于「拿来即用」，但坑也在这儿。别人分享的法术页往往建立在他自己的资源节奏、配件搭配和操作习惯上，直接照抄容易出现「看着很美、一用就废」的尴尬。建议导入后先别急着上强度，把核心思路拆出来看看：这套构筑靠什么启动、靠什么收尾，再对照自己手上的资源做微调，往往比原版更顺手。</p>
+<h3 id="4-顺手把自己的构筑也发出去">4. 顺手把自己的构筑也发出去</h3>
+<p>导入修好了，分享也别落下。把自己的得意法术页挂上去，让朋友一键导入，比自己打字讲解半小时效率高得多，也是这类游戏最省事的技术交流方式。</p>
+<h3 id="5-遇到按钮仍不可见怎么办">5. 遇到按钮仍不可见怎么办</h3>
+<p>先确认版本号是否已更新到 1.0.1；其次检查是否误触了界面折叠或过滤选项；若以上都对仍不显示，退出重进并验证文件完整性，多半就能解决。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>热修、限免、临时工折扣这类消息，向来是手快有手慢无。想第一时间拿到秒级推送，欢迎加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，喜加一、免费周末、史低特惠和紧急补丁通知都会在那边同步，省得你每天刷商店页刷到眼酸。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：这次 1.0.1 更新需要重新开档吗？</strong></p>
+<p>不需要。本次属于界面入口层面的热修，不涉及存档结构改动，已有法术页与进度照常读取。</p>
+<p><strong>Q2：我在界面上还是找不到法术导入按钮，是什么原因？</strong></p>
+<p>优先确认游戏版本是否已更新到 1.0.1。部分玩家在 Steam 未完成下载时会以旧版本进入游戏。确认版本无误后，导入选项位于 <strong>Share spellpage</strong> 按钮下方，注意查看该按钮展开后的区域，而不是顶部菜单。</p>
+<p><strong>Q3：这次热修有削弱或加强某个法术吗？</strong></p>
+<p>没有。1.0.1 仅恢复了被隐藏的导入按钮，未包含任何数值、平衡性或机制层面的调整，你现有的构筑强度不受影响。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Glyphforge/" class="article-tag-item">#Glyphforge</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e8%a1%a5%e4%b8%81/" class="article-tag-item">#热修补丁</a>
+          
+          <a href="/tags/%e6%b3%95%e6%9c%af%e5%af%bc%e5%85%a5/" class="article-tag-item">#法术导入</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-07-1938090-c0bb13c4/" class="sibling-title">《使命召唤》DMZ限时免费开放！11月11日前零门槛撤离淘金</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-07-1211600-0e9ff7ea/" class="sibling-title">《ZED ZONE》史低40%大促：48元丧尸生存神作仅28.8元永久入库</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一个按钮消失卡住的是一整条社区链路">一个按钮消失，卡住的是一整条社区链路</a></li>
+        <li><a href="#为什么归到-share-spellpage-下面">为什么归到 Share spellpage 下面</a></li>
+        <li><a href="#这次热修没动什么反而更值得说">这次热修没动什么，反而更值得说</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#1-先把游戏更到最新">1. 先把游戏更到最新</a></li>
+        <li><a href="#2-导入入口的实际找法">2. 导入入口的实际找法</a></li>
+        <li><a href="#3-搬运别人构筑时别当无脑复读机">3. 搬运别人构筑时别当无脑复读机</a></li>
+        <li><a href="#4-顺手把自己的构筑也发出去">4. 顺手把自己的构筑也发出去</a></li>
+        <li><a href="#5-遇到按钮仍不可见怎么办">5. 遇到按钮仍不可见怎么办</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
