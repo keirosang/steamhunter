@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Piano Glow 正式上线：多行乐谱批注、落键教学与麦克风转 MIDI 实测 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Piano Glow 正式登陆 Steam，本次更新一次到位：落键模式支持多行乐谱与批注、新增互动上手 Tour、设置里可开启麦克风实时转 MIDI；同时每日奖励弹窗默认关闭、AI 转换 MIDI 直接进音乐库、Mania 主题改扁平配色。本文拆解每项改动的实际用法，附上麦克风调优、离线 AI 转 MIDI 的取舍、练琴批注技巧与高频问题答疑。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Piano Glow 正式上线：多行乐谱批注、落键教学与麦克风转 MIDI 实测">
+  <meta property="og:description" content="Piano Glow 正式登陆 Steam，本次更新一次到位：落键模式支持多行乐谱与批注、新增互动上手 Tour、设置里可开启麦克风实时转 MIDI；同时每日奖励弹窗默认关闭、AI 转换 MIDI 直接进音乐库、Mania 主题改扁平配色。本文拆解每项改动的实际用法，附上麦克风调优、离线 AI 转 MIDI 的取舍、练琴批注技巧与高频问题答疑。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/2b6df0a8f3a76afa.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Piano Glow 正式上线：多行乐谱批注、落键教学与麦克 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Piano Glow</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 3499520</span>
+      
+    </div>
+
+    <h1 class="article-title">Piano Glow 正式上线：多行乐谱批注、落键教学与麦克风转 MIDI 实测</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-06T18:49:18&#43;08:00" class="meta-date">
+          📅 2026-11-06 18:49
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2042 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/3499520/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/3499520" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/2b6df0a8f3a76afa.jpg" alt="Piano Glow 正式上线：多行乐谱批注、落键教学与麦克风转 MIDI 实测" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Piano Glow 正式登陆 Steam，本次更新一次到位：落键模式支持多行乐谱与批注、新增互动上手 Tour、设置里可开启麦克风实时转 MIDI；同时每日奖励弹窗默认关闭、AI 转换 MIDI 直接进音乐库、Mania 主题改扁平配色。本文拆解每项改动的实际用法，附上麦克风调优、离线 AI 转 MIDI 的取舍、练琴批注技巧与高频问题答疑。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位键位上的钢琴家，还有那些嘴上说「我就随便弹弹」、结果凌晨三点还在死磕同一小节的老哥——Piano Glow 这次是真的把牌子挂出来了。开发组 TheAlanski@ 带着团队发了正式发售公告，顺手塞了一整套相当有诚意的更新：乐谱能批注了、落键模式有了互动教学、麦克风还能实时转 MIDI。作为一个常年在音游和钢琴软件之间反复横跳的人，我先替各位把这包更新拆开看看。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>正式发售</strong>：Piano Glow 已登陆 Steam（AppID 3499520），官方承诺后续持续提供定期更新与新内容。</li>
+<li><strong>乐谱系统升级</strong>：落键（Falling Notes）模式支持多行乐谱显示，并新增乐谱批注功能。</li>
+<li><strong>落键模式互动教学</strong>：新增一段快速上手 Tour，边点边学，不用再对着空白键位发愣。</li>
+<li><strong>麦克风实时转 MIDI</strong>：设置 &gt; MIDI 内可开启，对着麦克风弹琴直接出音符。</li>
+<li><strong>体验优化一箩筐</strong>：每日任务 / 奖励 / 用户名特效合并为单一 UI 按钮；每日奖励弹窗默认关闭；AI 转换的 MIDI 直接出现在音乐库；Mania 主题改为扁平化配色；MIDI 编辑器可指定乐器；外加若干小修复。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-乐谱不再是预言书而是可以画重点的笔记本">1. 乐谱不再是「预言书」，而是可以画重点的笔记本</h3>
+<p>多行乐谱在落键视图中显示，等于把长曲子从「一条无尽的瀑布」变成有分段、有结构的谱面。对练长曲的人来说，这玩意儿的价值不亚于给你一个能折叠的谱架。批注功能则更狠——哪一小节总卡、哪个和弦手指分配有问题，直接在谱上标出来，下次打开一眼就看到自己当年踩过的坑。这比在手机备忘录里写「第 47 小节很难」靠谱得多。</p>
+<h3 id="2-落键模式上手-tour新手村终于有引导-npc-了">2. 落键模式上手 Tour：新手村终于有引导 NPC 了</h3>
+<p>之前不少朋友打开落键模式的第一反应是「键在哪？手怎么放？为什么我全红？」新增的互动式 Tour 用几步引导把练习逻辑讲清楚：看落键、对准节拍、跟手型。功能本身不大，但对留存的价值极高——劝退一个新人很容易，留下一个愿意每天来练十分钟的人才是真本事。</p>
+<h3 id="3-麦克风转-midi爽但别用错场景">3. 麦克风转 MIDI：爽，但别用错场景</h3>
+<p>设置 → MIDI 里新增的实时麦克风转 MIDI，本质是给「边弹边看反馈」的即兴玩家准备的。但官方特意提醒：<strong>如果你是在录原声钢琴、且不需要实时反馈，别用这个</strong>，请改用 AI Audio to MIDI，上传演奏的视频或音频文件。原因很简单：实时识别对延迟和环境噪音极其敏感，房间回音大、麦克风一般，出来的音符能乱到让你怀疑人生；而离线 AI 转换吃的是完整音频，准确度和完整度高得多。一句话总结：<strong>练琴用实时，成片用 AI。</strong></p>
+<h3 id="4-那些看起来不起眼用起来真香的细节">4. 那些看起来不起眼、用起来真香的细节</h3>
+<ul>
+<li>每日任务、奖励、用户名特效塞进一个 UI 按钮，界面清爽不少；</li>
+<li>每日奖励弹窗默认关闭——这点必须点赞，谁都不想在磨关键小节时被「领取奖励」硬生生打断；</li>
+<li>AI 转换出的 MIDI 直接进音乐库，不用再翻文件夹找文件；</li>
+<li>Mania 主题改扁平化，颜色对比更强，密集谱面下更容易分辨落键；</li>
+<li>MIDI 编辑器里可以设置乐器，编排自由度肉眼可见地上来了。</li>
+</ul>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>新入坑路线</strong>：先跑一遍 Falling Notes 的互动 Tour，再挑一首自己熟的曲子（熟旋律能大幅降低看谱焦虑），把速度拉到 60% 慢慢磨，别一上来就 100% 硬刚。</li>
+<li><strong>把批注当练琴日记用</strong>：每首卡住的曲子标好小节号 + 问题类型（指法 / 节奏 / 肌肉记忆），一周后回看，进步曲线清清楚楚。</li>
+<li><strong>麦克风转 MIDI 调优</strong>：优先用有线麦克风或音频接口直入，关掉系统里的降噪与音效增强，房间尽量选有软装的空间；延迟高就把缓冲区调小试，出现丢音再把阈值放宽。</li>
+<li><strong>录音成片走 AI 路线</strong>：录好视频或音频丢给 AI Audio to MIDI，让它生成 MIDI 再回软件里回放对照，比实时识别靠谱得多。</li>
+<li><strong>联机房间别害羞</strong>：开发组在公告结尾专门喊话，说希望在多人房间和大家碰面。房间人少的时候反而更容易互相听、互相学，社恐玩家可以先当观众。</li>
+<li><strong>反馈直通车</strong>：support@pianoglow.com 或官方 Discord（discord.gg/pianoglow）。官方明确表示每一条建议都会被认真读完，这种表态在独立组里并不常见，值得珍惜。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间抓到 Steam 限免、喜加一、史低背刺？加入我们的 Telegram 频道 <strong>@steamhunterlink</strong>，秒级推送，不用你自己天天刷商店页。Piano Glow 后续要是打折或者搞免费周末，也会第一时间在频道里喊你。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：麦克风转 MIDI 和 AI Audio to MIDI 到底该用哪个？</strong></p>
+<p>A：要「边弹边看实时反馈」就用麦克风转 MIDI（设置 &gt; MIDI 内开启）；要「把一首弹好的曲子变成 MIDI 文件」，请上传视频或音频走 AI Audio to MIDI，准确度和完整度都更高。官方也明确建议：原声钢琴录音且不需要实时反馈时，别用实时转换。</p>
+<p><strong>Q2：多行乐谱和乐谱批注在哪里用？</strong></p>
+<p>A：进入落键（Falling Notes）练习模式即可看到多行乐谱显示，批注功能也在乐谱界面内使用。建议先把练习速度降下来再开始标注，避免手忙脚乱。</p>
+<p><strong>Q3：每日奖励弹窗不见了，是被砍了吗？</strong></p>
+<p>A：没有，只是默认关闭了，相关功能被合并进统一的 UI 按钮里。想恢复弹窗提示，去设置里调回来即可。</p>
+<p><strong>Q4：正式版之后还会更新吗？</strong></p>
+<p>A：官方明确表示会继续提供定期更新与新内容，并感谢了从早期版本一路陪伴的玩家。所以现在入坑，一点都不算晚。</p>
+<p>祝各位在 Piano Glow 的多人房间里弹得尽兴——记得控制音量，别把邻居弹到报警。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Piano%20Glow/" class="article-tag-item">#Piano Glow</a>
+          
+          <a href="/tags/Steam%e6%96%b0%e6%b8%b8/" class="article-tag-item">#Steam新游</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e9%9f%b3%e4%b9%90%e6%b8%b8%e6%88%8f/" class="article-tag-item">#音乐游戏</a>
+          
+          <a href="/tags/MIDI/" class="article-tag-item">#MIDI</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-3826290-1619302d/" class="sibling-title">《组长！怨念请查收！》自动存档修复，吉宝检讨但组长先别急着原谅</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-578080-d1148ba5/" class="sibling-title">PUBG周六自定义比赛回归：看直播抽G币，社区开黑福利一网打尽</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-乐谱不再是预言书而是可以画重点的笔记本">1. 乐谱不再是「预言书」，而是可以画重点的笔记本</a></li>
+        <li><a href="#2-落键模式上手-tour新手村终于有引导-npc-了">2. 落键模式上手 Tour：新手村终于有引导 NPC 了</a></li>
+        <li><a href="#3-麦克风转-midi爽但别用错场景">3. 麦克风转 MIDI：爽，但别用错场景</a></li>
+        <li><a href="#4-那些看起来不起眼用起来真香的细节">4. 那些看起来不起眼、用起来真香的细节</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

@@ -10,9 +10,100 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 16:31:18 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 19:41:02 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/</link>
+				<pubDate>Fri, 06 Nov 2026 19:41:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/</guid>
+				<description>迷雾散尽，代码见光。《Mystic Fog Maze》官方宣布全部源代码以 GPLv3 协议公开，任何人都能翻阅、学习，甚至基于它做出自己的版本。本文梳理这次开源的看点、GPLv3 到底赋予你哪些权利、普通玩家与 MOD 爱好者分别该怎么上手，以及几个最容易踩坑的授权疑问，一次讲清。</description>
+			</item>
+			<item>
+				<title>战争雷霆He 219 A-7首飞纪念返场，七折2086金鹰值不值？</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-236390-882f4dbe/</link>
+				<pubDate>Fri, 06 Nov 2026 19:07:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-236390-882f4dbe/</guid>
+				<description>战争雷霆德国 IV 级高级载具 He 219 A-7 为纪念 1942 年 11 月 6 日首飞限时返场，11 月 6 日至 10 日（GMT）上架，30% 折扣后售价 2,086 金鹰。四门 30mm 加两门 20mm 的恐怖火力、罕见的机载雷达与优秀爬升，让它成为中阶房里的空中开罐器，但机动性堪忧，这篇告诉你它到底适合谁。</description>
+			</item>
+			<item>
+				<title>PUBG周六自定义比赛回归：看直播抽G币，社区开黑福利一网打尽</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-578080-d1148ba5/</link>
+				<pubDate>Fri, 06 Nov 2026 18:49:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-578080-d1148ba5/</guid>
+				<description>PUBG周六自定义赛11月7日20:00 CEST回归，社区对局、创作者联播和G-Coin抽奖齐上阵。主频道抽10份1000 G-Coin兑换码，每位参与联播创作者再送5份500 G-Coin兑换码。想白嫖G币、找队友开黑或围观高手整活，锁定Twitch直播与官方Discord，房间信息会陆续放出。</description>
+			</item>
+			<item>
+				<title>Piano Glow 正式上线：多行乐谱批注、落键教学与麦克风转 MIDI 实测</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/</link>
+				<pubDate>Fri, 06 Nov 2026 18:49:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/</guid>
+				<description>Piano Glow 正式登陆 Steam，本次更新一次到位：落键模式支持多行乐谱与批注、新增互动上手 Tour、设置里可开启麦克风实时转 MIDI；同时每日奖励弹窗默认关闭、AI 转换 MIDI 直接进音乐库、Mania 主题改扁平配色。本文拆解每项改动的实际用法，附上麦克风调优、离线 AI 转 MIDI 的取舍、练琴批注技巧与高频问题答疑。</description>
+			</item>
+			<item>
+				<title>《组长！怨念请查收！》自动存档修复，吉宝检讨但组长先别急着原谅</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3826290-1619302d/</link>
+				<pubDate>Fri, 06 Nov 2026 18:45:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3826290-1619302d/</guid>
+				<description>《组长！怨念请查收！》官方发布修复公告：吉宝的“灵魂保存”服务已恢复，自动存档无法正常读取的问题得到处理。组长们将游戏更新至最新版本后即可正常读档；若更新后仍异常，可继续向官方反馈。本文梳理修复要点、更新操作、存档备份建议与高频问答，帮你顺利逃出公司。</description>
+			</item>
+			<item>
+				<title>《KESSLER》正式发售：一枪打爆卫星，25%首发折扣开启</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5131440-5000db9b/</link>
+				<pubDate>Fri, 06 Nov 2026 18:20:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5131440-5000db9b/</guid>
+				<description>太空增量新作《KESSLER: Orbital Incremental》正式登陆 Steam，首发 25% 折扣同步开启。游戏把“凯斯勒效应”做成核心玩法：一枪击毁卫星，碎片连锁撞击，越滚越大的轨道垃圾席卷整片天空。官方感谢 Demo 试玩玩家的反馈，也喊话玩得开心就留个评价。本文整理玩法看点、入手建议与常见问题。</description>
+			</item>
+			<item>
+				<title>TFC2 1.0正式版上线：17关战役收官，地图编辑器支持Lua脚本</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4158610-9bb2f41f/</link>
+				<pubDate>Fri, 06 Nov 2026 18:04:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4158610-9bb2f41f/</guid>
+				<description>等了许久，TFC2: Collapse of the Bronze Age 终于结束抢先体验。1.0正式版把Mutti一家人的故事补到完整17关，还端出官方地图编辑器：Lua脚本、触发器、对话事件都能玩，附送Mini Horde Mode模板和社区地图比赛。老玩家关心的修复与打磨也一并到位，想重温战役或自己造图的，都可以回坑了。</description>
+			</item>
+			<item>
+				<title>Legacybound 首发 8 折！12 职业硬核 Roguelike，死后遗产继承玩法与开荒避坑全攻略</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5220240-27c622b8/</link>
+				<pubDate>Fri, 06 Nov 2026 17:46:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5220240-27c622b8/</guid>
+				<description>独立开发者 Pedro 打造的硬核传统 Roguelike《Legacybound》正式上架 Steam 并开启 20% 首发折扣。游戏提供 12 种职业、5 级解锁第二职业的混搭构筑，以及“英雄阵亡后由继承人继承削弱版遗产”的循环成长机制。本文整理了探索、战斗资源与 Build 三条核心思路，附上入手建议与高频问题解答。</description>
+			</item>
+			<item>
+				<title>《Strip Bubbles: My New Town》Steam 正式发售，首发九折限时开抢</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5248690-62d0636d/</link>
+				<pubDate>Fri, 06 Nov 2026 17:14:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5248690-62d0636d/</guid>
+				<description>《Strip Bubbles: My New Town》已在 Steam 正式解锁发售，并开启限时 10% 首发折扣。这是一款把泡泡射击消除与恋爱视觉小说结合在一起的休闲小品：医生、花店老板、咖啡师、空姐四位女主各有四阶段立绘解锁，多分支亲密选项通向不同动画结局，另有可随时回放的画廊与完整成就系统。本文给你一份从买前须知到开荒技巧的完整攻略。</description>
+			</item>
+			<item>
+				<title>《光年拓荒》热修v1.0.2563：铺路更宽、闪退减少，商人半成品被砍</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1677110-809cd8ce/</link>
+				<pubDate>Fri, 06 Nov 2026 17:11:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1677110-809cd8ce/</guid>
+				<description>《光年拓荒》1.0上线首周热修v1.0.2563实装：H.O.E.工具铺路半径加大，大型植物血量与掉落调整；同时修复商人出售未完成建筑、拍照模式异常天气、菜单与联机等多类闪退，以及低帧率机甲抖动、草地风效加速和Steam好友状态定位问题。官方透露下周还有热修。</description>
+			</item>
+			<item>
+				<title>Limbus Company第10届瓦尔普吉斯之夜PV公开：新人格与新E.G.O前瞻</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1973530-83a3e7e6/</link>
+				<pubDate>Fri, 06 Nov 2026 17:06:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1973530-83a3e7e6/</guid>
+				<description>Project Moon 正式放出《Limbus Company》第10届瓦尔普吉斯之夜活动PV，这场以狂欢与女巫夜为主题的限时更新即将回归。本文为各位经理梳理PV核心看点、惯例活动机制、卡池与代币规划建议，并附上新手入坑与老玩家避坑提醒。活动具体时间与内容请以游戏内公告为准，先收藏再开冲。</description>
+			</item>
+			<item>
+				<title>战争雷霆F-15EX登场：12枚主动弹加22枚制导炸弹，九级空战变天</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-236390-fecf8c77/</link>
+				<pubDate>Fri, 06 Nov 2026 17:01:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-236390-fecf8c77/</guid>
+				<description>《战争雷霆》九级空战迎来重磅新机：美国F-15EX与以色列F-15IA Ra’am同步登场，最多挂载12枚主动雷达弹或22枚精确制导弹药，配备AESA雷达、头盔瞄准与新型发动机，并带来AIM-120D、SLAM-ER及反辐射/反舰导弹。本期专栏拆解核心机制、实战玩法与开线建议。</description>
+			</item>
+			<item>
+				<title>孩之宝少儿游戏合集Steam发售：大富翁人生之旅线索三合一全家欢</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4124830-07f0dad3/</link>
+				<pubDate>Fri, 06 Nov 2026 17:00:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4124830-07f0dad3/</guid>
+				<description>孩之宝把《大富翁少儿版》《人生之旅少儿版》《线索少儿版》打包成新合集，今日正式登陆Steam。三款经典桌游均简化规则，支持最多四人本地同屏，还能自定义头像并解锁外观奖励。本文梳理三款玩法差异、适合人群、入手与开黑避坑建议，并附高频问答，方便全家快速开局。</description>
+			</item>
 			<item>
 				<title>《组长！怨念请查收！》正式发售，扮演刻薄组长逃离诅咒公司，首周九折</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-3826290-32963a20/</link>
@@ -21,11 +112,25 @@
 				<description>自命不凡的刻薄组长终于遭了报应——下属们的怨气把你卷进公司异空间，吉祥物「吉宝」开出条件：完成10个怨念体的愿望才能脱身。本作现已正式发售，国区定价¥36，首周九折仅需¥32.40，4-5小时流程搭配3个结局，是一款把职场吐槽做进解谜逃脱里的国产小品，值得一试。</description>
 			</item>
 			<item>
+				<title>Steam新游《Junkyard Reseller》正式发售：废品站淘金、激光除锈，捡垃圾捡出财富自由</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5271040-51d023df/</link>
+				<pubDate>Fri, 06 Nov 2026 16:23:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5271040-51d023df/</guid>
+				<description>废品回收模拟经营新作《Junkyard Reseller》现已登陆 Steam 正式发售。玩家开着皮卡逛废品站与废弃地点，淘回锈迹斑斑的小物件，用激光清洗机还原细节，修复得越好卖价越高。正式版开放完整地图、稀有品商人、村庄订单、金属探测器、猎乌鸦、报废车拆件与油田抽油等玩法，还能加装自动清洗机扩大生意。首发暂无限免消息，感兴趣的玩家可先加愿望单或直接入库开捡。</description>
+			</item>
+			<item>
 				<title>免费开档！47都道府县棒球GM上线，付费DLC解锁整个赛季征途</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-4921720-d252f738/</link>
 				<pubDate>Fri, 06 Nov 2026 16:13:06 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-4921720-d252f738/</guid>
 				<description>11月6日，覆盖47都道府县48支球队的棒球经营新作上架Steam。本体完全免费，含建队与常规赛首月27场，安装后无时长限制；完整版DLC售1980日元，解除场次上限并开放季后赛、休赛期与后续赛季，一次买断不必年年续费；编辑DLC售1480日元，可改新档球员、职员、球场与学校。Demo已下架，同机存档可继承。</description>
+			</item>
+			<item>
+				<title>《The Sinful Nuns》Steam发售：修女院黑暗叙事新作</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4118730-47047b93/</link>
+				<pubDate>Fri, 06 Nov 2026 16:01:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4118730-47047b93/</guid>
+				<description>《The Sinful Nuns: Undelivered Prayers》正式登陆Steam！故事围绕修女院遭武装袭击、姐妹被绑架展开，主角Yuri被俘后命运成谜。本文汇总发售情报、剧情解析、入库建议及官方Discord资讯，助你快速了解这款黑暗叙事新作。</description>
 			</item>
 			<item>
 				<title>《Sort Them Socks》Steam发售：3272双袜子的治愈整理之旅</title>
@@ -390,6 +495,13 @@
 				<pubDate>Fri, 06 Nov 2026 01:01:27 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-2522120-0ed07cb3/</guid>
 				<description>老司机们注意了，《Airframe Ultra》现已登陆Steam！这是一款融合了高速竞速与激烈战斗的硬核游戏，你可以杀死对手、摧毁他们的摩托，成为赛道之王。首发期间官方准备了为期一周的Discord社区活动，每天都有不同主题赛事，参与即有机会赢取奖品。游戏目前处于发售初期，遇到bug可前往官方论坛反馈。本文为你整理了核心看点、活动日程、入手建议及常见问题，助你快速上车。</description>
+			</item>
+			<item>
+				<title>Strip Bubbles: My New Town 免费Demo上线Steam，泡泡消消乐新玩法抢先尝</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5248690-a9076fbe/</link>
+				<pubDate>Fri, 06 Nov 2026 00:58:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5248690-a9076fbe/</guid>
+				<description>《Strip Bubbles: My New Town》免费试玩Demo已在Steam开放下载，主打快节奏泡泡射击消除，加上逐层解锁的进阶机制、多位小镇角色与多档难度。本文整理了Demo里能玩到哪些内容、商店页找不到时的排查办法，以及怎么把游戏加入愿望单，稳稳等到首发限时折扣和分支结局。</description>
 			</item>
 			<item>
 				<title>《Swarm Harvest》正式发售：首发八折清剿虫群，利润必须到位</title>
@@ -845,6 +957,13 @@
 				<pubDate>Thu, 05 Nov 2026 02:31:36 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-05-5037510-eaf22b4c/</guid>
 				<description>熬过一段比预期更漫长的审核期，清洁模拟新作《Playrooms》终于正式上线，首发八折。开发组把多等的一周全用来加料：白板涂鸦系统全面升级、双手可同时持械、新增按颜色分球的成就，并追加法、西、意、巴西葡语四种语言。同步开启的「十亿颗球」全球社区活动设 1 亿、5 亿、10 亿三档里程碑，奖励保密到解锁才揭晓。完整版还带来 5 个新房间、机器人清洁工具、海量升级与完整剧情线。</description>
+			</item>
+			<item>
+				<title>Sexpatch: Horny Capes 11月6日发售 首发9折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-4463730-ec6b11d8/</link>
+				<pubDate>Thu, 05 Nov 2026 02:22:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-4463730-ec6b11d8/</guid>
+				<description>《Sexpatch: Horny Capes》官方确认将于11月6日登陆Steam，纽约时间上午10点、国区23点解锁。首发同步开启15%折扣，并推出包含动画、原声带与设定集的支持包。开发组正在进行最后压测与除错，建议先加入愿望单，确保开售通知与首发优惠不错过。</description>
 			</item>
 			<item>
 				<title>《King&#39;s Heart》完整版正式发售：内容全线解锁，官方开放Discord反馈直通车</title>

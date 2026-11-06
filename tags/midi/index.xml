@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>MIDI on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/midi/</link>
+		<description>Recent content in MIDI on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Nov 2026 18:49:18 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/midi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Piano Glow 正式上线：多行乐谱批注、落键教学与麦克风转 MIDI 实测</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/</link>
+				<pubDate>Fri, 06 Nov 2026 18:49:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/</guid>
+				<description>Piano Glow 正式登陆 Steam，本次更新一次到位：落键模式支持多行乐谱与批注、新增互动上手 Tour、设置里可开启麦克风实时转 MIDI；同时每日奖励弹窗默认关闭、AI 转换 MIDI 直接进音乐库、Mania 主题改扁平配色。本文拆解每项改动的实际用法，附上麦克风调优、离线 AI 转 MIDI 的取舍、练琴批注技巧与高频问题答疑。</description>
+			</item>
+	</channel>
+</rss>

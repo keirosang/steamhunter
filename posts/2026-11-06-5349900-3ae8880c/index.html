@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="迷雾散尽，代码见光。《Mystic Fog Maze》官方宣布全部源代码以 GPLv3 协议公开，任何人都能翻阅、学习，甚至基于它做出自己的版本。本文梳理这次开源的看点、GPLv3 到底赋予你哪些权利、普通玩家与 MOD 爱好者分别该怎么上手，以及几个最容易踩坑的授权疑问，一次讲清。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发">
+  <meta property="og:description" content="迷雾散尽，代码见光。《Mystic Fog Maze》官方宣布全部源代码以 GPLv3 协议公开，任何人都能翻阅、学习，甚至基于它做出自己的版本。本文梳理这次开源的看点、GPLv3 到底赋予你哪些权利、普通玩家与 MOD 爱好者分别该怎么上手，以及几个最容易踩坑的授权疑问，一次讲清。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/ab256b6b022ff3fa.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Mystic Fog Maze》官宣开源：GPLv3 全量 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Mystic Fog Maze</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5349900</span>
+      
+    </div>
+
+    <h1 class="article-title">《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-06T19:41:02&#43;08:00" class="meta-date">
+          📅 2026-11-06 19:41
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2110 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5349900/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5349900" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/ab256b6b022ff3fa.jpg" alt="《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>迷雾散尽，代码见光。《Mystic Fog Maze》官方宣布全部源代码以 GPLv3 协议公开，任何人都能翻阅、学习，甚至基于它做出自己的版本。本文梳理这次开源的看点、GPLv3 到底赋予你哪些权利、普通玩家与 MOD 爱好者分别该怎么上手，以及几个最容易踩坑的授权疑问，一次讲清。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>重磅动作</strong>：独立作品《Mystic Fog Maze》官方宣布，游戏全部源代码现已公开，采用 <strong>GPLv3</strong> 许可证。</li>
+<li><strong>不只是“看看”</strong>：官方原话很直白——任何人都可以「翻进去读、拿来学、甚至照着做一个属于自己的版本」。</li>
+<li><strong>迷雾散了</strong>：这次更新没有新地图、没有平衡性调整、没有打折，纯粹是把遮在引擎盖上的那块布掀了。</li>
+<li><strong>对玩家意味着什么</strong>：MOD 生态、社区分支、二次创作的门槛被一次性砸到地板价；逆向工程的时代结束，直接读源码的时代开始。</li>
+</ul>
+<blockquote>
+<p>官方公告原文标题只有一句轻描淡写的 <em>Open Source: Code Unlocked</em>，但对我们这些常年蹲在更新日志里找乐子的老玩家来说，这四个字的分量不比一次大版本更新轻。</p>
+</blockquote>
+<hr>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一the-fog-has-lifted这次真的把家底摊开了">一、“The fog has lifted”——这次真的把家底摊开了</h3>
+<p>官方公告写得很克制：</p>
+<blockquote>
+<p><strong>The fog has lifted</strong>
+The game&rsquo;s code is now public under GPLv3.
+Anyone can look inside, learn from it, or build their own version.</p>
+</blockquote>
+<p>配上一个直通仓库的按钮：</p>
+<p><a href="https://github.com/AntonisDevStuff/mystic-fog-maze-src"><strong>Browse the Source</strong></a></p>
+<p>没有预告、没有预热、没有“敬请期待”，直接把 GitHub 仓库地址甩出来。这种干脆劲儿，在如今这个连个补丁都要做成倒计时预告的行业里，属实有点复古的浪漫。</p>
+<h3 id="二gplv3-到底给了你什么权利">二、GPLv3 到底给了你什么权利</h3>
+<p>很多朋友看到“开源”两个字就默认“随便用”，其实不同协议差别很大。GPLv3 是 copyleft 阵营里最著名的那一档，关键几条我给你翻译成人话：</p>
+<ol>
+<li><strong>可以看</strong>：源码完整可读，想研究某个机制是怎么算出来的，直接翻文件就行，不用再靠猜。</li>
+<li><strong>可以改</strong>：想给自己加个提示、改个雾效浓度、把某个折磨人的迷宫调简单点，随便动手。</li>
+<li><strong>可以分发</strong>：自己改完的版本可以发出去给朋友玩，甚至可以公开上架。</li>
+<li><strong>但有个“传染性”条件</strong>：你分发出去的衍生版本，<strong>同样必须以 GPLv3 开放源代码</strong>。想拿别人开源的底子闭源卖钱？这条路基本堵死了。</li>
+<li><strong>没有担保</strong>：原作者不对你用这份代码产生的任何后果负责——这句在法律文本里是标准配置，但确实是实话。</li>
+</ol>
+<p>一句话总结：<strong>这是一次彻底的、带条件的、真诚的开放</strong>，而不是那种「我们开源了三个示例文件」的公关式开源。</p>
+<h3 id="三对普通玩家这件事的价值在哪">三、对普通玩家，这件事的价值在哪</h3>
+<p>你可能不写代码，但开源带来的好处会绕一圈回到你身上：</p>
+<ul>
+<li><strong>更新更透明</strong>：以后官方修了什么、动了哪行逻辑，社区里总有人能第一时间扒出来，不用再靠“感觉手感变了”来猜。</li>
+<li><strong>MOD 生态起飞的起点</strong>：以前做 MOD 得靠内存扫描和逆向，现在有了干净的源码，社区工具的成熟速度会快一个量级。</li>
+<li><strong>学习样本</strong>：对想做独立游戏的朋友来说，一个完整能跑的成品项目，比十篇教程都管用。</li>
+<li><strong>游戏寿命被延长</strong>：哪怕官方哪天不更新了，社区分支还能接着往下做。这在独立游戏圈里，几乎是最实在的“长青保险”。</li>
+</ul>
+<hr>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="1只想看看不做开发">1）只想看看，不做开发</h3>
+<p>直接打开官方给出的仓库地址，先读 README 和许可证文件，确认项目结构与依赖说明。哪怕不懂代码，翻一翻目录也能大致明白这游戏是怎么被搭起来的——很多玩家第一次真切感受到“游戏是一堆文件”，就是从这一步开始的。</p>
+<h3 id="2想动手改点东西">2）想动手改点东西</h3>
+<ul>
+<li><strong>先 Fork 再动手</strong>：在 GitHub 上先复制一份到自己的账号下，改坏了也不影响原仓库。</li>
+<li><strong>老老实实读依赖说明</strong>：不同项目的构建环境差别很大，仓库里写的引擎版本、依赖清单、编译步骤，一个字都别跳。</li>
+<li><strong>小步快跑</strong>：第一版别上来就重构，先试着改一个数值、加一行日志，跑通了再加料。</li>
+<li><strong>备份原始版本</strong>：本地留一份未经修改的干净代码，出问题时好对照。</li>
+</ul>
+<h3 id="3想把自己的版本发出去">3）想把自己的版本发出去</h3>
+<p>先把 GPLv3 的条款读一遍，尤其是<strong>分发时必须附带完整对应源码</strong>这一条。另外记得在显著位置保留原作者的版权声明与许可证文本——这是礼貌，也是义务。想拿去商业化？可以，但闭源不行。</p>
+<h3 id="4只想安安静静玩游戏的">4）只想安安静静玩游戏的</h3>
+<p>这次更新不影响你现有的游戏本体，也不需要重新下载什么补丁。该玩的照玩，唯一的区别是：以后你在社区里看到的那些「这游戏到底怎么判定的」讨论，终于有人能给出标准答案了。</p>
+<blockquote>
+<p>顺带提一句，本作目前在 Steam 上的商店页与后续更新动态，都值得挂个关注。独立游戏的开源决定往往是长期口碑的转折点，早关注早享受。</p>
+</blockquote>
+<hr>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>Steam 上的限免、喜加一、临时工价、史低背刺，来得快去得也快，等你刷到的时候黄花菜都凉了。建议直接加入 <strong>Telegram 频道 <a href="https://t.me/steamhunterlink">@steamhunterlink</a></strong>，秒级推送限免与特惠信息，永久入库的机会一个都不漏。像《Mystic Fog Maze》这种突然丢出大动作的独立作品，频道里也常常第一时间跟上动态。</p>
+<hr>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：代码开源了，是不是意味着游戏本体也免费了？</strong></p>
+<p>A：不是。这次公开的是<strong>源代码</strong>，游戏本体在 Steam 上的销售状态没有任何变化。开源与免费是两码事——你可以自由地阅读、修改、分发代码，但商店里那份打包好的成品，该买还是得买。</p>
+<p><strong>Q2：我能拿这份代码做一个自己的游戏，然后卖钱吗？</strong></p>
+<p>A：GPLv3 允许商业化，但条件很硬：你分发出去的衍生作品必须<strong>同样以 GPLv3 开源</strong>，并且保留原作者的版权声明。想改成闭源项目去卖，那就越界了。稳妥起见，动手前把许可证全文读一遍，别嫌长。</p>
+<p><strong>Q3：我不会写代码，这次更新对我有什么实际影响？</strong></p>
+<p>A：短期看几乎没有，游戏照常玩。中长期看影响不小：MOD 会更丰富，社区的机制研究会更透明，游戏的维护寿命也更长。你不需要成为开发者，才能享受到开源带来的红利。</p>
+<p><strong>Q4：改坏了怎么办？会影响我 Steam 上的存档吗？</strong></p>
+<p>A：只要你是在自己 Fork 出来的仓库里折腾，就不会碰到 Steam 上的正式版本。养成两个习惯：一是永远保留一份干净的原始代码，二是不要在官方安装目录里直接改文件。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Mystic%20Fog%20Maze/" class="article-tag-item">#Mystic Fog Maze</a>
+          
+          <a href="/tags/%e5%bc%80%e6%ba%90/" class="article-tag-item">#开源</a>
+          
+          <a href="/tags/GPLv3/" class="article-tag-item">#GPLv3</a>
+          
+          <a href="/tags/%e7%8b%ac%e7%ab%8b%e6%b8%b8%e6%88%8f/" class="article-tag-item">#独立游戏</a>
+          
+          <a href="/tags/Steam%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam资讯</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-236390-882f4dbe/" class="sibling-title">战争雷霆He 219 A-7首飞纪念返场，七折2086金鹰值不值？</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-817628-ff4deb98/" class="sibling-title">GTA三部曲决定版Steam史低67%：19.79美元永久入库三代经典</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一the-fog-has-lifted这次真的把家底摊开了">一、“The fog has lifted”——这次真的把家底摊开了</a></li>
+        <li><a href="#二gplv3-到底给了你什么权利">二、GPLv3 到底给了你什么权利</a></li>
+        <li><a href="#三对普通玩家这件事的价值在哪">三、对普通玩家，这件事的价值在哪</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#1只想看看不做开发">1）只想看看，不做开发</a></li>
+        <li><a href="#2想动手改点东西">2）想动手改点东西</a></li>
+        <li><a href="#3想把自己的版本发出去">3）想把自己的版本发出去</a></li>
+        <li><a href="#4只想安安静静玩游戏的">4）只想安安静静玩游戏的</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>战役收官 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%88%98%E5%BD%B9%E6%94%B6%E5%AE%98/</link>
+		<description>Recent content in 战役收官 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Nov 2026 18:04:53 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%88%98%E5%BD%B9%E6%94%B6%E5%AE%98/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TFC2 1.0正式版上线：17关战役收官，地图编辑器支持Lua脚本</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4158610-9bb2f41f/</link>
+				<pubDate>Fri, 06 Nov 2026 18:04:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4158610-9bb2f41f/</guid>
+				<description>等了许久，TFC2: Collapse of the Bronze Age 终于结束抢先体验。1.0正式版把Mutti一家人的故事补到完整17关，还端出官方地图编辑器：Lua脚本、触发器、对话事件都能玩，附送Mini Horde Mode模板和社区地图比赛。老玩家关心的修复与打磨也一并到位，想重温战役或自己造图的，都可以回坑了。</description>
+			</item>
+	</channel>
+</rss>

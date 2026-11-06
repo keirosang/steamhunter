@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 15:00:33 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 18:49:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Piano Glow 正式上线：多行乐谱批注、落键教学与麦克风转 MIDI 实测</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/</link>
+				<pubDate>Fri, 06 Nov 2026 18:49:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/</guid>
+				<description>Piano Glow 正式登陆 Steam，本次更新一次到位：落键模式支持多行乐谱与批注、新增互动上手 Tour、设置里可开启麦克风实时转 MIDI；同时每日奖励弹窗默认关闭、AI 转换 MIDI 直接进音乐库、Mania 主题改扁平配色。本文拆解每项改动的实际用法，附上麦克风调优、离线 AI 转 MIDI 的取舍、练琴批注技巧与高频问题答疑。</description>
+			</item>
+			<item>
+				<title>《光年拓荒》热修v1.0.2563：铺路更宽、闪退减少，商人半成品被砍</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1677110-809cd8ce/</link>
+				<pubDate>Fri, 06 Nov 2026 17:11:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1677110-809cd8ce/</guid>
+				<description>《光年拓荒》1.0上线首周热修v1.0.2563实装：H.O.E.工具铺路半径加大，大型植物血量与掉落调整；同时修复商人出售未完成建筑、拍照模式异常天气、菜单与联机等多类闪退，以及低帧率机甲抖动、草地风效加速和Steam好友状态定位问题。官方透露下周还有热修。</description>
+			</item>
+			<item>
+				<title>Limbus Company第10届瓦尔普吉斯之夜PV公开：新人格与新E.G.O前瞻</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1973530-83a3e7e6/</link>
+				<pubDate>Fri, 06 Nov 2026 17:06:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1973530-83a3e7e6/</guid>
+				<description>Project Moon 正式放出《Limbus Company》第10届瓦尔普吉斯之夜活动PV，这场以狂欢与女巫夜为主题的限时更新即将回归。本文为各位经理梳理PV核心看点、惯例活动机制、卡池与代币规划建议，并附上新手入坑与老玩家避坑提醒。活动具体时间与内容请以游戏内公告为准，先收藏再开冲。</description>
+			</item>
+			<item>
+				<title>战争雷霆F-15EX登场：12枚主动弹加22枚制导炸弹，九级空战变天</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-236390-fecf8c77/</link>
+				<pubDate>Fri, 06 Nov 2026 17:01:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-236390-fecf8c77/</guid>
+				<description>《战争雷霆》九级空战迎来重磅新机：美国F-15EX与以色列F-15IA Ra’am同步登场，最多挂载12枚主动雷达弹或22枚精确制导弹药，配备AESA雷达、头盔瞄准与新型发动机，并带来AIM-120D、SLAM-ER及反辐射/反舰导弹。本期专栏拆解核心机制、实战玩法与开线建议。</description>
+			</item>
 			<item>
 				<title>《隔离区-丧尸末日生存》1.0上线：新岛、8人联机&#43;首发40%折扣</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-1211600-bb0b0d71/</link>

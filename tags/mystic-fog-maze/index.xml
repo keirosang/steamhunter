@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mystic Fog Maze on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/mystic-fog-maze/</link>
+		<description>Recent content in Mystic Fog Maze on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Nov 2026 19:41:02 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/mystic-fog-maze/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/</link>
+				<pubDate>Fri, 06 Nov 2026 19:41:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/</guid>
+				<description>迷雾散尽，代码见光。《Mystic Fog Maze》官方宣布全部源代码以 GPLv3 协议公开，任何人都能翻阅、学习，甚至基于它做出自己的版本。本文梳理这次开源的看点、GPLv3 到底赋予你哪些权利、普通玩家与 MOD 爱好者分别该怎么上手，以及几个最容易踩坑的授权疑问，一次讲清。</description>
+			</item>
+	</channel>
+</rss>

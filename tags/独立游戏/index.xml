@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 13:50:54 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 19:41:02 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/</link>
+				<pubDate>Fri, 06 Nov 2026 19:41:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5349900-3ae8880c/</guid>
+				<description>迷雾散尽，代码见光。《Mystic Fog Maze》官方宣布全部源代码以 GPLv3 协议公开，任何人都能翻阅、学习，甚至基于它做出自己的版本。本文梳理这次开源的看点、GPLv3 到底赋予你哪些权利、普通玩家与 MOD 爱好者分别该怎么上手，以及几个最容易踩坑的授权疑问，一次讲清。</description>
+			</item>
+			<item>
+				<title>《组长！怨念请查收！》自动存档修复，吉宝检讨但组长先别急着原谅</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3826290-1619302d/</link>
+				<pubDate>Fri, 06 Nov 2026 18:45:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3826290-1619302d/</guid>
+				<description>《组长！怨念请查收！》官方发布修复公告：吉宝的“灵魂保存”服务已恢复，自动存档无法正常读取的问题得到处理。组长们将游戏更新至最新版本后即可正常读档；若更新后仍异常，可继续向官方反馈。本文梳理修复要点、更新操作、存档备份建议与高频问答，帮你顺利逃出公司。</description>
+			</item>
 			<item>
 				<title>《Queen&#39;s Domain》1.01.04更新：新投掷武器上线，后期解谜终于能减负</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-1799840-06b176ff/</link>
@@ -96,6 +110,13 @@
 				<pubDate>Fri, 06 Nov 2026 01:29:26 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-4887370-6da761ba/</guid>
 				<description>土耳其双人工作室 Melih 与 Sinem 的情书之作《Maria IV: A Cozy Botanical Sim》现已登陆 Steam。你继承祖母开在巴黎圣母院桥边的花店，按真实的水、光、土壤与照料需求培育花卉，一页页填满祖母的图鉴手册，接待自带故事的顾客，装修花店与楼上住宅——当然，猫还是能撸的。本文梳理玩法内核、上手节奏与入手建议。</description>
+			</item>
+			<item>
+				<title>Strip Bubbles: My New Town 免费Demo上线Steam，泡泡消消乐新玩法抢先尝</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5248690-a9076fbe/</link>
+				<pubDate>Fri, 06 Nov 2026 00:58:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5248690-a9076fbe/</guid>
+				<description>《Strip Bubbles: My New Town》免费试玩Demo已在Steam开放下载，主打快节奏泡泡射击消除，加上逐层解锁的进阶机制、多位小镇角色与多档难度。本文整理了Demo里能玩到哪些内容、商店页找不到时的排查办法，以及怎么把游戏加入愿望单，稳稳等到首发限时折扣和分支结局。</description>
 			</item>
 			<item>
 				<title>《Cash is King!》迈阿密商业模拟器正式上线，官方承诺后续继续加更</title>
