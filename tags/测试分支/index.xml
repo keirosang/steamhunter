@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 11:19:40 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 23:18:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%B5%8B%E8%AF%95%E5%88%86%E6%94%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《土豆兄弟》1.2.0.2测试服平衡解析：变异体重做与机甲削弱</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1942280-0b0c6207/</link>
+				<pubDate>Fri, 06 Nov 2026 23:18:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1942280-0b0c6207/</guid>
+				<description>《土豆兄弟》Primal Dread DLC 上线仅 4 天，官方就根据玩家反馈在测试分支推送 1.2.0.2.beta-0 平衡补丁：变异体被动彻底重做、机甲零件掉率与武器机械化双双下调、Mutation 进化曲线整体前移，禁用名额也改为每 4 波发一个。本文把改动逐条拆开讲清楚，并附上测试分支的进法与避坑提醒。</description>
+			</item>
 			<item>
 				<title>tModLoader十一月稳定版：泰拉瑞亚1.4.5适配提速与模组进化</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-1281930-57d076e8/</link>

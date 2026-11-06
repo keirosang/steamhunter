@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>生活模拟MMO on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%94%9F%E6%B4%BB%E6%A8%A1%E6%8B%9Fmmo/</link>
+		<description>Recent content in 生活模拟MMO on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 00:53:07 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%94%9F%E6%B4%BB%E6%A8%A1%E6%8B%9Fmmo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Loftia抢先体验首个补丁：电池卡死修复、售货机取物与共享箱限一</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-2320980-ba86955e/</link>
+				<pubDate>Sat, 07 Nov 2026 00:53:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-2320980-ba86955e/</guid>
+				<description>Loftia 抢先体验上线后的首个补丁已经实装，官方根据玩家反馈一口气修掉了电池容量卡死、社区倡议记忆追踪错乱、房屋展示厅无限加载等硬伤，支持者包补发绿帽与藤蔓包，售货机取物改为按背包余量拿取，每座岛共享箱限一个，Pip 价格显示与赛季通行证界面也一并整理。本文拆解改动细节，并附上开荒期的实操建议。</description>
+			</item>
+	</channel>
+</rss>

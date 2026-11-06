@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 22:08:41 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 23:18:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%9C%9F%E8%B1%86%E5%85%84%E5%BC%9F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《土豆兄弟》1.2.0.2测试服平衡解析：变异体重做与机甲削弱</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1942280-0b0c6207/</link>
+				<pubDate>Fri, 06 Nov 2026 23:18:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1942280-0b0c6207/</guid>
+				<description>《土豆兄弟》Primal Dread DLC 上线仅 4 天，官方就根据玩家反馈在测试分支推送 1.2.0.2.beta-0 平衡补丁：变异体被动彻底重做、机甲零件掉率与武器机械化双双下调、Mutation 进化曲线整体前移，禁用名额也改为每 4 波发一个。本文把改动逐条拆开讲清楚，并附上测试分支的进法与避坑提醒。</description>
+			</item>
 			<item>
 				<title>土豆兄弟DLC首发补丁v1.2.0.1：联机崩溃修复，突变原掉落提升</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-1942280-8a05741c/</link>

@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 05:00:19 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 00:45:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Psycho Ripper》新补丁解析：敌人调整、核心血量与玩家反弹</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4330560-56dfc708/</link>
+				<pubDate>Sat, 07 Nov 2026 00:45:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4330560-56dfc708/</guid>
+				<description>《Psycho Ripper》推送 1.0.0.1 补丁，重点围绕敌人强度、波次核心重置后的血量以及玩家反弹手感做调整。对喜欢波次生存与割草节奏的玩家来说，这次改动直接关系到防线续航与操作容错，开荒和冲层前建议先看明白。官方没有堆新内容，而是把刀口对准基础体验，属于典型的小补丁大影响。</description>
+			</item>
+			<item>
+				<title>《土豆兄弟》1.2.0.2测试服平衡解析：变异体重做与机甲削弱</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1942280-0b0c6207/</link>
+				<pubDate>Fri, 06 Nov 2026 23:18:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1942280-0b0c6207/</guid>
+				<description>《土豆兄弟》Primal Dread DLC 上线仅 4 天，官方就根据玩家反馈在测试分支推送 1.2.0.2.beta-0 平衡补丁：变异体被动彻底重做、机甲零件掉率与武器机械化双双下调、Mutation 进化曲线整体前移，禁用名额也改为每 4 波发一个。本文把改动逐条拆开讲清楚，并附上测试分支的进法与避坑提醒。</description>
+			</item>
 			<item>
 				<title>《Rinha de Waifus》EA上线：双新角色、F键二倍速与首发八折</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-4905420-ba2fcc60/</link>
