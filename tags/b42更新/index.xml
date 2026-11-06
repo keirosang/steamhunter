@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>B42更新 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/b42%E6%9B%B4%E6%96%B0/</link>
+		<description>Recent content in B42更新 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Nov 2026 22:41:13 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/b42%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>僵尸毁灭工程 42.22.2 热修上线：Windows 校验误报修复，老存档可安心续命</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-108600-614c3859/</link>
+				<pubDate>Fri, 06 Nov 2026 22:41:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-108600-614c3859/</guid>
+				<description>僵尸毁灭工程 B42 预发布分支推送 42.22.2 热修，主要修复了 Windows 平台完整性校验误显示为「attached」的问题。本次更新理论上不会破坏存档，官方同时强调报 bug 前需在无模组的新存档中复现。本文梳理此次热修的看点、校验机制的门道，并附上升级避坑与联机同步建议。</description>
+			</item>
+	</channel>
+</rss>

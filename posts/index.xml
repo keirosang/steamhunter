@@ -10,9 +10,72 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 20:00:06 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 23:00:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Brain Bomb》免费序章上线：别让受试者脑袋开花，先加愿望单</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5318970-17d1bc2f/</link>
+				<pubDate>Fri, 06 Nov 2026 23:00:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5318970-17d1bc2f/</guid>
+				<description>主打黑色幽默与实验事故的《Brain Bomb - Prologue》现已在 Steam 推出免费序章试玩。你将面对一群随时可能“脑袋开花”的受试者，在生死抉择中尽量保住所有人的脑壳。官方同步呼吁玩家把正式版加入愿望单；本篇整理了试玩看点、入库方式、上手建议与常见问题，方便你快速判断这款脑洞小品是否对胃口。</description>
+			</item>
+			<item>
+				<title>《Player 2 is a Femboy》发售，首发八折1.59美元</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4943670-3ee896c1/</link>
+				<pubDate>Fri, 06 Nov 2026 23:00:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4943670-3ee896c1/</guid>
+				<description>等待结束，Sweet Lollipop Studio 的短篇视觉小说《Player 2 is a Femboy》已在 Steam 正式发售。首发两周八折，仅 1.59 美元，11 月 20 日后恢复 1.99 美元。游戏主打与老玩伴重聚的温馨怀旧夜晚，内含 16 张插画、7 个成就并支持 15 种语言。喜欢短篇叙事与轻松氛围的玩家，不妨趁首发价入库。</description>
+			</item>
+			<item>
+				<title>《Kaironia》抢先体验上线：放置到99级，离线时间银行真香</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4963980-f9a824b0/</link>
+				<pubDate>Fri, 06 Nov 2026 22:57:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4963980-f9a824b0/</guid>
+				<description>《Kaironia》已在Steam开启抢先体验，复古2D放置RPG正式开刷：收集资源、打造装备、打怪冲99级，支持单人游玩与可选自建服务器联机。离线时间银行会保存你不在线的时间，回来可用来加速行动。开发者向Demo和测试玩家致谢，并继续征集反馈与Bug报告。</description>
+			</item>
+			<item>
+				<title>《Penguins vs Seals》正式登陆Steam：企鹅海豹策略塔防首发9折，21种单位可融合</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-1380560-9342012d/</link>
+				<pubDate>Fri, 06 Nov 2026 22:50:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-1380560-9342012d/</guid>
+				<description>《Penguins vs Seals》正式登陆Steam，带来一场企鹅与海豹之间的策略防御对决。游戏提供21种可部署单位、单位融合系统、多种支援技能，以及横跨多颗星球与关卡的战场挑战。首发期间享受10%折扣，官方还计划在未来更新中加入Steam成就系统。</description>
+			</item>
+			<item>
+				<title>《伊莫》补丁上线：DLSS帧生成修复、笔记本卡顿治理与技能BUG清扫</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4126040-1393334b/</link>
+				<pubDate>Fri, 06 Nov 2026 22:47:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4126040-1393334b/</guid>
+				<description>《伊莫》推送 v1.1.3887621.0 补丁，一口气修掉七个高频痛点：DLSS 帧生成失效、部分笔记本间歇掉帧、蛋劫行动飞行卡半空、Tromber 与 Hexxin 减益异常消失、Dewple 技能数值算错、园区手柄轮盘失灵，以及 Hoptail 携带道具契约后强化技能不到账。本文逐条拆解改动逻辑，并附上更新后的实操避坑与自救步骤。</description>
+			</item>
+			<item>
+				<title>僵尸毁灭工程 42.22.2 热修上线：Windows 校验误报修复，老存档可安心续命</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-108600-614c3859/</link>
+				<pubDate>Fri, 06 Nov 2026 22:41:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-108600-614c3859/</guid>
+				<description>僵尸毁灭工程 B42 预发布分支推送 42.22.2 热修，主要修复了 Windows 平台完整性校验误显示为「attached」的问题。本次更新理论上不会破坏存档，官方同时强调报 bug 前需在无模组的新存档中复现。本文梳理此次热修的看点、校验机制的门道，并附上升级避坑与联机同步建议。</description>
+			</item>
+			<item>
+				<title>《Penguin Fury》斩获9/10高分！企鹅军团肉鸽首发20%折扣，开荒与合成流派全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5042320-76f596ce/</link>
+				<pubDate>Fri, 06 Nov 2026 22:20:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5042320-76f596ce/</guid>
+				<description>由独立开发者单枪匹马打造的企鹅军团肉鸽《Penguin Fury》正式登陆 Steam，首发即拿下 Game Empress 9/10 好评。本次上线版本把商店企鹅属性面板做得更清晰、战斗危险红区预警更易识别，整体打磨更顺滑；同时开启为期两周的 20% 首发折扣，并支持 Twitch 弹幕互动。本文整理核心改动、入库与开荒思路、合成流派搭配建议，帮你低成本入手不踩坑。</description>
+			</item>
+			<item>
+				<title>VOID ARMOR FORM DRIVE 正式发售，机甲战斗爽快开打</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4735200-8b0d9806/</link>
+				<pubDate>Fri, 06 Nov 2026 22:00:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4735200-8b0d9806/</guid>
+				<description>机甲动作新作《VOID ARMOR: FORM DRIVE》正式登陆 Steam，玩家将驾驶机体 ARORA 深入一系列高难度任务。游戏主打快节奏机甲战斗，武器与配装可自由搭配，鼓励反复试验不同 loadout 打出自己的风格。开发团队同时向长期关注本项目的玩家致谢。本文整理了发售要点、上手配装思路与入库方式，并附上常见问题解答，帮你第一时间判断这台机甲值不值得开机。</description>
+			</item>
+			<item>
+				<title>Campfire Harmony 发售：独狼开发一年半，篝火狐狸治愈陪伴</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3954800-5bc18e28/</link>
+				<pubDate>Fri, 06 Nov 2026 21:09:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3954800-5bc18e28/</guid>
+				<description>单人开发者 Anton 在一年半的打磨后，把《Campfire Harmony》正式带到 Steam。篝火、狐狸与安静的陪伴是这款小体量作品最鲜明的情感钩子；一路以来的愿望单、试玩 demo 和玩家来信，也成了它走到今天的重要燃料。对独立游戏而言，玩家评测往往就是被更多人看见的机会，如果你在篝火旁坐得舒服，不妨留下几句真实感受。</description>
+			</item>
 			<item>
 				<title>GTA三部曲决定版Steam史低67%：19.79美元永久入库三代经典</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-817628-ff4deb98/</link>
@@ -208,6 +271,13 @@
 				<pubDate>Fri, 06 Nov 2026 11:23:29 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-322330-cfbb6512/</guid>
 				<description>《饥荒联机版》推送 Hotfix 762172，一口气修掉疯猪被攻击后永久硬直锁、鱼人木乃伊反复读档刷怪、深潜蠕虫波浪开启却永不出现等一批老毛病；同时补上地图界面音效，并解决多玩家同时切分片卡加载、烧毁漏水小屋进档崩溃、Linux 黑 UI 等问题。本文梳理改动要点、对刷肉与联机开荒的实际影响，以及更新避坑建议。</description>
+			</item>
+			<item>
+				<title>《Chocolate Parade》今日上线：糖果肉鸽首发8折，支持三人联机开黑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3844360-ead6e57e/</link>
+				<pubDate>Fri, 06 Nov 2026 11:00:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3844360-ead6e57e/</guid>
+				<description>糖果题材肉鸽动作爽游《Chocolate Parade》于 2026 年 11 月 6 日 20:00（JST）/ 11:00（UTC）正式登陆 Steam。化身甜点滚进战场，打怪捡金币、招募伙伴组建巡游大队，硬刚巨型 Boss。支持单人、最多 3 人在线合作与 2 人本地同屏，内置简繁中文界面，首发两周还有 20% 折扣。</description>
 			</item>
 			<item>
 				<title>《Money Makes Money》正式发售：回到2010年炒股炒币，开启你的第二人生</title>
@@ -1937,6 +2007,13 @@
 				<pubDate>Tue, 03 Nov 2026 23:13:38 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-03-5259260-60e0709d/</guid>
 				<description>《Horiforge》已于11月3日正式上线，告别测试阶段。正式版带来更完善的环境、更丰富的配乐，以及最关键的“奶酪”内容；联机找奶酪小队现在能拉上更多朋友一起整活。官方承诺后续会周期性更新，原声带预计一周内推出，先在其他平台露面也不奇怪，喜欢合作探索的玩家可以关注。</description>
+			</item>
+			<item>
+				<title>Kaironia试玩收官：11月6日抢先体验上线，愿望单先加不亏</title>
+				<link>https://info.steamhunter.link/posts/2026-11-03-4963980-e371e763/</link>
+				<pubDate>Tue, 03 Nov 2026 23:07:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-03-4963980-e371e763/</guid>
+				<description>Kaironia 官方宣布完整版试玩测试已收官，游戏将于11月6日以抢先体验形式登陆 Steam，北京时间当晚23:00解锁。试玩反馈将用于首发版本打磨；现在可先把游戏加入愿望单，发售当天再决定是否入手。本条是上线资讯，不是喜加一，别错过首发窗口。</description>
 			</item>
 			<item>
 				<title>Factory Works Idle 1.0正式版上线：跨维度全自动挂机，一路造到现实熔炉终局</title>

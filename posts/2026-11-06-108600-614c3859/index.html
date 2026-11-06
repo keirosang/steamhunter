@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>僵尸毁灭工程 42.22.2 热修上线：Windows 校验误报修复，老存档可安心续命 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="僵尸毁灭工程 B42 预发布分支推送 42.22.2 热修，主要修复了 Windows 平台完整性校验误显示为「attached」的问题。本次更新理论上不会破坏存档，官方同时强调报 bug 前需在无模组的新存档中复现。本文梳理此次热修的看点、校验机制的门道，并附上升级避坑与联机同步建议。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="僵尸毁灭工程 42.22.2 热修上线：Windows 校验误报修复，老存档可安心续命">
+  <meta property="og:description" content="僵尸毁灭工程 B42 预发布分支推送 42.22.2 热修，主要修复了 Windows 平台完整性校验误显示为「attached」的问题。本次更新理论上不会破坏存档，官方同时强调报 bug 前需在无模组的新存档中复现。本文梳理此次热修的看点、校验机制的门道，并附上升级避坑与联机同步建议。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-06-108600-614c3859/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/8c1c2082f5cfc3e1.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-06-108600-614c3859/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">僵尸毁灭工程 42.22.2 热修上线：Windows 校验 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Project Zomboid</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 108600</span>
+      
+    </div>
+
+    <h1 class="article-title">僵尸毁灭工程 42.22.2 热修上线：Windows 校验误报修复，老存档可安心续命</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-06T22:41:13&#43;08:00" class="meta-date">
+          📅 2026-11-06 22:41
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1976 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/108600/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/108600" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/8c1c2082f5cfc3e1.jpg" alt="僵尸毁灭工程 42.22.2 热修上线：Windows 校验误报修复，老存档可安心续命" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>僵尸毁灭工程 B42 预发布分支推送 42.22.2 热修，主要修复了 Windows 平台完整性校验误显示为「attached」的问题。本次更新理论上不会破坏存档，官方同时强调报 bug 前需在无模组的新存档中复现。本文梳理此次热修的看点、校验机制的门道，并附上升级避坑与联机同步建议。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>各位在肯塔基州艰难求生的幸存者，你们的主理人又来报信了。The Indiestone 这帮人最近的更新节奏相当勤快，42.22.2 预发布热修已经推上 Steam 测试分支，本次改动量不大，但戳中的是一个挺膈应人的老毛病：</p>
+<ul>
+<li><strong>核心修复</strong>：Windows 平台上的完整性校验（integrity checks）此前会错误地把状态显示为「attached」，现已修正；</li>
+<li><strong>存档影响</strong>：官方明确表示这次更新<strong>理论上不会破坏存档</strong>，手头的老档可以继续苟；</li>
+<li><strong>报 bug 规矩</strong>：官方提醒，提交问题前请先在<strong>不装任何模组的新存档</strong>里复现一遍，再去论坛反馈；</li>
+<li><strong>分支属性</strong>：这是 B42 不稳定分支（Unstable）上的热修，属于滚动迭代中的一环，<code>42.22.2</code> 这种三级版本号基本就是「修修补补、快进快出」的节奏。</li>
+</ul>
+<p>一句话总结：不是大版本、没有新内容、不涉及平衡性调整，但属于那种「你不更新，早晚会遇到」的底噪级修复。</p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="完整性校验误报为什么值得单拎出来说">完整性校验误报，为什么值得单拎出来说？</h3>
+<p>很多新入坑的玩家可能对「完整性校验」这个名词没什么概念。简单讲，它是游戏用来比对本地文件状态的一套自查机制——在联机场景里尤其重要，服务器需要确认客户端的关键文件没有被改得面目全非，否则轻则进不去房，重则出现一连串莫名其妙的同步错误。</p>
+<p>而这次的问题出在<strong>显示层</strong>：Windows 上的校验结果错误地标成了「attached」。它不一定会真的让游戏崩溃，但会让玩家误以为自己文件被挂载、被篡改，进而陷入「我是不是装了脏模组」「是不是得重下 8 个 G」的自我怀疑。对于一个本来就以「报错信息玄学」著称的生存游戏来说，这种误导性提示的杀伤力一点不小。主理人向来认为：<strong>报错不可怕，报错报错了才可怕。</strong></p>
+<h3 id="为什么这次热修的措辞值得留意">为什么这次热修的措辞值得留意</h3>
+<p>官方公告里有两句「标准话术」，但信息量其实不小：</p>
+<ol>
+<li><strong>「本次更新理论上不会破坏存档」</strong>——注意「理论上」三个字。The Indiestone 在 B42 阶段一向谨慎用词，这等于告诉你：放心更，但别把唯一一份存档当命根子，备份永远是对的。</li>
+<li><strong>「请在无模组的新存档中复现后再反馈」</strong>——这句是重点。B42 分支的模组生态还处在追赶期，大量老模组在版本跳跃后会出现兼容性问题。如果你带着二十个模组报 bug，开发组大概率第一句话就是「先关模组试试」，一来一回两周就过去了。</li>
+</ol>
+<h3 id="关于-4222x-这条线的定位">关于 42.22.x 这条线的定位</h3>
+<p>从版本号看，42.22.2 是 42.22 主线的第二次补丁。B42 的更新逻辑一向是「大功能先上不稳定分支，然后靠一串小热修扑火」，所以你会看到这种改动极小、但推送极频繁的更新。对普通玩家来说，<strong>这属于可更可不更、但建议更</strong>的类型；对开服的老哥来说，则是<strong>必须跟客户端同步</strong>的类型。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>① 更新与分支切换</strong></p>
+<p>Steam 库中右键《Project Zomboid》→ 属性 → 测试版 → 选择 B42 对应的不稳定分支，即可同步到 42.22.2。如果你之前就在不稳定分支上，重启 Steam 让它自己拉取即可，不必手动折腾文件。</p>
+<p><strong>② 存档备份，永远是第一优先级</strong></p>
+<p>不管你信不信「不破档」的承诺，更新前把 <code>C:\Users\你的用户名\Zomboid\Saves</code> 整个目录复制一份到别的盘，成本不到一分钟，收益是「世界末日里还有一条命」。主理人见过太多在更新后哭诉「三个月的基地没了」的惨案。</p>
+<p><strong>③ 联机玩家必看：版本必须对齐</strong></p>
+<p>自己开服的朋友，服务器端和客户端务必一起升级到 42.22.2。版本不一致的典型症状是：能连上、能走动、然后突然掉线或者背包错乱。开黑前先在群里喊一嗓子「都更了没」，能省掉半小时的排查时间。</p>
+<p><strong>④ 模组排查的标准流程</strong></p>
+<p>如果更新后出现异常，按这个顺序走：先禁用全部模组 → 新建一个纯净存档 → 复现问题 → 能复现就带上日志去官方论坛反馈；不能复现，那基本就是某个模组在闹脾气，逐个启用二分定位即可。</p>
+<p><strong>⑤ 关于是否回退</strong></p>
+<p>如果你正在关键存档的中后期，且当前版本跑得挺稳，完全可以观望一两天再更。热修这种东西，从来都是「别人先更，我后更，大家都不亏」。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>B42 这种「小步快跑」的更新节奏，最怕的就是错过推送——尤其是热修，往往在你睡觉的时候悄悄上线。建议各位幸存者加入 Telegram 频道 <strong>@steamhunterlink</strong>，限免喜加一、突发特惠、版本热修都会在第一时间推送到手机上，不用天天刷 Steam 库，也不怕被时差偷走一个亿。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：42.22.2 会不会把我的老存档搞坏？</strong></p>
+<p>官方说法是「理论上不会」，实际风险很低。但出于谨慎，更新前手动备份 <code>Zomboid\Saves</code> 目录依旧是稳妥做法；如果存档里有大量模组依赖，建议先等模组作者跟进版本再更新。</p>
+<p><strong>Q2：更新后联机进不去服务器怎么办？</strong></p>
+<p>九成是版本没对齐。先确认服务器端是否也已升级到 42.22.2，再检查客户端的分支设置是否一致；如果都一致仍进不去，尝试禁用模组后重连，排除模组导致的握手失败。</p>
+<p><strong>Q3：我发现 bug，直接去论坛发帖就行吗？</strong></p>
+<p>先别急。官方的要求是：在<strong>无模组、全新存档</strong>的环境下能稳定复现，再提交到 The Indiestone 官方论坛的 Bug Reports 版块。带上复现步骤、游戏版本号和日志文件，被处理的速度会快很多。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e5%83%b5%e5%b0%b8%e6%af%81%e7%81%ad%e5%b7%a5%e7%a8%8b/" class="article-tag-item">#僵尸毁灭工程</a>
+          
+          <a href="/tags/Project%20Zomboid/" class="article-tag-item">#Project Zomboid</a>
+          
+          <a href="/tags/B42%e6%9b%b4%e6%96%b0/" class="article-tag-item">#B42更新</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae/" class="article-tag-item">#热修</a>
+          
+          <a href="/tags/%e8%81%94%e6%9c%ba%e9%81%bf%e5%9d%91/" class="article-tag-item">#联机避坑</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-06-108600-614c3859/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-5042320-76f596ce/" class="sibling-title">《Penguin Fury》斩获9/10高分！企鹅军团肉鸽首发20%折扣，开荒与合成流派全解析</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-4126040-1393334b/" class="sibling-title">《伊莫》补丁上线：DLSS帧生成修复、笔记本卡顿治理与技能BUG清扫</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#完整性校验误报为什么值得单拎出来说">完整性校验误报，为什么值得单拎出来说？</a></li>
+        <li><a href="#为什么这次热修的措辞值得留意">为什么这次热修的措辞值得留意</a></li>
+        <li><a href="#关于-4222x-这条线的定位">关于 42.22.x 这条线的定位</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DLSS修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/dlss%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in DLSS修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Nov 2026 22:47:04 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/dlss%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《伊莫》补丁上线：DLSS帧生成修复、笔记本卡顿治理与技能BUG清扫</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4126040-1393334b/</link>
+				<pubDate>Fri, 06 Nov 2026 22:47:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4126040-1393334b/</guid>
+				<description>《伊莫》推送 v1.1.3887621.0 补丁，一口气修掉七个高频痛点：DLSS 帧生成失效、部分笔记本间歇掉帧、蛋劫行动飞行卡半空、Tromber 与 Hexxin 减益异常消失、Dewple 技能数值算错、园区手柄轮盘失灵，以及 Hoptail 携带道具契约后强化技能不到账。本文逐条拆解改动逻辑，并附上更新后的实操避坑与自救步骤。</description>
+			</item>
+	</channel>
+</rss>
