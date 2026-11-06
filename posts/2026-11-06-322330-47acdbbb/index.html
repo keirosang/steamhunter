@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《饥荒联机版》热修复：深渊蠕虫回归、月盲乌鸦与联机加载修复 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《饥荒联机版》正式推送 Hotfix 762113 小型更新，新增地图界面音效，并集中修复深渊蠕虫波次不触发、月风暴期间月盲乌鸦与畸形鸟行为异常、荧光蟹黄昏不刷新、猪人永久硬直、美人鱼重复生成、清道夫换肤导致水球与漂浮物隐形，以及 Linux 黑 UI 和多玩家同时切换分片卡加载等问题。本次热修复对季节事件、海洋生态与联机稳定性都有明显提升。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《饥荒联机版》热修复：深渊蠕虫回归、月盲乌鸦与联机加载修复">
+  <meta property="og:description" content="《饥荒联机版》正式推送 Hotfix 762113 小型更新，新增地图界面音效，并集中修复深渊蠕虫波次不触发、月风暴期间月盲乌鸦与畸形鸟行为异常、荧光蟹黄昏不刷新、猪人永久硬直、美人鱼重复生成、清道夫换肤导致水球与漂浮物隐形，以及 Linux 黑 UI 和多玩家同时切换分片卡加载等问题。本次热修复对季节事件、海洋生态与联机稳定性都有明显提升。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-06-322330-47acdbbb/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/454cab418c98b1b1.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-06-322330-47acdbbb/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《饥荒联机版》热修复：深渊蠕虫回归、月盲乌鸦与联机加载修复</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 饥荒联机版</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 322330</span>
+      
+    </div>
+
+    <h1 class="article-title">《饥荒联机版》热修复：深渊蠕虫回归、月盲乌鸦与联机加载修复</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-06T08:32:07&#43;08:00" class="meta-date">
+          📅 2026-11-06 08:32
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1913 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/322330/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/322330" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/454cab418c98b1b1.jpg" alt="《饥荒联机版》热修复：深渊蠕虫回归、月盲乌鸦与联机加载修复" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《饥荒联机版》正式推送 Hotfix 762113 小型更新，新增地图界面音效，并集中修复深渊蠕虫波次不触发、月风暴期间月盲乌鸦与畸形鸟行为异常、荧光蟹黄昏不刷新、猪人永久硬直、美人鱼重复生成、清道夫换肤导致水球与漂浮物隐形，以及 Linux 黑 UI 和多玩家同时切换分片卡加载等问题。本次热修复对季节事件、海洋生态与联机稳定性都有明显提升。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位饥荒老农、洞穴包工头、月岛钓鱼佬注意了，科雷又端上了一盘热气腾腾的热修复。Hotfix 762113 没有新 Boss，也没有新皮肤，但它修的都是能让人拍桌子的“祖传小毛病”。下面我按影响面给你拆开看。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>地图界面新增音效</strong>：打开地图终于不是静音 PPT 了。</li>
+<li><strong>深渊蠕虫波次修复</strong>：开了选项却永远不来的地下“快递”恢复派送。</li>
+<li><strong>月风暴生态修复</strong>：月盲乌鸦与畸形鸟不再犯傻。</li>
+<li><strong>荧光蟹刷新与设置崩溃修复</strong>：黄昏刷新恢复，世界设置调“Little”不再闪退。</li>
+<li><strong>猪人无限硬直修复</strong>：疯猪被攻击后不再永久罚站。</li>
+<li><strong>美人鱼重复生成与装备移植修复</strong>：读档不再多刷美人鱼，缝合怪类不再把装备“穿”到奇怪生物身上。</li>
+<li><strong>清道夫换肤隐形修复</strong>：水球和漂浮物不再突然隐身。</li>
+<li><strong>Linux 黑 UI 与多人切分片卡加载修复</strong>：Linux 玩家和洞穴联机党都能少受点气。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-地图界面终于有声音了">1. 地图界面终于有声音了</h3>
+<p>这次更新给地图界面补上了音效。别小看这一点，长期开图、找路、标记资源的玩家会明显感觉到操作反馈更完整。以前点开地图像在看一张会动的静音表格，现在至少知道自己在“操作”地图，而不是对着一张纸发呆。</p>
+<h3 id="2-深渊蠕虫波次修复地下基地的警报器回来了">2. 深渊蠕虫波次修复：地下基地的警报器回来了</h3>
+<p>官方修掉了“即使开启深渊蠕虫波次也永远不来”的 Bug。对洞穴建家党来说，这不是小事：蠕虫波次既是威胁，也是稳定的怪物肉、腺体和掉落来源。修复后，开了选项的存档要重新检查防线，别还按“反正不来”的旧思路裸奔。</p>
+<h3 id="3-月风暴生态修复月盲乌鸦与畸形鸟不再犯傻">3. 月风暴生态修复：月盲乌鸦与畸形鸟不再犯傻</h3>
+<p>月风暴事件期间，月盲乌鸦和畸形鸟的行为异常已被修复。喜欢在月风暴期间刷材料、跑图或做月岛相关内容的玩家，可以重新观察它们的行动逻辑。简单说，科雷把这两位的“脑回路”接回去了。</p>
+<h3 id="4-荧光蟹与黄昏刷新海洋生态小补丁">4. 荧光蟹与黄昏刷新：海洋生态小补丁</h3>
+<p>荧光蟹在黄昏不刷新的问题已经修复，同时修掉了世界设置中把荧光蟹调成“Little”时可能出现的崩溃。海钓佬、海上建家党和喜欢夜间赶海的玩家，这次可以正常期待黄昏时段的海面动静。</p>
+<h3 id="5-猪人无限硬直修复战斗手感回归正常">5. 猪人无限硬直修复：战斗手感回归正常</h3>
+<p>疯猪被攻击后总是被无限硬直的问题修了。以前有些玩家打疯猪像在打木桩，现在它会更正常地还手。开黑时别再用旧套路站桩输出，尤其带新人的时候，提醒一句“猪会动了”能少翻一次车。</p>
+<h3 id="6-美人鱼重复生成与装备移植存档清洁工松口气">6. 美人鱼重复生成与装备移植：存档清洁工松口气</h3>
+<p>这次还修了两个很影响存档整洁度的问题：每次重载额外生成美人鱼，以及缝合法兰肯猪、美人鱼、吸血鬼兔会“移植”到带装备的生物身上。前者会让存档越来越乱，后者会出现装备穿在奇怪生物身上的诡异画面。修复后，长期存档和联机服务器都能少一点玄学。</p>
+<h3 id="7-清道夫换肤隐形水球和漂浮物不再隐身">7. 清道夫换肤隐形：水球和漂浮物不再隐身</h3>
+<p>使用清道夫换肤后，水球会隐形，水面上的一些漂浮物也会在换肤后隐形。这个 Bug 对喜欢装修、换皮肤和打水球的玩家很烦。现在官方已经修复，换完皮肤记得检查一眼，确认没有“看不见的道具”留在场上。</p>
+<h3 id="8-linux-黑-ui-与多人切分片卡加载">8. Linux 黑 UI 与多人切分片卡加载</h3>
+<p>Linux 下部分 UI 元素变黑的问题修了；多个玩家同时切换分片导致卡在加载循环的问题也修了。对洞穴联机服务器来说，后者尤其重要。虽然修复了，但服务器管理员还是建议在更新后重启主世界和洞穴分片，避免旧进程残留。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>更新方法</strong>：Steam 库中确认《饥荒联机版》已更新到最新版本；联机服务器要重启，主世界和洞穴分片都要重启，别只重启一半。</li>
+<li><strong>开黑避坑</strong>：虽然多人同时切分片卡加载已修复，但建议队友错开跳洞、跳世界，减少服务器瞬时压力。</li>
+<li><strong>洞穴建家党</strong>：确认世界设置里深渊蠕虫波次是否开启；如果开启，尽快补围墙、检查照明和战斗站位。</li>
+<li><strong>疯猪战斗</strong>：别再默认疯猪会被无限连到死，带新人的话提前说清楚，免得队友还按老版本节奏贴脸输出。</li>
+<li><strong>海洋玩家</strong>：黄昏时段可以重新留意荧光蟹；使用清道夫换肤后，检查水球和漂浮物是否正常显示。</li>
+<li><strong>Linux 玩家</strong>：更新后如果 UI 仍异常，先验证游戏文件完整性，再检查是否有 UI Mod 冲突。</li>
+<li><strong>购买建议</strong>：本次是免费热修复，不需要额外买 DLC；想入坑的玩家可以等本体折扣，皮肤和角色礼包按喜好补，不影响这次修复内容。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间收到 Steam 限免、喜加一、史低背刺和热修复提醒，欢迎加入 Telegram 频道 <strong>@steamhunterlink</strong>。限免不等人，手慢拍大腿；先把频道放进列表，看到推送再决定领不领、买不买。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：Hotfix 762113 需要重新开档吗？</strong></p>
+<p>不需要。本次是热修复，正常存档兼容；但联机服务器必须重启，主世界和洞穴分片都要更新到同一版本。</p>
+<p><strong>Q2：为什么更新后深渊蠕虫还是不来？</strong></p>
+<p>先确认世界设置里深渊蠕虫波次已开启，再确认洞穴分片已经重启。如果装了修改生成规则的 Mod，优先排查 Mod 冲突。</p>
+<p><strong>Q3：清道夫换肤后水球和漂浮物还是隐形怎么办？</strong></p>
+<p>官方已修复该问题。更新后如果仍然遇到，先验证游戏文件完整性，再禁用相关皮肤或 UI Mod 排查；联机服务器也要确认已重启。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e9%a5%a5%e8%8d%92%e8%81%94%e6%9c%ba%e7%89%88/" class="article-tag-item">#饥荒联机版</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#热修复</a>
+          
+          <a href="/tags/Bug%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#Bug修复</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e8%81%94%e6%9c%ba%e6%b8%b8%e6%88%8f/" class="article-tag-item">#联机游戏</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-06-322330-47acdbbb/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-2448570-df3ce6ed/" class="sibling-title">《Road Rash™ 30 周年纪念版》Steam 史低 5 折：4.99 美元重温 16 位摩托街头混战</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-06-4608230-5c764374/" class="sibling-title">Big Bug Billionaire正式发售：桌面养虫盲盒酿造全解析</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-地图界面终于有声音了">1. 地图界面终于有声音了</a></li>
+        <li><a href="#2-深渊蠕虫波次修复地下基地的警报器回来了">2. 深渊蠕虫波次修复：地下基地的警报器回来了</a></li>
+        <li><a href="#3-月风暴生态修复月盲乌鸦与畸形鸟不再犯傻">3. 月风暴生态修复：月盲乌鸦与畸形鸟不再犯傻</a></li>
+        <li><a href="#4-荧光蟹与黄昏刷新海洋生态小补丁">4. 荧光蟹与黄昏刷新：海洋生态小补丁</a></li>
+        <li><a href="#5-猪人无限硬直修复战斗手感回归正常">5. 猪人无限硬直修复：战斗手感回归正常</a></li>
+        <li><a href="#6-美人鱼重复生成与装备移植存档清洁工松口气">6. 美人鱼重复生成与装备移植：存档清洁工松口气</a></li>
+        <li><a href="#7-清道夫换肤隐形水球和漂浮物不再隐身">7. 清道夫换肤隐形：水球和漂浮物不再隐身</a></li>
+        <li><a href="#8-linux-黑-ui-与多人切分片卡加载">8. Linux 黑 UI 与多人切分片卡加载</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

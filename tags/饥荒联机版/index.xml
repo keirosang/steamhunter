@@ -21,6 +21,13 @@
 				<description>《饥荒联机版》推送 Hotfix 762172，一口气修掉疯猪被攻击后永久硬直锁、鱼人木乃伊反复读档刷怪、深潜蠕虫波浪开启却永不出现等一批老毛病；同时补上地图界面音效，并解决多玩家同时切分片卡加载、烧毁漏水小屋进档崩溃、Linux 黑 UI 等问题。本文梳理改动要点、对刷肉与联机开荒的实际影响，以及更新避坑建议。</description>
 			</item>
 			<item>
+				<title>《饥荒联机版》热修复：深渊蠕虫回归、月盲乌鸦与联机加载修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-322330-47acdbbb/</link>
+				<pubDate>Fri, 06 Nov 2026 08:32:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-322330-47acdbbb/</guid>
+				<description>《饥荒联机版》正式推送 Hotfix 762113 小型更新，新增地图界面音效，并集中修复深渊蠕虫波次不触发、月风暴期间月盲乌鸦与畸形鸟行为异常、荧光蟹黄昏不刷新、猪人永久硬直、美人鱼重复生成、清道夫换肤导致水球与漂浮物隐形，以及 Linux 黑 UI 和多玩家同时切换分片卡加载等问题。本次热修复对季节事件、海洋生态与联机稳定性都有明显提升。</description>
+			</item>
+			<item>
 				<title>饥荒联机版热修761239：三怪不再共享仇恨，月阿比盖尔与乌鸦修复</title>
 				<link>https://info.steamhunter.link/posts/2026-10-31-322330-199a2b16/</link>
 				<pubDate>Sat, 31 Oct 2026 06:42:28 +0800</pubDate>
