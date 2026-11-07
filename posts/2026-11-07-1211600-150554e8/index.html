@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ZED ZONE 1.0.4补丁：联机房间筛选与外骨骼负重重做 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="ZED ZONE 正式版首个补丁 1.0.4 已推送：联机房间列表新增标准/尸潮/天灾模式筛选与排序刷新选项，加载更快、不再只显示零星房间；外骨骼通电后穿戴部件不再计入负重，护甲额外提供 25 kg 负重上限；.50 BMG 腕部破坏者、夜视与热成像瞄具同步降价。此外还修复了联机人物只剩头部挂件、重生落水、存档面板报错与体素平台影子错位等问题。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="ZED ZONE 1.0.4补丁：联机房间筛选与外骨骼负重重做">
+  <meta property="og:description" content="ZED ZONE 正式版首个补丁 1.0.4 已推送：联机房间列表新增标准/尸潮/天灾模式筛选与排序刷新选项，加载更快、不再只显示零星房间；外骨骼通电后穿戴部件不再计入负重，护甲额外提供 25 kg 负重上限；.50 BMG 腕部破坏者、夜视与热成像瞄具同步降价。此外还修复了联机人物只剩头部挂件、重生落水、存档面板报错与体素平台影子错位等问题。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-07-1211600-150554e8/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/6815f7f4a858a440.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-07-1211600-150554e8/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">ZED ZONE 1.0.4补丁：联机房间筛选与外骨骼负重重 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 ZED ZONE</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 1211600</span>
+      
+    </div>
+
+    <h1 class="article-title">ZED ZONE 1.0.4补丁：联机房间筛选与外骨骼负重重做</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-07T01:45:14&#43;08:00" class="meta-date">
+          📅 2026-11-07 01:45
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2030 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/1211600/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/1211600" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/6815f7f4a858a440.jpg" alt="ZED ZONE 1.0.4补丁：联机房间筛选与外骨骼负重重做" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>ZED ZONE 正式版首个补丁 1.0.4 已推送：联机房间列表新增标准/尸潮/天灾模式筛选与排序刷新选项，加载更快、不再只显示零星房间；外骨骼通电后穿戴部件不再计入负重，护甲额外提供 25 kg 负重上限；.50 BMG 腕部破坏者、夜视与热成像瞄具同步降价。此外还修复了联机人物只剩头部挂件、重生落水、存档面板报错与体素平台影子错位等问题。
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位幸存者，好久不见。1.0 正式版上线之后，开发组显然没打算躺平——首个正式版补丁 1.0.4 已经推送到位。作为从抢先体验一路肝到现在的老玩家，我可以很负责任地说：这次更新虽然没加新地图、没塞新怪，但几乎每一条都精准戳在了玩家的痛点上，尤其是联机党和外骨骼爱好者。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>联机房间列表大改</strong>：新增模式筛选（标准 / 尸潮 / 天灾）以及排序、刷新等选项，加载速度明显提升，顺手修掉了“刷半天只有几个房间”的尴尬。</li>
+<li><strong>联机人物模型修复</strong>：队友身体凭空消失、只剩一个头部挂件的诡异画面，终于成为历史。</li>
+<li><strong>外骨骼负重机制重做</strong>：通电状态下，穿戴的外骨骼部件不再计入负重；外骨骼护甲额外提供 25 kg 负重上限。断电则照常按普通装备计算。</li>
+<li><strong>部分装备降价</strong>：.50 BMG 腕部破坏者、夜视仪与热成像瞄具等价格适度下调。</li>
+<li><strong>一批细节修复</strong>：重生或加入联机时掉进水里、存档列表空白却弹报错、站在体素平台上影子错位、气弩及其配件的中文名称错别字等。</li>
+<li><strong>生存排行榜挑战赛</strong>仍在进行中，想冲榜的抓紧时间。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="-联机体验从盲盒开房到精准投送">🤝 联机体验：从“盲盒开房”到“精准投送”</h3>
+<p>以前想找一局合口味的联机房，基本靠运气：列表里房间少得可怜，还得一个个点进去看是标准模式还是尸潮模式。这次补丁直接给房间列表加了<strong>模式筛选</strong>，标准 / 尸潮 / 天灾三类玩法一键切换，同时补上了排序与刷新相关选项，列表加载速度也做了优化。</p>
+<p>对开黑小队来说，这意味着组队效率的实打实提升——想打天灾就直接筛天灾，不用再在几十个房间里“抽卡”。而“联机角色只剩头饰”的模型 Bug 修复，也顺便解决了一个老生常谈的视觉灾难：以前队友跑着跑着变成一颗飘浮的帽子，你还得靠声音判断他在哪。</p>
+<h3 id="-外骨骼能扛能打终于不用再算数学题">⚖️ 外骨骼：能扛能打，终于不用再算数学题</h3>
+<p>这次平衡性调整里最香的一条，就是<strong>外骨骼负重逻辑重做</strong>。</p>
+<ul>
+<li><strong>通电时</strong>：穿戴在身上的外骨骼部件不再计入负重，等于白嫖一套装甲重量；</li>
+<li><strong>外骨骼护甲</strong>：额外提升 25 kg 负重上限；</li>
+<li><strong>断电时</strong>：一切照旧，该算多少算多少。</li>
+</ul>
+<p>翻译成人话就是：只要你把电供上，外骨骼就从“负重刺客”变成了“移动仓库 + 坦克”。以前穿外骨骼出门，捡两块铁就得原地整理背包；现在可以多塞一整套建材、弹药和医疗包，跑图效率直接上台阶。当然，电力管理的重要性也被进一步放大了——没电的外骨骼，依然是那个压垮你膝盖的铁疙瘩。</p>
+<h3 id="-细节修复那些让人血压升高的瞬间">🔧 细节修复：那些让人血压升高的瞬间</h3>
+<ul>
+<li><strong>重生落水</strong>：重生或加入联机时被丢进水里，属于那种“开局先淹一次”的迷惑体验，现已修复。</li>
+<li><strong>存档面板报错</strong>：以前存档列表空着却弹报错，玩家一脸懵。现在明确提示：联机客机与尸潮模式本来就不保存世界，面板打开时会直接说明。</li>
+<li><strong>体素平台影子错位</strong>：站在自己搭的方块平台上，影子却掉在脚下一层，沉浸感瞬间归零，现已修正。</li>
+<li><strong>中文名称错别字</strong>：气弩及其配件的中文译名已修正，强迫症玩家可以安心了。</li>
+</ul>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>先更新再开黑</strong>：联机房间列表和模型修复都涉及客户端逻辑，建议小队全员更新到 1.0.4 再组队，避免版本不一致导致房间刷不出来。</li>
+<li><strong>外骨骼流派的正确姿势</strong>：优先保证供电稳定（备用电池、发电设施别省），通电状态下把重物往身上堆；一旦电量告急，立刻找安全点卸货，别硬扛。</li>
+<li><strong>联机客机注意存档规则</strong>：客机玩家和尸潮模式不保存世界进度，别把一晚上的家当全押在别人的房间里，重要物资请在自己的存档里囤。</li>
+<li><strong>想省钱的看这里</strong>：夜视仪、热成像瞄具和 .50 BMG 腕部破坏者都降价了，夜战党和远程狙击党可以趁机补齐配装。</li>
+<li><strong>遇到问题别憋着</strong>：游戏内置反馈中心可以直报 Bug，也可以走 Discord 或邮件渠道；本地化相关问题同样建议通过内置反馈中心提交，开发组是真的在看。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间拿到 Steam 限免喜加一、史低特惠与版本更新推送？欢迎加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，秒级推送直达手机，不用再一天刷八遍商店页面，手慢无的限免也能稳稳入库。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：更新后联机房间列表还是刷不出几个房间怎么办？</strong>
+A：先确认双方都已更新到 1.0.4，再检查筛选条件是否把模式限制得太窄（比如只勾了天灾模式）。如果仍然异常，可以尝试刷新列表或重启游戏，并通过内置反馈中心上报。</p>
+<p><strong>Q2：外骨骼负重改动到底怎么算？穿满一套能多背多少？</strong>
+A：通电状态下，穿戴的外骨骼部件不计入负重，同时外骨骼护甲额外提供 25 kg 负重上限；断电后按普通装备正常计算。所以关键不是穿多少，而是电够不够。</p>
+<p><strong>Q3：为什么我的存档列表是空的，还弹提示？</strong>
+A：这是本次修复的内容之一。联机客机与尸潮模式本身不保存世界，之前会出现列表空白却报错的情况；现在打开存档面板时会明确说明原因，属于正常提示而非数据丢失。</p>
+<p><strong>Q4：这次更新有没有新增内容或新地图？</strong>
+A：1.0.4 属于修复与平衡向补丁，重点是联机体验、外骨骼负重与各类 Bug 修复，没有新增地图或玩法。生存排行榜挑战赛仍在进行，具体参与方式见活动公告。</p>
+<p>反馈渠道依旧畅通：Discord（https://discord.gg/GmPVjWfjzB）、开发者邮箱（cheshendog@gmail.com），以及游戏内置反馈中心。感谢每一位幸存者的反馈与支持，祝大家在废土上活得久一点。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/ZED%20ZONE/" class="article-tag-item">#ZED ZONE</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e8%81%94%e6%9c%ba%e4%bc%98%e5%8c%96/" class="article-tag-item">#联机优化</a>
+          
+          <a href="/tags/%e5%b9%b3%e8%a1%a1%e6%80%a7%e8%b0%83%e6%95%b4/" class="article-tag-item">#平衡性调整</a>
+          
+          <a href="/tags/%e5%83%b5%e5%b0%b8%e7%94%9f%e5%ad%98/" class="article-tag-item">#僵尸生存</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-07-1211600-150554e8/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-07-4454690-ef5d545a/" class="sibling-title">《Involuntary Fighting Simulator》正式发售：搞怪格斗模拟器开发者发致谢公告</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-07-2950410-ea8bc0fe/" class="sibling-title">《Gear Up Einstein!》抢先体验上线！全新纪元&#43;特工&#43;装置，首发15%折扣别错过</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#-联机体验从盲盒开房到精准投送">🤝 联机体验：从“盲盒开房”到“精准投送”</a></li>
+        <li><a href="#-外骨骼能扛能打终于不用再算数学题">⚖️ 外骨骼：能扛能打，终于不用再算数学题</a></li>
+        <li><a href="#-细节修复那些让人血压升高的瞬间">🔧 细节修复：那些让人血压升高的瞬间</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

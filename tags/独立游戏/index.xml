@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 02:00:23 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 06:33:53 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《No Up》正式发售：翻转墙壁天花板当脚下地板，七座3D迷宫等你找到出口</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4332130-396b1569/</link>
+				<pubDate>Sat, 07 Nov 2026 06:33:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4332130-396b1569/</guid>
+				<description>独立工作室 Autonomous Tree 打造的空间解谜游戏《No Up》已在 Steam 正式上线。玩家要在七座体量逐级放大的 3D 迷宫里旋转墙壁与天花板，把它们变成新的落脚点，从完全不同的角度寻找开关与出口。游戏提供三枚标记方块与短时透视墙体两种可选辅助，没有敌人也没有倒计时，标榜零压力探索；每座迷宫各有独立美术风格，特效可在设置中关闭。</description>
+			</item>
+			<item>
+				<title>《Relicta In Memoriam》存档串档，官方给出清档重开方案</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4536940-74c28d4a/</link>
+				<pubDate>Sat, 07 Nov 2026 05:25:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4536940-74c28d4a/</guid>
+				<description>刚上手的《Relicta In Memoriam》玩家注意了：如果你之前玩过老版本试玩，正式版可能会自动读取那份旧试玩存档，导致进度错乱、流程对不上。官方已确认该问题并放出 Windows 手动清档步骤，同时表示永久修复正在路上。本文整理了完整的清档操作、注意事项与开荒建议，帮你干净利落地重开一局。</description>
+			</item>
+			<item>
+				<title>《Relicta In Memoriam》正式发售，首发24%折扣限时开启</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4536940-d36a7730/</link>
+				<pubDate>Sat, 07 Nov 2026 05:17:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4536940-d36a7730/</guid>
+				<description>熬过跳票与各种意外，《Relicta In Memoriam》终于正式登陆 Steam（AppID: 4536940）。为庆祝上线，官方开启限时 24% 首发折扣，对一支小体量独立团队来说诚意十足。更关键的是，制作组公开喊话玩家帮忙捉虫、提反馈，首发版本的问题修复优先级将由社区声音决定。本文梳理发售要点、折扣性价比、入库与反馈实操，以及观望党该不该现在冲。</description>
+			</item>
+			<item>
+				<title>《A DOG&#39;s DREAM》正式发售：3000&#43;插画，配置门槛上调</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4159350-eeaa90ce/</link>
+				<pubDate>Sat, 07 Nov 2026 04:33:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4159350-eeaa90ce/</guid>
+				<description>跳票之后终于落地——独立作品《A DOG&amp;rsquo;s DREAM》正式在 Steam 发售。官方坦言：原计划约 1000 张插画，最终做到 3000 张以上，还追加了动画与特效，最低配置要求同步上调，买前请核对机器。提示：DX12 启动失败就换 DX11，非 16:9 显示器建议窗口模式；玩过试玩版的玩家必须新开存档。后续还将补上存档槽位、事件跳过与分辨率优化等。</description>
+			</item>
+			<item>
+				<title>HOMEPAGE正式发售：翻电脑找异常的恐怖新作，愿望单破5000</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3529660-ac12952a/</link>
+				<pubDate>Sat, 07 Nov 2026 04:02:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3529660-ac12952a/</guid>
+				<description>恐怖异常查找新作 HOMEPAGE 正式发售，Steam AppID 3529660。你将坐在一台虚拟电脑前，通过翻查报错信息、把玩桌面小游戏、阅读聊天记录，一步步揭开自己新入职公司背后的秘密。开发组 Gestmorph Games 透露发售前愿望单已突破 5125，并承诺积极跟进玩家反馈与 Bug 修复。本文整理核心玩法、开荒思路与入手建议。</description>
+			</item>
 			<item>
 				<title>《Zero To South》结束9个月开发正式发售！试玩Demo暂时下架</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4229040-9bfc8739/</link>
@@ -110,6 +145,13 @@
 				<pubDate>Fri, 06 Nov 2026 21:09:47 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-3954800-5bc18e28/</guid>
 				<description>单人开发者 Anton 在一年半的打磨后，把《Campfire Harmony》正式带到 Steam。篝火、狐狸与安静的陪伴是这款小体量作品最鲜明的情感钩子；一路以来的愿望单、试玩 demo 和玩家来信，也成了它走到今天的重要燃料。对独立游戏而言，玩家评测往往就是被更多人看见的机会，如果你在篝火旁坐得舒服，不妨留下几句真实感受。</description>
+			</item>
+			<item>
+				<title>《a Dogs Dream》官宣跳票：终测揪出多个Bug，发售日期延后</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4159350-7891b5e9/</link>
+				<pubDate>Fri, 06 Nov 2026 20:15:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4159350-7891b5e9/</guid>
+				<description>Steam 新作《a Dogs Dream》官方发布延期公告：游戏在最终测试阶段被查出多个 Bug，发售计划被迫推迟，官方承诺会尽快修复并完成必要检查后再与玩家见面，新发售日暂未公布。本期主理人带你拆解这次跳票的门道，并给出愿望单蹲守、避坑第三方预售页的实操建议。</description>
 			</item>
 			<item>
 				<title>《Mystic Fog Maze》官宣开源：GPLv3 全量代码放出，玩家可自由魔改分发</title>
@@ -439,6 +481,13 @@
 				<pubDate>Wed, 04 Nov 2026 23:01:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-04-2991310-6e66f0cd/</guid>
 				<description>《Eternal Palace Sakura》官方发布开发者实机游玩与解说视频，开发团队亲自上阵展示萌系女主的冒险流程与玩法氛围。视频采用日语配音、英文字幕，本文为你梳理实机看点、语言支持注意事项，以及Steam愿望单关注与发售前避坑建议。对喜欢日系角色驱动冒险的玩家来说，这支视频值得先加愿望单再细看。</description>
+			</item>
+			<item>
+				<title>《Nomad Drive》一周破10万玩家 官方致谢并预告路线图大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-2223980-f003c4a9/</link>
+				<pubDate>Wed, 04 Nov 2026 22:38:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-2223980-f003c4a9/</guid>
+				<description>上线仅一周，《Nomad Drive》玩家数正式突破 100,000，开发组发文致谢并坦言首周并不完美。团队正在逐条阅读玩家评测与反馈，补丁以最快速度推送，首个路线图更新也已进入制作阶段，内容优先级将由社区声音决定。本文梳理这次里程碑背后的信息、后续更新走向，以及新老玩家的上手与反馈建议。</description>
 			</item>
 			<item>
 				<title>《Hull Rupture》正式发售：造船抗外星潮，替暴君管好人类</title>

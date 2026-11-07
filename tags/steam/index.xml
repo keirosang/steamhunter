@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 04:44:17 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《使命召唤：现代战争4》韩国战场大乱斗：战役回归与多人革新全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4435490-06aef92f/</link>
+				<pubDate>Sat, 07 Nov 2026 09:00:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4435490-06aef92f/</guid>
+				<description>阔别三年，我重新坐回了《使命召唤》的驾驶座。Modern Warfare 4 把主战场搬到了朝鲜半岛，用一场“小半岛上的大乱斗”重排系列节奏：战役叙事明显加码，不再是多人模式的附庸；多人部分在保留经典手感的同时，对移动、枪匠与地图动线做了大幅调整。本文从核心看点、机制解析到上手建议，一次讲清这代到底值不值得回坑。</description>
+			</item>
+			<item>
+				<title>《Relicta In Memoriam》存档串档，官方给出清档重开方案</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4536940-74c28d4a/</link>
+				<pubDate>Sat, 07 Nov 2026 05:25:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4536940-74c28d4a/</guid>
+				<description>刚上手的《Relicta In Memoriam》玩家注意了：如果你之前玩过老版本试玩，正式版可能会自动读取那份旧试玩存档，导致进度错乱、流程对不上。官方已确认该问题并放出 Windows 手动清档步骤，同时表示永久修复正在路上。本文整理了完整的清档操作、注意事项与开荒建议，帮你干净利落地重开一局。</description>
+			</item>
 			<item>
 				<title>Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/</link>
@@ -138,6 +152,13 @@
 				<pubDate>Fri, 06 Nov 2026 04:27:40 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-3426850-1c4bce99/</guid>
 				<description>熬了三年多，单人独立开发者 Gene 终于把《Chronicles of Veldoria》推进到 1.0 正式版。这次不是小修小补，而是完整故事、双主角、六元素区域、Veldomon 招募融合与 Press Turn 策略战斗一并端上桌。还在观望的玩家可以先下免费 Demo，觉得对味再永久入库；老玩家也不妨回归看看完整版成色，顺手留个评价，对小团队真的很关键。</description>
+			</item>
+			<item>
+				<title>《文明6》11月热更新上线：安全防护强化，部分MOD或需适配</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-289070-c42831be/</link>
+				<pubDate>Fri, 06 Nov 2026 03:06:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-289070-c42831be/</guid>
+				<description>Firaxis 为《文明6》推送了 2026 年 11 月的 Windows 平台定向热更新，核心是强化游戏的安全防护机制。官方明确表示玩法逻辑与存档文件完全兼容，正在进行中的对局不会报废；但部分依赖脚本与接口的社区 MOD 可能出现兼容问题，建议先临时禁用出问题的 MOD，等作者适配。本次更新不含新文明、新领袖与平衡性调整。</description>
 			</item>
 			<item>
 				<title>《Tenebrarium》愿望单破万明日发售：从殖民地模拟长成神秘生态系统黑马</title>
@@ -355,6 +376,13 @@
 				<pubDate>Wed, 04 Nov 2026 23:02:29 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-04-3603900-154875cb/</guid>
 				<description>派对互坑游戏《Drunkonauts》现已正式上线Steam！8张地图、四种模式、完整武器库与“失物招领”自定义系统全部开放，支持最多8人在线/本地联机，以及Remote Play Together远程同乐。本文整理了核心玩法、联机避坑与入手建议，并附上官方反馈渠道与常见问题解答。</description>
+			</item>
+			<item>
+				<title>《Nomad Drive》一周破10万玩家 官方致谢并预告路线图大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-2223980-f003c4a9/</link>
+				<pubDate>Wed, 04 Nov 2026 22:38:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-2223980-f003c4a9/</guid>
+				<description>上线仅一周，《Nomad Drive》玩家数正式突破 100,000，开发组发文致谢并坦言首周并不完美。团队正在逐条阅读玩家评测与反馈，补丁以最快速度推送，首个路线图更新也已进入制作阶段，内容优先级将由社区声音决定。本文梳理这次里程碑背后的信息、后续更新走向，以及新老玩家的上手与反馈建议。</description>
 			</item>
 			<item>
 				<title>ROB RUN首轮更新：警察重生延长、经济重做与每日新服开服表</title>

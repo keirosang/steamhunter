@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 05:00:05 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《使命召唤：现代战争4》韩国战场大乱斗：战役回归与多人革新全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4435490-06aef92f/</link>
+				<pubDate>Sat, 07 Nov 2026 09:00:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4435490-06aef92f/</guid>
+				<description>阔别三年，我重新坐回了《使命召唤》的驾驶座。Modern Warfare 4 把主战场搬到了朝鲜半岛，用一场“小半岛上的大乱斗”重排系列节奏：战役叙事明显加码，不再是多人模式的附庸；多人部分在保留经典手感的同时，对移动、枪匠与地图动线做了大幅调整。本文从核心看点、机制解析到上手建议，一次讲清这代到底值不值得回坑。</description>
+			</item>
+			<item>
+				<title>《Noir Total: Deadly Party》正式发售：首发20%折扣，黑暗派对互坑开黑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3435580-5bf87e20/</link>
+				<pubDate>Sat, 07 Nov 2026 07:00:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3435580-5bf87e20/</guid>
+				<description>独立开发者耗时三年打造的本地多人派对游戏《Noir Total: Deadly Party》现已正式登陆Steam，首发周开启20%折扣，AppID为3435580。玩家将在几乎全黑的地图中依靠记忆、手柄震动和读心术互相算计，体验同屏开黑的爆笑混乱。本文整理核心玩法、开发幕后、入手建议与联机避坑要点，并附上首发折扣购买提醒。</description>
+			</item>
+			<item>
+				<title>《No Up》正式发售：翻转墙壁天花板当脚下地板，七座3D迷宫等你找到出口</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4332130-396b1569/</link>
+				<pubDate>Sat, 07 Nov 2026 06:33:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4332130-396b1569/</guid>
+				<description>独立工作室 Autonomous Tree 打造的空间解谜游戏《No Up》已在 Steam 正式上线。玩家要在七座体量逐级放大的 3D 迷宫里旋转墙壁与天花板，把它们变成新的落脚点，从完全不同的角度寻找开关与出口。游戏提供三枚标记方块与短时透视墙体两种可选辅助，没有敌人也没有倒计时，标榜零压力探索；每座迷宫各有独立美术风格，特效可在设置中关闭。</description>
+			</item>
+			<item>
+				<title>《Relicta In Memoriam》存档串档，官方给出清档重开方案</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4536940-74c28d4a/</link>
+				<pubDate>Sat, 07 Nov 2026 05:25:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4536940-74c28d4a/</guid>
+				<description>刚上手的《Relicta In Memoriam》玩家注意了：如果你之前玩过老版本试玩，正式版可能会自动读取那份旧试玩存档，导致进度错乱、流程对不上。官方已确认该问题并放出 Windows 手动清档步骤，同时表示永久修复正在路上。本文整理了完整的清档操作、注意事项与开荒建议，帮你干净利落地重开一局。</description>
+			</item>
+			<item>
+				<title>《Relicta In Memoriam》正式发售，首发24%折扣限时开启</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4536940-d36a7730/</link>
+				<pubDate>Sat, 07 Nov 2026 05:17:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4536940-d36a7730/</guid>
+				<description>熬过跳票与各种意外，《Relicta In Memoriam》终于正式登陆 Steam（AppID: 4536940）。为庆祝上线，官方开启限时 24% 首发折扣，对一支小体量独立团队来说诚意十足。更关键的是，制作组公开喊话玩家帮忙捉虫、提反馈，首发版本的问题修复优先级将由社区声音决定。本文梳理发售要点、折扣性价比、入库与反馈实操，以及观望党该不该现在冲。</description>
+			</item>
 			<item>
 				<title>《ZED ZONE》史低40%大促：48元丧尸生存神作仅28.8元永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-1211600-0e9ff7ea/</link>
@@ -26,6 +61,20 @@
 				<pubDate>Sat, 07 Nov 2026 04:44:17 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/</guid>
 				<description>Glyphforge 迎来 1.0.1 热修补丁，此前在界面里神秘消失的法术导入按钮正式回归，位置被安排到 Share spellpage 按钮下方，导入与分享终于凑成了一对。本次更新属于纯 UI 入口修复，不涉及数值与平衡改动，也不影响已有存档与法术页。本文整理了更新要点、导入入口的寻找方式、搬运他人构筑时的避坑建议，以及玩家最关心的几个高频问题解答，帮你第一时间把别人的骚套路搬进自己的法术页。</description>
+			</item>
+			<item>
+				<title>《A DOG&#39;s DREAM》正式发售：3000&#43;插画，配置门槛上调</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4159350-eeaa90ce/</link>
+				<pubDate>Sat, 07 Nov 2026 04:33:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4159350-eeaa90ce/</guid>
+				<description>跳票之后终于落地——独立作品《A DOG&amp;rsquo;s DREAM》正式在 Steam 发售。官方坦言：原计划约 1000 张插画，最终做到 3000 张以上，还追加了动画与特效，最低配置要求同步上调，买前请核对机器。提示：DX12 启动失败就换 DX11，非 16:9 显示器建议窗口模式；玩过试玩版的玩家必须新开存档。后续还将补上存档槽位、事件跳过与分辨率优化等。</description>
+			</item>
+			<item>
+				<title>HOMEPAGE正式发售：翻电脑找异常的恐怖新作，愿望单破5000</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3529660-ac12952a/</link>
+				<pubDate>Sat, 07 Nov 2026 04:02:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3529660-ac12952a/</guid>
+				<description>恐怖异常查找新作 HOMEPAGE 正式发售，Steam AppID 3529660。你将坐在一台虚拟电脑前，通过翻查报错信息、把玩桌面小游戏、阅读聊天记录，一步步揭开自己新入职公司背后的秘密。开发组 Gestmorph Games 透露发售前愿望单已突破 5125，并承诺积极跟进玩家反馈与 Bug 修复。本文整理核心玩法、开荒思路与入手建议。</description>
 			</item>
 			<item>
 				<title>《使命召唤》DMZ限时免费开放！11月11日前零门槛撤离淘金</title>
@@ -152,6 +201,13 @@
 				<pubDate>Sat, 07 Nov 2026 01:46:17 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-2950410-ea8bc0fe/</guid>
 				<description>《Gear Up Einstein!》正式开启抢先体验！本次上线带来全新古代纪元、多名新特工、战术装置与敌人，难度4/5全面解锁，排行榜同步重置。首发享15%折扣，免费Demo同步更新，可与完整版好友联机开黑。本文深度解析更新要点、平衡改动与入手建议。</description>
+			</item>
+			<item>
+				<title>ZED ZONE 1.0.4补丁：联机房间筛选与外骨骼负重重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-1211600-150554e8/</link>
+				<pubDate>Sat, 07 Nov 2026 01:45:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-1211600-150554e8/</guid>
+				<description>ZED ZONE 正式版首个补丁 1.0.4 已推送：联机房间列表新增标准/尸潮/天灾模式筛选与排序刷新选项，加载更快、不再只显示零星房间；外骨骼通电后穿戴部件不再计入负重，护甲额外提供 25 kg 负重上限；.50 BMG 腕部破坏者、夜视与热成像瞄具同步降价。此外还修复了联机人物只剩头部挂件、重生落水、存档面板报错与体素平台影子错位等问题。</description>
 			</item>
 			<item>
 				<title>《Involuntary Fighting Simulator》正式发售：搞怪格斗模拟器开发者发致谢公告</title>
@@ -329,6 +385,13 @@
 				<description>单人开发者 Anton 在一年半的打磨后，把《Campfire Harmony》正式带到 Steam。篝火、狐狸与安静的陪伴是这款小体量作品最鲜明的情感钩子；一路以来的愿望单、试玩 demo 和玩家来信，也成了它走到今天的重要燃料。对独立游戏而言，玩家评测往往就是被更多人看见的机会，如果你在篝火旁坐得舒服，不妨留下几句真实感受。</description>
 			</item>
 			<item>
+				<title>《a Dogs Dream》官宣跳票：终测揪出多个Bug，发售日期延后</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-4159350-7891b5e9/</link>
+				<pubDate>Fri, 06 Nov 2026 20:15:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-4159350-7891b5e9/</guid>
+				<description>Steam 新作《a Dogs Dream》官方发布延期公告：游戏在最终测试阶段被查出多个 Bug，发售计划被迫推迟，官方承诺会尽快修复并完成必要检查后再与玩家见面，新发售日暂未公布。本期主理人带你拆解这次跳票的门道，并给出愿望单蹲守、避坑第三方预售页的实操建议。</description>
+			</item>
+			<item>
 				<title>GTA三部曲决定版Steam史低67%：19.79美元永久入库三代经典</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-817628-ff4deb98/</link>
 				<pubDate>Fri, 06 Nov 2026 20:00:06 +0800</pubDate>
@@ -404,6 +467,13 @@
 				<pubDate>Fri, 06 Nov 2026 18:04:53 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-4158610-9bb2f41f/</guid>
 				<description>等了许久，TFC2: Collapse of the Bronze Age 终于结束抢先体验。1.0正式版把Mutti一家人的故事补到完整17关，还端出官方地图编辑器：Lua脚本、触发器、对话事件都能玩，附送Mini Horde Mode模板和社区地图比赛。老玩家关心的修复与打磨也一并到位，想重温战役或自己造图的，都可以回坑了。</description>
+			</item>
+			<item>
+				<title>《无基之谈2D》11月7日Steam上线：真人互动改2D视觉小说</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-5208460-8001a1a5/</link>
+				<pubDate>Fri, 06 Nov 2026 18:00:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-5208460-8001a1a5/</guid>
+				<description>《无基之谈2D》确认于11月7日上午9点（北京时间）登陆Steam。本作把真人互动游戏《无基之谈》重制为2D视觉小说，保留熟悉的角色、室友群像与校园日常，以全新画风讲述蛋蛋因一次意外引发的故事。老玩家可重温记忆片段，新玩家也能零门槛入坑。明早9点，2D版见。</description>
 			</item>
 			<item>
 				<title>Legacybound 首发 8 折！12 职业硬核 Roguelike，死后遗产继承玩法与开荒避坑全攻略</title>
@@ -677,6 +747,13 @@
 				<pubDate>Fri, 06 Nov 2026 03:58:14 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-1422450-16aaa70b/</guid>
 				<description>Deadlock排位Beta第2赛季正式开打，持续至2027年3月11日。本赛季采用更温和的软重置，平均掉约1个大段，并结合上赛季胜率微调；同时削减掉段护盾、提高每局排位分、增加至4个英雄Ban位，并调整初始定级上限。Beta第1赛季参赛者还将获得最高段位纪念藏身处铭牌。</description>
+			</item>
+			<item>
+				<title>《文明6》11月热更新上线：安全防护强化，部分MOD或需适配</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-289070-c42831be/</link>
+				<pubDate>Fri, 06 Nov 2026 03:06:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-289070-c42831be/</guid>
+				<description>Firaxis 为《文明6》推送了 2026 年 11 月的 Windows 平台定向热更新，核心是强化游戏的安全防护机制。官方明确表示玩法逻辑与存档文件完全兼容，正在进行中的对局不会报废；但部分依赖脚本与接口的社区 MOD 可能出现兼容问题，建议先临时禁用出问题的 MOD，等作者适配。本次更新不含新文明、新领袖与平衡性调整。</description>
 			</item>
 			<item>
 				<title>使命召唤MW4第一赛季通行证：50级追赶&#43;BlackCell值不值？</title>
@@ -1316,6 +1393,13 @@
 				<description>《Just Dying》正式登陆 Steam，Devlog #7 一次性放出重磅内容：第 3 关深渊后的红色传送门通向终极 BOSS「灰烬之虫」，击杀后可选择撤离或无限模式；110 个任务连带解锁 74 项内容，四只宠物、节点精通、沙漠第二终局 BOSS 与 5 个新事件同步上线，另有速度机制与新手提示等体验优化。</description>
 			</item>
 			<item>
+				<title>《HOMEPAGE》发售倒计时两天，愿望单突破4000，本周五见！</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-3529660-48b50157/</link>
+				<pubDate>Thu, 05 Nov 2026 05:42:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-3529660-48b50157/</guid>
+				<description>距离《HOMEPAGE》正式发售只剩两天，官方宣布愿望单总量已突破4000大关，并确认下一则消息就是发售公告。对一直关注这款作品的玩家来说，本周五就是见证它从愿望单走进游戏库的关键时刻；现在不妨先检查配置、关注商店页、准备好预算，等发售后第一时间上手体验。</description>
+			</item>
+			<item>
 				<title>《Just Keep Defending And Mining》正式发售：一手挖矿一手守塔，手速与Build的终极拉扯</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-4677370-aa9eb7f3/</link>
 				<pubDate>Thu, 05 Nov 2026 04:53:01 +0800</pubDate>
@@ -1692,6 +1776,13 @@
 				<pubDate>Wed, 04 Nov 2026 23:01:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-04-2991310-6e66f0cd/</guid>
 				<description>《Eternal Palace Sakura》官方发布开发者实机游玩与解说视频，开发团队亲自上阵展示萌系女主的冒险流程与玩法氛围。视频采用日语配音、英文字幕，本文为你梳理实机看点、语言支持注意事项，以及Steam愿望单关注与发售前避坑建议。对喜欢日系角色驱动冒险的玩家来说，这支视频值得先加愿望单再细看。</description>
+			</item>
+			<item>
+				<title>《Nomad Drive》一周破10万玩家 官方致谢并预告路线图大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-04-2223980-f003c4a9/</link>
+				<pubDate>Wed, 04 Nov 2026 22:38:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-04-2223980-f003c4a9/</guid>
+				<description>上线仅一周，《Nomad Drive》玩家数正式突破 100,000，开发组发文致谢并坦言首周并不完美。团队正在逐条阅读玩家评测与反馈，补丁以最快速度推送，首个路线图更新也已进入制作阶段，内容优先级将由社区声音决定。本文梳理这次里程碑背后的信息、后续更新走向，以及新老玩家的上手与反馈建议。</description>
 			</item>
 			<item>
 				<title>《Horses of Hoofprint Bay》正式发售：马术新作与50页设定集登场</title>
