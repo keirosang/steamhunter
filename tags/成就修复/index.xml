@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 11:19:45 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 20:41:09 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%88%90%E5%B0%B1%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>足球经理自走棋11月7日热修：成就BUG修复，肝帝安心开冲</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3873760-594f3240/</link>
+				<pubDate>Sat, 07 Nov 2026 20:41:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3873760-594f3240/</guid>
+				<description>11月7日《Football Manager: Auto Chess》推送紧急更新，集中修复部分成就条件达成却不跳杯的问题。此次属于小型热修，不涉及核心玩法与数值大改，老存档无需推倒重来。主理人建议更新后先重启Steam、校验文件完整性，再读取关键存档重新触发成就条件；若遇到云同步延迟，稍等或切换在线状态。想第一时间收限免特惠，加入官方Telegram频道 @steamhunterlink。</description>
+			</item>
 			<item>
 				<title>《Marblebuilds》v1.0.2 更新：相机倒挂修好，创意工坊发布不再报错</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-4285270-bc5a80c1/</link>

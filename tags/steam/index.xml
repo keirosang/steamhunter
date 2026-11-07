@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 14:00:05 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 20:51:21 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reverie 0.9 重制版正式转正：新渲染器、录制与预设库上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-1103140-4a4c2176/</link>
+				<pubDate>Sat, 07 Nov 2026 20:51:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-1103140-4a4c2176/</guid>
+				<description>音乐可视化工具 Reverie 推送 0.9「The Rework」大版本更新，并借此正式脱离抢先体验。本次几乎全盘重写：整个可视化改为单着色器渲染，GPU 负担大幅下降；新增录制标签页，可用显卡编码直出 1080p60 视频；预设库、系统音频、九国语言（含简中）与快捷键重绑一并到位。本文帮你快速看懂改动重点、上手技巧与高频疑问。</description>
+			</item>
+			<item>
+				<title>《桌面绿洲 Desktop Oasis》发售：首发9折12天，试玩下架</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4688280-2e9317b1/</link>
+				<pubDate>Sat, 07 Nov 2026 20:30:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4688280-2e9317b1/</guid>
+				<description>ZhiSu Studio 的桌面陪伴新作《Desktop Oasis》现已登陆 Steam，首发 9 折持续 12 天。你可以在工作学习时养一片小绿洲，靠打字与日常活动获得 Inspiration，解锁植物、船只、生物和收藏品，还能把玩漂浮物件与实时水物理。注意试玩版将在 11 月 17 日 12:30 UTC（北京时间 20:30）下架，已入库也会失效。</description>
+			</item>
 			<item>
 				<title>《County of Fortune》史低特惠开启，22.49欧永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-3204330-2ad39a5e/</link>

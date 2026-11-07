@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 20:00:03 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 20:51:21 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reverie 0.9 重制版正式转正：新渲染器、录制与预设库上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-1103140-4a4c2176/</link>
+				<pubDate>Sat, 07 Nov 2026 20:51:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-1103140-4a4c2176/</guid>
+				<description>音乐可视化工具 Reverie 推送 0.9「The Rework」大版本更新，并借此正式脱离抢先体验。本次几乎全盘重写：整个可视化改为单着色器渲染，GPU 负担大幅下降；新增录制标签页，可用显卡编码直出 1080p60 视频；预设库、系统音频、九国语言（含简中）与快捷键重绑一并到位。本文帮你快速看懂改动重点、上手技巧与高频疑问。</description>
+			</item>
+			<item>
+				<title>足球经理自走棋11月7日热修：成就BUG修复，肝帝安心开冲</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3873760-594f3240/</link>
+				<pubDate>Sat, 07 Nov 2026 20:41:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3873760-594f3240/</guid>
+				<description>11月7日《Football Manager: Auto Chess》推送紧急更新，集中修复部分成就条件达成却不跳杯的问题。此次属于小型热修，不涉及核心玩法与数值大改，老存档无需推倒重来。主理人建议更新后先重启Steam、校验文件完整性，再读取关键存档重新触发成就条件；若遇到云同步延迟，稍等或切换在线状态。想第一时间收限免特惠，加入官方Telegram频道 @steamhunterlink。</description>
+			</item>
+			<item>
+				<title>《桌面绿洲 Desktop Oasis》发售：首发9折12天，试玩下架</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4688280-2e9317b1/</link>
+				<pubDate>Sat, 07 Nov 2026 20:30:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4688280-2e9317b1/</guid>
+				<description>ZhiSu Studio 的桌面陪伴新作《Desktop Oasis》现已登陆 Steam，首发 9 折持续 12 天。你可以在工作学习时养一片小绿洲，靠打字与日常活动获得 Inspiration，解锁植物、船只、生物和收藏品，还能把玩漂浮物件与实时水物理。注意试玩版将在 11 月 17 日 12:30 UTC（北京时间 20:30）下架，已入库也会失效。</description>
+			</item>
+			<item>
+				<title>SG Racing神秘新车手曝光：疑似山羊界GOAT，首发前难度与车手能力全面调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-1990250-341efaeb/</link>
+				<pubDate>Sat, 07 Nov 2026 20:02:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-1990250-341efaeb/</guid>
+				<description>SG Racing 官方放出新一轮更新情报：一位身份严格保密的可解锁车手即将登场，官方只肯透露其&amp;quot;可能是史上最强（GOAT）&amp;quot;，还此地无银地补了句&amp;quot;与山羊的相似之处纯属可疑&amp;quot;。同时开发组对比赛难度与车手能力做了最终平衡，强化落后时的翻盘空间。游戏将于11月9日周一发售，现在即可加愿望单蹲首发。</description>
+			</item>
 			<item>
 				<title>三角洲行动新赛季「极光」11月10日上线：新干员Martelo、Brakkesh 2.0与AN-94全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-2507950-9b18efc4/</link>
@@ -222,6 +250,13 @@
 				<pubDate>Sat, 07 Nov 2026 02:47:38 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-5217960-93669e65/</guid>
 				<description>Jewelry Keeper 官方页面放出新情报：HeadArrow Team 正式介绍新作《Sort In Silence》。玩家要在漆黑的大学图书馆里整理多达 8500 本藏书，动作太快、动静太吵都会惊动桌前的 Mika，她会当场变身展开追杀。你可以摸黑潜行、开灯硬干、攒钱买升级，还能 1-4 人联机开黑。</description>
+			</item>
+			<item>
+				<title>《Sort In Silence》公布：图书馆整书，四人联机躲Mika</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4909100-ba776ae3/</link>
+				<pubDate>Sat, 07 Nov 2026 02:46:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4909100-ba776ae3/</guid>
+				<description>HeadArrow Team在Box Flow相关动态中介绍新作《Sort In Silence》：玩家要在漆黑大学图书馆整理最多8500本书，Mika坐在桌边阅读。动作太快或声音太吵会惊动她，令其变身追猎。你需要藏身、维持照明、购买升级，支持单人游玩或最多4人在线合作。Steam商店页已公开，适合喜欢整书模拟+潜行恐怖的联机玩家先加愿望单。</description>
 			</item>
 			<item>
 				<title>《FIRST LINE》上线：2001客服夜班惊魂，首发8折</title>
