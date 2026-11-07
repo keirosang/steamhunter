@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 14:59:00 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 00:38:13 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Go! Go! Shovelcar!》热修修复设置菜单显示异常</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5218890-969e70ec/</link>
+				<pubDate>Sun, 08 Nov 2026 00:38:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5218890-969e70ec/</guid>
+				<description>《Go! Go! Shovelcar!》开发组推送了一枚紧急热修复，专门解决部分特定关卡中设置菜单 Gameplay 选项显示错乱的问题。本次更新属于纯 UI 层面的修复，不涉及数值平衡、关卡内容与存档数据，Steam 客户端会自动推送，重启游戏即可生效。本文整理了更新要点、问题成因推测、更新后的自检步骤，以及玩家最关心的几个高频疑问。</description>
+			</item>
+			<item>
+				<title>《Your Friend&#39;s Mom 2》正式发售：国区11月8日零点解锁，新角色与路线图已在路上</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5273050-477ff9db/</link>
+				<pubDate>Sat, 07 Nov 2026 18:42:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5273050-477ff9db/</guid>
+				<description>《Your Friend&amp;rsquo;s Mom 2》正式定档11月7日发售，国区玩家需等到11月8日零点才能解锁。官方同步放出了全球各时区解锁时间表，并预告后续将追加新角色、新内容以及一份完整的内容路线图。本文整理了发售时间、入库注意事项、Steam 成人内容偏好设置要点与上手建议，想第一时间体验的玩家别错过。</description>
+			</item>
 			<item>
 				<title>《Gods of the Grid》正式版上线，1.0 完全体值得入手吗？</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4911350-43b66383/</link>

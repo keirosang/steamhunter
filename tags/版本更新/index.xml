@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 20:51:21 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 00:22:12 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dub Party 1.0.0 上线：手机扫码当麦，16人同房狂飙配音</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5259730-22ed884a/</link>
+				<pubDate>Sun, 08 Nov 2026 00:22:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5259730-22ed884a/</guid>
+				<description>派对配音游戏《Dub Party》迎来 1.0.0 大版本：沙发党现在用手机扫电视二维码就能进房抢角色、录台词，不用装任何 App；全新的 Solo Showdown 让全场轮流飙戏再投票，房间上限直接拉到 16 人。历史记录支持搜索、排序、筛选、收藏与批量删除，Sound Telephone 的接龙还能一键导出 9:16 竖屏视频发 Discord。创意工坊支持多场景批量发布，离线自动排队。</description>
+			</item>
 			<item>
 				<title>Reverie 0.9 重制版正式转正：新渲染器、录制与预设库上线</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-1103140-4a4c2176/</link>
@@ -264,6 +271,13 @@
 				<pubDate>Fri, 06 Nov 2026 03:58:14 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-1422450-16aaa70b/</guid>
 				<description>Deadlock排位Beta第2赛季正式开打，持续至2027年3月11日。本赛季采用更温和的软重置，平均掉约1个大段，并结合上赛季胜率微调；同时削减掉段护盾、提高每局排位分、增加至4个英雄Ban位，并调整初始定级上限。Beta第1赛季参赛者还将获得最高段位纪念藏身处铭牌。</description>
+			</item>
+			<item>
+				<title>《Bodycam》0.9《亡灵与诅咒》僵尸模式前瞻：开发者日志首曝</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-2406770-515920d3/</link>
+				<pubDate>Fri, 06 Nov 2026 03:48:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-2406770-515920d3/</guid>
+				<description>Bodycam 官方正式放出僵尸模式开发者日志第一弹，v0.9 大版本代号《The Dead &amp;amp; Damned》（亡灵与诅咒）揭开面纱。本次为更新上线前的幕后前瞻，官方明确标注 1/2，意味着还有第二弹干货在后头。本文梳理版本定位、拟真镜头下的尸潮氛围、开黑与配置建议，并解答更新是否免费、何时能玩等高频疑问。</description>
 			</item>
 			<item>
 				<title>《文明6》11月热更新上线：安全防护强化，部分MOD或需适配</title>

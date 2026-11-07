@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 08:32:07 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 00:38:13 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Go! Go! Shovelcar!》热修修复设置菜单显示异常</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5218890-969e70ec/</link>
+				<pubDate>Sun, 08 Nov 2026 00:38:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5218890-969e70ec/</guid>
+				<description>《Go! Go! Shovelcar!》开发组推送了一枚紧急热修复，专门解决部分特定关卡中设置菜单 Gameplay 选项显示错乱的问题。本次更新属于纯 UI 层面的修复，不涉及数值平衡、关卡内容与存档数据，Steam 客户端会自动推送，重启游戏即可生效。本文整理了更新要点、问题成因推测、更新后的自检步骤，以及玩家最关心的几个高频疑问。</description>
+			</item>
 			<item>
 				<title>《饥荒联机版》热修复：深渊蠕虫回归、月盲乌鸦与联机加载修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-322330-47acdbbb/</link>

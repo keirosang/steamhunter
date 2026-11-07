@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Go! Go! Shovelcar! on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/go-go-shovelcar/</link>
+		<description>Recent content in Go! Go! Shovelcar! on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Nov 2026 00:52:20 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/go-go-shovelcar/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Go! Go! Shovelcar!》正式发售：挖掘机驾照考试街机模拟</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5218890-fc853de1/</link>
+				<pubDate>Sun, 08 Nov 2026 00:52:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5218890-fc853de1/</guid>
+				<description>独立开发者打造的挖掘机街机模拟《Go! Go! Shovelcar!》正式登陆 Steam。游戏采用双摇杆液压操控，动臂、斗杆、铲斗、驾驶室回转与左右独立履带全部手动操作，内含 10 项严格执照考试、10 种胡闹打工任务、自由沙盒与外观商店，支持简繁中文与手柄操作，后续还将持续追加新工作内容。</description>
+			</item>
+			<item>
+				<title>《Go! Go! Shovelcar!》热修修复设置菜单显示异常</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5218890-969e70ec/</link>
+				<pubDate>Sun, 08 Nov 2026 00:38:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5218890-969e70ec/</guid>
+				<description>《Go! Go! Shovelcar!》开发组推送了一枚紧急热修复，专门解决部分特定关卡中设置菜单 Gameplay 选项显示错乱的问题。本次更新属于纯 UI 层面的修复，不涉及数值平衡、关卡内容与存档数据，Steam 客户端会自动推送，重启游戏即可生效。本文整理了更新要点、问题成因推测、更新后的自检步骤，以及玩家最关心的几个高频疑问。</description>
+			</item>
+	</channel>
+</rss>
