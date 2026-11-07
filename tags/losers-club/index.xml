@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Losers Club on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/losers-club/</link>
+		<description>Recent content in Losers Club on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 21:07:03 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/losers-club/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Losers Club 1.0.1 更新：答题计时可暂停，题库支持纯媒体出题</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5231690-5a87f7d1/</link>
+				<pubDate>Sat, 07 Nov 2026 21:07:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5231690-5a87f7d1/</guid>
+				<description>派对问答游戏《Losers Club》推送发售后的首个 1.0.1 质量更新：主持人可在玩家答题时暂停/恢复倒计时，全场同步显示 PAUSED 与剩余秒数；题库编辑器允许题目与答案在带媒体时留空文字，纯图片、纯音频轮次终于能正常排版；文件选择器新增“下载”快捷入口并默认选中“所有文件”，导入自制题库不再被过滤器挡住。</description>
+			</item>
+	</channel>
+</rss>

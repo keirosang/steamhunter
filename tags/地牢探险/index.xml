@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>地牢探险 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%9C%B0%E7%89%A2%E6%8E%A2%E9%99%A9/</link>
+		<description>Recent content in 地牢探险 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Nov 2026 03:18:03 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%9C%B0%E7%89%A2%E6%8E%A2%E9%99%A9/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Underkeep》1.0.4补丁：铁匠卡死修复，Mac也能玩了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</link>
+				<pubDate>Sun, 08 Nov 2026 03:18:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</guid>
+				<description>《Underkeep》1.0.4 修复补丁上线，本次没有新内容，全是体验打磨。铁匠因提前捡到野蛮人头盔而卡死的恶性 Bug 被修掉，读档后 Caerlin Essence 与 Dwarven Forgebrew 效果消失、换戒指闪退、技能冷却被重置等问题一并解决；Gravewood Crypt 新增雕像重置按钮。技术层面，Mac 用户可通过 Wine/CrossOver 正常进入游戏，PS 手柄不再错显 Xbox 图标。</description>
+			</item>
+	</channel>
+</rss>

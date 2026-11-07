@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 01:50:32 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 03:18:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Underkeep》1.0.4补丁：铁匠卡死修复，Mac也能玩了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</link>
+				<pubDate>Sun, 08 Nov 2026 03:18:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</guid>
+				<description>《Underkeep》1.0.4 修复补丁上线，本次没有新内容，全是体验打磨。铁匠因提前捡到野蛮人头盔而卡死的恶性 Bug 被修掉，读档后 Caerlin Essence 与 Dwarven Forgebrew 效果消失、换戒指闪退、技能冷却被重置等问题一并解决；Gravewood Crypt 新增雕像重置按钮。技术层面，Mac 用户可通过 Wine/CrossOver 正常进入游戏，PS 手柄不再错显 Xbox 图标。</description>
+			</item>
+			<item>
+				<title>Terralysia 1.0 正式版上线：武士参战、三张新地图与 20 个新法术齐发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-2540670-f7f74b40/</link>
+				<pubDate>Sat, 07 Nov 2026 21:19:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-2540670-f7f74b40/</guid>
+				<description>Terralysia 于 11 月 7 日推送 1.0 正式版大版本更新：全新可玩角色武士登场，三张新地图带来新怪物、新目标与新 Boss，另有 20 个新法术、16 个新成就与永久角色成长系统上线；随机法术解锁改为按游玩时长发放，同时修复鱼 Boss 逻辑、UI 残留、启动黑屏等多项问题并完成性能优化。</description>
+			</item>
 			<item>
 				<title>Find The Needle V12：电线杆崩溃修复与投掷表情确认</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-5160800-d7a93287/</link>

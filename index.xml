@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 01:58:21 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 03:18:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Underkeep》1.0.4补丁：铁匠卡死修复，Mac也能玩了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</link>
+				<pubDate>Sun, 08 Nov 2026 03:18:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</guid>
+				<description>《Underkeep》1.0.4 修复补丁上线，本次没有新内容，全是体验打磨。铁匠因提前捡到野蛮人头盔而卡死的恶性 Bug 被修掉，读档后 Caerlin Essence 与 Dwarven Forgebrew 效果消失、换戒指闪退、技能冷却被重置等问题一并解决；Gravewood Crypt 新增雕像重置按钮。技术层面，Mac 用户可通过 Wine/CrossOver 正常进入游戏，PS 手柄不再错显 Xbox 图标。</description>
+			</item>
+			<item>
+				<title>Terralysia 1.0 正式版上线：武士职业登场、三张新地图与20个新法术，两年EA迎来最大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-2540670-ce45ed19/</link>
+				<pubDate>Sun, 08 Nov 2026 03:03:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-2540670-ce45ed19/</guid>
+				<description>两年EA长跑正式交卷！Terralysia 1.0 今日上线，这也是本作迄今规模最大的一次更新：全新职业「武士」登场，三张新地图、20 个新法术一次性塞进游戏，外加玩家呼声极高的持久化升级系统。EA期间的老构筑与老思路都将迎来一轮洗牌，平衡性调整幅度不小。无论你是从EA一路陪跑的老玩家，还是刚被朋友安利的新人，现在都是回坑与入坑的最佳时机。完整改动清单已随 1.0 公告与补丁说明同步放出。</description>
+			</item>
+			<item>
+				<title>《INTERNS》Steam正式上线：白大褂恋爱修罗场，首班岗即刻开诊</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4626180-829b471b/</link>
+				<pubDate>Sun, 08 Nov 2026 03:00:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4626180-829b471b/</guid>
+				<description>白大褂、值班表和一颗管不住的心——《INTERNS》现已正式登陆 Steam（AppID 4626180）。这是一部主打选择分支与多结局的互动叙事作品：你得在医院八卦与派系斗争里站稳脚跟，和同事擦出火花、结下梁子，还要靠迷你游戏证明自己真会干活。含成人向露骨场景，尺度请自行把握。</description>
+			</item>
 			<item>
 				<title>《Oops… I Hooked Up with a Mermaid》发售：夜海钓上人鱼，六结局成人内容</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-4900110-67522ead/</link>
@@ -56,6 +77,20 @@
 				<description>SCS On The Road 系列迎来新一期，这次做客的是波兰知名卡车游戏内容创作者 Wujek Bohun。节目里他聊了自己从玩家到创作者的成长轨迹、童年游戏回忆，以及最爱的《欧洲卡车模拟2》DLC 和对未来功能的期待。本期为波兰语原声录制，官方提醒务必打开 YouTube 字幕观看。</description>
 			</item>
 			<item>
+				<title>Terralysia 1.0 正式版上线：武士参战、三张新地图与 20 个新法术齐发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-2540670-f7f74b40/</link>
+				<pubDate>Sat, 07 Nov 2026 21:19:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-2540670-f7f74b40/</guid>
+				<description>Terralysia 于 11 月 7 日推送 1.0 正式版大版本更新：全新可玩角色武士登场，三张新地图带来新怪物、新目标与新 Boss，另有 20 个新法术、16 个新成就与永久角色成长系统上线；随机法术解锁改为按游玩时长发放，同时修复鱼 Boss 逻辑、UI 残留、启动黑屏等多项问题并完成性能优化。</description>
+			</item>
+			<item>
+				<title>Losers Club 1.0.1 更新：答题计时可暂停，题库支持纯媒体出题</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5231690-5a87f7d1/</link>
+				<pubDate>Sat, 07 Nov 2026 21:07:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5231690-5a87f7d1/</guid>
+				<description>派对问答游戏《Losers Club》推送发售后的首个 1.0.1 质量更新：主持人可在玩家答题时暂停/恢复倒计时，全场同步显示 PAUSED 与剩余秒数；题库编辑器允许题目与答案在带媒体时留空文字，纯图片、纯音频轮次终于能正常排版；文件选择器新增“下载”快捷入口并默认选中“所有文件”，导入自制题库不再被过滤器挡住。</description>
+			</item>
+			<item>
 				<title>Reverie 0.9 重制版正式转正：新渲染器、录制与预设库上线</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-1103140-4a4c2176/</link>
 				<pubDate>Sat, 07 Nov 2026 20:51:21 +0800</pubDate>
@@ -89,6 +124,13 @@
 				<pubDate>Sat, 07 Nov 2026 20:00:03 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-2507950-9b18efc4/</guid>
 				<description>《三角洲行动》新赛季「极光 Aurora」定档 11 月 10 日，PC、移动端与主机三端同步更新，北京时间上午 10 点开放下载。新突击干员 Martelo 携冲撞盾与环形烟雾登场，Brakkesh 迎来 2.0 大改，AZ3 新增超临界玩法，全面战场添新图 Zenith Port，AN-94 与配套弹药配件一并上线。停机时间、清仓清单与开黑思路，这篇一次说清。</description>
+			</item>
+			<item>
+				<title>《Table Of Truth》Steam正式发售！拉好友开桌，看谁谎话先崩盘</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4835870-f06e63da/</link>
+				<pubDate>Sat, 07 Nov 2026 19:02:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4835870-f06e63da/</guid>
+				<description>等了好几个月的社交推理派对终于开桌了！NextHaven Studio 官宣《Table Of Truth》正式登陆 Steam，全员各怀秘密、互相试探，谁先露馅谁出局。本文帮你理清玩法看点、入库方法与开黑避坑细节，拉上三五好友就能立刻开局，看看这张桌子上到底谁在说谎。</description>
 			</item>
 			<item>
 				<title>《Your Friend&#39;s Mom 2》正式发售：国区11月8日零点解锁，新角色与路线图已在路上</title>
@@ -1587,6 +1629,13 @@
 				<pubDate>Thu, 05 Nov 2026 08:25:17 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-05-5371500-ff972715/</guid>
 				<description>猫奴们又有新粮了！《Cats Here》已在 Steam 正式上架开卖，官方发布上线公告，一句“感谢支持、玩得开心”诚意拉满。本文为你梳理这次上线的核心看点、游戏定位与适合人群，并附上入库方法、配置参考、首发期购买建议与常见问题解答，帮你决定要不要第一时间把这只猫抱回家。</description>
+			</item>
+			<item>
+				<title>Mosaique Neko Waifus 6定档11月7日：Mana系统回归，新增高难度拼图关卡</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-4873800-cb7d4784/</link>
+				<pubDate>Thu, 05 Nov 2026 08:12:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-4873800-cb7d4784/</guid>
+				<description>跳票多次的《Mosaique Neko Waifus 6》终于敲定11月7日正式发售，官方放话这次日期百分之百不会再变。本次更新带来三大核心改动：阔别多年的Mana系统强势回归、部分道具改为可装备机制以修复数值膨胀、每张拼图追加全新难度等级，高难度通关还能拿到更值钱的道具奖励，首发拼图数量也超过前作。</description>
 			</item>
 			<item>
 				<title>《Axomorph Idle》1.0上线：转生修复与新礼包兑换码</title>

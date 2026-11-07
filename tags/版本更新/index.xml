@@ -10,15 +10,43 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 00:22:12 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 03:18:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Underkeep》1.0.4补丁：铁匠卡死修复，Mac也能玩了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</link>
+				<pubDate>Sun, 08 Nov 2026 03:18:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</guid>
+				<description>《Underkeep》1.0.4 修复补丁上线，本次没有新内容，全是体验打磨。铁匠因提前捡到野蛮人头盔而卡死的恶性 Bug 被修掉，读档后 Caerlin Essence 与 Dwarven Forgebrew 效果消失、换戒指闪退、技能冷却被重置等问题一并解决；Gravewood Crypt 新增雕像重置按钮。技术层面，Mac 用户可通过 Wine/CrossOver 正常进入游戏，PS 手柄不再错显 Xbox 图标。</description>
+			</item>
+			<item>
+				<title>Terralysia 1.0 正式版上线：武士职业登场、三张新地图与20个新法术，两年EA迎来最大更新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-2540670-ce45ed19/</link>
+				<pubDate>Sun, 08 Nov 2026 03:03:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-2540670-ce45ed19/</guid>
+				<description>两年EA长跑正式交卷！Terralysia 1.0 今日上线，这也是本作迄今规模最大的一次更新：全新职业「武士」登场，三张新地图、20 个新法术一次性塞进游戏，外加玩家呼声极高的持久化升级系统。EA期间的老构筑与老思路都将迎来一轮洗牌，平衡性调整幅度不小。无论你是从EA一路陪跑的老玩家，还是刚被朋友安利的新人，现在都是回坑与入坑的最佳时机。完整改动清单已随 1.0 公告与补丁说明同步放出。</description>
+			</item>
 			<item>
 				<title>Dub Party 1.0.0 上线：手机扫码当麦，16人同房狂飙配音</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-5259730-22ed884a/</link>
 				<pubDate>Sun, 08 Nov 2026 00:22:12 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-08-5259730-22ed884a/</guid>
 				<description>派对配音游戏《Dub Party》迎来 1.0.0 大版本：沙发党现在用手机扫电视二维码就能进房抢角色、录台词，不用装任何 App；全新的 Solo Showdown 让全场轮流飙戏再投票，房间上限直接拉到 16 人。历史记录支持搜索、排序、筛选、收藏与批量删除，Sound Telephone 的接龙还能一键导出 9:16 竖屏视频发 Discord。创意工坊支持多场景批量发布，离线自动排队。</description>
+			</item>
+			<item>
+				<title>Terralysia 1.0 正式版上线：武士参战、三张新地图与 20 个新法术齐发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-2540670-f7f74b40/</link>
+				<pubDate>Sat, 07 Nov 2026 21:19:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-2540670-f7f74b40/</guid>
+				<description>Terralysia 于 11 月 7 日推送 1.0 正式版大版本更新：全新可玩角色武士登场，三张新地图带来新怪物、新目标与新 Boss，另有 20 个新法术、16 个新成就与永久角色成长系统上线；随机法术解锁改为按游玩时长发放，同时修复鱼 Boss 逻辑、UI 残留、启动黑屏等多项问题并完成性能优化。</description>
+			</item>
+			<item>
+				<title>Losers Club 1.0.1 更新：答题计时可暂停，题库支持纯媒体出题</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5231690-5a87f7d1/</link>
+				<pubDate>Sat, 07 Nov 2026 21:07:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5231690-5a87f7d1/</guid>
+				<description>派对问答游戏《Losers Club》推送发售后的首个 1.0.1 质量更新：主持人可在玩家答题时暂停/恢复倒计时，全场同步显示 PAUSED 与剩余秒数；题库编辑器允许题目与答案在带媒体时留空文字，纯图片、纯音频轮次终于能正常排版；文件选择器新增“下载”快捷入口并默认选中“所有文件”，导入自制题库不再被过滤器挡住。</description>
 			</item>
 			<item>
 				<title>Reverie 0.9 重制版正式转正：新渲染器、录制与预设库上线</title>
@@ -418,6 +446,13 @@
 				<pubDate>Thu, 05 Nov 2026 09:22:04 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-05-3884530-79eb07ac/</guid>
 				<description>终端挂机自走棋《IdleOS》将于11月6日周五迎来1.0正式版，30+黑客目标、100+升级、9大技能、虚拟机窗口与最长24小时离线收益全部就位，试玩Demo进度还能继承。无需鼠标，敲命令即可挂机战斗；本文梳理版本看点、入坑操作与常见问题，助你上线即开肝。</description>
+			</item>
+			<item>
+				<title>Mosaique Neko Waifus 6定档11月7日：Mana系统回归，新增高难度拼图关卡</title>
+				<link>https://info.steamhunter.link/posts/2026-11-05-4873800-cb7d4784/</link>
+				<pubDate>Thu, 05 Nov 2026 08:12:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-05-4873800-cb7d4784/</guid>
+				<description>跳票多次的《Mosaique Neko Waifus 6》终于敲定11月7日正式发售，官方放话这次日期百分之百不会再变。本次更新带来三大核心改动：阔别多年的Mana系统强势回归、部分道具改为可装备机制以修复数值膨胀、每张拼图追加全新难度等级，高难度通关还能拿到更值钱的道具奖励，首发拼图数量也超过前作。</description>
 			</item>
 			<item>
 				<title>《Just Dying》正式发售：终极BOSS灰烬之虫与110个任务登场</title>
