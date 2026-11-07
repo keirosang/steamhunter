@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 08:36:51 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 09:15:53 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steamos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Frame 推送 SteamOS 0.5.8 Beta：房间视图串流解锁，混合现实落地</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4165890-9b6676d9/</link>
+				<pubDate>Sat, 07 Nov 2026 09:15:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4165890-9b6676d9/</guid>
+				<description>Valve 为 Steam Frame 推送 SteamOS 0.5.8 Beta，最大亮点是 PC 串流正式支持 Room View：开启摄像头透视时不再屏蔽远端桌面与游戏画面，两者可同屏共存。同时，支持 OpenXR 混合现实的 PC VR 游戏（如 X-Plane 12）能把虚拟内容与实拍画面融合，前提是 PC 端 SteamVR 也切到 beta 分支。此外还锁定了 Overlay 渲染质量、优化眼动自校准、修复低亮度伽马与 Chrome v157 的 WebXR 权限问题，开发者侧开放 ALPHA_BLEND 混合模式。</description>
+			</item>
 			<item>
 				<title>Steam Frame 推送 SteamOS 0.5.7 Beta：注视点锐化独立，高级超采样功能被移除</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-4165890-b30a00c5/</link>

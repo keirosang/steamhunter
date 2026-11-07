@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Box Flow on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/box-flow/</link>
+		<description>Recent content in Box Flow on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 12:53:37 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/box-flow/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Box Flow》手柄大修：新增灵敏度滑条与瞄准辅助，光标冲突修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4909100-bfb7e7da/</link>
+				<pubDate>Sat, 07 Nov 2026 12:53:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4909100-bfb7e7da/</guid>
+				<description>《Box Flow》推送手柄专项优化：设置里新增光标灵敏度滑条，默认速度略微下调并随屏幕尺寸缩放；瞄准辅助默认开启，光标经过箱子、货箱、商品与按钮时自动减速，方便精准停靠。同时修复双光标同时显示的尴尬问题，手柄与鼠标光标互斥切换。手柄党与掌机玩家体验直线上升。</description>
+			</item>
+	</channel>
+</rss>
