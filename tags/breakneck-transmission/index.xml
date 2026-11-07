@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Breakneck Transmission on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/breakneck-transmission/</link>
+		<description>Recent content in Breakneck Transmission on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 13:43:42 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/breakneck-transmission/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Breakneck Transmission》推送1.02更新：暂停菜单问题修好了，小补丁不小事</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5338650-4651e9c1/</link>
+				<pubDate>Sat, 07 Nov 2026 13:43:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5338650-4651e9c1/</guid>
+				<description>快节奏独立作品《Breakneck Transmission》发布1.02小型更新，本次补丁专门修复暂停菜单相关的若干问题，官方以一句“感谢游玩”收尾。本文梳理这次修复的实际意义、更新后需要留意的地方，以及暂停菜单出问题背后常见的引擎层面原因，并附上升级与反馈建议。</description>
+			</item>
+			<item>
+				<title>《Breakneck Transmission》1.01更新：终点提示全面清晰化，第8关画面升级</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5338650-9b2b3cee/</link>
+				<pubDate>Sat, 07 Nov 2026 11:24:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5338650-9b2b3cee/</guid>
+				<description>《Breakneck Transmission》上线约1小时就迎来1.01版本更新。这次补丁没有花哨的新内容，主打一个「把话说清楚」：全游戏的终点提示统一优化，让玩家更容易判断关卡结束时机；第8关的画面表现也做了针对性改进。开发组 Offscreen Indicator 用行动证明自己一直盯着玩家反馈。本文整理了更新要点、上手建议与常见问题。</description>
+			</item>
+	</channel>
+</rss>

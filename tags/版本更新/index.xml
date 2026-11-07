@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 04:44:17 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 13:43:42 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Breakneck Transmission》推送1.02更新：暂停菜单问题修好了，小补丁不小事</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5338650-4651e9c1/</link>
+				<pubDate>Sat, 07 Nov 2026 13:43:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5338650-4651e9c1/</guid>
+				<description>快节奏独立作品《Breakneck Transmission》发布1.02小型更新，本次补丁专门修复暂停菜单相关的若干问题，官方以一句“感谢游玩”收尾。本文梳理这次修复的实际意义、更新后需要留意的地方，以及暂停菜单出问题背后常见的引擎层面原因，并附上升级与反馈建议。</description>
+			</item>
+			<item>
+				<title>《Breakneck Transmission》1.01更新：终点提示全面清晰化，第8关画面升级</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5338650-9b2b3cee/</link>
+				<pubDate>Sat, 07 Nov 2026 11:24:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5338650-9b2b3cee/</guid>
+				<description>《Breakneck Transmission》上线约1小时就迎来1.01版本更新。这次补丁没有花哨的新内容，主打一个「把话说清楚」：全游戏的终点提示统一优化，让玩家更容易判断关卡结束时机；第8关的画面表现也做了针对性改进。开发组 Offscreen Indicator 用行动证明自己一直盯着玩家反馈。本文整理了更新要点、上手建议与常见问题。</description>
+			</item>
+			<item>
+				<title>《Find The Needle》V13更新：订单砍40%、售价涨69%，官方还要日更</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5160800-ffa9f6aa/</link>
+				<pubDate>Sat, 07 Nov 2026 11:08:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5160800-ffa9f6aa/</guid>
+				<description>《Find The Needle》V13 平衡更新正式上线：干草售价上调 25%，草捆、生态砖、板材等制品售价暴涨约 69%，订单需求整体砍掉 40%，交货报酬直接等于市场售价，装车再也不会亏本。首个压缩机与图纸免费赠送，速度升级白送 3 级，仓库新增手动取货、清空与 Shelf Limits 上限卡。开发组表示 V13 只是第一步，接下来几天几乎每天一更。</description>
+			</item>
 			<item>
 				<title>Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/</link>
