@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 14:59:00 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 20:00:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>三角洲行动新赛季「极光」11月10日上线：新干员Martelo、Brakkesh 2.0与AN-94全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-2507950-9b18efc4/</link>
+				<pubDate>Sat, 07 Nov 2026 20:00:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-2507950-9b18efc4/</guid>
+				<description>《三角洲行动》新赛季「极光 Aurora」定档 11 月 10 日，PC、移动端与主机三端同步更新，北京时间上午 10 点开放下载。新突击干员 Martelo 携冲撞盾与环形烟雾登场，Brakkesh 迎来 2.0 大改，AZ3 新增超临界玩法，全面战场添新图 Zenith Port，AN-94 与配套弹药配件一并上线。停机时间、清仓清单与开黑思路，这篇一次说清。</description>
+			</item>
 			<item>
 				<title>《Gods of the Grid》正式版上线，1.0 完全体值得入手吗？</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4911350-43b66383/</link>
@@ -75,6 +82,13 @@
 				<pubDate>Sat, 07 Nov 2026 10:44:40 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-5055990-9a603adc/</guid>
 				<description>由 Ruhut Soft 打造、Saikey Studios 发行的生存建造新作《Monster Girl Survivor》现已正式登陆 Steam，首发直享 20% 折扣。你将在被魅魔占领的废土上采集资源、升级基地、组织反击，并与被放逐的魅魔少女 Lily 建立羁绊。剧情走向与最终结局由你的选择决定，Lily 是否留在身边全看这一路怎么走。本文附上入库方法、开荒思路与常见问题解答。</description>
+			</item>
+			<item>
+				<title>Steam客户端Beta更新：云存档误报修复，陀螺仪曲线终于生效</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-4165890-bf4f4536/</link>
+				<pubDate>Sat, 07 Nov 2026 09:29:43 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-4165890-bf4f4536/</guid>
+				<description>11 月 6 日 Steam 客户端 Beta 推送了一个小补丁，三条更新却个个戳中痛点：《怪物猎人：世界》等游戏的云存档冲突误报被终结，Steam 控制器刷完固件不再残留假更新提示，Steam Input 里陀螺仪转摇杆的「摇杆电源曲线」设置也终于真正生效。本文逐条拆解改动细节，并附上 Beta 分支切换、云冲突处理与陀螺仪重调的实操建议。</description>
 			</item>
 			<item>
 				<title>Steam Frame 推送 SteamOS 0.5.8 Beta：房间视图串流解锁，混合现实落地</title>
