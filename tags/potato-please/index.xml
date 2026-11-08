@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 13:33:02 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 11:59:54 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/potato-please/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Potato Please 1.0.3热修：暴雪断电与爪机卡死全修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5266240-3116322c/</link>
+				<pubDate>Sun, 08 Nov 2026 11:59:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5266240-3116322c/</guid>
+				<description>《Potato Please》推送1.0.3热修复：新增电力面板可视化监控、暴风雪自动断电机制、爪机与吊袋架卡死修复、地板排水口自动清屑，通关班次独立存档，冬衣腰斩至200 RUB，并仅支持DX11、核显默认低画质，同时修复成就同步与损坏存档问题，狗狗碗按E即可填满。</description>
+			</item>
 			<item>
 				<title>《Potato Please》1.0.2热修补丁上线：后期卡顿、存档吞土豆与卡死问题一次性清账</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-5266240-b2aecfb6/</link>
