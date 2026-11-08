@@ -28,6 +28,13 @@
 				<description>《Go! Go! Shovelcar!》开发组推送了一枚紧急热修复，专门解决部分特定关卡中设置菜单 Gameplay 选项显示错乱的问题。本次更新属于纯 UI 层面的修复，不涉及数值平衡、关卡内容与存档数据，Steam 客户端会自动推送，重启游戏即可生效。本文整理了更新要点、问题成因推测、更新后的自检步骤，以及玩家最关心的几个高频疑问。</description>
 			</item>
 			<item>
+				<title>《Mox Nox》本地双人合作上线：双死神同屏清场，Boss战暂缓开放</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5375770-e6c358e0/</link>
+				<pubDate>Sat, 07 Nov 2026 23:46:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5375770-e6c358e0/</guid>
+				<description>《Mox Nox》本地双人合作正式上线主游戏，Steam 更新后即可在主基地直接开启，无需切换测试分支。双死神同屏作战，各自独立血量、能量、技能与剑姿，友伤关闭，共享高位镜头取代分屏。合作收益可带回主基地，普通击杀招式默认改为可选。需要注意的是，主要 Boss 战在本地合作中暂时关闭，单人内容照常。</description>
+			</item>
+			<item>
 				<title>足球经理自走棋11月7日热修：成就BUG修复，肝帝安心开冲</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-3873760-594f3240/</link>
 				<pubDate>Sat, 07 Nov 2026 20:41:09 +0800</pubDate>

@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 13:10:14 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 16:27:42 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>VALHALLA ARCHIVE: CCG 1.1.4 更新：前期难度曲线重做，萌新开局不再被劝退</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5289190-a0dd7c92/</link>
+				<pubDate>Sun, 08 Nov 2026 16:27:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5289190-a0dd7c92/</guid>
+				<description>英灵殿档案馆又开门了。VALHALLA ARCHIVE: CCG 迎来 1.1.4 版本更新，官方这次把刀口对准了新手期：休闲、高塔、回廊三大模式引入动态难度，前期对手主动放水，你的胜场越多对面越锋利；教程结束后直接弹窗拉你进第一场战斗，告别菜单里发呆的迷茫；顺带修掉了首次登录昵称被旧本地存档顶掉的老 Bug。改动不大，但刀刀砍在留存痛点上，正是入坑的好时机。</description>
+			</item>
+			<item>
+				<title>ROMUL正式发售！开发组三人小队放出路线图，首发折扣同步开启</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4755250-7785aabf/</link>
+				<pubDate>Sun, 08 Nov 2026 14:39:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4755250-7785aabf/</guid>
+				<description>ROMUL 正式在 Steam 发售并开启首发折扣。开发组坦言原计划以抢先体验上线，因开发期连环问题改为正式版，并同步公布路线图。团队已扩编至三人，Demo 测试节期间曾出现新玩家无法启动的事故。官方恳请玩家遇到 Bug 先走主菜单反馈按钮或 Discord 报错，而不是直接甩差评。</description>
+			</item>
 			<item>
 				<title>《Little Cat Goes Fishing》正式发售：治愈系钓鱼新游，小猫陪你甩竿摸鱼</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-5172830-d3eb7951/</link>
@@ -145,6 +159,13 @@
 				<pubDate>Sun, 08 Nov 2026 00:00:18 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-08-227300-4e8b55b7/</guid>
 				<description>SCS On The Road 系列迎来新一期，这次做客的是波兰知名卡车游戏内容创作者 Wujek Bohun。节目里他聊了自己从玩家到创作者的成长轨迹、童年游戏回忆，以及最爱的《欧洲卡车模拟2》DLC 和对未来功能的期待。本期为波兰语原声录制，官方提醒务必打开 YouTube 字幕观看。</description>
+			</item>
+			<item>
+				<title>《Mox Nox》本地双人合作上线：双死神同屏清场，Boss战暂缓开放</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5375770-e6c358e0/</link>
+				<pubDate>Sat, 07 Nov 2026 23:46:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5375770-e6c358e0/</guid>
+				<description>《Mox Nox》本地双人合作正式上线主游戏，Steam 更新后即可在主基地直接开启，无需切换测试分支。双死神同屏作战，各自独立血量、能量、技能与剑姿，友伤关闭，共享高位镜头取代分屏。合作收益可带回主基地，普通击杀招式默认改为可选。需要注意的是，主要 Boss 战在本地合作中暂时关闭，单人内容照常。</description>
 			</item>
 			<item>
 				<title>Terralysia 1.0 正式版上线：武士参战、三张新地图与 20 个新法术齐发</title>
