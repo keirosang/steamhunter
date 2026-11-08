@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 03:18:03 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 10:09:58 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Flirt Simulator》大更新：无限重复约会上线，卡顿与锁区一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4541310-6705cfed/</link>
+				<pubDate>Sun, 08 Nov 2026 10:09:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4541310-6705cfed/</guid>
+				<description>《Flirt Simulator》迎来重磅更新：约会不再是一次性剧情，玩家可无限次重复邀约，角色会记住每一次共度的夜晚并在后续对话中自然提起，好感度直接决定下次能否约成。同时修复了回复卡死问题，慢响应自动重试，服务繁忙会明确提示；在 OpenAI 不可用的地区改由 DeepSeek 驱动，全球玩家均可完整体验。</description>
+			</item>
 			<item>
 				<title>《Underkeep》1.0.4补丁：铁匠卡死修复，Mac也能玩了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</link>

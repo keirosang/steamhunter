@@ -10,21 +10,140 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 07:32:12 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 11:00:06 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Steam新游</title>
-				<link>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</link>
-				<pubDate>Sun, 08 Nov 2026 07:32:12 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</guid>
+				<title>Steam</title>
+				<link>https://info.steamhunter.link/tags/steam/</link>
+				<pubDate>Sun, 08 Nov 2026 11:00:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/steam/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>独立游戏</title>
+				<link>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
+				<pubDate>Sun, 08 Nov 2026 11:00:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>史低</title>
+				<link>https://info.steamhunter.link/tags/%E5%8F%B2%E4%BD%8E/</link>
+				<pubDate>Sun, 08 Nov 2026 11:00:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%8F%B2%E4%BD%8E/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>特惠折扣</title>
+				<link>https://info.steamhunter.link/tags/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/</link>
+				<pubDate>Sun, 08 Nov 2026 11:00:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>寻物解谜</title>
+				<link>https://info.steamhunter.link/tags/%E5%AF%BB%E7%89%A9%E8%A7%A3%E8%B0%9C/</link>
+				<pubDate>Sun, 08 Nov 2026 11:00:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%AF%BB%E7%89%A9%E8%A7%A3%E8%B0%9C/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Flirt Simulator</title>
+				<link>https://info.steamhunter.link/tags/flirt-simulator/</link>
+				<pubDate>Sun, 08 Nov 2026 10:09:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/flirt-simulator/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Steam资讯</title>
+				<link>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</link>
+				<pubDate>Sun, 08 Nov 2026 10:09:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>版本更新</title>
 				<link>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</link>
-				<pubDate>Sun, 08 Nov 2026 07:32:12 +0800</pubDate>
+				<pubDate>Sun, 08 Nov 2026 10:09:58 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>恋爱模拟</title>
+				<link>https://info.steamhunter.link/tags/%E6%81%8B%E7%88%B1%E6%A8%A1%E6%8B%9F/</link>
+				<pubDate>Sun, 08 Nov 2026 10:09:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E6%81%8B%E7%88%B1%E6%A8%A1%E6%8B%9F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>重复约会</title>
+				<link>https://info.steamhunter.link/tags/%E9%87%8D%E5%A4%8D%E7%BA%A6%E4%BC%9A/</link>
+				<pubDate>Sun, 08 Nov 2026 10:09:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E9%87%8D%E5%A4%8D%E7%BA%A6%E4%BC%9A/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dub Party</title>
+				<link>https://info.steamhunter.link/tags/dub-party/</link>
+				<pubDate>Sun, 08 Nov 2026 08:01:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/dub-party/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>联机避坑</title>
+				<link>https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E9%81%BF%E5%9D%91/</link>
+				<pubDate>Sun, 08 Nov 2026 08:01:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E9%81%BF%E5%9D%91/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>配音派对游戏</title>
+				<link>https://info.steamhunter.link/tags/%E9%85%8D%E9%9F%B3%E6%B4%BE%E5%AF%B9%E6%B8%B8%E6%88%8F/</link>
+				<pubDate>Sun, 08 Nov 2026 08:01:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E9%85%8D%E9%9F%B3%E6%B4%BE%E5%AF%B9%E6%B8%B8%E6%88%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wandering Bard</title>
+				<link>https://info.steamhunter.link/tags/wandering-bard/</link>
+				<pubDate>Sun, 08 Nov 2026 07:35:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/wandering-bard/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>存档继承</title>
+				<link>https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E7%BB%A7%E6%89%BF/</link>
+				<pubDate>Sun, 08 Nov 2026 07:35:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E7%BB%A7%E6%89%BF/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>节奏游戏</title>
+				<link>https://info.steamhunter.link/tags/%E8%8A%82%E5%A5%8F%E6%B8%B8%E6%88%8F/</link>
+				<pubDate>Sun, 08 Nov 2026 07:35:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E8%8A%82%E5%A5%8F%E6%B8%B8%E6%88%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>正式版上线</title>
+				<link>https://info.steamhunter.link/tags/%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF/</link>
+				<pubDate>Sun, 08 Nov 2026 07:35:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Steam新游</title>
+				<link>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</link>
+				<pubDate>Sun, 08 Nov 2026 07:33:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>音乐节奏</title>
+				<link>https://info.steamhunter.link/tags/%E9%9F%B3%E4%B9%90%E8%8A%82%E5%A5%8F/</link>
+				<pubDate>Sun, 08 Nov 2026 07:33:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E9%9F%B3%E4%B9%90%E8%8A%82%E5%A5%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -49,13 +168,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Steam资讯</title>
-				<link>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</link>
-				<pubDate>Sun, 08 Nov 2026 03:18:03 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Underkeep</title>
 				<link>https://info.steamhunter.link/tags/underkeep/</link>
 				<pubDate>Sun, 08 Nov 2026 03:18:03 +0800</pubDate>
@@ -70,13 +182,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Steam</title>
-				<link>https://info.steamhunter.link/tags/steam/</link>
-				<pubDate>Sun, 08 Nov 2026 03:03:30 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/steam/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Terralysia</title>
 				<link>https://info.steamhunter.link/tags/terralysia/</link>
 				<pubDate>Sun, 08 Nov 2026 03:03:30 +0800</pubDate>
@@ -88,13 +193,6 @@
 				<link>https://info.steamhunter.link/tags/%E6%96%B0%E8%81%8C%E4%B8%9A%E6%AD%A6%E5%A3%AB/</link>
 				<pubDate>Sun, 08 Nov 2026 03:03:30 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E6%96%B0%E8%81%8C%E4%B8%9A%E6%AD%A6%E5%A3%AB/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>正式版上线</title>
-				<link>https://info.steamhunter.link/tags/%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF/</link>
-				<pubDate>Sun, 08 Nov 2026 03:03:30 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -210,13 +308,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>独立游戏</title>
-				<link>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
-				<pubDate>Sun, 08 Nov 2026 00:38:13 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>热修复</title>
 				<link>https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E5%A4%8D/</link>
 				<pubDate>Sun, 08 Nov 2026 00:38:13 +0800</pubDate>
@@ -228,13 +319,6 @@
 				<link>https://info.steamhunter.link/tags/%E8%AE%BE%E7%BD%AE%E8%8F%9C%E5%8D%95bug/</link>
 				<pubDate>Sun, 08 Nov 2026 00:38:13 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E8%AE%BE%E7%BD%AE%E8%8F%9C%E5%8D%95bug/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Dub Party</title>
-				<link>https://info.steamhunter.link/tags/dub-party/</link>
-				<pubDate>Sun, 08 Nov 2026 00:22:12 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/dub-party/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -557,20 +641,6 @@
 				<link>https://info.steamhunter.link/tags/%E7%BB%8F%E8%90%A5%E6%A8%A1%E6%8B%9F/</link>
 				<pubDate>Sat, 07 Nov 2026 14:00:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E7%BB%8F%E8%90%A5%E6%A8%A1%E6%8B%9F/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>史低</title>
-				<link>https://info.steamhunter.link/tags/%E5%8F%B2%E4%BD%8E/</link>
-				<pubDate>Sat, 07 Nov 2026 14:00:05 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E5%8F%B2%E4%BD%8E/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>特惠折扣</title>
-				<link>https://info.steamhunter.link/tags/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/</link>
-				<pubDate>Sat, 07 Nov 2026 14:00:05 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1806,13 +1876,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>联机避坑</title>
-				<link>https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E9%81%BF%E5%9D%91/</link>
-				<pubDate>Fri, 06 Nov 2026 22:41:13 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E9%81%BF%E5%9D%91/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>热修</title>
 				<link>https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE/</link>
 				<pubDate>Fri, 06 Nov 2026 22:41:13 +0800</pubDate>
@@ -2765,13 +2828,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>音乐节奏</title>
-				<link>https://info.steamhunter.link/tags/%E9%9F%B3%E4%B9%90%E8%8A%82%E5%A5%8F/</link>
-				<pubDate>Fri, 06 Nov 2026 06:17:49 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E9%9F%B3%E4%B9%90%E8%8A%82%E5%A5%8F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Levant Guard</title>
 				<link>https://info.steamhunter.link/tags/levant-guard/</link>
 				<pubDate>Fri, 06 Nov 2026 05:01:54 +0800</pubDate>
@@ -3602,13 +3658,6 @@
 				<link>https://info.steamhunter.link/tags/mupo/</link>
 				<pubDate>Thu, 05 Nov 2026 23:00:01 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/mupo/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>节奏游戏</title>
-				<link>https://info.steamhunter.link/tags/%E8%8A%82%E5%A5%8F%E6%B8%B8%E6%88%8F/</link>
-				<pubDate>Thu, 05 Nov 2026 23:00:01 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E8%8A%82%E5%A5%8F%E6%B8%B8%E6%88%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -4935,7 +4984,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Mod支持</title>
+				<title>MOD支持</title>
 				<link>https://info.steamhunter.link/tags/mod%E6%94%AF%E6%8C%81/</link>
 				<pubDate>Thu, 05 Nov 2026 01:44:55 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/mod%E6%94%AF%E6%8C%81/</guid>
@@ -5926,13 +5975,6 @@
 				<link>https://info.steamhunter.link/tags/%E6%88%90%E5%B0%B1%E7%B3%BB%E7%BB%9F/</link>
 				<pubDate>Wed, 04 Nov 2026 10:03:28 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E6%88%90%E5%B0%B1%E7%B3%BB%E7%BB%9F/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>存档继承</title>
-				<link>https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E7%BB%A7%E6%89%BF/</link>
-				<pubDate>Wed, 04 Nov 2026 10:03:28 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E7%BB%A7%E6%89%BF/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -12618,13 +12660,6 @@
 				<link>https://info.steamhunter.link/tags/hospital-rhapsody/</link>
 				<pubDate>Thu, 29 Oct 2026 21:35:00 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/hospital-rhapsody/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>恋爱模拟</title>
-				<link>https://info.steamhunter.link/tags/%E6%81%8B%E7%88%B1%E6%A8%A1%E6%8B%9F/</link>
-				<pubDate>Thu, 29 Oct 2026 21:35:00 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E6%81%8B%E7%88%B1%E6%A8%A1%E6%8B%9F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -21693,7 +21728,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>SIFU</title>
+				<title>Sifu</title>
 				<link>https://info.steamhunter.link/tags/sifu/</link>
 				<pubDate>Sat, 10 Oct 2026 15:35:04 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/sifu/</guid>

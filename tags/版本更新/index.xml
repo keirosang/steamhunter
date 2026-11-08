@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 07:32:12 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 10:09:58 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Flirt Simulator》大更新：无限重复约会上线，卡顿与锁区一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4541310-6705cfed/</link>
+				<pubDate>Sun, 08 Nov 2026 10:09:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4541310-6705cfed/</guid>
+				<description>《Flirt Simulator》迎来重磅更新：约会不再是一次性剧情，玩家可无限次重复邀约，角色会记住每一次共度的夜晚并在后续对话中自然提起，好感度直接决定下次能否约成。同时修复了回复卡死问题，慢响应自动重试，服务繁忙会明确提示；在 OpenAI 不可用的地区改由 DeepSeek 驱动，全球玩家均可完整体验。</description>
+			</item>
+			<item>
+				<title>Dub Party 1.0.1 更新实装：逐句音量淡入淡出、群体配音上线，韩语菲律宾语齐开</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5259730-5cd907cd/</link>
+				<pubDate>Sun, 08 Nov 2026 08:01:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5259730-5cd907cd/</guid>
+				<description>配音派对游戏 Dub Party 迎来 1.0.1 版本更新：录音棚新增单句音量与淡入淡出调节、CROWD 群体人声音色、麦克风实时监听，历史记录支持整轮回放并可直接存成视频，韩语与菲律宾语同步上线，场景还能导出成单文件发给好友。另有一批联机、创意工坊与显示问题修复，1.0.0 与 1.0.1 版本仍可同房开黑。</description>
+			</item>
+			<item>
+				<title>《Wandering Bard》正式版存档继承指南：回归米尔黑文先热手</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5076430-04f42d9e/</link>
+				<pubDate>Sun, 08 Nov 2026 07:35:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5076430-04f42d9e/</guid>
+				<description>米尔黑文的路重新开放——《Wandering Bard》结束抢先体验，1.0 正式版上线，老玩家的 EA 存档可以完整带过来。标题界面或设置里进入导入器，预览角色、当前城镇与已学曲目后确认导入；EA 原始文件保留、当前 1.0 存档自动备份，旧谱面成绩转入独立的 legacy 记录。开演前先去 Quick Play 和 Rehearsal Room 热手，画面与节拍对不上就回设置里做校准。</description>
+			</item>
 			<item>
 				<title>《VALHALLA ARCHIVE: CCG》正式上线：百张卡牌跨端同号，竖屏战术开冲</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-5289190-e0af6ac4/</link>
