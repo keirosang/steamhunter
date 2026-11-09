@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 01:24:08 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 02:51:17 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/retro-rewind/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Retro Rewind》小补丁大优化：显存骤降，低配也能开录像带店</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3552140-581c14d0/</link>
+				<pubDate>Sat, 07 Nov 2026 02:51:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3552140-581c14d0/</guid>
+				<description>录像带店主们注意！《Retro Rewind - Video Store Simulator》推送 2511 小补丁：GPU 粒子系统大幅瘦身、远景顾客购物篮多余调用裁剪、性能面板刷新率由 30 降至 22，另补纸箱贴图与英德俄本地化修正。补丁体积不大，专治低配电脑与掌机卡顿，本文逐条拆解并给出调优建议。</description>
+			</item>
 			<item>
 				<title>Retro Rewind大更新：视频游戏租赁、封禁系统与七折特惠齐上线</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-3552140-6f32626f/</link>

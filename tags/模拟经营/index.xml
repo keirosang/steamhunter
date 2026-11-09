@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 15:05:24 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 19:01:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Kimbap Heaven Simulator》外墙漏光热修上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4206910-5798c63d/</link>
+				<pubDate>Mon, 09 Nov 2026 19:01:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4206910-5798c63d/</guid>
+				<description>《Kimbap Heaven Simulator》推送 1.00.1 热修，修复餐厅内部灯光穿到外墙的显示问题。此前布置店内照明后，门面可能冒异常光斑，影响截图与沉浸感；更新后外墙光照更干净，门面装修和夜景展示更靠谱。不影响存档，建议更新后进店验货。</description>
+			</item>
+			<item>
+				<title>Music Manager 今日发售：官方劝你先玩免费Demo再掏钱，存档还能直接继承</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4611240-e6feebe5/</link>
+				<pubDate>Mon, 09 Nov 2026 18:26:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4611240-e6feebe5/</guid>
+				<description>音乐厂牌模拟经营游戏《Music Manager》正式登陆 Steam！开发者罕见发声：这是一款复杂且挑人的硬核作品，强烈建议先下载免费 Demo 试玩。Demo 拥有完整游戏内容，仅限制游玩时长，且存档可在购买正式版后无缝继承。本文整理发售要点、试玩机制与入手建议。</description>
+			</item>
+			<item>
+				<title>紫菜包饭天堂模拟器1.0正式上线：韩语配音、联机聊天与多项优化齐至</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4206910-61114325/</link>
+				<pubDate>Mon, 09 Nov 2026 16:31:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4206910-61114325/</guid>
+				<description>《Kimbap Heaven Simulator》迎来1.0正式版！这次不只是挂个“正式”名头：韩语配音上线、英语配音更新、多人聊天加入，叠盘与托盘交互更顺手，最少顾客数降到4位，还会把做不了的订单顾客标成“Troublemaker”。当然，聊天功能可能重置自定义键位，开玩前记得检查。本文把更新重点、联机避坑和上手建议一次讲清。</description>
+			</item>
 			<item>
 				<title>《Cinema Theater Tycoon》正式发售：双人开发三年，横跨百年电影史，首发9折</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-3433110-47ab9148/</link>
@@ -47,6 +68,13 @@
 				<pubDate>Sat, 07 Nov 2026 08:22:08 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-5217960-234044f7/</guid>
 				<description>《Jewelry Keeper》现已登陆 Steam，LUXORIA 珠宝店正式开门，十座展柜与 3472 个陈列位等你布置。官方同时上线游戏内工单系统：从主菜单 Support 或暂停菜单 Report a problem 提交问题，会自动附带存档与运行环境信息，便于快速定位和修复。</description>
+			</item>
+			<item>
+				<title>《Retro Rewind》小补丁大优化：显存骤降，低配也能开录像带店</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3552140-581c14d0/</link>
+				<pubDate>Sat, 07 Nov 2026 02:51:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3552140-581c14d0/</guid>
+				<description>录像带店主们注意！《Retro Rewind - Video Store Simulator》推送 2511 小补丁：GPU 粒子系统大幅瘦身、远景顾客购物篮多余调用裁剪、性能面板刷新率由 30 降至 22，另补纸箱贴图与英德俄本地化修正。补丁体积不大，专治低配电脑与掌机卡顿，本文逐条拆解并给出调优建议。</description>
 			</item>
 			<item>
 				<title>《西部商店模拟器》更新：狂野西部开成人用品店，做生意还是看戏？</title>

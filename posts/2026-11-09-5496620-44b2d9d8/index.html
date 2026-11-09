@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Faun Engine免费发布：零版税引擎，1.1.0新增着色器与地形 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="独立开发者Pedro Verpha打造的免费轻量级2D/3D游戏引擎Faun Engine现已上架Steam！支持C#脚本与可视化编辑器，内置物理、动画、UI、地形、水、粒子等全套工具，免费使用且无版税，可商业发售。首发更新1.1.0带来HLSL着色器、材质工具、地形编辑、反射探针、ScriptableObject等，诚意满满，快来入库开造！">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Faun Engine免费发布：零版税引擎，1.1.0新增着色器与地形">
+  <meta property="og:description" content="独立开发者Pedro Verpha打造的免费轻量级2D/3D游戏引擎Faun Engine现已上架Steam！支持C#脚本与可视化编辑器，内置物理、动画、UI、地形、水、粒子等全套工具，免费使用且无版税，可商业发售。首发更新1.1.0带来HLSL着色器、材质工具、地形编辑、反射探针、ScriptableObject等，诚意满满，快来入库开造！">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-09-5496620-44b2d9d8/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/212ce397cc700e6c.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-09-5496620-44b2d9d8/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Faun Engine免费发布：零版税引擎，1.1.0新增着 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Faun Engine</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5496620</span>
+      
+    </div>
+
+    <h1 class="article-title">Faun Engine免费发布：零版税引擎，1.1.0新增着色器与地形</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-09T19:15:28&#43;08:00" class="meta-date">
+          📅 2026-11-09 19:15
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2094 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5496620/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5496620" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/212ce397cc700e6c.jpg" alt="Faun Engine免费发布：零版税引擎，1.1.0新增着色器与地形" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>独立开发者Pedro Verpha打造的免费轻量级2D/3D游戏引擎Faun Engine现已上架Steam！支持C#脚本与可视化编辑器，内置物理、动画、UI、地形、水、粒子等全套工具，免费使用且无版税，可商业发售。首发更新1.1.0带来HLSL着色器、材质工具、地形编辑、反射探针、ScriptableObject等，诚意满满，快来入库开造！
+      </div>
+      
+
+      <div class="article-body">
+        <p>各位硬核玩家和未来游戏制作人们，今天咱们不聊3A大作，来点真·生产力工具——独立开发者Pedro Verpha一个人肝出来的免费轻量级2D/3D游戏引擎 <strong>Faun Engine</strong> 正式上架Steam了！免费入库，零版税，你做的游戏想卖就卖，这波诚意我先干为敬。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>免费+零版税</strong>：Faun Engine完全免费使用，没有 royalties，你可以用它开发并销售自己的游戏，独立开发者狂喜。</li>
+<li><strong>2D/3D通吃</strong>：支持精灵、瓦片地图、3D模型、光照、摄像机，C#脚本驱动，可视化编辑器灵活布局。</li>
+<li><strong>首发即更新1.1.0</strong>：自定义HLSL着色器、材质工具、地形编辑、水、反射探针、粒子、ScriptableObject数据资产，还有动画工具、玩家控制器模板、编辑器响应性和渲染一致性改进。</li>
+<li><strong>上手友好</strong>：内置文档、API参考和实用示例，从学习项目到商业发布都能撑得住。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<p><strong>Faun Engine到底能干啥？</strong></p>
+<p>简单说，这是一个组件化工作流的引擎，你可以在可视化编辑器里拖拽面板、检查资源、创建可复用预制体，还能直接在编辑器里测试玩法。核心模块包括：</p>
+<ul>
+<li><strong>2D和3D开发</strong>：精灵、瓦片地图、3D模型、光照、相机，甚至地形、水、雾、反射和后期处理都有。</li>
+<li><strong>C#脚本系统</strong>：通过组件和可配置属性写游戏逻辑，调用引擎API，熟悉Unity那套的玩家会觉得很亲切。</li>
+<li><strong>游戏必备</strong>：物理、角色控制器、动画、音频、UI，一套带走。</li>
+<li><strong>世界构建与特效</strong>：地形塑造、水面、粒子、雾效、反射探针、后期处理，氛围感拉满。</li>
+</ul>
+<p><strong>Update 1.1.0 带来了什么？</strong></p>
+<p>首发版本直接塞进1.1.0更新，包括：扩展的自定义HLSL着色器和材质工具、地形编辑、水、反射探针、粒子、可复用的ScriptableObject数据资产，还有改进的动画工具、更丰富的资源预览、玩家控制器模板，以及编辑器响应性、渲染一致性和游戏导出的优化。一句话总结：从第一天起就能干活。</p>
+<p><strong>独立开发者的真心话</strong></p>
+<p>Pedro在公告里说：“作为一个独立开发者，看到别人用我做的东西创造内容，对我来说意义重大。”他邀请大家去社区Hub分享截图、实验和可玩项目，反馈和bug报告也会帮助引擎继续成长。这种小作坊式的真诚，在如今的大厂内卷环境里，还挺让人动容的。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>第一步：免费入库</strong></p>
+<p>打开Steam，搜索“Faun Engine”，或者直接进入商店页（AppID: 5496620），点击“添加至库”即可永久拥有。不需要买本体，也没有DLC套路，真·免费。</p>
+<p><strong>第二步：下载安装与配置</strong></p>
+<p>引擎轻量级，对硬件要求不高，但如果你要做3D场景、粒子特效和实时反射，建议还是有一块独立显卡。安装后打开编辑器，先别急着造大作，去文档里翻翻示例项目，跑一跑官方给的demo，熟悉一下组件化流程。</p>
+<p><strong>第三步：从“Hello World”到第一个小游戏</strong></p>
+<ul>
+<li>用C#脚本挂一个简单的移动组件，试试角色控制器模板。</li>
+<li>用瓦片地图搭个2D平台跳跃关卡，或者拖个3D模型进去调调光照。</li>
+<li>试试地形编辑和水面，加个雾效，氛围感直接拉满。</li>
+<li>做完后导出游戏，在本地测试，或者传到社区Hub让大家试玩。</li>
+</ul>
+<p><strong>第四步：开黑协作？</strong></p>
+<p>Faun Engine目前没强调多人协作功能，但你可以把项目文件分享给朋友，大家各自用编辑器打开。如果是小团队，建议用版本控制工具管理代码和资源。遇到bug别慌，去社区Hub反馈，Pedro本人会看。</p>
+<p><strong>购买建议</strong></p>
+<p>免费的还要啥购买建议？直接入库就完事了。如果你未来想靠游戏赚钱，记得看看引擎的许可证——它明确写了免费、无版税、可商用，卖游戏不用给开发者分成。这比某些“免费引擎抽成5%”良心多了。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间获取Steam限免、特惠和喜加一情报？强烈建议加入官方Telegram频道 <strong>@steamhunterlink</strong>，秒级推送，不错过任何背刺和福利。虽然Faun Engine是永久免费，但频道里经常有别的游戏白嫖机会，顺手关注不亏。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：Faun Engine真的完全免费吗？有没有隐藏收费或抽成？</strong></p>
+<p>A：真·完全免费。官方明确写了“free to use, with no royalties”，你用它开发游戏并销售，不需要支付任何版税或分成。没有订阅制，没有强制水印（当前版本没提水印，应该没有）。</p>
+<p><strong>Q2：我没有编程基础，能学会吗？</strong></p>
+<p>A：需要一点C#基础。虽然可视化编辑器能帮你搭建场景和预制体，但游戏逻辑还是得写脚本。不过官方提供了文档、API参考和示例，照着抄改改就能跑起来。如果你学过Unity的C#，上手会非常快。</p>
+<p><strong>Q3：和Unity、Godot比，Faun Engine值得用吗？</strong></p>
+<p>A：它定位是轻量级、免费、无版税的引擎，功能还在成长中。适合小型项目、学习实验、Game Jam，或者你想完全掌控引擎且不想被抽成。如果你要做大型3D商业项目，它目前可能还不够成熟，但作为独立开发者的诚意之作，值得入库关注，未来可期。</p>
+<p><strong>Q4：更新1.1.0需要手动操作吗？</strong></p>
+<p>A：Steam会自动更新。如果你刚入库，下载的就是最新版本（已包含1.1.0）。后续更新也会通过Steam推送，保持客户端在线即可。</p>
+<p>—— 主理人寄语：独立开发不易，免费引擎更难得。入库支持一波，说不定下一个爆款游戏就从Faun Engine里诞生了。咱们社区Hub见！</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Faun%20Engine/" class="article-tag-item">#Faun Engine</a>
+          
+          <a href="/tags/%e5%85%8d%e8%b4%b9%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e/" class="article-tag-item">#免费游戏引擎</a>
+          
+          <a href="/tags/C#%e8%84%9a%e6%9c%ac/" class="article-tag-item">#C#脚本</a>
+          
+          <a href="/tags/2D/3D%e5%bc%80%e5%8f%91/" class="article-tag-item">#2D/3D开发</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-09-5496620-44b2d9d8/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-09-4206910-5798c63d/" class="sibling-title">《Kimbap Heaven Simulator》外墙漏光热修上线</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-09-236390-2e67e9f2/" class="sibling-title">战争雷霆一战活动回归：福克D.VII与SPAD S.XIII永久入库</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a></li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

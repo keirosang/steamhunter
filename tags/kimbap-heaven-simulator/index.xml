@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 20:23:54 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 19:01:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/kimbap-heaven-simulator/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Kimbap Heaven Simulator》外墙漏光热修上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4206910-5798c63d/</link>
+				<pubDate>Mon, 09 Nov 2026 19:01:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4206910-5798c63d/</guid>
+				<description>《Kimbap Heaven Simulator》推送 1.00.1 热修，修复餐厅内部灯光穿到外墙的显示问题。此前布置店内照明后，门面可能冒异常光斑，影响截图与沉浸感；更新后外墙光照更干净，门面装修和夜景展示更靠谱。不影响存档，建议更新后进店验货。</description>
+			</item>
 			<item>
 				<title>Kimbap Heaven Simulator热修1.41.2：员工AI与炸锅逻辑双优化</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</link>

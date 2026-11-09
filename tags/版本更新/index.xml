@@ -10,15 +10,57 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 13:32:12 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 18:39:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Limbus Company》11月12日更新：卡池轮换与平衡调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-1973530-dbcbadff/</link>
+				<pubDate>Mon, 09 Nov 2026 18:39:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-1973530-dbcbadff/</guid>
+				<description>11月12日《Limbus Company》例行更新公告落地：卡池轮换、剧情内容与平衡性调整同步上线，官方还顺手修完了 EN/JP 公告的错别字并同步更换了配图。本篇帮你捋清维护时间窗、这期该不该下池、更新后的开荒顺序，以及维护补偿的领取要点，钟表头们记得提前结算镜像地牢。</description>
+			</item>
+			<item>
+				<title>战争雷霆新版本渲染大改：坦克积雪会融化、机翼拉出水汽、海面终于肯反光了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-236390-8bb58c27/</link>
+				<pubDate>Mon, 09 Nov 2026 17:21:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-236390-8bb58c27/</guid>
+				<description>Eagle&amp;rsquo;s Shadow 大版本给战雷换了套渲染引擎。坦克的雪泥灰系统推倒重做，积雪有立体厚度、还会被发动机和炮管烤化；空战加入湿度模型与机翼水汽面，湿度越高拉得越夸张；海战终于让炮口火光、起火和探照灯在水面上拥有自己的倒影。本文把三大改动拆开讲清楚，并附上画质设置与实战观感建议。</description>
+			</item>
+			<item>
+				<title>紫菜包饭天堂模拟器1.0正式上线：韩语配音、联机聊天与多项优化齐至</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4206910-61114325/</link>
+				<pubDate>Mon, 09 Nov 2026 16:31:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4206910-61114325/</guid>
+				<description>《Kimbap Heaven Simulator》迎来1.0正式版！这次不只是挂个“正式”名头：韩语配音上线、英语配音更新、多人聊天加入，叠盘与托盘交互更顺手，最少顾客数降到4位，还会把做不了的订单顾客标成“Troublemaker”。当然，聊天功能可能重置自定义键位，开玩前记得检查。本文把更新重点、联机避坑和上手建议一次讲清。</description>
+			</item>
+			<item>
+				<title>旅行猫降临节日历上线！25关黑白彩色双模式，两年半打造的休闲解谜小品</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-2806540-8b838b98/</link>
+				<pubDate>Mon, 09 Nov 2026 14:35:24 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-2806540-8b838b98/</guid>
+				<description>独立开发者Patrick耗时两年半打造的《Travellin Cats Advent Calendar》正式上线Steam，包含25个关卡，提供经典黑白与彩色两种视觉模式，主打放松舒适的轻度解谜体验。开发者坦言游戏刻意保持简单，只为给玩家带来一段温暖惬意的时光。上线首周的评价对小团队至关重要，如果你喜欢这类治愈小品，不妨入手体验并留下评测。</description>
+			</item>
 			<item>
 				<title>《Pin-Finite》1.0.1更新：屏幕震动滑块与商店UI修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-4861910-9b50675b/</link>
 				<pubDate>Mon, 09 Nov 2026 13:32:12 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-09-4861910-9b50675b/</guid>
 				<description>《Pin-Finite》推送 1.0.1 小版本更新，别看体量不大，解决的却都是玩家每天会碰到的痛点：新增屏幕震动滑块，让容易晕屏或不喜欢镜头抖动的玩家能自己掌控手感；同时修复商店里若干随机 UI 问题，减少误点和界面错位。本文帮你快速看懂改动、调好设置，并判断这次更新值不值得回坑。</description>
+			</item>
+			<item>
+				<title>《Unique Sword》新玩法「剑刃朝圣」：边走边拼剑的肉鸽构筑解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5472780-45cafea2/</link>
+				<pubDate>Mon, 09 Nov 2026 12:51:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5472780-45cafea2/</guid>
+				<description>《Unique Sword》官方详解「剑刃朝圣」模式：剑匣用 WASD 或手柄左摇杆走位，环绕身周的剑自动开火，捡球升级后从三张卡里挑一张，边跑边拼出你的专属剑组。装备自动组装，同名重复拾取可升星，部件升星解锁进化效果，宝箱还能开出剑技与剑阵。每局结算产出剑魂，投入天赋与剑阁做长期解锁。四个章节，普通难度通关后解锁该章节的困难模式。</description>
+			</item>
+			<item>
+				<title>《Pick Squad》1.0上线：180单位33羁绊自定义牌组开团</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4492480-daa1a66b/</link>
+				<pubDate>Mon, 09 Nov 2026 09:54:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4492480-daa1a66b/</guid>
+				<description>《Pick Squad》v1.0.0 正式版现已上线！首发带来 3 套初始牌组、180 个单位与 33 个羁绊技能，支持自定义牌组构筑。54 件宝物、28 种果实与 17 个大型 Boss 构成完整冒险循环。本文梳理版本亮点、开荒牌组思路与上手避坑建议，想入坑的玩家别错过。</description>
 			</item>
 			<item>
 				<title>《土豆请》1.0.4更新：通关后可继续剥皮、存档自动备份与手感修复</title>
@@ -215,6 +257,13 @@
 				<pubDate>Sat, 07 Nov 2026 02:54:36 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-4435490-0e2d4b6c/</guid>
 				<description>微软与动视正式公布新版《使命召唤：战区》，并与《使命召唤：现代战争4》完成全面整合，赛季内容整盘从头起算；与此同时，Xbox One 与 PS4 版战区正式下线，老主机玩家的免费大逃杀时代就此收尾。本文梳理整合后的机制变化、老平台玩家的账号与进度去向、Steam 端入手与配置建议，以及新赛季开荒的上手要点，帮你少踩坑、少走弯路。</description>
+			</item>
+			<item>
+				<title>《Retro Rewind》小补丁大优化：显存骤降，低配也能开录像带店</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-3552140-581c14d0/</link>
+				<pubDate>Sat, 07 Nov 2026 02:51:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-3552140-581c14d0/</guid>
+				<description>录像带店主们注意！《Retro Rewind - Video Store Simulator》推送 2511 小补丁：GPU 粒子系统大幅瘦身、远景顾客购物篮多余调用裁剪、性能面板刷新率由 30 降至 22，另补纸箱贴图与英德俄本地化修正。补丁体积不大，专治低配电脑与掌机卡顿，本文逐条拆解并给出调优建议。</description>
 			</item>
 			<item>
 				<title>Apex英雄11.6更新：E-District夜图下线，视野优化前瞻</title>

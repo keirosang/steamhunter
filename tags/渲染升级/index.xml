@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>渲染升级 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%B8%B2%E6%9F%93%E5%8D%87%E7%BA%A7/</link>
+		<description>Recent content in 渲染升级 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 17:21:33 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%B8%B2%E6%9F%93%E5%8D%87%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆新版本渲染大改：坦克积雪会融化、机翼拉出水汽、海面终于肯反光了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-236390-8bb58c27/</link>
+				<pubDate>Mon, 09 Nov 2026 17:21:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-236390-8bb58c27/</guid>
+				<description>Eagle&amp;rsquo;s Shadow 大版本给战雷换了套渲染引擎。坦克的雪泥灰系统推倒重做，积雪有立体厚度、还会被发动机和炮管烤化；空战加入湿度模型与机翼水汽面，湿度越高拉得越夸张；海战终于让炮口火光、起火和探照灯在水面上拥有自己的倒影。本文把三大改动拆开讲清楚，并附上画质设置与实战观感建议。</description>
+			</item>
+	</channel>
+</rss>

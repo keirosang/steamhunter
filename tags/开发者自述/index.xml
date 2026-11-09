@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>开发者自述 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%BC%80%E5%8F%91%E8%80%85%E8%87%AA%E8%BF%B0/</link>
+		<description>Recent content in 开发者自述 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 18:10:42 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%BC%80%E5%8F%91%E8%80%85%E8%87%AA%E8%BF%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Armed Prisoner III》开发自述：从模组到独立游戏</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5476770-1fe080c7/</link>
+				<pubDate>Mon, 09 Nov 2026 18:10:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5476770-1fe080c7/</guid>
+				<description>《Armed Prisoner III》官方页面带来开发者Paul Kinnair的自述：这款监狱题材独立游戏源自《监狱建筑师》模组构想，借助Unity 2022完成落地，商业版仍保留大量致敬元素，系列收入也将继续投入后续维护与升级。本期梳理这封开发信透露的关键信息、适合哪些玩家，以及入库前要注意的预期管理。</description>
+			</item>
+	</channel>
+</rss>

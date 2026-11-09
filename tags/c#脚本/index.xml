@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>C#脚本 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/c%23%E8%84%9A%E6%9C%AC/</link>
+		<description>Recent content in C#脚本 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 19:15:28 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/c%23%E8%84%9A%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Faun Engine免费发布：零版税引擎，1.1.0新增着色器与地形</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5496620-44b2d9d8/</link>
+				<pubDate>Mon, 09 Nov 2026 19:15:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5496620-44b2d9d8/</guid>
+				<description>独立开发者Pedro Verpha打造的免费轻量级2D/3D游戏引擎Faun Engine现已上架Steam！支持C#脚本与可视化编辑器，内置物理、动画、UI、地形、水、粒子等全套工具，免费使用且无版税，可商业发售。首发更新1.1.0带来HLSL着色器、材质工具、地形编辑、反射探针、ScriptableObject等，诚意满满，快来入库开造！</description>
+			</item>
+	</channel>
+</rss>
