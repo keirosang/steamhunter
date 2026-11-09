@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 22:47:04 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 00:41:39 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%A1%A5%E4%B8%81%E8%AF%B4%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sword of the Last Second 1.0补丁：剑链半价</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5238670-fc4b63b8/</link>
+				<pubDate>Sun, 08 Nov 2026 00:41:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5238670-fc4b63b8/</guid>
+				<description>《Sword of the Last Second》V1.0.0 补丁即将随正式版上线，Demo 与完整游戏同步调整：Sword Link 升级费用从 200 降到 100，击打晶体碎片的命中判定更靠谱，升级说明字号缩小、爆炸音效略降，关卡选择占位文本与挑战 1/3 图片也一并修正。对准备入坑或回坑的玩家来说，这一版更像发售前的体验打磨，前期 build 更敢点，UI 也更利落。</description>
+			</item>
 			<item>
 				<title>《伊莫》补丁上线：DLSS帧生成修复、笔记本卡顿治理与技能BUG清扫</title>
 				<link>https://info.steamhunter.link/posts/2026-11-06-4126040-1393334b/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 02 Nov 2026 19:48:09 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 09:48:30 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Scam With Your Friends》0.1.99更新：云语音识别上线，俄语语音优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4954910-03b6dfbc/</link>
+				<pubDate>Mon, 09 Nov 2026 09:48:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4954910-03b6dfbc/</guid>
+				<description>Steam 联机骗术模拟《Scam With Your Friends》推送 0.1.99 更新：云端 Whisper Large 语音识别顶替退休的 Gladia 正式上线，本地识别漏词时可自动兜底，葡语玩家终于不用对着麦克风干瞪眼，俄语转写与 MOSS 语音也同步优化。玩法侧，IP 定位来电者开始按性格与对话节奏决定挂断时机，地图追踪支持全球任意落点，Lock Trace 一键锁定更显眼。联机部分修复了 Streamer Mode 下队友屏幕消失、屏幕采集崩溃以及卡在椅子里等问题。</description>
+			</item>
 			<item>
 				<title>《恐鬼症》Resonance更新定档11月底 Unity 6升级与语音互动齐上阵</title>
 				<link>https://info.steamhunter.link/posts/2026-11-02-739630-d0c64544/</link>

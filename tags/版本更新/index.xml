@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 22:04:15 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 02:00:16 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战地风云6更新2.1.2.0：欧洲赌场新图、排行榜与武器平衡全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-2807960-6d200847/</link>
+				<pubDate>Tue, 10 Nov 2026 02:00:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-2807960-6d200847/</guid>
+				<description>《战地风云6》2.1.2.0版本11月10日上线：全新欧洲赌场地图与Casino Heist活动带来DOUGH限时货币，NSW4卡宾枪、ADS-17干扰器、M142 MRAS火箭炮加入战场，赛季排行榜与海量武器配件平衡同步实装。本文拆解核心改动、开黑思路与更新注意事项，帮你第一时间少走弯路。</description>
+			</item>
+			<item>
+				<title>EA SPORTS FC 27更新：95深度防守调整，边后卫不再漏人</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4080220-98a52466/</link>
+				<pubDate>Tue, 10 Nov 2026 00:05:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4080220-98a52466/</guid>
+				<description>EA SPORTS FC 27 标题更新 v1.2.0 于11月10日登陆PS、Xbox和PC，Switch 11月12日跟进。本次重点调整95深度防守站位、边后卫防线、进攻跑位与开球防守，并修复FUT、生涯模式和The Grounds问题。主理人划重点：哪些改动影响联机、怎么快速上手，以及更新前后的避坑建议。</description>
+			</item>
+			<item>
+				<title>《PEAK》3.1.0 补丁上线：房间码加长防内鬼，手柄冲刺攀爬改为按住触发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-3527290-81378b74/</link>
+				<pubDate>Mon, 09 Nov 2026 22:44:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-3527290-81378b74/</guid>
+				<description>《PEAK》3.1.0 补丁正式推送：房间码加长以提升联机安全性，手柄冲刺与攀爬改为按住触发并支持按住、切换两种模式，同时修复手柄攀爬无法同键取消的老毛病，踩队友脑袋的经典玩法回归，并新增多种防捣乱保护。官方还顺带解释了游戏体积暴涨的真相——3.0 跨平台更新一次性塞进 208 张地图。本次补丁以稳定性与操作手感为主，无新增地图与道具。</description>
+			</item>
 			<item>
 				<title>《僵尸毁灭工程》42.22.2稳定版：梯子与撬棍上线，平衡大修</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-108600-c28cc29a/</link>
@@ -96,6 +117,13 @@
 				<pubDate>Mon, 09 Nov 2026 09:54:59 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-09-4492480-daa1a66b/</guid>
 				<description>《Pick Squad》v1.0.0 正式版现已上线！首发带来 3 套初始牌组、180 个单位与 33 个羁绊技能，支持自定义牌组构筑。54 件宝物、28 种果实与 17 个大型 Boss 构成完整冒险循环。本文梳理版本亮点、开荒牌组思路与上手避坑建议，想入坑的玩家别错过。</description>
+			</item>
+			<item>
+				<title>《Scam With Your Friends》0.1.99更新：云语音识别上线，俄语语音优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4954910-03b6dfbc/</link>
+				<pubDate>Mon, 09 Nov 2026 09:48:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4954910-03b6dfbc/</guid>
+				<description>Steam 联机骗术模拟《Scam With Your Friends》推送 0.1.99 更新：云端 Whisper Large 语音识别顶替退休的 Gladia 正式上线，本地识别漏词时可自动兜底，葡语玩家终于不用对着麦克风干瞪眼，俄语转写与 MOSS 语音也同步优化。玩法侧，IP 定位来电者开始按性格与对话节奏决定挂断时机，地图追踪支持全球任意落点，Lock Trace 一键锁定更显眼。联机部分修复了 Streamer Mode 下队友屏幕消失、屏幕采集崩溃以及卡在椅子里等问题。</description>
 			</item>
 			<item>
 				<title>《土豆请》1.0.4更新：通关后可继续剥皮、存档自动备份与手感修复</title>
@@ -182,6 +210,13 @@
 				<description>《Find The Needle》V14.1 官方更新落地：Depot 仓库彻底摆脱零件限制，只花钞票想建多少建多少；传送带吞料两大元凶被揪出并修复；机械臂、压缩机、打包机五级升级提前解锁；大堆场不再卡针等单；夜间亮度提升，摸黑也能继续干活。15k 社区成员共同见证这场大版本进化，官方还放话未来 6 到 12 个月开发计划已排满。</description>
 			</item>
 			<item>
+				<title>Sword of the Last Second 1.0补丁：剑链半价</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-5238670-fc4b63b8/</link>
+				<pubDate>Sun, 08 Nov 2026 00:41:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-5238670-fc4b63b8/</guid>
+				<description>《Sword of the Last Second》V1.0.0 补丁即将随正式版上线，Demo 与完整游戏同步调整：Sword Link 升级费用从 200 降到 100，击打晶体碎片的命中判定更靠谱，升级说明字号缩小、爆炸音效略降，关卡选择占位文本与挑战 1/3 图片也一并修正。对准备入坑或回坑的玩家来说，这一版更像发售前的体验打磨，前期 build 更敢点，UI 也更利落。</description>
+			</item>
+			<item>
 				<title>Dub Party 1.0.0 上线：手机扫码当麦，16人同房狂飙配音</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-5259730-22ed884a/</link>
 				<pubDate>Sun, 08 Nov 2026 00:22:12 +0800</pubDate>
@@ -194,6 +229,13 @@
 				<pubDate>Sat, 07 Nov 2026 23:46:27 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-07-5375770-e6c358e0/</guid>
 				<description>《Mox Nox》本地双人合作正式上线主游戏，Steam 更新后即可在主基地直接开启，无需切换测试分支。双死神同屏作战，各自独立血量、能量、技能与剑姿，友伤关闭，共享高位镜头取代分屏。合作收益可带回主基地，普通击杀招式默认改为可选。需要注意的是，主要 Boss 战在本地合作中暂时关闭，单人内容照常。</description>
+			</item>
+			<item>
+				<title>Playrooms玩家太猛！十亿球达成，免费第二章2027年上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5037510-6ab728aa/</link>
+				<pubDate>Sat, 07 Nov 2026 23:41:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5037510-6ab728aa/</guid>
+				<description>Playrooms社区活动提前达成10亿球收集目标，官方兑现承诺：免费第二章正式确认开发，剧情接续第一章，时长约3-4小时，预计2027年1月上线。活动持续至11月15日，并追加50亿球奖励层级。官方还表示近期已修复大量玩家反馈问题，下一补丁预计周一晚推送。</description>
 			</item>
 			<item>
 				<title>Terralysia 1.0 正式版上线：武士参战、三张新地图与 20 个新法术齐发</title>
