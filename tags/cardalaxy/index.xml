@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cardalaxy on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/cardalaxy/</link>
+		<description>Recent content in Cardalaxy on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 01:36:10 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/cardalaxy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cardalaxy1.0.6补丁：危机系统教程文本修正，发售前最后打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-3314690-ee3499a4/</link>
+				<pubDate>Mon, 09 Nov 2026 01:36:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-3314690-ee3499a4/</guid>
+				<description>Cardalaxy 发布 1.0.6 小型补丁，核心改动是修正危机系统教程中与实际机制不符的错误说明，让新玩家在发售前能更准确理解系统规则。本次更新不涉及卡牌数值、平衡性调整或存档结构变动，属于发售前的细节打磨。本文梳理补丁要点、上手建议与常见问题，方便你快速判断是否需要回坑或关注。</description>
+			</item>
+	</channel>
+</rss>

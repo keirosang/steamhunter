@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 03:18:03 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 17:43:58 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Revenant Survivors 0.5.1更新：战斗平衡关键修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4617500-dc223fa1/</link>
+				<pubDate>Sun, 08 Nov 2026 17:43:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4617500-dc223fa1/</guid>
+				<description>《Revenant Survivors》Demo 0.5.1上线：Dominions、Relic武器、普攻与Strikes全面再平衡，多个命中判定优化，闪避后仍吃伤害等战斗Bug修复；UI、手柄、Steam Deck白块与Boss计时器问题也一并处理，值得回坑重测手感。</description>
+			</item>
 			<item>
 				<title>《Underkeep》1.0.4补丁：铁匠卡死修复，Mac也能玩了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-2411200-83eb0abd/</link>

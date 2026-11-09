@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 19:15:28 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 19:17:24 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/faun-engine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Faun Engine 1.1.0 大更新详解：地形水体、HLSL 着色器与数据资产全面上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5496620-03fee340/</link>
+				<pubDate>Mon, 09 Nov 2026 19:17:24 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5496620-03fee340/</guid>
+				<description>Faun Engine 1.1.0 随引擎首发同步上线，地形雕刻、Water3D 水体、自定义 HLSL 着色器、反射探针与 SSAO、粒子系统、ScriptableObjects 数据资产、Blendshapes 与动画编辑器重做一次性补齐，还顺带改进了缩略图预览、材质选择器和第一/第三人称控制器模板。本文按模块拆解更新要点，附上升级避坑与上手路线。</description>
+			</item>
 			<item>
 				<title>Faun Engine免费发布：零版税引擎，1.1.0新增着色器与地形</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-5496620-44b2d9d8/</link>

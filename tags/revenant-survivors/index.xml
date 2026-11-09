@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Revenant Survivors on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/revenant-survivors/</link>
+		<description>Recent content in Revenant Survivors on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 22:00:35 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/revenant-survivors/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Revenant Survivors》抢先体验上线：首发8折两周，试玩存档直接继承</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4617500-34757868/</link>
+				<pubDate>Mon, 09 Nov 2026 22:00:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4617500-34757868/</guid>
+				<description>Mongma Studio 的处女作《Revenant Survivors》现已登陆 Steam 抢先体验，本体首发两周 8 折。3 名可操控角色、7 大世界 35 张地图、从 BOSS 身上掠夺 Dominion 与遗物武器的构筑玩法全部实装，100 件装备中 40 件为传说级，配合锻造、技能树、灵魂雕刻提供永久成长。Demo 存档可直接继承，6 套纯外观皮肤的支持者包同步上架并享 9 折。</description>
+			</item>
+			<item>
+				<title>Revenant Survivors 0.5.1更新：战斗平衡关键修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4617500-dc223fa1/</link>
+				<pubDate>Sun, 08 Nov 2026 17:43:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4617500-dc223fa1/</guid>
+				<description>《Revenant Survivors》Demo 0.5.1上线：Dominions、Relic武器、普攻与Strikes全面再平衡，多个命中判定优化，闪避后仍吃伤害等战斗Bug修复；UI、手柄、Steam Deck白块与Boss计时器问题也一并处理，值得回坑重测手感。</description>
+			</item>
+	</channel>
+</rss>
