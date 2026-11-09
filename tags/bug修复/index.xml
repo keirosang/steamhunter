@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 17:43:58 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 04:56:23 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR抢先体验更新1：PS手柄支持、新鱼模型与进度修复全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-3629430-e7d7c116/</link>
+				<pubDate>Tue, 10 Nov 2026 04:56:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-3629430-e7d7c116/</guid>
+				<description>DREADMOOR 抢先体验更新 #1 正式上线，这次把 PS5 DualSense 原生支持、DS4 的 Steam Input 适配、三款新鱼模型、危险警告系统以及多项进度阻塞修复一并端了上来，同时优化了 Betsy 战斗光照、角色动画和 Hook Gun 教程。对已经下潜的钓友来说，最值得关注的是任务推进更稳、首次睡觉失控等糟心问题被处理；新玩家也能更顺畅地熟悉开船与交易节奏。先备份存档，再开钓。</description>
+			</item>
+			<item>
+				<title>Loftia第2补丁11月10日上线：停机2小时修Bug，路线图将公布</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-2320980-ef0c6436/</link>
+				<pubDate>Tue, 10 Nov 2026 01:25:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-2320980-ef0c6436/</guid>
+				<description>Loftia 抢先体验第2个补丁将于11月10日凌晨12:50（EST）上线，服务器停机2小时。本次更新基于上线前5天玩家反馈，集中修复Bug并带来多项改进；完整补丁说明、已知问题与路线图也将在官方新闻页公布。记得提前下线，避免联机进度受影响。</description>
+			</item>
 			<item>
 				<title>Revenant Survivors 0.5.1更新：战斗平衡关键修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-4617500-dc223fa1/</link>

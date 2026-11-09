@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>处刑者 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%A4%84%E5%88%91%E8%80%85/</link>
+		<description>Recent content in 处刑者 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Nov 2026 03:08:56 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%A4%84%E5%88%91%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>黎明杀机10.2.2b热修上线：处刑者波次削弱，鬼娃翻板提速至0.8秒</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-381210-e677f923/</link>
+				<pubDate>Tue, 10 Nov 2026 03:08:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-381210-e677f923/</guid>
+				<description>Behaviour 又用后端调参系统偷摸动手了！《黎明杀机》10.2.2b 后端补丁针对处刑者与好孩子做出微调：惩罚之神的诅咒波次间隔从 0.001 秒回调到 0.015 秒，双红印章的过分联动被压了一头；鬼娃切肉快攻时钻板时间从 1 秒缩短到 0.8 秒，与翻窗动作完全对齐。本次无需下载新内容，重启游戏即可生效，本文带你看懂改动逻辑与实战影响。</description>
+			</item>
+	</channel>
+</rss>

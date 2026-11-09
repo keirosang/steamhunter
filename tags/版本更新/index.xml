@@ -10,15 +10,43 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 02:00:16 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 03:08:56 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>黎明杀机10.2.2b热修上线：处刑者波次削弱，鬼娃翻板提速至0.8秒</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-381210-e677f923/</link>
+				<pubDate>Tue, 10 Nov 2026 03:08:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-381210-e677f923/</guid>
+				<description>Behaviour 又用后端调参系统偷摸动手了！《黎明杀机》10.2.2b 后端补丁针对处刑者与好孩子做出微调：惩罚之神的诅咒波次间隔从 0.001 秒回调到 0.015 秒，双红印章的过分联动被压了一头；鬼娃切肉快攻时钻板时间从 1 秒缩短到 0.8 秒，与翻窗动作完全对齐。本次无需下载新内容，重启游戏即可生效，本文带你看懂改动逻辑与实战影响。</description>
+			</item>
+			<item>
+				<title>Isekai Survivors 1.0正式版上线：魔法符文、无尽模式与沙漠新关</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-3214180-2a03306c/</link>
+				<pubDate>Tue, 10 Nov 2026 03:04:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-3214180-2a03306c/</guid>
+				<description>Isekai Survivors 迎来 1.0 正式版大更新：全新魔法符文与无尽模式登场，世界符文、祝福两套成长体系彻底改写构筑思路；沙漠新地图携新 Boss、新小怪与新任务一同上线，敌人 AI 行为、Boss 金币掉落、Subaru 模式增益全面重塑，技能垂直判定也做了重新校准。此外还支持键位重映射、补强打击反馈与技能 UI、上限封顶属性升级的金币消耗，并新增德语与俄语本地化；首次升级时免费重随消失等一批老 bug 一并修复。</description>
+			</item>
+			<item>
+				<title>《FRAGA》1.0 正式版上线：一年打磨，新区域新 Boss 新朝圣者一次全给你</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4541350-43dd4f66/</link>
+				<pubDate>Tue, 10 Nov 2026 02:01:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4541350-43dd4f66/</guid>
+				<description>西班牙独立团队打造的《FRAGA》在开发满一年后正式推出 1.0 版本：Aquelarre 与 Entroidos 两张全新区域、全新 Boss、行为独特的怪物、可解锁的新朝圣者角色以及一条铺开的主线剧情同步实装。官方同时公布了后续至少两波更新的方向，包含体验优化、性能与界面改进、Bug 修复以及新的内容补充，并明确表示玩家反馈将决定这款作品能走多远。</description>
+			</item>
 			<item>
 				<title>战地风云6更新2.1.2.0：欧洲赌场新图、排行榜与武器平衡全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-2807960-6d200847/</link>
 				<pubDate>Tue, 10 Nov 2026 02:00:16 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-10-2807960-6d200847/</guid>
 				<description>《战地风云6》2.1.2.0版本11月10日上线：全新欧洲赌场地图与Casino Heist活动带来DOUGH限时货币，NSW4卡宾枪、ADS-17干扰器、M142 MRAS火箭炮加入战场，赛季排行榜与海量武器配件平衡同步实装。本文拆解核心改动、开黑思路与更新注意事项，帮你第一时间少走弯路。</description>
+			</item>
+			<item>
+				<title>Loftia第2补丁11月10日上线：停机2小时修Bug，路线图将公布</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-2320980-ef0c6436/</link>
+				<pubDate>Tue, 10 Nov 2026 01:25:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-2320980-ef0c6436/</guid>
+				<description>Loftia 抢先体验第2个补丁将于11月10日凌晨12:50（EST）上线，服务器停机2小时。本次更新基于上线前5天玩家反馈，集中修复Bug并带来多项改进；完整补丁说明、已知问题与路线图也将在官方新闻页公布。记得提前下线，避免联机进度受影响。</description>
 			</item>
 			<item>
 				<title>EA SPORTS FC 27更新：95深度防守调整，边后卫不再漏人</title>
