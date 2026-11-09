@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 08:57:17 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 13:32:12 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Pin-Finite》1.0.1更新：屏幕震动滑块与商店UI修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4861910-9b50675b/</link>
+				<pubDate>Mon, 09 Nov 2026 13:32:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4861910-9b50675b/</guid>
+				<description>《Pin-Finite》推送 1.0.1 小版本更新，别看体量不大，解决的却都是玩家每天会碰到的痛点：新增屏幕震动滑块，让容易晕屏或不喜欢镜头抖动的玩家能自己掌控手感；同时修复商店里若干随机 UI 问题，减少误点和界面错位。本文帮你快速看懂改动、调好设置，并判断这次更新值不值得回坑。</description>
+			</item>
 			<item>
 				<title>《土豆请》1.0.4更新：通关后可继续剥皮、存档自动备份与手感修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-5266240-212ed9b2/</link>
@@ -285,6 +292,13 @@
 				<pubDate>Fri, 06 Nov 2026 18:49:18 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-06-3499520-b799e244/</guid>
 				<description>Piano Glow 正式登陆 Steam，本次更新一次到位：落键模式支持多行乐谱与批注、新增互动上手 Tour、设置里可开启麦克风实时转 MIDI；同时每日奖励弹窗默认关闭、AI 转换 MIDI 直接进音乐库、Mania 主题改扁平配色。本文拆解每项改动的实际用法，附上麦克风调优、离线 AI 转 MIDI 的取舍、练琴批注技巧与高频问题答疑。</description>
+			</item>
+			<item>
+				<title>影院经营新作《Cinema Theater Tycoon》重做排片逻辑，11月9日正式转正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-06-3433110-d88203d3/</link>
+				<pubDate>Fri, 06 Nov 2026 17:57:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-06-3433110-d88203d3/</guid>
+				<description>影院经营模拟《Cinema Theater Tycoon》试玩版连更五个版本，观众选片逻辑全面重做：独立片早场吃香、恐怖片晚场爆满、同片重复放映会被观众用脚投票，高难度下排片表就是命根子；建造手感与排片报错提示同步修复，正式版11月9日上线。</description>
 			</item>
 			<item>
 				<title>《光年拓荒》热修v1.0.2563：铺路更宽、闪退减少，商人半成品被砍</title>

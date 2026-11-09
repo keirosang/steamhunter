@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 02:41:17 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 02:17:47 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Probably Stolen热修复：中文回滚，Lou炸人Bug修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4348910-4e93dbd4/</link>
+				<pubDate>Mon, 09 Nov 2026 02:17:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4348910-4e93dbd4/</guid>
+				<description>《Probably Stolen》推送100-Rev13热修复：中文名称、物品、对话与界面文本恢复为此前版本；Lou储物柜物品计数错误导致玩家被炸的致命Bug已修，且对现有存档生效。官方同时预告12月10日合入Mod安全大更新，模组作者需提前检查API文档并更新作品。</description>
+			</item>
 			<item>
 				<title>《Probably Stolen》百万店主达成！官方公布半年免费更新路线图</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4348910-16a53ef7/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>屏幕震动 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%B1%8F%E5%B9%95%E9%9C%87%E5%8A%A8/</link>
+		<description>Recent content in 屏幕震动 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 13:32:12 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%B1%8F%E5%B9%95%E9%9C%87%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Pin-Finite》1.0.1更新：屏幕震动滑块与商店UI修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4861910-9b50675b/</link>
+				<pubDate>Mon, 09 Nov 2026 13:32:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4861910-9b50675b/</guid>
+				<description>《Pin-Finite》推送 1.0.1 小版本更新，别看体量不大，解决的却都是玩家每天会碰到的痛点：新增屏幕震动滑块，让容易晕屏或不喜欢镜头抖动的玩家能自己掌控手感；同时修复商店里若干随机 UI 问题，减少误点和界面错位。本文帮你快速看懂改动、调好设置，并判断这次更新值不值得回坑。</description>
+			</item>
+	</channel>
+</rss>

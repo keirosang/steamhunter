@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 01:56:36 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 07 Nov 2026 11:57:39 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《昭幽：阴阳渡》抢先体验跳票：启动动画兼容性翻车，新版本已送审</title>
+				<link>https://info.steamhunter.link/posts/2026-11-07-5456360-803439b9/</link>
+				<pubDate>Sat, 07 Nov 2026 11:57:39 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-07-5456360-803439b9/</guid>
+				<description>原定 11 月 9 日开启 Steam 抢先体验的《昭幽：阴阳渡》官宣延期。开发者在构建审核阶段发现启动视频存在兼容性问题，已提交修复后的版本并在另一台 PC 上完成验证，目前正等待 Steam 重新审核，新发售日期将在过审后公布。本文梳理延期原因、技术细节与玩家当前可做的准备。</description>
+			</item>
 			<item>
 				<title>《Astrokicker》1.0 前瞻：星站攻坚与双模式战斗升级</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-1517770-03ac2110/</link>
