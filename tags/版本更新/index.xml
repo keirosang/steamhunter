@@ -28,6 +28,13 @@
 				<description>《土豆请》Patch 1.0.4 正式推送，这次把玩家最关心的两件事办妥了：通关看完片尾后可以选“Continue Playing”回到机库继续剥土豆，还能用状态电话补订新一堆，完成存档不再强制清空地板；存档系统加入自动备份，损坏存档会自动读取上一份备份。另有最终房间崩溃、加载黑屏、第二把刀穿模、勺子弹射器开关提示等一堆修复，以及吸尘器吸入动画、电台曲目轮播等体验优化。</description>
 			</item>
 			<item>
+				<title>Kimbap Heaven Simulator热修1.41.2：员工AI与炸锅逻辑双优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</link>
+				<pubDate>Sun, 08 Nov 2026 20:23:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</guid>
+				<description>抢先体验中的《Kimbap Heaven Simulator》推送 EA1.41.2 热修补丁。本次重点修复员工取材范围混乱的问题：拥有紫菜包饭制作或厨师能力的员工，现在会正确从厨房、冰箱、配送区和储藏室取料，同时不再洗劫自助吧台；厨师在炸篮占用时也能继续处理油炸菜品。此外新增4款表情、微调堆叠物品操作，并修复联机雇佣员工时能力说明弹窗仅房主可见的Bug。</description>
+			</item>
+			<item>
 				<title>三角洲行动新赛季Aurora上线：影之刃零联动免费领七星剑与新干员</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-2507950-10ff9f64/</link>
 				<pubDate>Sun, 08 Nov 2026 20:00:16 +0800</pubDate>

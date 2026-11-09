@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 04:44:17 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 20:23:54 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kimbap Heaven Simulator热修1.41.2：员工AI与炸锅逻辑双优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</link>
+				<pubDate>Sun, 08 Nov 2026 20:23:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</guid>
+				<description>抢先体验中的《Kimbap Heaven Simulator》推送 EA1.41.2 热修补丁。本次重点修复员工取材范围混乱的问题：拥有紫菜包饭制作或厨师能力的员工，现在会正确从厨房、冰箱、配送区和储藏室取料，同时不再洗劫自助吧台；厨师在炸篮占用时也能继续处理油炸菜品。此外新增4款表情、微调堆叠物品操作，并修复联机雇佣员工时能力说明弹窗仅房主可见的Bug。</description>
+			</item>
 			<item>
 				<title>Glyphforge 1.0.1 热修上线：法术导入按钮重见天日，分享页下方一键搬构筑</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4967370-b42f0f18/</link>

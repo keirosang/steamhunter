@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kimbap Heaven Simulator on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/kimbap-heaven-simulator/</link>
+		<description>Recent content in Kimbap Heaven Simulator on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Nov 2026 20:23:54 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/kimbap-heaven-simulator/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kimbap Heaven Simulator热修1.41.2：员工AI与炸锅逻辑双优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</link>
+				<pubDate>Sun, 08 Nov 2026 20:23:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</guid>
+				<description>抢先体验中的《Kimbap Heaven Simulator》推送 EA1.41.2 热修补丁。本次重点修复员工取材范围混乱的问题：拥有紫菜包饭制作或厨师能力的员工，现在会正确从厨房、冰箱、配送区和储藏室取料，同时不再洗劫自助吧台；厨师在炸篮占用时也能继续处理油炸菜品。此外新增4款表情、微调堆叠物品操作，并修复联机雇佣员工时能力说明弹窗仅房主可见的Bug。</description>
+			</item>
+	</channel>
+</rss>

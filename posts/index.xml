@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 13:36:22 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 15:05:24 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Cinema Theater Tycoon》正式发售：双人开发三年，横跨百年电影史，首发9折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-3433110-47ab9148/</link>
+				<pubDate>Mon, 09 Nov 2026 15:05:24 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-3433110-47ab9148/</guid>
+				<description>由 Juliette 与 Julian 两人组成的 SouthWest Games 打磨近三年的《Cinema Theater Tycoon》现已正式登陆 Steam。你要从默片时代一路开到当代大片，建放映厅、招员工、排片单，在技术迭代与观众口味不断翻新的百年里把小影厅做成院线帝国，或者做成街角最舒服的那一间。首发周 10% 折扣，官方承诺后续持续修复与更新到 2027 年。</description>
+			</item>
+			<item>
+				<title>《Bullet Meltdown》正式发售，独立射击新游上线即开冲</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4184810-7e396d11/</link>
+				<pubDate>Mon, 09 Nov 2026 14:02:31 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4184810-7e396d11/</guid>
+				<description>历经无数次打磨，《Bullet Meltdown》正式上架 Steam，向所有加愿望单的玩家交出答卷。这篇专栏我聊透这次发售的核心看点、入手时机与实操建议：单人开发者作品该怎么挑、首发要不要冲、上手先注意什么，一次说清。另外友情提示：曾经加过愿望单的朋友，Steam 大概率已经给你发推送了。</description>
+			</item>
 			<item>
 				<title>《喵呜风云》11月9日热修复：UI层叠与商店重叠修复，教程卡关问题解决</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-4920280-e07c0d69/</link>
@@ -110,6 +124,13 @@
 				<pubDate>Sun, 08 Nov 2026 22:17:20 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-08-4684790-ae4a3b4b/</guid>
 				<description>一个人、一年时间、数百小时敲代码，独立游戏 Vossarium 终于正式登陆 Steam 发售。更关键的是官方给出的定价承诺：首批购买第一章的玩家，后续全部内容无需再掏一分钱 DLC 费用；而越晚入场的玩家，面对的价格只会更高。这波早鸟福利到底值不值得上车？本篇把发售信息、权益规则和入手建议一次讲清。</description>
+			</item>
+			<item>
+				<title>Kimbap Heaven Simulator热修1.41.2：员工AI与炸锅逻辑双优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</link>
+				<pubDate>Sun, 08 Nov 2026 20:23:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-08-4206910-664d7b33/</guid>
+				<description>抢先体验中的《Kimbap Heaven Simulator》推送 EA1.41.2 热修补丁。本次重点修复员工取材范围混乱的问题：拥有紫菜包饭制作或厨师能力的员工，现在会正确从厨房、冰箱、配送区和储藏室取料，同时不再洗劫自助吧台；厨师在炸篮占用时也能继续处理油炸菜品。此外新增4款表情、微调堆叠物品操作，并修复联机雇佣员工时能力说明弹窗仅房主可见的Bug。</description>
 			</item>
 			<item>
 				<title>《Onlympic Up!》发售延期！Steam审核卡壳，官方承诺定档即公布</title>
