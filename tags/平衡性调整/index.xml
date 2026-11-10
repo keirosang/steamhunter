@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 03:08:56 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 07:33:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《塔利斯之书》热修1号：复仇亡灵与蜃景削弱，宝箱怪崩溃Bug修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4217650-f82cf8b2/</link>
+				<pubDate>Tue, 10 Nov 2026 07:33:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4217650-f82cf8b2/</guid>
+				<description>《Tome of Talis》热修#1上线：复仇亡灵血量8→5，蜃景眩晕反击5→3，Befuddle更名为Befuddle Attack以明确伤害；幽灵指挥官少召唤一只复仇亡灵，Mimic Sighting复制骰子崩溃也已修复。开荒压力下降，骰子构筑与Boss战节奏需要重新适应。</description>
+			</item>
+			<item>
+				<title>Go Next! 快启动补丁上线：绳索修复、武器成长调整与Boss穿墙终结</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-5064170-6cbb0744/</link>
+				<pubDate>Tue, 10 Nov 2026 07:15:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-5064170-6cbb0744/</guid>
+				<description>Go Next! 推送 Quick launch patch，重点修复套索、联机、Zeus解锁、Boss穿建筑、僵尸导弹回顾图标与选人界面展示问题；同时扩充更多武器成长，把Extreme items开关最低档位下调到4，并削弱少量过强物品。整体属于实战体验向补丁，开黑稳定性和构筑空间都有改善，完整细节可在游戏内补丁说明区查看。</description>
+			</item>
+			<item>
+				<title>《Find The Needle》V15.4 大版本更新：教程重做、订单提前放款、升级门槛全面取消</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-5160800-ccfec06e/</link>
+				<pubDate>Tue, 10 Nov 2026 06:14:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-5160800-ccfec06e/</guid>
+				<description>本次《Find The Needle》V15.4版本堪称一次诚意满满的平衡性重构：新手教程重新设计，优先教玩家管电避免劝退；订单从20个精简到16个，装车即付款、25%加成按批次结算；升级不再绑定订单进度，只要拥有卡片就能花钱买任何等级。此外还调整了机器解锁顺序、阶梯定价与零件账单，修复了物品跳出传送带等一批烦人bug。老存档原地保留，卡关玩家值得回坑再试一次。</description>
+			</item>
+			<item>
+				<title>《Tome of Talis》正式发售：全成就实装，海量骰子平衡调整上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4217650-be504910/</link>
+				<pubDate>Tue, 10 Nov 2026 05:52:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4217650-be504910/</guid>
+				<description>骰子策略新作《Tome of Talis: A Dice Conquest Game》正式登陆 Steam。发售版本带来新法术、新遗物、全成就实装与大量数值和机制平衡调整；敌方指挥官施法更聪明，操作交互也做了优化。抢先体验存档会重置，官方预告本周内还有第二波内容更新，骰子构筑与战棋走位节奏值得重新研究。</description>
+			</item>
 			<item>
 				<title>黎明杀机10.2.2b热修上线：处刑者波次削弱，鬼娃翻板提速至0.8秒</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-381210-e677f923/</link>

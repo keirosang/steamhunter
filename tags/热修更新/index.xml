@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 20:43:03 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 07:33:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《塔利斯之书》热修1号：复仇亡灵与蜃景削弱，宝箱怪崩溃Bug修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4217650-f82cf8b2/</link>
+				<pubDate>Tue, 10 Nov 2026 07:33:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4217650-f82cf8b2/</guid>
+				<description>《Tome of Talis》热修#1上线：复仇亡灵血量8→5，蜃景眩晕反击5→3，Befuddle更名为Befuddle Attack以明确伤害；幽灵指挥官少召唤一只复仇亡灵，Mimic Sighting复制骰子崩溃也已修复。开荒压力下降，骰子构筑与Boss战节奏需要重新适应。</description>
+			</item>
 			<item>
 				<title>艾尔登法环热修2.4.1：隐身碰撞崩溃修复与乌克兰语支持</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-1808500-578234e2/</link>
