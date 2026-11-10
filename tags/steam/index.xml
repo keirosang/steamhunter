@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 06:54:38 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 07:49:32 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>RPG Portrait Generator 1.0上线：本地离线、买断无订阅</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-5019780-f77f70ec/</link>
+				<pubDate>Tue, 10 Nov 2026 07:49:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-5019780-f77f70ec/</guid>
+				<description>《RPG Portrait Generator》告别抢先体验，1.0 带来照片或文字生成奇幻立绘、抠图透明导出、表情视角变体与呼吸眨眼动画，全程本地离线、买断无订阅和生成额度，老玩家自动免费升级。官方坦白定价失误触发 Steam 折扣冷却，首发折扣取消，美区维持 19.99 美元，后续拟涨至 24.99 美元再打八折。</description>
+			</item>
 			<item>
 				<title>《无界工业》抢先体验今日开跑！首发85折仅21.25元，无限画布造戴森球</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-5063450-cb75ba0d/</link>
@@ -131,6 +138,13 @@
 				<pubDate>Mon, 09 Nov 2026 14:37:49 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-09-5153220-6a42c729/</guid>
 				<description>11 月 9 日，复古桌面解谜新作《UFO98》正式登陆 Steam。玩家将回到 1998 年的老式 CRT 桌面，调频拦截外星信号、解密并泄露机密文件，在暗网升级天线与存储模块，同时顶住联邦 DDoS 与系统锁屏反制。官方强调无高 Poly 视觉杂物，主打 Win98 界面、机械键盘声与深空静电氛围。本文梳理核心机制、上手建议与常见问题。</description>
+			</item>
+			<item>
+				<title>1999TOKOYO Building 明日11点开售，官方放话首发当天就能通关</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-4099810-748f21b6/</link>
+				<pubDate>Mon, 09 Nov 2026 13:49:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-4099810-748f21b6/</guid>
+				<description>日本独立团队 Game Lab 的《1999TOKOYO Building》确定于11月10日12:00 JST解锁，折合北京时间当天11:00，Steam AppID 4099810。官方同步开启倒计时插画连载，并直言「开服即玩有机会当天打通」，暗示本作是流程可控的短篇体验。本文整理了准确解锁时间、首发当天的实操节奏、入手前该看哪些信息，以及新品发售期最容易踩的坑。</description>
 			</item>
 			<item>
 				<title>《喵呜风云》11月9日热修复：UI层叠与商店重叠修复，教程卡关问题解决</title>
