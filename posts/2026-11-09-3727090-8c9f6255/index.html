@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>蹄印湾之马1.0.2补丁：存档崩溃修复、母马掉属性大减与双刷子BUG终结 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《Horses of Hoofprint Bay》迎来首个正式补丁 v1.0.2。本次重点处理崩溃导致存档失效的致命问题，并修复双刷子、衣柜 Esc、马匹重复导出、导入马医疗日期等高频 BUG；母马生育掉属性被大幅削弱，低属性马最多掉耐力十分之一且不超过 5 点。官方坦言已损坏存档无法追溯恢复，只能新开档或放弃成就。更新还加入衣物挂鼠标、备份校验与错误弹窗选项。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="蹄印湾之马1.0.2补丁：存档崩溃修复、母马掉属性大减与双刷子BUG终结">
+  <meta property="og:description" content="《Horses of Hoofprint Bay》迎来首个正式补丁 v1.0.2。本次重点处理崩溃导致存档失效的致命问题，并修复双刷子、衣柜 Esc、马匹重复导出、导入马医疗日期等高频 BUG；母马生育掉属性被大幅削弱，低属性马最多掉耐力十分之一且不超过 5 点。官方坦言已损坏存档无法追溯恢复，只能新开档或放弃成就。更新还加入衣物挂鼠标、备份校验与错误弹窗选项。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-09-3727090-8c9f6255/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/401caef6ae972cdd.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-09-3727090-8c9f6255/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">蹄印湾之马1.0.2补丁：存档崩溃修复、母马掉属性大减与双刷 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Horses of Hoofprint Bay</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 3727090</span>
+      
+    </div>
+
+    <h1 class="article-title">蹄印湾之马1.0.2补丁：存档崩溃修复、母马掉属性大减与双刷子BUG终结</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-09T06:41:18&#43;08:00" class="meta-date">
+          📅 2026-11-09 06:41
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2349 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/3727090/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/3727090" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/401caef6ae972cdd.jpg" alt="蹄印湾之马1.0.2补丁：存档崩溃修复、母马掉属性大减与双刷子BUG终结" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《Horses of Hoofprint Bay》迎来首个正式补丁 v1.0.2。本次重点处理崩溃导致存档失效的致命问题，并修复双刷子、衣柜 Esc、马匹重复导出、导入马医疗日期等高频 BUG；母马生育掉属性被大幅削弱，低属性马最多掉耐力十分之一且不超过 5 点。官方坦言已损坏存档无法追溯恢复，只能新开档或放弃成就。更新还加入衣物挂鼠标、备份校验与错误弹窗选项。
+      </div>
+      
+
+      <div class="article-body">
+        <p>兄弟们，蹄印湾的马场主们注意了，v1.0.2 补丁已经推送到 Steam。这次不是小打小闹的数值微调，而是一场实打实的“存档保卫战”：官方把最要命的崩溃导致存档失效问题摆到了第一优先级，同时把玩家吐槽最多的双刷子、母马掉属性、衣柜卡 Esc 等毛病一并处理。我逐条捋完补丁日志，结论先给：建议所有在玩的朋友尽快更新，并且更新前先手动备份存档，别让多年马场毁在一次异常关机上。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>首个正式补丁 v1.0.2 上线</strong>，最高优先级是修复游戏或电脑崩溃后存档被判定无效的致命 BUG。</li>
+<li><strong>高频槽点“鼠标同时粘两把刷子”终于修了</strong>，刷子、饲料、药品、马具、衣服、庭院工具、庭院马等拖拽物不再能同时选中两个。</li>
+<li><strong>母马带崽掉属性大幅缓解</strong>：低属性马的最大属性损失改为耐力的 1/10，且最多不超过 5 点，低耐力马不再被一刀砍废。</li>
+<li><strong>备份文件也生成校验文件</strong>，回滚备份时不再轻易丢掉成就；所有文件操作加入 try-catch，权限和读写错误导致的问题会少很多。</li>
+<li><strong>官方明确表态</strong>：已经损坏的存档无法追溯恢复，受影响的玩家只能新开档，或者继续玩但不跳成就。</li>
+<li>附带修复：衣柜 Esc 失效、马匹可重复导出、带崽高级马课程显示错误、导入马医疗问题起始日期错误、大小写马名导致存档覆盖等。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="存档保卫战这次动真格了">存档保卫战：这次动真格了</h3>
+<p>这次补丁最核心的动作，是处理“游戏或电脑崩溃后存档文件被判无效”的问题。官方的说法很直白：修复会大幅降低未来出现存档损坏的概率，但<strong>不会追溯修复已经损坏的存档</strong>。原因也很现实——现在没法区分“被误判损坏的正常存档”和“真的被动过手脚的存档”，所以不能重新验证。</p>
+<p>翻译成人话：如果你已经中招，补丁救不了旧档，只能新开一局，或者硬着头皮继续玩但不要成就。这个体验确实憋屈，所以我的建议很明确：<strong>更新前先备份整个存档目录，更新后先进游戏确认成就和存档状态正常，再继续肝。</strong></p>
+<p>另外，v1.0.2 给备份文件也生成了校验文件，回滚备份时成就不会轻易丢。文件操作全部包进 try-catch，权限不足、文件占用、读写失败这类玄学问题会少一些；官方还加了“启用错误弹窗”选项，遇到问题能更直观看到报错，方便反馈。</p>
+<h3 id="母马福利低耐力马不再被一刀切">母马福利：低耐力马不再被“一刀切”</h3>
+<p>之前母马生小马掉属性，低耐力马尤其惨，玩家社区怨气不小。这次官方大幅降低损失：<strong>马匹属性越低，掉得越少，最大属性损失为耐力的 1/10，且不超过 5 点。</strong> 简单说，以前生一胎可能直接掉成“轮椅马”，现在低属性马至少能保住基本盘，高属性马也不会被砍得太离谱。对繁育流玩家来说，这是实打实的体验优化，建议重新评估手里的种马种母配置。</p>
+<h3 id="那些人气bug双刷子衣柜-esc重复导出">那些“人气”BUG：双刷子、衣柜 Esc、重复导出</h3>
+<p>本次修复清单里，最出圈的当然是“鼠标同时粘两把刷子”。现在刷子、饲料、药品、马具、衣服、庭院工具、庭院马这些拖拽物，一次只能选中一个，手忙脚乱的日子结束了。</p>
+<p>其余几个也很实用：</p>
+<ul>
+<li>打开衣柜架子后，Esc 终于能正常离开衣柜。</li>
+<li>马匹不能重复导出了，避免刷马或存档混乱。</li>
+<li>带崽高级马的可用课程显示错误已修。</li>
+<li>自定义彩色表演外套不会过早出现，赛事进度更合理。</li>
+<li>缩小视图时，抓起的庭院马不会悬空不掉。</li>
+<li>导入马如果有医疗问题，起始日期不再错乱，问题也能正常消退。</li>
+<li>存档名大小写检查导致覆盖的问题修了，但建议马名别只差大小写，手动分文件夹更稳。</li>
+</ul>
+<h3 id="细节优化衣物干草架音量">细节优化：衣物、干草架、音量</h3>
+<p>点击衣服现在会先挂到鼠标上，而不是立刻穿上，搭配时更顺手；干草架填充阶段的视觉表现优化，减少“草是不是丢了”的误解；音效做了音量调整；侧滚场景 FinishCourse 加了调试信息。整体看，这是一次偏“稳底盘”的补丁，没有大内容扩张，但把影响体验的刺都拔了一遍。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>更新前先备份存档</strong>：找到游戏存档目录，整包复制到另一个盘。别只信云存档，云同步冲突时容易出事。</li>
+<li><strong>Steam 自动更新后验证完整性</strong>：库中右键游戏 → 属性 → 已安装文件 → 验证游戏文件完整性，避免补丁下载残缺。</li>
+<li><strong>进游戏先开错误弹窗</strong>：设置里启用错误消息弹窗，遇到文件读写问题能第一时间看到，不要等到存档炸了才找原因。</li>
+<li><strong>衣物搭配先点后穿</strong>：现在点击衣服是挂鼠标，确认无误再装备，别手快连点。</li>
+<li><strong>导入马留个心眼</strong>：医疗问题日期修复后，老档里已导入的问题马可能不会自动纠正，必要时重新导入或观察几天游戏内时间。</li>
+<li><strong>马名别只差大小写</strong>：虽然覆盖 BUG 修了，但文件名和文件夹命名习惯还是稳一点，A马和a马请手动区分。</li>
+<li><strong>回滚备份优先用游戏内备份校验</strong>：v1.0.2 给备份也生成校验文件，回滚时成就更安全；但回滚前仍建议再复制一份当前档。</li>
+<li><strong>遇到成就异常先别急着重开</strong>：确认是不是旧档已经被判无效；如果是新档，检查是否启用过控制台或外部修改，避免误伤。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间蹲到 Steam 限免、史低和突发补丁推送，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>（https://t.me/steamhunterlink）。秒级限免、特惠背刺、喜加一提醒都会在那里更新，尤其适合不想每天刷商店页的朋友。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<h3 id="q1我更新后之前崩坏的老存档还有救吗">Q1：我更新后，之前崩坏的老存档还有救吗？</h3>
+<p>官方明确说不能追溯恢复。已经损坏的存档无法重新验证，你只能新开档，或者继续用这个档玩但不获取成就。补丁的作用是大幅降低未来再次发生的概率，不是给旧档做心肺复苏。</p>
+<h3 id="q2母马生小马到底还掉多少属性">Q2：母马生小马到底还掉多少属性？</h3>
+<p>低属性马的最大属性损失改为耐力的 1/10，且最多不超过 5 点。也就是说，耐力很低的马不会像以前那样被砍穿地心；具体数值仍以游戏内实际结算为准，繁育前建议先存个档。</p>
+<h3 id="q3备份回滚会不会丢成就">Q3：备份回滚会不会丢成就？</h3>
+<p>v1.0.2 开始，备份文件也会生成校验文件，正常回滚备份不会轻易丢成就。但操作前还是建议把当前存档再复制一份，避免回滚到一半发现备份本身是旧的。</p>
+<h3 id="q4双刷子修了其他拖拽物还会卡吗">Q4：双刷子修了，其他拖拽物还会卡吗？</h3>
+<p>本次把刷子、饲料、药品、马具、衣服、庭院工具、庭院马统一处理为一次只能选一个。如果还遇到异常，打开错误弹窗并记录复现步骤，去社区反馈给官方。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Horses%20of%20Hoofprint%20Bay/" class="article-tag-item">#Horses of Hoofprint Bay</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e5%ad%98%e6%a1%a3%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#存档修复</a>
+          
+          <a href="/tags/%e5%b9%b3%e8%a1%a1%e6%80%a7%e8%b0%83%e6%95%b4/" class="article-tag-item">#平衡性调整</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-09-3727090-8c9f6255/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-09-4475970-60ce9797/" class="sibling-title">《Prerolled》正式版开卖！Demo同步大更新，两人团队首作终于落地</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-09-4861910-7f6a1430/" class="sibling-title">《Pin-Finite》1.0正式版来了：UI翻新、球体大改、手柄全支持</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#存档保卫战这次动真格了">存档保卫战：这次动真格了</a></li>
+        <li><a href="#母马福利低耐力马不再被一刀切">母马福利：低耐力马不再被“一刀切”</a></li>
+        <li><a href="#那些人气bug双刷子衣柜-esc重复导出">那些“人气”BUG：双刷子、衣柜 Esc、重复导出</a></li>
+        <li><a href="#细节优化衣物干草架音量">细节优化：衣物、干草架、音量</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a>
+      <ul>
+        <li><a href="#q1我更新后之前崩坏的老存档还有救吗">Q1：我更新后，之前崩坏的老存档还有救吗？</a></li>
+        <li><a href="#q2母马生小马到底还掉多少属性">Q2：母马生小马到底还掉多少属性？</a></li>
+        <li><a href="#q3备份回滚会不会丢成就">Q3：备份回滚会不会丢成就？</a></li>
+        <li><a href="#q4双刷子修了其他拖拽物还会卡吗">Q4：双刷子修了，其他拖拽物还会卡吗？</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

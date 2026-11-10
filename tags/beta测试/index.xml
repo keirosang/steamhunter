@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 08:36:51 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 23:22:33 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/beta%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>土豆兄弟 Beta 1.2.0.2 平衡补丁：变异机制重做，机械化与丛林敌人齐调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-1942280-e4c34be8/</link>
+				<pubDate>Tue, 10 Nov 2026 23:22:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-1942280-e4c34be8/</guid>
+				<description>土豆兄弟 beta 分支推送 1.2.0.2 平衡补丁：变异系统重做，惩罚改由肿瘤承接、重复效果自动合并；机械化每点伤害加成从 +5% 降到 +3%，并砍掉穿透与弹射；通才、独臂、疯狂科学家起始武器换血；丛林 2-5 波敌人加量，小霸王龙、棘龙、食虫植物集体挨刀；另外修好了鞭子连枷贴身打空、酸池踏入不结算等一批陈年老毛病。</description>
+			</item>
 			<item>
 				<title>Steam Frame 推送 SteamOS 0.5.7 Beta：注视点锐化独立，高级超采样功能被移除</title>
 				<link>https://info.steamhunter.link/posts/2026-11-04-4165890-b30a00c5/</link>

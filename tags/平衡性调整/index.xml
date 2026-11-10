@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 18:00:15 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 00:33:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gemion Function更新：训练模式修复与AZ 5H调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2212400-f311ea7d/</link>
+				<pubDate>Wed, 11 Nov 2026 00:33:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2212400-f311ea7d/</guid>
+				<description>Gemion Function 于 2026 年 11 月 10 日发布官方更新：在线训练模式修复 1P 无法选择假人角色的问题，AZ 的 5H 在命中后现在可以跳跃取消。补丁不大，但训练场体验和 AZ 连段路线都会受影响，建议玩家更新后立刻进训练模式复测手感与确反路线。</description>
+			</item>
+			<item>
+				<title>土豆兄弟 Beta 1.2.0.2 平衡补丁：变异机制重做，机械化与丛林敌人齐调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-1942280-e4c34be8/</link>
+				<pubDate>Tue, 10 Nov 2026 23:22:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-1942280-e4c34be8/</guid>
+				<description>土豆兄弟 beta 分支推送 1.2.0.2 平衡补丁：变异系统重做，惩罚改由肿瘤承接、重复效果自动合并；机械化每点伤害加成从 +5% 降到 +3%，并砍掉穿透与弹射；通才、独臂、疯狂科学家起始武器换血；丛林 2-5 波敌人加量，小霸王龙、棘龙、食虫植物集体挨刀；另外修好了鞭子连枷贴身打空、酸池踏入不结算等一批陈年老毛病。</description>
+			</item>
 			<item>
 				<title>EA SPORTS FC 27 v1.2.0 补丁解析：极限防线重做、开球杀被削、UT进化链路修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-4080220-8a5a2d34/</link>
@@ -75,6 +89,13 @@
 				<pubDate>Mon, 09 Nov 2026 18:39:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-09-1973530-dbcbadff/</guid>
 				<description>11月12日《Limbus Company》例行更新公告落地：卡池轮换、剧情内容与平衡性调整同步上线，官方还顺手修完了 EN/JP 公告的错别字并同步更换了配图。本篇帮你捋清维护时间窗、这期该不该下池、更新后的开荒顺序，以及维护补偿的领取要点，钟表头们记得提前结算镜像地牢。</description>
+			</item>
+			<item>
+				<title>蹄印湾之马1.0.2补丁：存档崩溃修复、母马掉属性大减与双刷子BUG终结</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-3727090-8c9f6255/</link>
+				<pubDate>Mon, 09 Nov 2026 06:41:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-3727090-8c9f6255/</guid>
+				<description>《Horses of Hoofprint Bay》迎来首个正式补丁 v1.0.2。本次重点处理崩溃导致存档失效的致命问题，并修复双刷子、衣柜 Esc、马匹重复导出、导入马医疗日期等高频 BUG；母马生育掉属性被大幅削弱，低属性马最多掉耐力十分之一且不超过 5 点。官方坦言已损坏存档无法追溯恢复，只能新开档或放弃成就。更新还加入衣物挂鼠标、备份校验与错误弹窗选项。</description>
 			</item>
 			<item>
 				<title>《Find The Needle》V14.1大版本更新：仓库零件免费、传送带不再吃料、夜晚更亮</title>

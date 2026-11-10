@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 22:00:47 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 01:08:58 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Nocturnal 2》正式发售：首发九折，Deck选Vulkan</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2847780-d6ce97e3/</link>
+				<pubDate>Wed, 11 Nov 2026 01:08:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2847780-d6ce97e3/</guid>
+				<description>Sunnyside Games 的《Nocturnal 2》现已登陆 Steam，定价 8.99 美元，首发前九天九折，折后约 8.09 美元。新舞台 Ytash 开放探索，官方还专门给出 Steam Deck 优化建议：启动时选 Vulkan，并把刷新率锁到 60Hz。本文把发售信息、折扣窗口、Deck 设置和入手建议一次讲清。</description>
+			</item>
+			<item>
+				<title>Astrobarian正式发售：自动技能开关上线，手柄需手动启用</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3976630-4a01597a/</link>
+				<pubDate>Wed, 11 Nov 2026 01:07:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3976630-4a01597a/</guid>
+				<description>熬过从 2024 年一路磨到今天的漫长开发期，独立作品《Astrobarian》终于正式发售。上线版本实装了玩家呼声最高的自动技能开关，屏幕自动检测进一步调准，描述文本框加深底色提升可读性。作者明确近期以稳定性为第一优先，先收反馈再谈大改；手柄玩家务必进设置手动启用手柄支持，否则插了也没反应。</description>
+			</item>
+			<item>
+				<title>Starlight Cove正式发售：钓鱼重建海湾，追寻四条传说鱼</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5167670-883445f3/</link>
+				<pubDate>Wed, 11 Nov 2026 01:03:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5167670-883445f3/</guid>
+				<description>Starlight Cove 已在 Steam 正式发售，玩家将继承爷爷的海湾，通过钓鱼赚钱、升级技能与岛屿设施、重建小镇、填充水族馆，并出海追寻四条传说鱼。首发同步推出原声带与 Supporter Pack，可单独购买或与本体捆绑。文章梳理核心玩法、购买与上手建议，适合喜欢休闲钓鱼、治愈建造与轻叙事的玩家。</description>
+			</item>
+			<item>
+				<title>梦境新游《Yuha&#39;s Nightmares》发售，27项成就等你解锁</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-1457940-a41c03a1/</link>
+				<pubDate>Wed, 11 Nov 2026 00:41:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-1457940-a41c03a1/</guid>
+				<description>由开发者根据真实梦境打造的第一人称实验新游《Yuha&amp;rsquo;s Nightmares》现已在 Steam 发售，单周目约 1.5–2 小时，内含隐藏区域、50 多件记忆收集品与 27 项成就。官方确认 Linux 通过 Proton 可完整通关，macOS、手柄支持、原声 DLC 与后续修复更新均在推进中；首发期评价将直接影响 Steam 推荐，喜欢梦境叙事与探索的玩家不妨入库体验。</description>
+			</item>
+			<item>
+				<title>《吸血鬼：避世血族 誓约与灰烬》正式发售：33万词剧本&#43;免费序章</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4191110-2319605c/</link>
+				<pubDate>Wed, 11 Nov 2026 00:04:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4191110-2319605c/</guid>
+				<description>波兰小厂 Revive the Spark 的叙事新作《Vampire: The Masquerade - Oaths &amp;amp; Ashes》正式登陆 Steam。官方公布 18 个月制作周期、逾 33 万词剧本、53 张手绘背景、61 名角色与 500 多个玩家抉择，双主角、无亲王的柏林等待裁决。免费序章仍可试玩，先尝后买不留遗憾。</description>
+			</item>
 			<item>
 				<title>《Wilderdark》今日发售：20%首发折扣，孤岛寄生虫生存恐怖开荒指南</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-2735850-ab10458d/</link>
@@ -222,6 +257,13 @@
 				<pubDate>Mon, 09 Nov 2026 23:58:09 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-09-5461620-eef4778b/</guid>
 				<description>铁路经营新作《Ironline》宣布发售日由11月9日调整至11月13日，原因不是跳票摆烂，而是德语、俄语、简体中文完整本地化同步首发。菜单、战役、新闻、城镇报告及数字日期格式均已适配，每语种约7900行文本，还专门匹配了俄文与中文字体。玩家可在设置中切换语言并重启生效，遇到文本问题可反馈。</description>
+			</item>
+			<item>
+				<title>《Don&#39;t Press This SH*T》37种建造物曝光 11月11日发售</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5423880-334cb535/</link>
+				<pubDate>Mon, 09 Nov 2026 23:37:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5423880-334cb535/</guid>
+				<description>《Don&amp;rsquo;t Press This SH*T》公布建造系统详情：建造菜单共37种结构，涵盖地基、梁柱、楼梯、桥梁、墙体、屋顶、炉灶、净水器、帐篷与储物箱；玩家要用楼梯、桥梁和脚手架去够那只总是够不着的神秘手指，也能搭帐篷躲一躲。游戏支持多人分工合作搭建，没有工头但“顾问”管够，官方计划11月11日发售，现可加入愿望单关注后续消息。</description>
 			</item>
 			<item>
 				<title>《Punch Your Way Out》正式发售：拳碎岩壁吸尘卖矿，四人联机挖穿200米</title>

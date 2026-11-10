@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 13:33:02 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 09 Nov 2026 06:41:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>蹄印湾之马1.0.2补丁：存档崩溃修复、母马掉属性大减与双刷子BUG终结</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-3727090-8c9f6255/</link>
+				<pubDate>Mon, 09 Nov 2026 06:41:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-3727090-8c9f6255/</guid>
+				<description>《Horses of Hoofprint Bay》迎来首个正式补丁 v1.0.2。本次重点处理崩溃导致存档失效的致命问题，并修复双刷子、衣柜 Esc、马匹重复导出、导入马医疗日期等高频 BUG；母马生育掉属性被大幅削弱，低属性马最多掉耐力十分之一且不超过 5 点。官方坦言已损坏存档无法追溯恢复，只能新开档或放弃成就。更新还加入衣物挂鼠标、备份校验与错误弹窗选项。</description>
+			</item>
 			<item>
 				<title>《Potato Please》1.0.2热修补丁上线：后期卡顿、存档吞土豆与卡死问题一次性清账</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-5266240-b2aecfb6/</link>

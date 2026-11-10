@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gemion Function on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/gemion-function/</link>
+		<description>Recent content in Gemion Function on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 00:33:03 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/gemion-function/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gemion Function更新：训练模式修复与AZ 5H调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2212400-f311ea7d/</link>
+				<pubDate>Wed, 11 Nov 2026 00:33:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2212400-f311ea7d/</guid>
+				<description>Gemion Function 于 2026 年 11 月 10 日发布官方更新：在线训练模式修复 1P 无法选择假人角色的问题，AZ 的 5H 在命中后现在可以跳跃取消。补丁不大，但训练场体验和 AZ 连段路线都会受影响，建议玩家更新后立刻进训练模式复测手感与确反路线。</description>
+			</item>
+			<item>
+				<title>《Gemion Function》11.9更新：3P联机槽位落位、连招条挪窝、742条梗再&#43;6</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-2212400-19a72000/</link>
+				<pubDate>Tue, 10 Nov 2026 04:17:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-2212400-19a72000/</guid>
+				<description>11月9日，Gemion Function 推送了一波很接地气的更新：在线合作模式里，第二名红队成员正式挪进 3P 槽位，Steam 昵称也同步显示在角色与宝石选择界面；Combo Trials 的自定义计量条（AZ、Lord Pyre）整体右移，不再被 Gamer/Journalist 文字盖住；曲库为规避版权风险暂时只保留 AutoMattock 的作品；另外新增 6 条梗消息，总数来到 742 条。</description>
+			</item>
+	</channel>
+</rss>
