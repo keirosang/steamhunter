@@ -21,6 +21,13 @@
 				<description>Tower One 迎来1.0正式版发布，这款作品终于迈入完整版形态。对还在观望的玩家来说，现在最值得关注的是正式版稳定性、内容完整度以及是否适合此时入手；已经入库的老玩家则可以把注意力放在更新后的体验变化与后续路线。本文整理了核心看点、上手建议和常见问题，帮你判断要不要现在回归或入库。</description>
 			</item>
 			<item>
+				<title>Lutrin更新内置本地绘图：离线SDXL几秒出图，安装包增3GB</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5444520-de2e8b57/</link>
+				<pubDate>Mon, 09 Nov 2026 10:31:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5444520-de2e8b57/</guid>
+				<description>Lutrin 本次更新把绘图引擎装进客户端：基于 stable-diffusion.cpp、SDXL 与 SDXL-Lightning，全程离线，提示词和图片不出本机。Vulkan 显卡几秒出图，无独显经济模式约一分钟；生成默认关闭，组件约增 3GB，ComfyUI 仍可选，并保留内容过滤与取消按钮。</description>
+			</item>
+			<item>
 				<title>Cardalaxy1.0.6补丁：危机系统教程文本修正，发售前最后打磨</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-3314690-ee3499a4/</link>
 				<pubDate>Mon, 09 Nov 2026 01:36:10 +0800</pubDate>

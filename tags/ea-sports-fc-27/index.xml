@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 00:05:06 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 18:00:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/ea-sports-fc-27/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EA SPORTS FC 27 v1.2.0 补丁解析：极限防线重做、开球杀被削、UT进化链路修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4080220-8a5a2d34/</link>
+				<pubDate>Tue, 10 Nov 2026 18:00:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4080220-8a5a2d34/</guid>
+				<description>EA SPORTS FC 27 推送 v1.2.0 版本更新，核心是防守 AI 与站位逻辑重调：极限防守线高度下的站位方式被改写，开球后防线不再深退进禁区并固定一名防守球员居中，边后卫过度回撤与 AI 队友越位漂移一并修正。进攻端优化反击禁区内跑位，街球门将扑低平球能力提升。Ultimate Team 修复进化预览、奖励确认、SBC 存储标签等流程问题，并修复高配 PC 频繁卡顿掉帧。附更新后实战与排障建议。</description>
+			</item>
 			<item>
 				<title>EA SPORTS FC 27更新：95深度防守调整，边后卫不再漏人</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-4080220-98a52466/</link>

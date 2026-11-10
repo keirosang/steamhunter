@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>离线运行 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%A6%BB%E7%BA%BF%E8%BF%90%E8%A1%8C/</link>
+		<description>Recent content in 离线运行 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 10:31:59 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%A6%BB%E7%BA%BF%E8%BF%90%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lutrin更新内置本地绘图：离线SDXL几秒出图，安装包增3GB</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5444520-de2e8b57/</link>
+				<pubDate>Mon, 09 Nov 2026 10:31:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5444520-de2e8b57/</guid>
+				<description>Lutrin 本次更新把绘图引擎装进客户端：基于 stable-diffusion.cpp、SDXL 与 SDXL-Lightning，全程离线，提示词和图片不出本机。Vulkan 显卡几秒出图，无独显经济模式约一分钟；生成默认关闭，组件约增 3GB，ComfyUI 仍可选，并保留内容过滤与取消按钮。</description>
+			</item>
+	</channel>
+</rss>

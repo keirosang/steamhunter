@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>情报核对 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%83%85%E6%8A%A5%E6%A0%B8%E5%AF%B9/</link>
+		<description>Recent content in 情报核对 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Nov 2026 18:01:22 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%83%85%E6%8A%A5%E6%A0%B8%E5%AF%B9/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ARC Raiders 2.5.0 套装新配色，艾尔登法环情报核对</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-1808500-810071e7/</link>
+				<pubDate>Tue, 10 Nov 2026 18:01:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-1808500-810071e7/</guid>
+				<description>本条情报署名有冲突：游戏名写《艾尔登法环》（AppID 1808500），但 2.5.0 片段来自 ARC Raiders 团队，内容为 Vanguard Set 新增 Orange 与 Black/White 配色，且无需重启。结论：这不是《艾尔登法环》更新，而是 ARC Raiders 商店外观更新；以下按可确认内容给核对与建议。</description>
+			</item>
+	</channel>
+</rss>
