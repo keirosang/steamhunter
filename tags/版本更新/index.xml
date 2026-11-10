@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 19:30:38 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 22:43:08 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆“鹰影”更新：导弹命中点可调，红外制导直盯引擎</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-236390-8abae95e/</link>
+				<pubDate>Tue, 10 Nov 2026 22:43:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-236390-8abae95e/</guid>
+				<description>战争雷霆“鹰影”大版本再放飞机机制猛料：MITL人在回路弹药支持直升机，锁定后可手动微调命中点；地面ATGM如Spike也能预选精确落点。红外制导导弹不再一律砸机身中心，除IIR等特殊导引头外将追踪发动机等最热部位。DIRCM建模、CCRP界面与集束炸弹同步优化。</description>
+			</item>
+			<item>
+				<title>One More Adventure 正式发售：地图编辑器与侏儒族已提上日程，独立作者亲口承诺</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4546340-1d10c0c8/</link>
+				<pubDate>Tue, 10 Nov 2026 21:18:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4546340-1d10c0c8/</guid>
+				<description>独立游戏 One More Adventure 在 Steam 与 Android 双平台同日发售，但作者明确表示，上线并不代表开发结束。后续两大路线已公布：一是把游戏最初的概念原型，也就是地图编辑器，完整做出来，让玩家自己造图、甚至互相游玩；二是加入全新种族侏儒，并为其配备独立机制与专属剧情线。本篇梳理公告要点、路线图判断与上手建议。</description>
+			</item>
+			<item>
+				<title>《Warhammer Survivors》简繁中文文本同步修订：术语统一，描述更清晰</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-3669620-d4768e23/</link>
+				<pubDate>Tue, 10 Nov 2026 20:10:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-3669620-d4768e23/</guid>
+				<description>Steam AppID 3669620 的《Warhammer Survivors》推送了一次纯文本层的小型更新，官方说明为简体中文与繁体中文游戏文本的小幅调整，未涉及玩法、数值与平衡性改动。别小看这次修订——战锤 IP 的专有名词密度极高，术语统一直接影响技能描述的可读性，而幸存者类的技能描述就是你的 Build 说明书。本文给出改动解读、简繁切换验证方法与文本反馈的正确姿势。</description>
+			</item>
 			<item>
 				<title>AION 2 11月11日维护4小时30分：登录中断，更新内容待揭晓</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-3393110-d4c7826d/</link>

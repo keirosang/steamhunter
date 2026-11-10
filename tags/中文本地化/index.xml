@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中文本地化 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E4%B8%AD%E6%96%87%E6%9C%AC%E5%9C%B0%E5%8C%96/</link>
+		<description>Recent content in 中文本地化 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Nov 2026 20:10:34 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E4%B8%AD%E6%96%87%E6%9C%AC%E5%9C%B0%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Warhammer Survivors》简繁中文文本同步修订：术语统一，描述更清晰</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-3669620-d4768e23/</link>
+				<pubDate>Tue, 10 Nov 2026 20:10:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-3669620-d4768e23/</guid>
+				<description>Steam AppID 3669620 的《Warhammer Survivors》推送了一次纯文本层的小型更新，官方说明为简体中文与繁体中文游戏文本的小幅调整，未涉及玩法、数值与平衡性改动。别小看这次修订——战锤 IP 的专有名词密度极高，术语统一直接影响技能描述的可读性，而幸存者类的技能描述就是你的 Build 说明书。本文给出改动解读、简繁切换验证方法与文本反馈的正确姿势。</description>
+			</item>
+	</channel>
+</rss>

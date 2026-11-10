@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 21:51:30 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 22:43:08 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%A9%BA%E6%88%98%E6%9C%BA%E5%88%B6/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆“鹰影”更新：导弹命中点可调，红外制导直盯引擎</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-236390-8abae95e/</link>
+				<pubDate>Tue, 10 Nov 2026 22:43:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-236390-8abae95e/</guid>
+				<description>战争雷霆“鹰影”大版本再放飞机机制猛料：MITL人在回路弹药支持直升机，锁定后可手动微调命中点；地面ATGM如Spike也能预选精确落点。红外制导导弹不再一律砸机身中心，除IIR等特殊导引头外将追踪发动机等最热部位。DIRCM建模、CCRP界面与集束炸弹同步优化。</description>
+			</item>
 			<item>
 				<title>战争雷霆自定义战斗评分实装：一架战机多档BR，武器配置决定出击权重</title>
 				<link>https://info.steamhunter.link/posts/2026-10-29-236390-5ebc6fcb/</link>
