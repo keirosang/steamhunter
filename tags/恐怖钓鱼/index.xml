@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>恐怖钓鱼 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%81%90%E6%80%96%E9%92%93%E9%B1%BC/</link>
+		<description>Recent content in 恐怖钓鱼 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 02:06:19 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%81%90%E6%80%96%E9%92%93%E9%B1%BC/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/</link>
+				<pubDate>Wed, 11 Nov 2026 02:06:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/</guid>
+				<description>钓鱼恐怖新作 DREADMOOR 推送抢先体验第二波更新，重点清剿卡关级问题：抱着物品拉发电机导致的软锁、知识碎片计数错乱、河狸在 The Throat 无脑重生全部修复。同时给 Father Matthias 任务所需的 Bloodgill 加了专属钓点和任务标记，发电机 QTE 不再受鼠标 DPI 影响，屋顶刷怪概率下调。物理休眠、钩爪枪收线提示、手柄切换与画面表现也一并打磨，新玩家默认进入无边框窗口模式。</description>
+			</item>
+	</channel>
+</rss>

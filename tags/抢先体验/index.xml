@@ -10,15 +10,29 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 21:05:33 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 02:06:19 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/</link>
+				<pubDate>Wed, 11 Nov 2026 02:06:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/</guid>
+				<description>钓鱼恐怖新作 DREADMOOR 推送抢先体验第二波更新，重点清剿卡关级问题：抱着物品拉发电机导致的软锁、知识碎片计数错乱、河狸在 The Throat 无脑重生全部修复。同时给 Father Matthias 任务所需的 Bloodgill 加了专属钓点和任务标记，发电机 QTE 不再受鼠标 DPI 影响，屋顶刷怪概率下调。物理休眠、钩爪枪收线提示、手柄切换与画面表现也一并打磨，新玩家默认进入无边框窗口模式。</description>
+			</item>
 			<item>
 				<title>Midwest 90抢先体验延期：Steam审核未过，官方致歉</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-1818480-0d68fbed/</link>
 				<pubDate>Tue, 10 Nov 2026 21:05:33 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-10-1818480-0d68fbed/</guid>
 				<description>Hidden Chest Studios 与 Rising Tide 宣布，《Midwest 90: Rapid City》抢先体验版因 Steam 审核尚未通过而无法按时上线。官方确认内容已准备就绪，只能等待平台放行，并向清空当晚安排的玩家致歉；同时放出6分钟实机深入解析，建议先加愿望单并关注社媒，审核通过后第一时间入库。</description>
+			</item>
+			<item>
+				<title>Loftia抢先体验补丁#2：修崩溃与卡关，果树必掉果实钓鱼爆率重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-2320980-31f69649/</link>
+				<pubDate>Tue, 10 Nov 2026 15:50:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-2320980-31f69649/</guid>
+				<description>Loftia 抢先体验首周就甩出第二弹补丁：一口气修掉跨地图宠物罢工、工具与表情轮盘卡顿、回收机数量锁死、剧情对话卡关等硬伤；平衡面上果树改为必掉果实并附带 20% 种子概率，钓鱼点重做让罕见鱼更稀、人体模型与种子机配方互换等级；众筹与 DLC 宠物直接满解锁不再练友谊。本文附上手建议与避坑要点。</description>
 			</item>
 			<item>
 				<title>《无界工业》抢先体验今日开跑！首发85折仅21.25元，无限画布造戴森球</title>

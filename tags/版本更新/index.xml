@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 01:15:37 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 02:15:47 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apex英雄更新：Crypto无人机穿玻璃扫描，世界边缘保险库移除</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-1172470-f38f8297/</link>
+				<pubDate>Wed, 11 Nov 2026 02:15:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-1172470-f38f8297/</guid>
+				<description>Apex英雄11月10日补丁上线：Crypto迎来连续第二波加强，无人机现在可隔玻璃扫描，且无人机计时结束不再打断复活交互；世界边缘的保险库被官方确认移除，官方称此举是为让 Strongholds 继续成为中期主要争夺点。同时修复无人机视角重复动画、小地图毒圈指示、幻象空降分身、PC终极技能按键不显示等多项问题。本文拆解改动细节与实战建议。</description>
+			</item>
+			<item>
+				<title>DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/</link>
+				<pubDate>Wed, 11 Nov 2026 02:06:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/</guid>
+				<description>钓鱼恐怖新作 DREADMOOR 推送抢先体验第二波更新，重点清剿卡关级问题：抱着物品拉发电机导致的软锁、知识碎片计数错乱、河狸在 The Throat 无脑重生全部修复。同时给 Father Matthias 任务所需的 Bloodgill 加了专属钓点和任务标记，发电机 QTE 不再受鼠标 DPI 影响，屋顶刷怪概率下调。物理休眠、钩爪枪收线提示、手柄切换与画面表现也一并打磨，新玩家默认进入无边框窗口模式。</description>
+			</item>
 			<item>
 				<title>战争雷霆11月11日迎鹰之影大版本更新，服务器维护与内容前瞻</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-236390-51cab119/</link>
@@ -112,6 +126,13 @@
 				<description>战争雷霆 Eagle&amp;rsquo;s Shadow 大版本即将迎来德系 VII 级战列舰 H-39：八门 406mm 主炮、63000 吨以上排水量、277 米舰身，刷新游戏内最长战舰纪录；综合防护优于俾斯麦，但前后弹药库极易被击穿，防空与射速是明显短板。本文拆解火力与装甲要点、实战中的摆角与鱼雷用法，并附获取途径与组队开黑建议。</description>
 			</item>
 			<item>
+				<title>Loftia抢先体验补丁#2：修崩溃与卡关，果树必掉果实钓鱼爆率重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-2320980-31f69649/</link>
+				<pubDate>Tue, 10 Nov 2026 15:50:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-2320980-31f69649/</guid>
+				<description>Loftia 抢先体验首周就甩出第二弹补丁：一口气修掉跨地图宠物罢工、工具与表情轮盘卡顿、回收机数量锁死、剧情对话卡关等硬伤；平衡面上果树改为必掉果实并附带 20% 种子概率，钓鱼点重做让罕见鱼更稀、人体模型与种子机配方互换等级；众筹与 DLC 宠物直接满解锁不再练友谊。本文附上手建议与避坑要点。</description>
+			</item>
+			<item>
 				<title>《伊莫》11.12大版本更新：亲密度上线、维护时间与拍照活动</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-4126040-7f1374df/</link>
 				<pubDate>Tue, 10 Nov 2026 10:14:59 +0800</pubDate>
@@ -194,6 +215,13 @@
 				<pubDate>Mon, 09 Nov 2026 22:44:53 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-09-3527290-81378b74/</guid>
 				<description>《PEAK》3.1.0 补丁正式推送：房间码加长以提升联机安全性，手柄冲刺与攀爬改为按住触发并支持按住、切换两种模式，同时修复手柄攀爬无法同键取消的老毛病，踩队友脑袋的经典玩法回归，并新增多种防捣乱保护。官方还顺带解释了游戏体积暴涨的真相——3.0 跨平台更新一次性塞进 208 张地图。本次补丁以稳定性与操作手感为主，无新增地图与道具。</description>
+			</item>
+			<item>
+				<title>Dave 推送 Rooms 大版本更新：25 人语音、同步看片、房间码一键开黑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5473640-d1d17300/</link>
+				<pubDate>Mon, 09 Nov 2026 22:22:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5473640-d1d17300/</guid>
+				<description>Dave 官方上线 Rooms 社交系统：文本频道支持图片文件与动态贴纸，语音频道最多 25 人并带按键说话、降噪、音效板与屏幕共享；还能同步看 YouTube、跟着 Spotify 同步听歌。房间免费、点对点加密、仅凭房间码加入，Premium 额外解锁动态头像与动态边框。本文把玩法改动、上手路径与避坑要点一次讲清。</description>
 			</item>
 			<item>
 				<title>《僵尸毁灭工程》42.22.2稳定版：梯子与撬棍上线，平衡大修</title>

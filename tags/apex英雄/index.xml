@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 02:48:48 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 02:15:47 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/apex%E8%8B%B1%E9%9B%84/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apex英雄更新：Crypto无人机穿玻璃扫描，世界边缘保险库移除</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-1172470-f38f8297/</link>
+				<pubDate>Wed, 11 Nov 2026 02:15:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-1172470-f38f8297/</guid>
+				<description>Apex英雄11月10日补丁上线：Crypto迎来连续第二波加强，无人机现在可隔玻璃扫描，且无人机计时结束不再打断复活交互；世界边缘的保险库被官方确认移除，官方称此举是为让 Strongholds 继续成为中期主要争夺点。同时修复无人机视角重复动画、小地图毒圈指示、幻象空降分身、PC终极技能按键不显示等多项问题。本文拆解改动细节与实战建议。</description>
+			</item>
 			<item>
 				<title>Apex英雄11.6更新：E-District夜图下线，视野优化前瞻</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-1172470-adb5256a/</link>

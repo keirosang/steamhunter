@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="钓鱼恐怖新作 DREADMOOR 推送抢先体验第二波更新，重点清剿卡关级问题：抱着物品拉发电机导致的软锁、知识碎片计数错乱、河狸在 The Throat 无脑重生全部修复。同时给 Father Matthias 任务所需的 Bloodgill 加了专属钓点和任务标记，发电机 QTE 不再受鼠标 DPI 影响，屋顶刷怪概率下调。物理休眠、钩爪枪收线提示、手柄切换与画面表现也一并打磨，新玩家默认进入无边框窗口模式。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨">
+  <meta property="og:description" content="钓鱼恐怖新作 DREADMOOR 推送抢先体验第二波更新，重点清剿卡关级问题：抱着物品拉发电机导致的软锁、知识碎片计数错乱、河狸在 The Throat 无脑重生全部修复。同时给 Father Matthias 任务所需的 Bloodgill 加了专属钓点和任务标记，发电机 QTE 不再受鼠标 DPI 影响，屋顶刷怪概率下调。物理休眠、钩爪枪收线提示、手柄切换与画面表现也一并打磨，新玩家默认进入无边框窗口模式。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/105e195e8716c4db.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 DREADMOOR</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 3629430</span>
+      
+    </div>
+
+    <h1 class="article-title">DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-11T02:06:19&#43;08:00" class="meta-date">
+          📅 2026-11-11 02:06
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1905 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/3629430/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/3629430" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/105e195e8716c4db.jpg" alt="DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>钓鱼恐怖新作 DREADMOOR 推送抢先体验第二波更新，重点清剿卡关级问题：抱着物品拉发电机导致的软锁、知识碎片计数错乱、河狸在 The Throat 无脑重生全部修复。同时给 Father Matthias 任务所需的 Bloodgill 加了专属钓点和任务标记，发电机 QTE 不再受鼠标 DPI 影响，屋顶刷怪概率下调。物理休眠、钩爪枪收线提示、手柄切换与画面表现也一并打磨，新玩家默认进入无边框窗口模式。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>官方第二波抢先体验补丁已经落地。这次没有新地图、没有新怪物，是一份典型的「修 Bug + 稳物理 + 抠手感」型清单，但对正在推主线的钓友来说含金量一点不低。</p>
+<ul>
+<li><strong>卡关级问题集中清剿</strong>：抱着物品去拉发电机导致的软锁、知识碎片计数错乱、深水解锁后河狸在 The Throat 附近反复重生，全部处理。</li>
+<li><strong>任务线不再靠猜</strong>：Father Matthias 任务所需的 Bloodgill 新增了钓点和任务标记，找鱼的痛苦大幅下降。</li>
+<li><strong>手感与判定修复</strong>：发电机 QTE 不再受鼠标 DPI 影响；水闸闸门处手柄与键鼠切换的错乱也修了。</li>
+<li><strong>生存压力微调</strong>：屋顶刷怪概率下调，爬高不再等于送人头；Bone Reef 祭坛修复所需资源同步更新。</li>
+<li><strong>默认显示模式变更</strong>：新玩家进入游戏默认使用<strong>无边框窗口模式</strong>，Alt+Tab 出去查攻略不会被黑屏和重载折腾。</li>
+<li><strong>表现层持续打磨</strong>：钩爪枪快速收线的教程与 HUD 提示重做、Jacqueline 对话动画过渡优化、水下气泡与触手打击特效更新、干船坞工作台照明常亮。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一先把能玩下去这件事修好">一、先把「能玩下去」这件事修好</h3>
+<p>抢先体验阶段最怕的不是内容少，而是玩家被一个软锁卡在半路。这次更新点名处理了两类最恶心的状况：一是<strong>手持物品与发电机交互时可能陷入死锁</strong>，二是<strong>Scraps of Knowledge 被错误计入总数</strong>——后者会直接干扰玩家对收集进度的判断，属于典型的「不崩溃但很劝退」的问题。再加上 The Throat 区域模块化物件启用物理休眠、防止掉出场景外，说明开发组在系统底层而不是表面贴膏药。</p>
+<h3 id="二bloodgill-任务线终于有了路标">二、Bloodgill 任务线终于有了路标</h3>
+<p>Father Matthias 的任务此前最劝退的地方是「知道要什么鱼，但不知道在哪钓」。本次不仅<strong>新增 Bloodgill 钓点</strong>，还配了<strong>任务标记</strong>，把「看攻略找坐标」的环节直接省掉。对刚入坑、还没熟悉水域分布的玩家来说，这是整份补丁里体验提升最立竿见影的一条。</p>
+<h3 id="三qte-不再和你的鼠标-dpi-绑死">三、QTE 不再和你的鼠标 DPI 绑死</h3>
+<p>高 DPI 玩家应该都懂那种感觉：鼠标一抖，QTE 直接崩。这次明确<strong>移除了鼠标 DPI 设置对发电机 QTE 的影响</strong>，等于把判定标准收回到游戏自己手里。配合「移除没有斧头时的内心独白（但保留提示）」，可以看出开发组在有意减少无用信息与外部变量对手感的干扰。</p>
+<h3 id="四物理动画与光照的碎步优化">四、物理、动画与光照的碎步优化</h3>
+<ul>
+<li>The Throat 模块物件与船体模块加入物理休眠，减少穿模和物件掉落异常；</li>
+<li>Hymn to Deformity 任务里的尸块浮力与物理休眠单独调过，避免任务道具沉底或乱飞；</li>
+<li>Scabfish 物理资源修复，碰撞检测全局更新；</li>
+<li>关闭 IES 光源的光线追踪反射，修复第二交易站 Betsy 战斗中的偶发光追异常，鮟鱇鱼灯补了无阴影点光源；</li>
+<li>干船坞新增音乐区域，Stormspire 传闻录音补了配音，多语言文本与 HUD 一并校正。</li>
+</ul>
+<p>这些条目单看都是小事，但拼在一起就是「别让玩家在奇怪的地方出戏」。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>进游戏先检查显示模式</strong>：更新后新档默认是无边框窗口。想要独占全屏就手动改回去，想边玩边查资料就保持现状，切换成本很低。</li>
+<li><strong>任务卡住先看地图标记</strong>：Bloodgill 现在有专属钓点提示，别再沿着老路线瞎抛竿；如果标记没出现，先确认任务是否已正式接取。</li>
+<li><strong>改掉「抱着东西去拉闸」的习惯</strong>：虽然软锁已修，但发电机、水闸这类交互点仍建议空手操作，减少意外变量。</li>
+<li><strong>重新核对 Bone Reef 祭坛配方</strong>：修复所需资源已被调整，之前囤的材料可能对不上号，动手前先看一眼需求列表。</li>
+<li><strong>高 DPI 玩家可以放心用原设置</strong>：不必再为了 QTE 临时把灵敏度调低，正常手感游玩即可。</li>
+<li><strong>屋顶不再是刷怪重灾区</strong>：需要在高处观察或布置时更安全，但仍不建议长时间停留。</li>
+<li><strong>备份存档</strong>：抢先体验阶段的存档兼容性不保证，重大版本前复制一份存档目录，比事后救火省心。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>抢先体验游戏最怕错过热修——今天刚修完的软锁，明天可能又有新补丁。建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，限免喜加一、史低特惠、以及这类高频热修公告会第一时间推送，不用自己反复刷 Steam 动态页。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：这次更新会破坏我的旧存档吗？</strong>
+A：官方公告没有提到存档结构变更，属于修复与调优性质。但抢先体验阶段任何版本跳变都有风险，进游戏前把存档目录复制一份是稳妥做法；如果进度异常，优先确认是否还在 Early Access 分支的最新版本上。</p>
+<p><strong>Q2：为什么我进游戏是全屏窗口而不是独占全屏？</strong>
+A：本次更新把<strong>无边框窗口模式</strong>设为新玩家的默认显示模式，方便多任务切换。可以在设置里手动改回独占全屏，两种模式下的画质与帧数表现差异按你的显卡和显示器而定。</p>
+<p><strong>Q3：发电机 QTE 变简单了吗？手柄和键鼠切换还会乱吗？</strong>
+A：QTE 本身难度没改，改的是<strong>不再受鼠标 DPI 设置影响</strong>，高灵敏度玩家的判定会回到正常水平。水闸闸门处手柄与键鼠的切换错乱已在本次修复，若仍复现，建议只保留一个输入设备在线再重进场景。</p>
+<p><strong>Q4：这次更新有新增内容吗？</strong>
+A：没有新地图或新敌人，属于纯打磨型补丁。主要内容集中在任务引导、物理稳定性、控制器与 UI、画面特效与音频语言文本，外加若干关卡与碰撞问题的收尾。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/DREADMOOR/" class="article-tag-item">#DREADMOOR</a>
+          
+          <a href="/tags/%e6%8a%a2%e5%85%88%e4%bd%93%e9%aa%8c/" class="article-tag-item">#抢先体验</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e6%81%90%e6%80%96%e9%92%93%e9%b1%bc/" class="article-tag-item">#恐怖钓鱼</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-11-3596910-8270e13b/" class="sibling-title">UNBOXING:1-BIT PARADOX：首发-12%，65&#43;谜题</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-11-4727390-83b612e1/" class="sibling-title">《After All Is Abraded》正式发售：无武器无战斗，1.5小时一口气通关的心理恐怖</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一先把能玩下去这件事修好">一、先把「能玩下去」这件事修好</a></li>
+        <li><a href="#二bloodgill-任务线终于有了路标">二、Bloodgill 任务线终于有了路标</a></li>
+        <li><a href="#三qte-不再和你的鼠标-dpi-绑死">三、QTE 不再和你的鼠标 DPI 绑死</a></li>
+        <li><a href="#四物理动画与光照的碎步优化">四、物理、动画与光照的碎步优化</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

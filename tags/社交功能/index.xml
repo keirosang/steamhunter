@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>社交功能 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%A4%BE%E4%BA%A4%E5%8A%9F%E8%83%BD/</link>
+		<description>Recent content in 社交功能 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 22:22:33 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%A4%BE%E4%BA%A4%E5%8A%9F%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dave 推送 Rooms 大版本更新：25 人语音、同步看片、房间码一键开黑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5473640-d1d17300/</link>
+				<pubDate>Mon, 09 Nov 2026 22:22:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5473640-d1d17300/</guid>
+				<description>Dave 官方上线 Rooms 社交系统：文本频道支持图片文件与动态贴纸，语音频道最多 25 人并带按键说话、降噪、音效板与屏幕共享；还能同步看 YouTube、跟着 Spotify 同步听歌。房间免费、点对点加密、仅凭房间码加入，Premium 额外解锁动态头像与动态边框。本文把玩法改动、上手路径与避坑要点一次讲清。</description>
+			</item>
+	</channel>
+</rss>
