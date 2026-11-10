@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>服务器修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 服务器修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 14:09:04 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《TBH：塔斯克巴·英雄》429断连已修复，玩家可正常登录继续开刷</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-3678970-c54af651/</link>
+				<pubDate>Mon, 09 Nov 2026 14:09:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-3678970-c54af651/</guid>
+				<description>《TBH：塔斯克巴·英雄》官方确认，因429错误引发的服务器连接异常已经修复，玩家现在可以正常登录并游玩。开发团队就本次断连造成的不便致歉；本文整理故障原因、当前状态、实操排查步骤与常见问题，帮你快速回坑继续刷任务。若你仍遇到登录失败，建议先重启客户端并检查网络环境，再关注官方后续公告。</description>
+			</item>
+	</channel>
+</rss>
