@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 20:11:09 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 00:09:46 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AE%98%E6%96%B9%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Potions Galore》魔药小店开张！手柄支持与性能问题全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-5079620-da0f4fbb/</link>
+				<pubDate>Thu, 12 Nov 2026 00:09:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-5079620-da0f4fbb/</guid>
+				<description>整理控狂喜的《Potions Galore》魔药小店正式开门营业，官方同步公布了一份坦诚到有点可爱的问题清单：玩法层手柄全支持但菜单还得靠鼠标、部分笔记本核心温度飙高导致掉帧（官方建议锁 60 帧）、图鉴左页悬停会卡顿、滚轮键无法改绑。本文把已知问题、临时解决方案和上手建议一次讲清，顺手教你怎么把药剂摆得整整齐齐。</description>
+			</item>
 			<item>
 				<title>三国争霸11.05热修：受雇部队来回移动问题终修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-3975950-f70ffea8/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>画质优化 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96/</link>
+		<description>Recent content in 画质优化 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 12 Nov 2026 00:07:03 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%94%BB%E8%B4%A8%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆鹰之影更新：全新渲染器上线，光影反射全面重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-236390-6db27e0d/</link>
+				<pubDate>Thu, 12 Nov 2026 00:07:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-236390-6db27e0d/</guid>
+				<description>Gaijin 为《战争雷霆》推送「鹰之影」渲染器第二部分更新：局部色调映射让机库与阳光机场不再二选一，天空遮蔽让室内外环境光遮蔽各归其位，显示曲线重调零性能开销提亮暗部细节，BRDF 修正找回粗糙金属在低角度下丢失的近一半反射光，湿滑与雪地表面反射也一并修复。</description>
+			</item>
+	</channel>
+</rss>

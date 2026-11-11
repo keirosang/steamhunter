@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Potions Galore》魔药小店开张！手柄支持与性能问题全解析 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="整理控狂喜的《Potions Galore》魔药小店正式开门营业，官方同步公布了一份坦诚到有点可爱的问题清单：玩法层手柄全支持但菜单还得靠鼠标、部分笔记本核心温度飙高导致掉帧（官方建议锁 60 帧）、图鉴左页悬停会卡顿、滚轮键无法改绑。本文把已知问题、临时解决方案和上手建议一次讲清，顺手教你怎么把药剂摆得整整齐齐。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Potions Galore》魔药小店开张！手柄支持与性能问题全解析">
+  <meta property="og:description" content="整理控狂喜的《Potions Galore》魔药小店正式开门营业，官方同步公布了一份坦诚到有点可爱的问题清单：玩法层手柄全支持但菜单还得靠鼠标、部分笔记本核心温度飙高导致掉帧（官方建议锁 60 帧）、图鉴左页悬停会卡顿、滚轮键无法改绑。本文把已知问题、临时解决方案和上手建议一次讲清，顺手教你怎么把药剂摆得整整齐齐。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-12-5079620-da0f4fbb/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/262e32b764868f30.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-12-5079620-da0f4fbb/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Potions Galore》魔药小店开张！手柄支持与性能 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Potions Galore</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5079620</span>
+      
+    </div>
+
+    <h1 class="article-title">《Potions Galore》魔药小店开张！手柄支持与性能问题全解析</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-12T00:09:46&#43;08:00" class="meta-date">
+          📅 2026-11-12 00:09
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2293 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5079620/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5079620" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/262e32b764868f30.jpg" alt="《Potions Galore》魔药小店开张！手柄支持与性能问题全解析" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>整理控狂喜的《Potions Galore》魔药小店正式开门营业，官方同步公布了一份坦诚到有点可爱的问题清单：玩法层手柄全支持但菜单还得靠鼠标、部分笔记本核心温度飙高导致掉帧（官方建议锁 60 帧）、图鉴左页悬停会卡顿、滚轮键无法改绑。本文把已知问题、临时解决方案和上手建议一次讲清，顺手教你怎么把药剂摆得整整齐齐。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>开张营业</strong>：历经五个月的打磨，《Potions Galore》的魔药小店正式开门迎客，官方把它定位成「清洁与整理 + 一段完整叙事」的组合体验，不只是把瓶子摆整齐那么简单。</li>
+<li><strong>手柄：能玩，但只在玩法层</strong>。游戏内操作已经完整适配手柄，可菜单导航还是半成品——设置菜单和模式选择弹窗仍然得抬手摸鼠标。</li>
+<li><strong>首发不支持手柄改键</strong>，官方口径是「看需求再说」，也就是说 Steam 输入映射得你自己先顶上。</li>
+<li><strong>性能预警</strong>：部分笔记本配置出现核心温度过高、降频的连环效应，即便帧数显示 60+ 也会有卡顿。官方建议<strong>手动锁 60 帧</strong>并回报结果，调查仍在进行。</li>
+<li><strong>图鉴卡顿</strong>：左侧图鉴页悬停条目时偶发掉帧，属于已知问题，修着。</li>
+<li><strong>改键限制</strong>：鼠标滚轮（上滚、下滚、按下）无法绑键；部分键盘按键在界面里不显示图标，但<strong>实际改键是生效的</strong>。</li>
+<li><strong>小瑕疵</strong>：顶层拉杆的旋转动画表现诡异，纯视觉问题，不影响流程。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一这是一款什么味道的游戏">一、这是一款什么味道的游戏</h3>
+<p>官方自己说得很直白：五个月前它只是个「挑战」，现在它成了一款在「清洁与整理」之上叠了一层叙事的作品。换句话说，摆药、归位、分类是核心循环，但你摆的不是瓶子，是故事的碎片——店里藏了不少东西，等你一边整理一边翻出来。</p>
+<p>如果你玩过那种「把一堆乱七八糟的东西归位到极致舒适」的游戏，那这套爽点你秒懂；真正让它站住的，是它在整理之外还压了一条叙事线。</p>
+<h3 id="二手柄支持能打但别指望全程躺着玩">二、手柄支持：能打，但别指望全程躺着玩</h3>
+<p>官方给的状态是拆分式的：</p>
+<table>
+	<thead>
+			<tr>
+					<th>项目</th>
+					<th>状态</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>玩法内操作</td>
+					<td>✅ 完整支持</td>
+			</tr>
+			<tr>
+					<td>手柄改键</td>
+					<td>❌ 首发不支持（看需求）</td>
+			</tr>
+			<tr>
+					<td>设置菜单导航</td>
+					<td>⚠️ 需要鼠标</td>
+			</tr>
+			<tr>
+					<td>游戏模式选择弹窗</td>
+					<td>⚠️ 需要鼠标</td>
+			</tr>
+	</tbody>
+</table>
+<p>这意味着如果你打算用手柄玩，最现实的姿势是<strong>手柄放腿上、鼠标放旁边</strong>，只在进设置和选模式时动一下。想要纯沙发体验的，建议先用 Steam 输入把这几个界面操作映射到手柄按键上，或者干脆等官方后续补。</p>
+<h3 id="三性能问题锁帧是目前最靠谱的临时解">三、性能问题：锁帧是目前最靠谱的临时解</h3>
+<p>这是本次公告里最值得重视的一条。部分笔记本配置出现<strong>核心温度过高 → 降频 → 卡顿</strong>的链条，而且关键点在于：<strong>帧数显示高于 60 也可能卡</strong>。因为显示的 FPS 是平均值，降频瞬间的帧时间抖动才是手感杀手。</p>
+<p>官方的建议非常朴素但有效：<strong>把帧率上限设到 60</strong>，跑一局看看还卡不卡。对整理类游戏来说，60 帧完全够用，把多出来的性能预算换成更低的温度和更稳的帧时间，是明显划算的买卖。</p>
+<p>配套建议（按优先级）：</p>
+<ol>
+<li>游戏内或显卡驱动里锁 60 FPS；</li>
+<li>笔记本切到「平衡」或「静音」电源模式，别开狂暴模式硬刚；</li>
+<li>独显机型确认没跑在核显上——桌面右键 → 显示设置 → 图形设置里指定高性能 GPU；</li>
+<li>关掉后台的浏览器/录屏软件，尤其是那些常驻覆盖层（Discord、NVIDIA 覆盖层）先关掉排雷。</li>
+</ol>
+<h3 id="四改键的那些坑">四、改键的那些坑</h3>
+<p>两条需要记牢：</p>
+<ul>
+<li><strong>滚轮三个方向（上滚/下滚/滚轮按下）目前绑不了</strong>，如果你习惯了滚轮切物品，先改回键位或者用默认方案。</li>
+<li><strong>界面不显示 ≠ 不生效</strong>。官方明说了，某些键盘按键在界面里没有对应图标，但改键本身是会生效的。所以别看到「空着」就以为没绑上，进游戏试一下再判断。</li>
+</ul>
+<h3 id="五那条歪掉的拉杆">五、那条歪掉的拉杆</h3>
+<p>顶层拉杆旋转动画表现异常，属于纯视觉层面的小 bug。不影响判定、不影响流程，看到它转得别扭就当是魔药店的祖传手工艺，不影响你继续摆瓶子。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>上手节奏</strong></p>
+<ul>
+<li>前半小时别急着「摆得好看」，先摸清分类规则。整理类游戏的通病是新手一上来追求完美排列，结果半小时过去只整理了一个架子，挫败感拉满。先按大类别粗分，再回头精修。</li>
+<li>图鉴（Encyclopedia）是叙事的主要入口，但<strong>左页悬停有卡顿</strong>，翻的时候别疯狂甩鼠标，一页一页看反而更稳。</li>
+<li>遇到看不懂的药剂先别硬猜，图鉴里基本都有线索，边整理边读是这款游戏最舒服的节奏。</li>
+</ul>
+<p><strong>用手柄的玩家</strong></p>
+<ul>
+<li>先用 Steam 输入模板把「确认/返回」映射到手柄上，能覆盖掉设置菜单和模式弹窗那一段。</li>
+<li>首发不支持手柄改键，所以默认键位先适应着，别跟自己较劲。</li>
+</ul>
+<p><strong>性能调优清单</strong></p>
+<ol>
+<li>先锁 60 帧，这是官方给的第一个动作；</li>
+<li>更新显卡驱动到最新版；</li>
+<li>笔记本接电源、开性能模式但别拉满风扇曲线；</li>
+<li>出现卡顿后去 Steam 社区论坛回报配置（CPU/GPU/内存/系统版本），官方明确说了在收集这方向的数据。</li>
+</ol>
+<p><strong>购买与入库建议</strong></p>
+<ul>
+<li>想尝鲜的，直接加愿望单盯折扣；整理品类打折频率不低，不急着首发入库的可以等等。</li>
+<li>有晕 3D 或者对第一人称视角敏感的，先看几分钟实机再决定，这类「低头摆东西」的视角对部分人不太友好。</li>
+<li>已经在库里的，记得把「锁 60 帧」写进你的启动习惯里，尤其笔记本玩家。</li>
+</ul>
+<p><strong>避坑提醒</strong></p>
+<ul>
+<li>别在改键界面纠结「为什么这个键没图标」，能跑起来就是绑上了。</li>
+<li>别指望首发就能全手柄躺玩，菜单那一段目前绕不过鼠标。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想看秒级的限免、史低、临时工价格和首发补丁推送，建议加入我们的 Telegram 频道 <strong>@steamhunterlink</strong>。这种「官方刚发公告、群里已经弹出通知」的速度，是你蹲折扣和喜加一时最省时间的一环——尤其是整理品类这种经常悄咪咪打折的赛道，错过一次就得等下一个季节特卖。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：我用手柄，能全程不开鼠标玩吗？</strong></p>
+<p>A：暂时不行。玩法层操作已完整支持手柄，但设置菜单和游戏模式选择弹窗仍然需要鼠标点击。临时方案是用 Steam 输入把手柄的某个键映射成鼠标左键/确认键，能覆盖掉这几个界面。</p>
+<p><strong>Q2：帧数显示 60 以上，为什么还是卡？</strong></p>
+<p>A：部分笔记本配置出现了核心温度过高导致降频的情况，降频瞬间的帧时间抖动会造成卡顿感，即使平均帧数看起来达标。官方建议先把帧率上限锁到 60，观察是否改善，并到 Steam 社区论坛反馈你的配置信息。</p>
+<p><strong>Q3：鼠标滚轮绑不了键，是我操作错了吗？</strong></p>
+<p>A：不是你的问题。首发版本明确不支持把滚轮上滚、下滚、滚轮按下这三类输入绑定到动作上。另外，部分键盘按键在改键界面里不显示图标，但实际绑定是生效的——别看界面空着就以为失败，进游戏试一下就知道。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Potions%20Galore/" class="article-tag-item">#Potions Galore</a>
+          
+          <a href="/tags/Steam%e6%96%b0%e6%b8%b8/" class="article-tag-item">#Steam新游</a>
+          
+          <a href="/tags/%e5%ae%98%e6%96%b9%e6%9b%b4%e6%96%b0/" class="article-tag-item">#官方更新</a>
+          
+          <a href="/tags/%e6%95%b4%e7%90%86%e6%b8%b8%e6%88%8f/" class="article-tag-item">#整理游戏</a>
+          
+          <a href="/tags/%e5%b7%b2%e7%9f%a5%e9%97%ae%e9%a2%98/" class="article-tag-item">#已知问题</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-12-5079620-da0f4fbb/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-12-236390-6db27e0d/" class="sibling-title">战争雷霆鹰之影更新：全新渲染器上线，光影反射全面重做</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-12-3285880-f494cbf9/" class="sibling-title">MONOMOON 正式发售:独立新作上线,首发入手与避坑要点全解析</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一这是一款什么味道的游戏">一、这是一款什么味道的游戏</a></li>
+        <li><a href="#二手柄支持能打但别指望全程躺着玩">二、手柄支持：能打，但别指望全程躺着玩</a></li>
+        <li><a href="#三性能问题锁帧是目前最靠谱的临时解">三、性能问题：锁帧是目前最靠谱的临时解</a></li>
+        <li><a href="#四改键的那些坑">四、改键的那些坑</a></li>
+        <li><a href="#五那条歪掉的拉杆">五、那条歪掉的拉杆</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
