@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Pretty Big Pile on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/the-pretty-big-pile/</link>
+		<description>Recent content in The Pretty Big Pile on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 22:16:20 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/the-pretty-big-pile/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《The Pretty Big Pile》正式上线：上万彩色方块分拣进古董卡车，冥想式解压神作来了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4988280-eaf05544/</link>
+				<pubDate>Wed, 11 Nov 2026 22:16:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4988280-eaf05544/</guid>
+				<description>一款把「整理癖」做成游戏的新作《The Pretty Big Pile》正式登陆 Steam。成千上万颗彩色方块等着你按颜色分拣、装进源源不断的古董卡车，一次一颗。它主打冥想式专注体验，中途还会插入各种怪事打断你的耐心计时器。本文梳理核心玩法看点、上手节奏建议与常见问题，帮你判断这款「荒诞又上头」的分拣小品到底值不值得入库。</description>
+			</item>
+			<item>
+				<title>《The Pretty Big Pile》1.02 更新：锁 60 帧降温护机，碰撞崩溃一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4988280-8da53d44/</link>
+				<pubDate>Wed, 11 Nov 2026 17:43:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4988280-8da53d44/</guid>
+				<description>《The Pretty Big Pile》推送 1.02 小版本补丁，四项改动全部是折腾性能与稳定性：碰撞检测性能优化、全局帧率上限压到 60 帧、事件数量重新调整，并针对物理碰撞引发的闪退做了修复。本文拆解每项改动的实际影响，给出更新后验证文件、老存档兼容、低配笔记本降温与开黑前的检查清单。</description>
+			</item>
+	</channel>
+</rss>

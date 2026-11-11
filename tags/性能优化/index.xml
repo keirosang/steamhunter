@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 00:51:09 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 17:43:48 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《The Pretty Big Pile》1.02 更新：锁 60 帧降温护机，碰撞崩溃一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4988280-8da53d44/</link>
+				<pubDate>Wed, 11 Nov 2026 17:43:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4988280-8da53d44/</guid>
+				<description>《The Pretty Big Pile》推送 1.02 小版本补丁，四项改动全部是折腾性能与稳定性：碰撞检测性能优化、全局帧率上限压到 60 帧、事件数量重新调整，并针对物理碰撞引发的闪退做了修复。本文拆解每项改动的实际影响，给出更新后验证文件、老存档兼容、低配笔记本降温与开黑前的检查清单。</description>
+			</item>
 			<item>
 				<title>积木整理《Never Sort By Color》发售，Deck 帧率暴涨80%</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-4876650-aba116d1/</link>

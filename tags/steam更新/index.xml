@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 00:33:03 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 20:26:27 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Casualties: Unknown 1.0.1补丁：扫描标深度</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4576490-1010a8a3/</link>
+				<pubDate>Wed, 11 Nov 2026 20:26:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4576490-1010a8a3/</guid>
+				<description>《Casualties: Unknown》推送1.0.1版本补丁，纳米科技扫描仪现在会显示芯片所处深度，角色在WWMR漏掉货物时也会吐槽。工具可挂腰带，货舱手术小游戏时限放宽，逃生箱不再产出有用物资；同时修复毒岩出生、容器溢装、商人睡姿、守卫误伤成就以及传送水晶边缘落点等问题。</description>
+			</item>
 			<item>
 				<title>Gemion Function更新：训练模式修复与AZ 5H调整</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-2212400-f311ea7d/</link>

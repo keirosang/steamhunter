@@ -28,6 +28,13 @@
 				<description>Arrowhead 推送《绝地潜兵2》7.2.3 热修复，一口气修掉三类崩溃：洞穴内吃到毒气或中毒状态、退出游戏、以及 Windows 写权限异常导致的启动失败全部断根；蜂巢世界洞穴里火焰重新生效并可蔓延，大型资产乱生成、堵住任务推进与战略配备呼叫的问题也一并处理，同时解禁部分外观 mod。</description>
 			</item>
 			<item>
+				<title>《The Pretty Big Pile》1.02 更新：锁 60 帧降温护机，碰撞崩溃一并修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4988280-8da53d44/</link>
+				<pubDate>Wed, 11 Nov 2026 17:43:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4988280-8da53d44/</guid>
+				<description>《The Pretty Big Pile》推送 1.02 小版本补丁，四项改动全部是折腾性能与稳定性：碰撞检测性能优化、全局帧率上限压到 60 帧、事件数量重新调整，并针对物理碰撞引发的闪退做了修复。本文拆解每项改动的实际影响，给出更新后验证文件、老存档兼容、低配笔记本降温与开黑前的检查清单。</description>
+			</item>
+			<item>
 				<title>AION 2 服务器匹配11月11日更新：抢先体验服与正式服首次混编，深渊对线格局重排</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-3393110-9beceb5f/</link>
 				<pubDate>Wed, 11 Nov 2026 17:31:28 +0800</pubDate>
