@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 02:15:47 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 10:17:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《卡包英雄》1.0.30D更新解析：成就修复&#43;死亡平原削弱，刷图更顺</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4618570-5561281f/</link>
+				<pubDate>Wed, 11 Nov 2026 10:17:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4618570-5561281f/</guid>
+				<description>《卡包英雄》1.0.30D 补丁现已推送，重点修复整数溢出导致无法继续购买升级、部分成就无法解锁、最终遗物包任务奖励缺失等恶性问题；同时加入章节续玩、技能树声望门提醒、铁匠锤可弹反提示等 QoL 改进，并削弱死亡平原敌人、降低冰原暴风雪末段英雄掉血。本文拆解改动要点，并给出开荒、刷成就与冲层实操建议。</description>
+			</item>
+			<item>
+				<title>《99天生存指南》正式发售：两周修300&#43;BUG，手柄与掌机全面调优</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</link>
+				<pubDate>Wed, 11 Nov 2026 09:37:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</guid>
+				<description>11月11日，单人独立开发的《99天生存指南》正式登陆 Steam（AppID 3850230）。临门两周开发者与测试团队连夜狂测，一口气修掉 300+ 个 BUG，同时重做手柄操控、加入低/中/高三档画质、针对 Steam Deck 做专项优化（中画质实测稳定 30 FPS）。本文梳理本次发售版的核心改动、上手设置建议与高频问题，帮你开局少踩坑。</description>
+			</item>
+			<item>
+				<title>DAWN AEROWAR 补丁：macOS 版上线，全屏与成就卡点全修</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2991650-05422165/</link>
+				<pubDate>Wed, 11 Nov 2026 09:16:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2991650-05422165/</guid>
+				<description>11 月 11 日，DAWN AEROWAR 推送发售后首个大型修复补丁：macOS 版正式解锁并同步包含全部修复；全屏不再只管画面，作战室（War Room）一并铺满，F11、Alt+Enter 与设置项三处入口共用一套记忆；卡在 458/459 的「Every word」与重复计数的「Full clearance」两个成就彻底修正；Steam Deck 1280x800 下进度条不再压画面，PACK 4K 提示也不再闪烁。</description>
+			</item>
 			<item>
 				<title>Apex英雄更新：Crypto无人机穿玻璃扫描，世界边缘保险库移除</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-1172470-f38f8297/</link>

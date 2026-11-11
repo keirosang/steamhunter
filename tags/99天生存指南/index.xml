@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>99天生存指南 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/99%E5%A4%A9%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/</link>
+		<description>Recent content in 99天生存指南 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 09:37:07 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/99%E5%A4%A9%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《99天生存指南》正式发售：两周修300&#43;BUG，手柄与掌机全面调优</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</link>
+				<pubDate>Wed, 11 Nov 2026 09:37:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</guid>
+				<description>11月11日，单人独立开发的《99天生存指南》正式登陆 Steam（AppID 3850230）。临门两周开发者与测试团队连夜狂测，一口气修掉 300+ 个 BUG，同时重做手柄操控、加入低/中/高三档画质、针对 Steam Deck 做专项优化（中画质实测稳定 30 FPS）。本文梳理本次发售版的核心改动、上手设置建议与高频问题，帮你开局少踩坑。</description>
+			</item>
+	</channel>
+</rss>

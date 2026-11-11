@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 02:27:15 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 09:37:07 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《99天生存指南》正式发售：两周修300&#43;BUG，手柄与掌机全面调优</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</link>
+				<pubDate>Wed, 11 Nov 2026 09:37:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</guid>
+				<description>11月11日，单人独立开发的《99天生存指南》正式登陆 Steam（AppID 3850230）。临门两周开发者与测试团队连夜狂测，一口气修掉 300+ 个 BUG，同时重做手柄操控、加入低/中/高三档画质、针对 Steam Deck 做专项优化（中画质实测稳定 30 FPS）。本文梳理本次发售版的核心改动、上手设置建议与高频问题，帮你开局少踩坑。</description>
+			</item>
+			<item>
+				<title>DAWN AEROWAR 补丁：macOS 版上线，全屏与成就卡点全修</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2991650-05422165/</link>
+				<pubDate>Wed, 11 Nov 2026 09:16:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2991650-05422165/</guid>
+				<description>11 月 11 日，DAWN AEROWAR 推送发售后首个大型修复补丁：macOS 版正式解锁并同步包含全部修复；全屏不再只管画面，作战室（War Room）一并铺满，F11、Alt+Enter 与设置项三处入口共用一套记忆；卡在 458/459 的「Every word」与重复计数的「Full clearance」两个成就彻底修正；Steam Deck 1280x800 下进度条不再压画面，PACK 4K 提示也不再闪烁。</description>
+			</item>
 			<item>
 				<title>《Skyreap》正式发售：首发 -20% 特惠，39 座浮空岛自动化建造开肝</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-4364890-e0c01f2e/</link>

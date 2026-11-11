@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 07:15:40 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 10:17:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《卡包英雄》1.0.30D更新解析：成就修复&#43;死亡平原削弱，刷图更顺</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4618570-5561281f/</link>
+				<pubDate>Wed, 11 Nov 2026 10:17:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4618570-5561281f/</guid>
+				<description>《卡包英雄》1.0.30D 补丁现已推送，重点修复整数溢出导致无法继续购买升级、部分成就无法解锁、最终遗物包任务奖励缺失等恶性问题；同时加入章节续玩、技能树声望门提醒、铁匠锤可弹反提示等 QoL 改进，并削弱死亡平原敌人、降低冰原暴风雪末段英雄掉血。本文拆解改动要点，并给出开荒、刷成就与冲层实操建议。</description>
+			</item>
 			<item>
 				<title>Go Next! 快启动补丁上线：绳索修复、武器成长调整与Boss穿墙终结</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-5064170-6cbb0744/</link>
