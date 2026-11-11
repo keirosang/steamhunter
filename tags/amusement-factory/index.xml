@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Amusement Factory on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/amusement-factory/</link>
+		<description>Recent content in Amusement Factory on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 17:44:49 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/amusement-factory/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Amusement Factory》正式发售！Steam 审核迟到几小时，愿望单终于能结算了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5053940-1f5a7906/</link>
+				<pubDate>Wed, 11 Nov 2026 17:44:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5053940-1f5a7906/</guid>
+				<description>独立新游《Amusement Factory》（AppID 5053940）已正式上架 Steam，可正常购买与下载。官方通报称 Steam 商店审核比预期晚了几小时，导致解锁时间错过自家定的节点。本文梳理这次“发售日小插曲”的来龙去脉、首发期该盯哪些信号、入手与避坑步骤，并附常见问题解答。</description>
+			</item>
+			<item>
+				<title>Amusement Factory 发售延期：Steam 审核拥堵、两处问题待修，过审即刻上架</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5053940-c863fce3/</link>
+				<pubDate>Wed, 11 Nov 2026 00:07:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5053940-c863fce3/</guid>
+				<description>原定今日上架的《Amusement Factory》没能如期开卖，官方说明是 Steam 审核队列暴增，加上首发构建被查出 2 处问题需要修复，重新送审还要再等几天。开发组承诺新构建一过审立刻发售，同时 1.1 版本的改进内容也在推进中。本文梳理延期原因、发售预期，以及玩家现在该做的几件事。</description>
+			</item>
+	</channel>
+</rss>

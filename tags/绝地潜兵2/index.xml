@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 00:31:33 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 18:20:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>绝地潜兵2 7.2.3热修实装：洞穴火焰复活，三类崩溃一刀切</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-553850-7c3297ea/</link>
+				<pubDate>Wed, 11 Nov 2026 18:20:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-553850-7c3297ea/</guid>
+				<description>Arrowhead 推送《绝地潜兵2》7.2.3 热修复，一口气修掉三类崩溃：洞穴内吃到毒气或中毒状态、退出游戏、以及 Windows 写权限异常导致的启动失败全部断根；蜂巢世界洞穴里火焰重新生效并可蔓延，大型资产乱生成、堵住任务推进与战略配备呼叫的问题也一并处理，同时解禁部分外观 mod。</description>
+			</item>
 			<item>
 				<title>《绝地潜兵2》11月开发者博客：7.2热修落地、洞穴生态扩展与路线图重构</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-553850-450676b0/</link>

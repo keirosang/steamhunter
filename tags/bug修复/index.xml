@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 10:17:04 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 18:47:53 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Annihilated》紧急修复补丁实装：战士、英雄、法师三条终局路线卡关Bug全数拔除，通关党终于能安心了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2638080-dea91939/</link>
+				<pubDate>Wed, 11 Nov 2026 18:47:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2638080-dea91939/</guid>
+				<description>《Annihilated》发布纯Bug修复更新，重点解决四条会直接堵死通关流程的恶性问题：战士路线最终地牢战斗卡死、英雄路线最终Boss无法正常结算、法师路线最终Boss道具误触发，以及战士路线通关后回标题开新游戏出现画面特效残留。此外修正了Scope等道具把已击败敌人计入效果的判定错误。无新增内容、无数值调整，老存档可继续推进。</description>
+			</item>
 			<item>
 				<title>《卡包英雄》1.0.30D更新解析：成就修复&#43;死亡平原削弱，刷图更顺</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-4618570-5561281f/</link>
