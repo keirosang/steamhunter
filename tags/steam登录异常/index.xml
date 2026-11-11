@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Steam登录异常 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/steam%E7%99%BB%E5%BD%95%E5%BC%82%E5%B8%B8/</link>
+		<description>Recent content in Steam登录异常 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 11:32:53 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/steam%E7%99%BB%E5%BD%95%E5%BC%82%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AION 2 Steam登录异常官方说明：重启客户端与条款弹窗避坑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3393110-c9072104/</link>
+				<pubDate>Wed, 11 Nov 2026 11:32:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3393110-c9072104/</guid>
+				<description>AION 2 官方确认部分 Steam 玩家遭遇登录异常与账号绑定报错。临时方案是重启 Steam 客户端，并留意可能出现的 Throne and Liberty 服务条款与数据收集弹窗；同意后可正常进入，不想同意则等待官方移除提示。已在线玩家建议先别急着登出，避免被踢出后卡在登录界面。</description>
+			</item>
+	</channel>
+</rss>

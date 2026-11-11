@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 10:17:04 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 12:35:52 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Worst Class Ever》首日销量破10万份 官方致谢玩家并承诺持续更新加料</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5175310-fa37a89d/</link>
+				<pubDate>Wed, 11 Nov 2026 12:35:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5175310-fa37a89d/</guid>
+				<description>《Worst Class Ever》官方公布首日销量突破 10 万份，开发团队直言数字超出预期，并向全体玩家致谢。公告同时坦承游戏仍有不足，承诺持续收集反馈、打磨体验，并在后续版本追加更多新内容。本文梳理公告要点、入手与反馈渠道，以及现阶段需要注意的事项。</description>
+			</item>
+			<item>
+				<title>《Zenra Taisen ～BEAST PARADIGM～》1.0.6 更新：全年龄化、存档搬家与弹幕手感精修</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4727050-f70a620b/</link>
+				<pubDate>Wed, 11 Nov 2026 10:55:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4727050-f70a620b/</guid>
+				<description>《Zenra Taisen ～BEAST PARADIGM～》推送 1.0.6 补丁：游戏转为全年龄版本、画廊模式下线，新增英文支持与手动说明书；存档目录整体迁移到新的 Zenra_Taisen 路径，老玩家必须手动搬运 savedata.dat 与 savedataBK.dat。同时右键引爆炸弹、8 帧内死亡炸弹免掉命、炸弹期间不吃耐久弹伤害等手感改动上线，STAGE 7 难度微调，并修复过关瞬间掉血、近接加成失效等一批顽疾。</description>
+			</item>
 			<item>
 				<title>《卡包英雄》1.0.30D更新解析：成就修复&#43;死亡平原削弱，刷图更顺</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-4618570-5561281f/</link>
@@ -33,6 +47,13 @@
 				<pubDate>Wed, 11 Nov 2026 09:37:07 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</guid>
 				<description>11月11日，单人独立开发的《99天生存指南》正式登陆 Steam（AppID 3850230）。临门两周开发者与测试团队连夜狂测，一口气修掉 300+ 个 BUG，同时重做手柄操控、加入低/中/高三档画质、针对 Steam Deck 做专项优化（中画质实测稳定 30 FPS）。本文梳理本次发售版的核心改动、上手设置建议与高频问题，帮你开局少踩坑。</description>
+			</item>
+			<item>
+				<title>《Stock》老玩家专属福利：新作《MMORPG Merchant Simulator》上线即享 80% 折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2792080-1f1e244f/</link>
+				<pubDate>Wed, 11 Nov 2026 09:21:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2792080-1f1e244f/</guid>
+				<description>《Stock: Retail Investors》开发商新作《MMORPG Merchant Simulator》Steam 商店页正式开放，现已可加入愿望单。最香的是老玩家福利：只要库里有《Stock: Retail Investors》，新作上线即可享约 80% 专属折扣，系统自动识别、无需领券，窗口期为发售起 14 天。本文整理折扣规则、入库与蹲价要点，以及常见问题避坑。</description>
 			</item>
 			<item>
 				<title>eFootball 英格兰中场 Epic 卡包上线：3 张传奇卡领衔，8 张 Highlight 同池开抽</title>
@@ -152,6 +173,13 @@
 				<pubDate>Tue, 10 Nov 2026 15:23:38 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-10-3699850-c32952c6/</guid>
 				<description>原定今日上线的《我在地狱出老千》（The Devil&amp;rsquo;s Due）官宣跳票。开发团队发文称，游戏本体早已准备完毕，却卡在 Steam 最终审核队列里，只能等待 Valve 放行。本文梳理延期原因、Steam 近期审核积压背景，以及玩家现在该做的三件事：加愿望单、开提醒、别被假资源骗。</description>
+			</item>
+			<item>
+				<title>Worst Class Ever 1.0.1 补丁上线：女教师技能强度调整、道具刷新率上调、崩溃修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-5175310-edc08882/</link>
+				<pubDate>Tue, 10 Nov 2026 15:07:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-5175310-edc08882/</guid>
+				<description>Worst Class Ever 迎来 1.0.1 小型维护补丁，三条改动但条条实用：女教师技能强度重新校准，部分道具的刷新概率提高，前期开荒不再空手，另修复了一个低频崩溃问题。本次更新无新增内容、不改存档结构，老档可继续使用。本文梳理改动要点、进游戏前的检查步骤，以及更新后的开荒与配装思路调整建议。</description>
 			</item>
 			<item>
 				<title>RPG Portrait Generator 1.0上线：本地离线、买断无订阅</title>

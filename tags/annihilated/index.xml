@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 22:22:17 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 12:52:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/annihilated/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Annihilated》补丁修复终战卡屏与进度阻塞，法师线文本异常同步处理</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2638080-8fc7cb9a/</link>
+				<pubDate>Wed, 11 Nov 2026 12:52:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2638080-8fc7cb9a/</guid>
+				<description>《Annihilated》发布热修复补丁，重点处理三类会打断流程的问题：英雄路线最终 Boss 战特定操作触发异常界面、法师路线三层 Boss 战后提示文本显示异常，以及升级 Pain Ripper 等物品导致无法继续推进。官方同时确认英雄线终战仍存在极低概率“战斗不结束却判负”的已知问题，建议从最近存档重打并在 Steam 社区反馈。本文整理更新要点、实操避坑与常见问答。</description>
+			</item>
 			<item>
 				<title>《Annihilated》正式版存档冲突频发！官方紧急发布临时修复方案</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-2638080-382d6394/</link>

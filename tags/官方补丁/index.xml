@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>官方补丁 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%AE%98%E6%96%B9%E8%A1%A5%E4%B8%81/</link>
+		<description>Recent content in 官方补丁 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 12:52:35 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%AE%98%E6%96%B9%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Annihilated》补丁修复终战卡屏与进度阻塞，法师线文本异常同步处理</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2638080-8fc7cb9a/</link>
+				<pubDate>Wed, 11 Nov 2026 12:52:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2638080-8fc7cb9a/</guid>
+				<description>《Annihilated》发布热修复补丁，重点处理三类会打断流程的问题：英雄路线最终 Boss 战特定操作触发异常界面、法师路线三层 Boss 战后提示文本显示异常，以及升级 Pain Ripper 等物品导致无法继续推进。官方同时确认英雄线终战仍存在极低概率“战斗不结束却判负”的已知问题，建议从最近存档重打并在 Steam 社区反馈。本文整理更新要点、实操避坑与常见问答。</description>
+			</item>
+	</channel>
+</rss>

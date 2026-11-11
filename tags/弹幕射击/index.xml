@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 02:11:20 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 10:55:12 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%BC%B9%E5%B9%95%E5%B0%84%E5%87%BB/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Zenra Taisen ～BEAST PARADIGM～》1.0.6 更新：全年龄化、存档搬家与弹幕手感精修</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4727050-f70a620b/</link>
+				<pubDate>Wed, 11 Nov 2026 10:55:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4727050-f70a620b/</guid>
+				<description>《Zenra Taisen ～BEAST PARADIGM～》推送 1.0.6 补丁：游戏转为全年龄版本、画廊模式下线，新增英文支持与手动说明书；存档目录整体迁移到新的 Zenra_Taisen 路径，老玩家必须手动搬运 savedata.dat 与 savedataBK.dat。同时右键引爆炸弹、8 帧内死亡炸弹免掉命、炸弹期间不吃耐久弹伤害等手感改动上线，STAGE 7 难度微调，并修复过关瞬间掉血、近接加成失效等一批顽疾。</description>
+			</item>
 			<item>
 				<title>《XENOFLEKT》正式发售：把格挡塞进弹幕地狱，手残党先别急着冲</title>
 				<link>https://info.steamhunter.link/posts/2026-11-03-4620950-7d01a171/</link>

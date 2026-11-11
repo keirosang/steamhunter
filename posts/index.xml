@@ -10,9 +10,51 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 10:17:09 +0800</lastBuildDate>
+			<lastBuildDate>Wed, 11 Nov 2026 14:00:06 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Worst Class Ever》35%史低特惠：限时折扣永久入库，手慢无</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5175310-66951d1d/</link>
+				<pubDate>Wed, 11 Nov 2026 14:00:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5175310-66951d1d/</guid>
+				<description>Steam 特惠情报：《Worst Class Ever》开启限时 -35% 折扣，原价 369.00 INR，现价 239.00 INR，购买后加入库中永久畅玩。活动限时进行，适合想补库或尝鲜的玩家。国区实际价格与结算币种以 Steam 商店页为准，建议先查捆绑包再下单，并加入 @steamhunterlink 获取秒级特惠提醒。</description>
+			</item>
+			<item>
+				<title>《Annihilated》补丁修复终战卡屏与进度阻塞，法师线文本异常同步处理</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2638080-8fc7cb9a/</link>
+				<pubDate>Wed, 11 Nov 2026 12:52:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2638080-8fc7cb9a/</guid>
+				<description>《Annihilated》发布热修复补丁，重点处理三类会打断流程的问题：英雄路线最终 Boss 战特定操作触发异常界面、法师路线三层 Boss 战后提示文本显示异常，以及升级 Pain Ripper 等物品导致无法继续推进。官方同时确认英雄线终战仍存在极低概率“战斗不结束却判负”的已知问题，建议从最近存档重打并在 Steam 社区反馈。本文整理更新要点、实操避坑与常见问答。</description>
+			</item>
+			<item>
+				<title>《Worst Class Ever》首日销量破10万份 官方致谢玩家并承诺持续更新加料</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5175310-fa37a89d/</link>
+				<pubDate>Wed, 11 Nov 2026 12:35:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5175310-fa37a89d/</guid>
+				<description>《Worst Class Ever》官方公布首日销量突破 10 万份，开发团队直言数字超出预期，并向全体玩家致谢。公告同时坦承游戏仍有不足，承诺持续收集反馈、打磨体验，并在后续版本追加更多新内容。本文梳理公告要点、入手与反馈渠道，以及现阶段需要注意的事项。</description>
+			</item>
+			<item>
+				<title>AION 2 Steam登录异常官方说明：重启客户端与条款弹窗避坑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3393110-c9072104/</link>
+				<pubDate>Wed, 11 Nov 2026 11:32:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3393110-c9072104/</guid>
+				<description>AION 2 官方确认部分 Steam 玩家遭遇登录异常与账号绑定报错。临时方案是重启 Steam 客户端，并留意可能出现的 Throne and Liberty 服务条款与数据收集弹窗；同意后可正常进入，不想同意则等待官方移除提示。已在线玩家建议先别急着登出，避免被踢出后卡在登录界面。</description>
+			</item>
+			<item>
+				<title>EEL KNOW: Perfect Pitch 正式上线：花园鳗陪练音感，首发 8 折限时一周</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5100140-ab69d911/</link>
+				<pubDate>Wed, 11 Nov 2026 11:00:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5100140-ab69d911/</guid>
+				<description>主打治愈系的花园鳗音感训练小品《EEL KNOW: Perfect Pitch》现已正式登陆 Steam（AppID 5100140）。玩法极简：听旋律、找指定位置的音名，首次答对就能拿金牌，通关还能把一只只憨态可掬的花园鳗收进图鉴。游戏支持自制最多 32 小节谱面，既能分享给好友，也能直接拿来在直播间出题。为庆祝上线，官方开启为期一周的 8 折首发特惠，零乐理基础也能轻松上手。</description>
+			</item>
+			<item>
+				<title>《Zenra Taisen ～BEAST PARADIGM～》1.0.6 更新：全年龄化、存档搬家与弹幕手感精修</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4727050-f70a620b/</link>
+				<pubDate>Wed, 11 Nov 2026 10:55:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4727050-f70a620b/</guid>
+				<description>《Zenra Taisen ～BEAST PARADIGM～》推送 1.0.6 补丁：游戏转为全年龄版本、画廊模式下线，新增英文支持与手动说明书；存档目录整体迁移到新的 Zenra_Taisen 路径，老玩家必须手动搬运 savedata.dat 与 savedataBK.dat。同时右键引爆炸弹、8 帧内死亡炸弹免掉命、炸弹期间不吃耐久弹伤害等手感改动上线，STAGE 7 难度微调，并修复过关瞬间掉血、近接加成失效等一批顽疾。</description>
+			</item>
 			<item>
 				<title>《知夏》今日10点Steam上线！首发15%OFF仅11.94元</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-4878710-2659c153/</link>
@@ -42,11 +84,25 @@
 				<description>AION 2官方于11月10日放出新皮肤物品信息，并开放Daeva Lookbook外观预览入口。本次公开内容以造型展示为主，完整售价、获取途径和限时规则尚未在片段中展开。玩家可先通过官方页面锁定心仪款式，再进游戏外观商城核对实际条目；外观党建议提前规划预算，战力党则无需担心平衡性波动。</description>
 			</item>
 			<item>
+				<title>《3D Bumper Billiards》发售：无重力密室台球，首发两周仅 5 美元</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-4975340-91a1579c/</link>
+				<pubDate>Wed, 11 Nov 2026 10:00:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-4975340-91a1579c/</guid>
+				<description>《3D Bumper Billiards》今日上架 Steam：没有球台、没有球杆、没有重力，玩家坐在母球内部，靠蓄力脉冲的后坐力在密闭房间里撞球、走位，也常常把自己撞进袋口。五个竞技场与全部物理参数从开局起全开放，无解锁、无内购；支持单人、对战机器人、同屏轮流。原价 7 美元，发售前两周约 5 美元（Steam 结算 5.04 美元）。</description>
+			</item>
+			<item>
 				<title>《99天生存指南》正式发售：两周修300&#43;BUG，手柄与掌机全面调优</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</link>
 				<pubDate>Wed, 11 Nov 2026 09:37:07 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-11-3850230-22416adb/</guid>
 				<description>11月11日，单人独立开发的《99天生存指南》正式登陆 Steam（AppID 3850230）。临门两周开发者与测试团队连夜狂测，一口气修掉 300+ 个 BUG，同时重做手柄操控、加入低/中/高三档画质、针对 Steam Deck 做专项优化（中画质实测稳定 30 FPS）。本文梳理本次发售版的核心改动、上手设置建议与高频问题，帮你开局少踩坑。</description>
+			</item>
+			<item>
+				<title>《Stock》老玩家专属福利：新作《MMORPG Merchant Simulator》上线即享 80% 折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2792080-1f1e244f/</link>
+				<pubDate>Wed, 11 Nov 2026 09:21:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2792080-1f1e244f/</guid>
+				<description>《Stock: Retail Investors》开发商新作《MMORPG Merchant Simulator》Steam 商店页正式开放，现已可加入愿望单。最香的是老玩家福利：只要库里有《Stock: Retail Investors》，新作上线即可享约 80% 专属折扣，系统自动识别、无需领券，窗口期为发售起 14 天。本文整理折扣规则、入库与蹲价要点，以及常见问题避坑。</description>
 			</item>
 			<item>
 				<title>DAWN AEROWAR 补丁：macOS 版上线，全屏与成就卡点全修</title>
@@ -518,6 +574,13 @@
 				<description>战锤 40K 题材类幸存者新作《Warhammer Survivors》开启限时特惠，原价 7.99 美元直降 10%，现价 7.19 美元，约合人民币五十元出头即可永久入库。本文把折扣力度、玩法定位、值不值得买、入手流程与开荒思路一次讲清：10% 属于小体量独立游戏的常规首折，别被“史低”二字冲昏头，但也确实是目前最低价，想尝鲜子弹天堂割草玩法的玩家可以趁这次活动上车。</description>
 			</item>
 			<item>
+				<title>Castello 明日抢先体验上线：首发只是序章，长线更新才是主菜</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-5100970-e8659617/</link>
+				<pubDate>Tue, 10 Nov 2026 19:55:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-5100970-e8659617/</guid>
+				<description>Castello 明天就要在 Steam 以抢先体验形式与玩家见面了。开发者在发售前放出了明确信号：上线不是收工，而是长线开发的起点——EA 期间会持续加入新任务、新玩法机制，同时对既有系统做打磨，让整体体验更顺滑、内容更厚实。本文梳理本次公告的关键信息、EA 阶段该期待什么，以及首发入手与避坑建议。</description>
+			</item>
+			<item>
 				<title>Mates and Crates首发上线30%特惠，六波免费更新路线图曝光，偷箱造枪开黑正当时</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-2848990-f220e553/</link>
 				<pubDate>Tue, 10 Nov 2026 19:37:11 +0800</pubDate>
@@ -537,6 +600,13 @@
 				<pubDate>Tue, 10 Nov 2026 19:06:54 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-10-236390-d607337f/</guid>
 				<description>战争雷霆开启挪威皇家空军成立纪念贴花活动：11月10日至13日（GMT），驾驶瑞典III级及以上载具在随机战斗中累计3000任务点，即可免费拿下「第330中队徽章」贴花。零氪纯肝、门槛不高，三天窗口期刚好够刷。本文整理任务机制、刷分载具推荐、手动领取步骤与常见踩坑点。</description>
+			</item>
+			<item>
+				<title>《Profiler Files：新奥尔良》明日抢先体验上线：前五集一次玩爽，双月更新一集</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-2729450-5514e308/</link>
+				<pubDate>Tue, 10 Nov 2026 18:08:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-2729450-5514e308/</guid>
+				<description>探案叙事新作《Profiler Files：新奥尔良》明天以抢先体验形式登陆 Steam，并同步开启折扣价窗口。首发即提供完整可玩、可重玩的第 1 至第 5 集，之后每两个月追加一集，直至补齐 10 集，Steam 成就系统也已同步接入。本文梳理本次上线的核心信息、连载式更新背后的购买逻辑，以及入库、追更与成就收集的实操建议。</description>
 			</item>
 			<item>
 				<title>ARC Raiders 2.5.0 套装新配色，艾尔登法环情报核对</title>
@@ -642,6 +712,13 @@
 				<pubDate>Tue, 10 Nov 2026 15:23:38 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-10-3699850-c32952c6/</guid>
 				<description>原定今日上线的《我在地狱出老千》（The Devil&amp;rsquo;s Due）官宣跳票。开发团队发文称，游戏本体早已准备完毕，却卡在 Steam 最终审核队列里，只能等待 Valve 放行。本文梳理延期原因、Steam 近期审核积压背景，以及玩家现在该做的三件事：加愿望单、开提醒、别被假资源骗。</description>
+			</item>
+			<item>
+				<title>Worst Class Ever 1.0.1 补丁上线：女教师技能强度调整、道具刷新率上调、崩溃修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-5175310-edc08882/</link>
+				<pubDate>Tue, 10 Nov 2026 15:07:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-5175310-edc08882/</guid>
+				<description>Worst Class Ever 迎来 1.0.1 小型维护补丁，三条改动但条条实用：女教师技能强度重新校准，部分道具的刷新概率提高，前期开荒不再空手，另修复了一个低频崩溃问题。本次更新无新增内容、不改存档结构，老档可继续使用。本文梳理改动要点、进游戏前的检查步骤，以及更新后的开荒与配装思路调整建议。</description>
 			</item>
 			<item>
 				<title>Stormforge抢先体验明日开启：坐骑系统上线与截图大赛获奖名单公布</title>
