@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Disk Defragmenter on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/disk-defragmenter/</link>
+		<description>Recent content in Disk Defragmenter on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 06:04:54 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/disk-defragmenter/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Disk Defragmenter》更新盘点：Q/W 按键失灵修复、J 盘 ★ 标记上线、盘末清理提速</title>
+				<link>https://info.steamhunter.link/posts/2026-11-09-5471990-423d7bc6/</link>
+				<pubDate>Mon, 09 Nov 2026 06:04:54 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-09-5471990-423d7bc6/</guid>
+				<description>《Disk Defragmenter》推送 v2026-11-08-21 Demo 更新：重写 Q/W 物理按键识别并兼容输入法，专门解决技能按了没反应的问题；减少大磁盘末尾碎片的重复搜索，多个自动光标同时开启也不容易卡顿；尚未上线的全游戏 J 盘同步改版，每个文件前三个剩余区块带 ★ 且读取速度翻倍，Q 清范围、W 排序整档，屏幕提示文案重写。Demo 仍是前 5 台电脑与 40 个剧情文件，存档自动保留。</description>
+			</item>
+	</channel>
+</rss>
