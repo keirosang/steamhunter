@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 02:06:19 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 02:14:27 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/dreadmoor/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 抢先体验更新#3：任务卡关修复、船只操控手感优化与终局BOSS调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-3629430-a6a72517/</link>
+				<pubDate>Thu, 12 Nov 2026 02:14:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-3629430-a6a72517/</guid>
+				<description>DREADMOOR 第三次抢先体验更新正式上线，官方集中清理了会直接锁死流程的恶性卡关：食尸鬼部件丢失后任务自动完成、号角回到原位、Precious Junk 不再让船彻底失控、唐纳德对话不再卡死；同时修好船只加油、鱼价与资源售价，终局 BOSS 伤害与标记显示距离重新校准。船只相机自动旋转可在选项中关闭，地图支持同键开关，鱼叉拖尾、水 BOSS 战音乐与开场音画同步一并补齐。</description>
+			</item>
 			<item>
 				<title>DREADMOOR 更新2：修掉卡关死锁，钓鱼QTE与手柄体验全面打磨</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-3629430-df13d982/</link>

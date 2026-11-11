@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 14:14:03 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 02:21:56 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Castillon发售：9.99美元4-6小时通关，Deck可玩</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-2483570-c67afb7a/</link>
+				<pubDate>Thu, 12 Nov 2026 02:21:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-2483570-c67afb7a/</guid>
+				<description>Castillon 现已登陆 Steam，定价 9.99 美元，主线约 4-6 小时可通，全收集、全三星与好友重玩能拉长不少时长。开发组承诺首发期紧盯反馈，优先修 Bug，并已提交新版本推进 Steam Deck 完整验证。想入手，先看这份核心看点、上手建议与避坑 FAQ。</description>
+			</item>
+			<item>
+				<title>《Booster Pack Heroes》补丁：软锁修复与手柄优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4618570-b330dd42/</link>
+				<pubDate>Thu, 12 Nov 2026 02:11:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4618570-b330dd42/</guid>
+				<description>《Booster Pack Heroes》推送 1.0.35D 补丁，重点处理两类让玩家血压飙升的软锁：开包瞬间角色死亡导致游戏卡死，以及鼠标与手柄来回切换后卡包商店失去交互。手柄开商店现在会等待动画结束并自动选中第一包，同时新增 Esc 或手柄 B/圆圈一键关闭所有弹窗。对 Steam Deck 掌机玩家来说，这波属于实打实的体验优化，建议更新后验证文件并检查手柄布局。</description>
+			</item>
 			<item>
 				<title>Castlebound 明日发售：完整兼容 Steam Deck，掌机党狂喜</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-3551820-5c0627b0/</link>

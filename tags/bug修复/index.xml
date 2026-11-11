@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Bug修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<title>BUG修复 on Steam 蒸汽猎手 | 游戏情报站</title>
 		<link>https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/</link>
-		<description>Recent content in Bug修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<description>Recent content in BUG修复 on Steam 蒸汽猎手 | 游戏情报站</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 18:47:53 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 02:11:57 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Booster Pack Heroes》补丁：软锁修复与手柄优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4618570-b330dd42/</link>
+				<pubDate>Thu, 12 Nov 2026 02:11:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4618570-b330dd42/</guid>
+				<description>《Booster Pack Heroes》推送 1.0.35D 补丁，重点处理两类让玩家血压飙升的软锁：开包瞬间角色死亡导致游戏卡死，以及鼠标与手柄来回切换后卡包商店失去交互。手柄开商店现在会等待动画结束并自动选中第一包，同时新增 Esc 或手柄 B/圆圈一键关闭所有弹窗。对 Steam Deck 掌机玩家来说，这波属于实打实的体验优化，建议更新后验证文件并检查手柄布局。</description>
+			</item>
 			<item>
 				<title>《Annihilated》紧急修复补丁实装：战士、英雄、法师三条终局路线卡关Bug全数拔除，通关党终于能安心了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-2638080-dea91939/</link>

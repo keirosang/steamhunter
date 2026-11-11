@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 01:59:23 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 02:14:27 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 抢先体验更新#3：任务卡关修复、船只操控手感优化与终局BOSS调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-3629430-a6a72517/</link>
+				<pubDate>Thu, 12 Nov 2026 02:14:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-3629430-a6a72517/</guid>
+				<description>DREADMOOR 第三次抢先体验更新正式上线，官方集中清理了会直接锁死流程的恶性卡关：食尸鬼部件丢失后任务自动完成、号角回到原位、Precious Junk 不再让船彻底失控、唐纳德对话不再卡死；同时修好船只加油、鱼价与资源售价，终局 BOSS 伤害与标记显示距离重新校准。船只相机自动旋转可在选项中关闭，地图支持同键开关，鱼叉拖尾、水 BOSS 战音乐与开场音画同步一并补齐。</description>
+			</item>
+			<item>
+				<title>Apotheosis Engine 正式登陆 Steam：首发 10% 折扣开两周，内容扩展大更新已在路上</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4665590-f2567e48/</link>
+				<pubDate>Thu, 12 Nov 2026 02:01:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4665590-f2567e48/</guid>
+				<description>独立开发者 genkakusoft 宣布 Apotheosis Engine 正式登陆 Steam，首发两周内享 10% 折扣。作者坦言这段从纸上草图到成品的旅途比预想更漫长，并承诺发布后数日优先清理各种奇怪 bug，随后转入大版本更新：追加更多语言本地化、扩展既有玩法内容。本期梳理首发折扣窗口、更新路线与入手建议，帮你判断要不要第一时间入库。</description>
+			</item>
 			<item>
 				<title>WARDOGS 第三赛季 11·12 上线：首张城市地图与限购模式齐发</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-1867240-86b49e94/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 22:44:53 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 02:11:57 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%89%8B%E6%9F%84%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Booster Pack Heroes》补丁：软锁修复与手柄优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4618570-b330dd42/</link>
+				<pubDate>Thu, 12 Nov 2026 02:11:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4618570-b330dd42/</guid>
+				<description>《Booster Pack Heroes》推送 1.0.35D 补丁，重点处理两类让玩家血压飙升的软锁：开包瞬间角色死亡导致游戏卡死，以及鼠标与手柄来回切换后卡包商店失去交互。手柄开商店现在会等待动画结束并自动选中第一包，同时新增 Esc 或手柄 B/圆圈一键关闭所有弹窗。对 Steam Deck 掌机玩家来说，这波属于实打实的体验优化，建议更新后验证文件并检查手柄布局。</description>
+			</item>
 			<item>
 				<title>《PEAK》3.1.0 补丁上线：房间码加长防内鬼，手柄冲刺攀爬改为按住触发</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-3527290-81378b74/</link>

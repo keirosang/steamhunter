@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 01:59:23 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 02:14:27 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 抢先体验更新#3：任务卡关修复、船只操控手感优化与终局BOSS调整</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-3629430-a6a72517/</link>
+				<pubDate>Thu, 12 Nov 2026 02:14:27 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-3629430-a6a72517/</guid>
+				<description>DREADMOOR 第三次抢先体验更新正式上线，官方集中清理了会直接锁死流程的恶性卡关：食尸鬼部件丢失后任务自动完成、号角回到原位、Precious Junk 不再让船彻底失控、唐纳德对话不再卡死；同时修好船只加油、鱼价与资源售价，终局 BOSS 伤害与标记显示距离重新校准。船只相机自动旋转可在选项中关闭，地图支持同键开关，鱼叉拖尾、水 BOSS 战音乐与开场音画同步一并补齐。</description>
+			</item>
 			<item>
 				<title>WARDOGS 第三赛季 11·12 上线：首张城市地图与限购模式齐发</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-1867240-86b49e94/</link>
@@ -103,6 +110,13 @@
 				<pubDate>Tue, 10 Nov 2026 06:54:38 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-10-5063450-cb75ba0d/</guid>
 				<description>工厂建造爱好者集合！《Industry Unbound：无界工业》今日正式登陆 Steam 抢先体验，国区定价25元，首周享15%折扣仅需21.25元。你可以在无限画布上规划采矿、加工、电力与物流，将成熟产线封装为黑盒工厂，带领人类聚落跨星球扩张，甚至建造戴森球。开发团队承诺在 EA 期间持续打磨教程、界面、平衡与性能，现在就是入坑的最佳时机。</description>
+			</item>
+			<item>
+				<title>《Caramel Creek》愿望单破千，11月12日抢先体验开张的治愈系像素咖啡馆</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-3672660-76d7985c/</link>
+				<pubDate>Tue, 10 Nov 2026 06:10:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-3672660-76d7985c/</guid>
+				<description>单人独立作品《Caramel Creek》Steam 愿望单正式突破 1000，作者 Biruk Okami 发文致谢，并确认 11 月 12 日开启抢先体验。本文梳理这次里程碑的关键信息、EA 阶段规划、愿望单提醒设置方法与购买上手建议，帮你在开门第一天准时进店喝上第一杯茶。</description>
 			</item>
 			<item>
 				<title>Loftia第2补丁11月10日上线：停机2小时修Bug，路线图将公布</title>
