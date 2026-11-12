@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 09:29:43 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 07:14:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-frame/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam 11·11客户端更新：成就套装上线，DLC不再拖累全成就</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4165890-eb3ac999/</link>
+				<pubDate>Thu, 12 Nov 2026 07:14:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4165890-eb3ac999/</guid>
+				<description>Valve 在 11 月 11 日推送 Steam 客户端新版本，最重磅的是全新「成就套装」系统：本体与 DLC 成就可分组管理，新增 DLC 不再破坏全成就进度，已完成套装永久保留。一同到来的还有第二轮启动提速、语音聊天音量跨会话保留、Steam Deck 平均帧率展示、Steam Frame 原生内容误判可安装的修复，以及云同步误报冲突、好友列表卡死等一批积年老 Bug 的收尾。</description>
+			</item>
 			<item>
 				<title>Steam客户端Beta更新：云存档误报修复，陀螺仪曲线终于生效</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4165890-bf4f4536/</link>

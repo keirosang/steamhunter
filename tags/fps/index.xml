@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 07:03:20 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/fps/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CS2 更新实测：换弹抽搐修复、DX11 渲染卡死解决，性能与稳定性双提升</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-730-d0b013ae/</link>
+				<pubDate>Thu, 12 Nov 2026 07:03:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-730-d0b013ae/</guid>
+				<description>Valve 为 CS2 推送了一轮以“修 Bug”为主的更新：修复极端视角下切枪与换弹的弹跳穿模动画、Retakes 回防模式的机器人寻路问题，并解决 DX11 渲染卡死，同时优化 AVX/AVX512 指令集检测逻辑。本文拆解每条改动的实际影响，附更新后客户端验证、驱动与启动项建议，以及 Retakes 联机练习的实操要点。</description>
+			</item>
 			<item>
 				<title>《使命召唤：现代战争4》韩国战场大乱斗：战役回归与多人革新全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-07-4435490-06aef92f/</link>

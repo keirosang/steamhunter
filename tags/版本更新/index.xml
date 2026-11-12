@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 02:14:27 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 07:16:50 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《MycoRelic》1.0正式版上线：最难关极星蘑菇神殿与武器词条重铸来了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-2624080-d1bc4f65/</link>
+				<pubDate>Thu, 12 Nov 2026 07:16:50 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-2624080-d1bc4f65/</guid>
+				<description>1.0 正式版带来本作最硬核区域「极星蘑菇神殿」，主 Boss 加可重复召唤的小 Boss，掉落专属独特装备与成就。松露铁匠开放武器词条重铸，新增 T2 幽灵框架套装、加负重手镯与徒手流词条；战斗端削弱高等级属性攻击收益、加强盾击锤击、重做灵球与灵能天赋，手柄可拖拽背包物品，传送器与多处 Boss 软锁一并修复。</description>
+			</item>
+			<item>
+				<title>Steam 11·11客户端更新：成就套装上线，DLC不再拖累全成就</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4165890-eb3ac999/</link>
+				<pubDate>Thu, 12 Nov 2026 07:14:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4165890-eb3ac999/</guid>
+				<description>Valve 在 11 月 11 日推送 Steam 客户端新版本，最重磅的是全新「成就套装」系统：本体与 DLC 成就可分组管理，新增 DLC 不再破坏全成就进度，已完成套装永久保留。一同到来的还有第二轮启动提速、语音聊天音量跨会话保留、Steam Deck 平均帧率展示、Steam Frame 原生内容误判可安装的修复，以及云同步误报冲突、好友列表卡死等一批积年老 Bug 的收尾。</description>
+			</item>
+			<item>
+				<title>CS2 更新实测：换弹抽搐修复、DX11 渲染卡死解决，性能与稳定性双提升</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-730-d0b013ae/</link>
+				<pubDate>Thu, 12 Nov 2026 07:03:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-730-d0b013ae/</guid>
+				<description>Valve 为 CS2 推送了一轮以“修 Bug”为主的更新：修复极端视角下切枪与换弹的弹跳穿模动画、Retakes 回防模式的机器人寻路问题，并解决 DX11 渲染卡死，同时优化 AVX/AVX512 指令集检测逻辑。本文拆解每条改动的实际影响，附更新后客户端验证、驱动与启动项建议，以及 Retakes 联机练习的实操要点。</description>
+			</item>
+			<item>
+				<title>《Forged: Reconquest》1.0.0.2 热修推送：南非关卡双建筑被毁闪退终于修好</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-3509080-95a30063/</link>
+				<pubDate>Thu, 12 Nov 2026 06:11:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-3509080-95a30063/</guid>
+				<description>官方为《Forged: Reconquest》推送 1.0.0.2 热修补丁，仅一条改动却价值不低：修复南非（South Africa）任务中，在「Defend / Attack The Construction」目标阶段两处建筑同时被摧毁时触发的崩溃闪退。本文拆解崩溃根源、给出更新验证与存档备份操作步骤，附联机版本对齐与避坑建议，并整理三条高频问答。</description>
+			</item>
+			<item>
+				<title>Steam Deck客户端11月11日更新：成就套装与帧率信息上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-1675200-958137b8/</link>
+				<pubDate>Thu, 12 Nov 2026 05:57:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-1675200-958137b8/</guid>
+				<description>Steam客户端稳定版11月11日更新带来成就套装系统，支持本体与DLC成就分组追踪、归档和完成度保护；Steam Deck硬件兼容性弹窗新增平均帧率参考，好友邀请、群聊、通知与语音音量等联机体验同步优化，并修复云同步冲突、更新卡99%等多项问题。</description>
+			</item>
 			<item>
 				<title>DREADMOOR 抢先体验更新#3：任务卡关修复、船只操控手感优化与终局BOSS调整</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-3629430-a6a72517/</link>
@@ -33,6 +68,13 @@
 				<pubDate>Thu, 12 Nov 2026 01:59:23 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-12-1867240-86b49e94/</guid>
 				<description>WARDOGS 抢先体验第三赛季将于 11 月 12 日开打，维护窗口为 UTC 13:00–15:00（北京时间 21:00–23:00），预计停机约 2 小时。本赛季带来首张城市地图 SABATULO，以高楼、医院、河堤构成的室内近战与垂直作战为主；新增 Limited Mode 限购模式，砍掉 HP、AP 弹药、3–4 级甲、攻击载具与固定火力；护甲、背包、战术背心、降落伞改为多轨解锁；同时上线低等级玩家 XP 追赶加成与供应商折扣，赛季长度拉长至约 3 个月、整体升级速度放缓。</description>
+			</item>
+			<item>
+				<title>海战模拟《Sea Power》0.9.0 大更新：皇家海军与马岛双战役正式上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-1286220-973739f4/</link>
+				<pubDate>Thu, 12 Nov 2026 01:57:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-1286220-973739f4/</guid>
+				<description>Triassic Games 放出《Sea Power》迄今最大版本 v0.9.0，免费加入皇家海军与阿根廷两大阵营、1982 南大西洋两场新战役、80+ 新单位，同时重做 3D 地球与战术地图、新增滚动回放与战役管理界面，并大幅扩充任务编辑器。老玩家可直接更新，新玩家本期是入坑的最佳窗口。</description>
 			</item>
 			<item>
 				<title>Warhammer Survivors热修：宝箱跳过与Boss削弱</title>

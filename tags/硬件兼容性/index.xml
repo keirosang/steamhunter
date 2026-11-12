@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>硬件兼容性 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%A1%AC%E4%BB%B6%E5%85%BC%E5%AE%B9%E6%80%A7/</link>
+		<description>Recent content in 硬件兼容性 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 12 Nov 2026 05:57:41 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%A1%AC%E4%BB%B6%E5%85%BC%E5%AE%B9%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck客户端11月11日更新：成就套装与帧率信息上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-1675200-958137b8/</link>
+				<pubDate>Thu, 12 Nov 2026 05:57:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-1675200-958137b8/</guid>
+				<description>Steam客户端稳定版11月11日更新带来成就套装系统，支持本体与DLC成就分组追踪、归档和完成度保护；Steam Deck硬件兼容性弹窗新增平均帧率参考，好友邀请、群聊、通知与语音音量等联机体验同步优化，并修复云同步冲突、更新卡99%等多项问题。</description>
+			</item>
+	</channel>
+</rss>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 18:20:10 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 06:11:12 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B4%A9%E6%BA%83%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Forged: Reconquest》1.0.0.2 热修推送：南非关卡双建筑被毁闪退终于修好</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-3509080-95a30063/</link>
+				<pubDate>Thu, 12 Nov 2026 06:11:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-3509080-95a30063/</guid>
+				<description>官方为《Forged: Reconquest》推送 1.0.0.2 热修补丁，仅一条改动却价值不低：修复南非（South Africa）任务中，在「Defend / Attack The Construction」目标阶段两处建筑同时被摧毁时触发的崩溃闪退。本文拆解崩溃根源、给出更新验证与存档备份操作步骤，附联机版本对齐与避坑建议，并整理三条高频问答。</description>
+			</item>
 			<item>
 				<title>绝地潜兵2 7.2.3热修实装：洞穴火焰复活，三类崩溃一刀切</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-553850-7c3297ea/</link>

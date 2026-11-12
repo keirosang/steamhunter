@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 02:21:56 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 07:14:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam 11·11客户端更新：成就套装上线，DLC不再拖累全成就</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4165890-eb3ac999/</link>
+				<pubDate>Thu, 12 Nov 2026 07:14:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4165890-eb3ac999/</guid>
+				<description>Valve 在 11 月 11 日推送 Steam 客户端新版本，最重磅的是全新「成就套装」系统：本体与 DLC 成就可分组管理，新增 DLC 不再破坏全成就进度，已完成套装永久保留。一同到来的还有第二轮启动提速、语音聊天音量跨会话保留、Steam Deck 平均帧率展示、Steam Frame 原生内容误判可安装的修复，以及云同步误报冲突、好友列表卡死等一批积年老 Bug 的收尾。</description>
+			</item>
+			<item>
+				<title>Steam Deck客户端11月11日更新：成就套装与帧率信息上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-1675200-958137b8/</link>
+				<pubDate>Thu, 12 Nov 2026 05:57:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-1675200-958137b8/</guid>
+				<description>Steam客户端稳定版11月11日更新带来成就套装系统，支持本体与DLC成就分组追踪、归档和完成度保护；Steam Deck硬件兼容性弹窗新增平均帧率参考，好友邀请、群聊、通知与语音音量等联机体验同步优化，并修复云同步冲突、更新卡99%等多项问题。</description>
+			</item>
 			<item>
 				<title>Castillon发售：9.99美元4-6小时通关，Deck可玩</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-2483570-c67afb7a/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 08:54:07 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 07:03:20 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/cs2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CS2 更新实测：换弹抽搐修复、DX11 渲染卡死解决，性能与稳定性双提升</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-730-d0b013ae/</link>
+				<pubDate>Thu, 12 Nov 2026 07:03:20 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-730-d0b013ae/</guid>
+				<description>Valve 为 CS2 推送了一轮以“修 Bug”为主的更新：修复极端视角下切枪与换弹的弹跳穿模动画、Retakes 回防模式的机器人寻路问题，并解决 DX11 渲染卡死，同时优化 AVX/AVX512 指令集检测逻辑。本文拆解每条改动的实际影响，附更新后客户端验证、驱动与启动项建议，以及 Retakes 联机练习的实操要点。</description>
+			</item>
 			<item>
 				<title>CS2更新详解：Retakes拆弹提速与宠物鸡彩蛋，地图脚本API大改</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-730-ff979722/</link>
