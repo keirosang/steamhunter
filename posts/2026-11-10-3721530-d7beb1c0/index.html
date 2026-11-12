@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Motorcycle For Sale Simulator》开发日志8：喷漆、霓虹底灯与自定义车牌工坊来了 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Red Axe Games 公布《Motorcycle For Sale Simulator》开发日志第 8 弹，下个版本将加入完整自定义工坊：整车喷漆、大灯变色、霓虹底灯（含闪烁模式）、贴纸与涂装槽位，以及最多 7 个字符的自定义车牌。所有改装项目明码标价，买过的颜色永久保留，关闭霓虹与撕贴纸完全免费，配合可环绕观察的镜头，这台车终于能改成你喜欢的样子。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Motorcycle For Sale Simulator》开发日志8：喷漆、霓虹底灯与自定义车牌工坊来了">
+  <meta property="og:description" content="Red Axe Games 公布《Motorcycle For Sale Simulator》开发日志第 8 弹，下个版本将加入完整自定义工坊：整车喷漆、大灯变色、霓虹底灯（含闪烁模式）、贴纸与涂装槽位，以及最多 7 个字符的自定义车牌。所有改装项目明码标价，买过的颜色永久保留，关闭霓虹与撕贴纸完全免费，配合可环绕观察的镜头，这台车终于能改成你喜欢的样子。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-10-3721530-d7beb1c0/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/2fbf680b6be52ef6.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-10-3721530-d7beb1c0/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Motorcycle For Sale …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Motorcycle For Sale Simulator</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 3721530</span>
+      
+    </div>
+
+    <h1 class="article-title">《Motorcycle For Sale Simulator》开发日志8：喷漆、霓虹底灯与自定义车牌工坊来了</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-10T02:00:48&#43;08:00" class="meta-date">
+          📅 2026-11-10 02:00
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2327 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/3721530/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/3721530" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/2fbf680b6be52ef6.jpg" alt="《Motorcycle For Sale Simulator》开发日志8：喷漆、霓虹底灯与自定义车牌工坊来了" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Red Axe Games 公布《Motorcycle For Sale Simulator》开发日志第 8 弹，下个版本将加入完整自定义工坊：整车喷漆、大灯变色、霓虹底灯（含闪烁模式）、贴纸与涂装槽位，以及最多 7 个字符的自定义车牌。所有改装项目明码标价，买过的颜色永久保留，关闭霓虹与撕贴纸完全免费，配合可环绕观察的镜头，这台车终于能改成你喜欢的样子。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>各位车行老板注意，Red Axe Games 的开发日志第 8 弹来了，主题四个字：<strong>Make It Yours</strong>——把它变成你自己的车。下一版本更新将上线一套完整的自定义工坊，把“收车—整备—出手”这条链路里最缺的那块拼图补上了。</p>
+<ul>
+<li><strong>🎨 喷漆与灯光</strong>：整车重新上色、大灯颜色可换、加装霓虹底灯并支持<strong>闪烁模式</strong>。</li>
+<li><strong>🏷️ 贴纸与牌照</strong>：车身上的贴纸槽位可贴贴纸与成套涂装（liveries），车牌可自己写字，<strong>上限 7 个字符</strong>。</li>
+<li><strong>💰 价格透明</strong>：每个选项在购买前都会显示价格；<strong>已购买的颜色永久归你</strong>；关闭霓虹、撕掉贴纸<strong>不收费</strong>；镜头可绕车 360° 查看每个角度。</li>
+<li><strong>🛒 状态提醒</strong>：完整版即将推出，游戏仍在开发推进中，先把愿望单点上，才不至于错过下一期开发日志。</li>
+</ul>
+<p>官方商店页：
+🛒 <a href="https://store.steampowered.com/app/3721530/Motorcycle_For_Sale_Simulator/">https://store.steampowered.com/app/3721530/Motorcycle_For_Sale_Simulator/</a></p>
+<p>官方 Discord（催更、反馈、蹲测试资格都在这儿）：
+💬 <a href="https://discord.gg/JhJdGxU3f7">https://discord.gg/JhJdGxU3f7</a></p>
+<hr>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-卖车模拟的核心矛盾终于在卖相上补了一刀">1. 卖车模拟的核心矛盾，终于在“卖相”上补了一刀</h3>
+<p>玩过这类经营模拟的都懂：车况是硬指标，但<strong>卖相才是溢价空间</strong>。之前的流程更像“修理工视角”——能跑、能过检、能卖钱；这次自定义工坊一加，等于给了玩家一个“车行美学”按钮。同一台车，原厂灰扑扑地摆着，和一身哑光漆加底部霓虹地灯停进展位，买家心里的报价显然不是一个数。</p>
+<h3 id="2-灯光三件套喷漆大灯底灯">2. 灯光三件套：喷漆、大灯、底灯</h3>
+<ul>
+<li><strong>整车重新喷漆</strong>：最直接的视觉改造，也是最能拉开“同款车不同命”差距的一步。</li>
+<li><strong>大灯变色</strong>：细节活儿，但夜间展示和截图党会很喜欢。</li>
+<li><strong>霓虹底灯 + 闪烁模式</strong>：这是本次最“整活”的一项。底灯本身是氛围件，闪烁模式则是给展车、夜场、截图场景准备的。要提醒一句：<strong>审美是主观的，但买家是客观的</strong>，别把一台准新车搞成移动灯球，卖车场景里克制一点往往更好出手。</li>
+</ul>
+<h3 id="3-贴纸涂装与车牌个性化与社死只差一次输入">3. 贴纸、涂装与车牌：个性化与“社死”只差一次输入</h3>
+<ul>
+<li><strong>贴纸槽位</strong>：官方明确是“贴在车身的可贴花槽位”，配合成套涂装（liveries），意味着同一套方案可以复用，不必一台车一台车重新调整。</li>
+<li><strong>自定义车牌，最多 7 个字符</strong>：这条规则几乎是在邀请玩家整活。7 个字符足够写个短 ID、一句缩写、一个梗，甚至一串看着就很可疑的编号。做车行生意嘛，招牌挂自己名字很正常。</li>
+</ul>
+<h3 id="4-定价规则里的良心设计">4. 定价规则里的“良心设计”</h3>
+<p>这部分值得单独夸：</p>
+<table>
+	<thead>
+			<tr>
+					<th>规则</th>
+					<th>对玩家的实际意义</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>每项改装<strong>先显示价格再购买</strong></td>
+					<td>不会出现“点下去才发现钱包空了一半”的背刺感</td>
+			</tr>
+			<tr>
+					<td><strong>买过的颜色永久保留</strong></td>
+					<td>一次买断、无限复用，重复涂装不再二次付费，试错成本大幅下降</td>
+			</tr>
+			<tr>
+					<td><strong>关霓虹 / 撕贴纸免费</strong></td>
+					<td>反悔零成本，玩家可以放心大胆地乱试</td>
+			</tr>
+			<tr>
+					<td><strong>镜头可环绕观察</strong></td>
+					<td>每个角度都能看清，避免“装完才发现侧面很丑”</td>
+			</tr>
+	</tbody>
+</table>
+<p>对比一下不少同类游戏里“改色要再买一次”“拆件还要收工时费”的套路，这套定价逻辑算是把玩家的心理账户算明白了：<strong>花钱花在“获得选项”上，而不是花在“撤回操作”上</strong>。</p>
+<h3 id="5-对经营循环的潜在影响">5. 对经营循环的潜在影响</h3>
+<p>如果后续改装能影响到买家偏好与成交价（官方本期未展开说明，这里只做机制层面的推测），那么“低价收车 → 低成本整备 → 高溢价出手”就会变成一条更有深度的生意经：改装的投入要算 ROI，喷漆选色要考虑目标客群，霓虹灯要不要加得看车价档次。这类“花小钱办大事”的决策，恰恰是模拟经营最上头的地方。</p>
+<hr>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>① 先把愿望单点上，别等更新了才想起来</strong>
+完整版即将推出，开发日志是按期放送的，最省事的做法就是商店页加愿望单 + 关注官方 Discord，更新公告第一时间能看到。
+🛒 <a href="https://store.steampowered.com/app/3721530/Motorcycle_For_Sale_Simulator/">https://store.steampowered.com/app/3721530/Motorcycle_For_Sale_Simulator/</a></p>
+<p><strong>② 更新上线后，先摸清“价格表”再动手</strong>
+新系统每项改装都明码标价，第一件事不是急着喷漆，而是把颜色、灯光、贴纸的价格逐个点开看一遍，把预算分配好。低价车配高价霓虹灯，属于典型的投入产出不匹配。</p>
+<p><strong>③ 颜色买断要“按需下单”</strong>
+买过的颜色永久归你，所以别一口气全买齐，先围绕你常收的车型和常接的客群挑 2 到 3 个百搭色（黑、白、哑光灰通常是安全牌），剩下的等有明确需求再补。</p>
+<p><strong>④ 免费操作大胆用，别省</strong>
+关闭霓虹、撕贴纸不要钱，这意味着你可以反复试搭配。建议养成习惯：<strong>卖车前把上一任车主留下的贴纸清干净</strong>，观感直接影响第一印象。</p>
+<p><strong>⑤ 车牌 7 字符，先想好再输</strong>
+字符数卡得挺死，输入前想清楚。想做个人品牌就写车行缩写，想玩梗就写短梗，别浪费在无意义的乱码上。</p>
+<p><strong>⑥ 用环绕镜头做“验车视角”</strong>
+改装完记得绕车一圈看侧面、尾部与底部，尤其底灯和贴纸的接缝位置，很多搭配正面好看、侧面一言难尽。</p>
+<p><strong>⑦ 配置与性能</strong>
+霓虹底灯与闪烁效果属于实时光效，低配机器如果出现帧数波动，优先下调阴影与后期质量，光效项尽量保留，毕竟这是本期的核心卖点。</p>
+<hr>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>Steam 的限免、喜加一和临时折扣向来是“手慢无”，等刷到论坛帖子，key 早就被领完了。建议所有骑车卖车的同行都加一下官方 Telegram 频道 <strong>@steamhunterlink</strong>：秒级推送限免与特惠、永久入库提醒、临时工乌龙价第一时间通知，蹲福利的效率比手动刷商店页高太多。</p>
+<p>👉 加入方式：Telegram 搜索 <strong>@steamhunterlink</strong> 即可。</p>
+<hr>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：这次的自定义工坊什么时候能玩到？</strong>
+A：官方定位是“下一个版本更新”，目前尚未给出确切日期。稳妥做法是把游戏加入愿望单并关注官方 Discord，更新公告会第一时间发布。</p>
+<p><strong>Q2：改装会不会很烧钱？关掉霓虹灯、撕贴纸要收费吗？</strong>
+A：每项改装都会在购买前显示价格，不存在盲买。同时<strong>关闭霓虹底灯和撕除贴纸完全免费</strong>，只有购买新的颜色、贴纸等选项才需要付费。</p>
+<p><strong>Q3：我买过的颜色，换车之后还能用吗？</strong>
+A：官方明确说明<strong>已购买的颜色永久归你</strong>，属于一次买断、后续复用的设计，换车重新涂装不需要再为同一个颜色付第二次钱。</p>
+<p><strong>Q4：车牌能写多少位？中文可以吗？</strong>
+A：官方给出的上限是<strong>7 个字符</strong>，具体支持哪些字符集尚未在本次日志中说明，建议更新上线后实测，先按 7 字符以内规划内容比较稳妥。</p>
+<hr>
+<p>下一期开发日志官方预告是“the story behind it all”——这套玩法背后的故事。想第一时间看到，商店页加个愿望单，顺手把 Discord 加了，别等别人都在改车了你还在等公告。</p>
+<p>🛒 <a href="https://store.steampowered.com/app/3721530/Motorcycle_For_Sale_Simulator/">https://store.steampowered.com/app/3721530/Motorcycle_For_Sale_Simulator/</a>
+💬 <a href="https://discord.gg/JhJdGxU3f7">https://discord.gg/JhJdGxU3f7</a></p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Motorcycle%20For%20Sale%20Simulator/" class="article-tag-item">#Motorcycle For Sale Simulator</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+          <a href="/tags/%e5%bc%80%e5%8f%91%e6%97%a5%e5%bf%97/" class="article-tag-item">#开发日志</a>
+          
+          <a href="/tags/%e8%bd%a6%e8%be%86%e8%87%aa%e5%ae%9a%e4%b9%89/" class="article-tag-item">#车辆自定义</a>
+          
+          <a href="/tags/%e6%a8%a1%e6%8b%9f%e7%bb%8f%e8%90%a5/" class="article-tag-item">#模拟经营</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-10-3721530-d7beb1c0/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-10-4993270-68d5188b/" class="sibling-title">《Palisade》正式发售：地图划线指挥千军，六大战役与八人联机开打</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-10-4832970-025f7a3a/" class="sibling-title">《What the Buck?!》发售：30%折扣，钞票连锁爆炸爽游</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-卖车模拟的核心矛盾终于在卖相上补了一刀">1. 卖车模拟的核心矛盾，终于在“卖相”上补了一刀</a></li>
+        <li><a href="#2-灯光三件套喷漆大灯底灯">2. 灯光三件套：喷漆、大灯、底灯</a></li>
+        <li><a href="#3-贴纸涂装与车牌个性化与社死只差一次输入">3. 贴纸、涂装与车牌：个性化与“社死”只差一次输入</a></li>
+        <li><a href="#4-定价规则里的良心设计">4. 定价规则里的“良心设计”</a></li>
+        <li><a href="#5-对经营循环的潜在影响">5. 对经营循环的潜在影响</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
