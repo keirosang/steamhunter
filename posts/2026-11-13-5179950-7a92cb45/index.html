@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《Tick &amp; Tired》Steam 正式发售：把办公桌面玩成混沌引擎，首发 10% 折扣限时开冲 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="独立开发者打造的办公解压新作《Tick &amp; Tired》现已正式登陆 Steam，并开启为期有限的首发 10% 折扣。玩家要在自己的桌面窗口里整理文件、筛掉垃圾邮件、给同事倒咖啡，靠连击不断叠加分数，一路从小职员卷到 CEO。本文梳理玩法机制、连击思路与入库要点，并附上常见问题解答。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《Tick &amp; Tired》Steam 正式发售：把办公桌面玩成混沌引擎，首发 10% 折扣限时开冲">
+  <meta property="og:description" content="独立开发者打造的办公解压新作《Tick &amp; Tired》现已正式登陆 Steam，并开启为期有限的首发 10% 折扣。玩家要在自己的桌面窗口里整理文件、筛掉垃圾邮件、给同事倒咖啡，靠连击不断叠加分数，一路从小职员卷到 CEO。本文梳理玩法机制、连击思路与入库要点，并附上常见问题解答。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-13-5179950-7a92cb45/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/f7d832bab4643cbc.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-13-5179950-7a92cb45/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《Tick &amp; Tired》Steam 正式发售：把办公桌面 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Tick &amp; Tired</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5179950</span>
+      
+    </div>
+
+    <h1 class="article-title">《Tick &amp; Tired》Steam 正式发售：把办公桌面玩成混沌引擎，首发 10% 折扣限时开冲</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-13T02:32:01&#43;08:00" class="meta-date">
+          📅 2026-11-13 02:32
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1913 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5179950/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5179950" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/f7d832bab4643cbc.jpg" alt="《Tick &amp; Tired》Steam 正式发售：把办公桌面玩成混沌引擎，首发 10% 折扣限时开冲" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>独立开发者打造的办公解压新作《Tick &amp; Tired》现已正式登陆 Steam，并开启为期有限的首发 10% 折扣。玩家要在自己的桌面窗口里整理文件、筛掉垃圾邮件、给同事倒咖啡，靠连击不断叠加分数，一路从小职员卷到 CEO。本文梳理玩法机制、连击思路与入库要点，并附上常见问题解答。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>发售状态</strong>：独立开发者新作《Tick &amp; Tired》已正式上架 Steam（AppID: 5179950），从愿望单直通可下载状态。</li>
+<li><strong>首发折扣</strong>：为庆祝发售，游戏当前享有 <strong>10% 首发优惠</strong>，属于典型的“早买早享受、晚买等打折”窗口期，想入的别拖太久。</li>
+<li><strong>一句话玩法</strong>：把你自己的办公桌面变成一台混沌引擎——分类文件、过滤垃圾邮件、端咖啡续命，靠连击（Combo）把绩效条一路顶到 CEO 办公室。</li>
+<li><strong>社区渠道</strong>：作者在公告里明确欢迎玩家反馈 Bug、提建议、晒分数，可前往 Steam 社区中心发帖，或加入官方 Discord：<a href="https://discord.gg/X75rwFpTg6">https://discord.gg/X75rwFpTg6</a></li>
+<li><strong>背景补充</strong>：本作在 Steam Next Fest 期间放出过 Demo，收集了大量玩家反馈后才打磨至今，属于“被玩家一起养大”的小体量作品。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-玩法内核把日常打工人苦役做成连击游戏">1. 玩法内核：把日常打工人苦役做成连击游戏</h3>
+<p>《Tick &amp; Tired》的设计逻辑非常讨巧：它不给你一个虚构的奇幻职场，而是直接把<strong>办公桌面本体</strong>变成游戏场地。文件、邮件、咖啡杯这些现实里让人血压升高的东西，在这里全被拆成了可被“高效处理”的物件。</p>
+<p>核心循环大致是：</p>
+<ol>
+<li><strong>整理文件</strong>——把散落的文档归位，越快越准，收益越高；</li>
+<li><strong>筛除垃圾邮件</strong>——在海量邮件里挑出该删的，判断失误会打断节奏；</li>
+<li><strong>倒咖啡</strong>——维持状态，避免效率衰减；</li>
+<li><strong>叠连击</strong>——连续正确处理不中断，分数倍率滚雪球；</li>
+<li><strong>晋升</strong>——绩效攒够，从底层员工一路爬到 CEO。</li>
+</ol>
+<p>这套机制的爽点不在“模拟真实办公”，而在于<strong>把琐碎劳动的节奏感提炼成了一种可优化的操作流</strong>——本质上是款披着职场皮的节奏/连击游戏，越熟练越上头。</p>
+<h3 id="2-独立开发者的诚意与首发窗口">2. 独立开发者的诚意与首发窗口</h3>
+<p>公告里那句“作为个人开发者，你们的支持对我意义重大”，不是客套话。Demo 阶段的反馈直接影响了成品的手感调校，这意味着首发版本大概率已经修掉了 Next Fest 期间最刺眼的那批问题。</p>
+<p>对于这类小体量作品，<strong>首发期是最值得入手的阶段</strong>：一方面 10% 折扣是短期内最实在的价格；另一方面首发玩家密度高，社区讨论、分数比拼、Bug 反馈都最活跃，能在最热闹的时候参与进去。</p>
+<h3 id="3-适合谁不适合谁">3. 适合谁，不适合谁</h3>
+<ul>
+<li><strong>适合</strong>：喜欢《请出示文件》式流程优化、《Unpacking》式整理快感，或者单纯想在摸鱼时找点“看起来很忙”的解压感的玩家；短平快、随时开随时关。</li>
+<li><strong>不适合</strong>：追求长线剧情、深度养成或大制作画面的玩家。这是款明确的小品级作品，卖点在手感与节奏，不在体量。</li>
+</ul>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="入库与购买">入库与购买</h3>
+<ol>
+<li>打开 Steam 客户端，搜索 <strong>Tick &amp; Tired</strong>，或直接按 AppID <code>5179950</code> 定位商店页；</li>
+<li>确认页面上的 <strong>10% 首发折扣</strong> 标识仍在生效——折扣窗口通常只覆盖发售初期，犹豫的成本就是原价；</li>
+<li>加入购物车结算，付款后在库中点击安装，注意查看商店页标注的最低配置，别拿十年前的办公本硬顶；</li>
+<li>顺手点个“关注”并加愿望单，后续更新与打折提醒会自动推送。</li>
+</ol>
+<h3 id="上手技巧少走弯路">上手技巧（少走弯路）</h3>
+<ul>
+<li><strong>别贪快，先稳连击</strong>：连击倍率是分数的主要来源，一次误操作断链的损失远大于多花半秒确认；</li>
+<li><strong>优先级排序</strong>：先处理会持续“污染桌面”的垃圾邮件，再整理静态文件，最后补咖啡，避免多线程同时爆掉；</li>
+<li><strong>窗口化游玩</strong>：这游戏天生适合窗口模式，放在屏幕一角处理别的事也不违和，摸鱼体验拉满；</li>
+<li><strong>善用社区</strong>：卡关或遇到 Bug，直接去 Steam 社区中心或 Discord 反馈，个人开发者响应通常比大厂客服快得多；</li>
+<li><strong>晒分数</strong>：公告里作者主动邀请玩家分享成绩，去社区贴个高分截图，说不定还能换来一波更新优化。</li>
+</ul>
+<h3 id="配置与稳定性">配置与稳定性</h3>
+<p>休闲向作品对硬件要求不高，但仍建议：更新显卡驱动、关闭后台占资源的大型程序、优先安装在固态硬盘上，减少加载卡顿。若遇到闪退，先在 Steam 里校验游戏文件完整性，再带上日志去社区反馈。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>首发折扣这种事，最怕的就是“想起来的时候已经结束了”。建议直接加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，秒级推送 Steam 限时免费、喜加一、史低特惠与新游首发折扣信息，不用天天刷商店页，重要羊毛一个不漏。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：《Tick &amp; Tired》现在买划算吗？10% 折扣会持续多久？</strong>
+A：首发 10% 是当前最直接的优惠，属于发售期专属窗口，通常持续时间有限。如果你对这类办公解压玩法有兴趣，首发入手既能省钱又能赶上社区最活跃的阶段；若只想等更深折扣，可以加愿望单蹲后续促销，但短期别指望比首发更低。</p>
+<p><strong>Q2：游戏支持中文吗？我的办公本能不能跑？</strong>
+A：语言支持与具体配置要求请以 Steam 商店页信息栏为准，购买前务必核对。整体属于小体量独立作品，硬件门槛不高，但建议至少满足页面标注的最低配置，避免体验打折。</p>
+<p><strong>Q3：遇到 Bug 或想提建议，去哪里反馈最有效？</strong>
+A：两条官方通道——Steam 社区中心发帖，或加入官方 Discord（<a href="https://discord.gg/X75rwFpTg6">https://discord.gg/X75rwFpTg6</a>）。这是单人开发项目，你的反馈很可能直接进下一个补丁，别客气。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Tick%20&amp;%20Tired/" class="article-tag-item">#Tick &amp; Tired</a>
+          
+          <a href="/tags/Steam%20%e6%96%b0%e6%b8%b8/" class="article-tag-item">#Steam 新游</a>
+          
+          <a href="/tags/%e9%a6%96%e5%8f%91%e6%8a%98%e6%89%a3/" class="article-tag-item">#首发折扣</a>
+          
+          <a href="/tags/%e6%a8%a1%e6%8b%9f%e7%bb%8f%e8%90%a5/" class="article-tag-item">#模拟经营</a>
+          
+          <a href="/tags/%e7%8b%ac%e7%ab%8b%e6%b8%b8%e6%88%8f/" class="article-tag-item">#独立游戏</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-13-5179950-7a92cb45/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-4651080-d8d53502/" class="sibling-title">CelSector 正式发售！v1.2 首发更新 &#43; 限时 9 折，值得入库吗</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-4715000-9e4b6678/" class="sibling-title">《Patience Balls》1.0 正式上线：首发 8 折，100 个手工关卡与 Steam 创意工坊全开放</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-玩法内核把日常打工人苦役做成连击游戏">1. 玩法内核：把日常打工人苦役做成连击游戏</a></li>
+        <li><a href="#2-独立开发者的诚意与首发窗口">2. 独立开发者的诚意与首发窗口</a></li>
+        <li><a href="#3-适合谁不适合谁">3. 适合谁，不适合谁</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#入库与购买">入库与购买</a></li>
+        <li><a href="#上手技巧少走弯路">上手技巧（少走弯路）</a></li>
+        <li><a href="#配置与稳定性">配置与稳定性</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

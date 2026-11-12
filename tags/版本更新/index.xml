@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 01:02:06 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 04:13:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SoulForge Legends 1.0.0 首发日补丁实装：后台服务器工具升级，联机稳定性优先</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</link>
+				<pubDate>Fri, 13 Nov 2026 04:13:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</guid>
+				<description>SoulForge Legends 于 2026 年 11 月 12 日推送 retail build 1.0.0 首发日补丁，本次为小体量更新，改动集中在幕后服务器工具，玩家侧几乎无感。本文梳理补丁的真实影响范围、版本号核对方式与联机自查流程，并附高频问题解答，帮你判断这次更新到底值不值得专门重启一次客户端。</description>
+			</item>
+			<item>
+				<title>《Doom Keeper》1.0.2 正式版上线：冷门物品降价加强，官方在线听劝</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4168680-cf494cd4/</link>
+				<pubDate>Fri, 13 Nov 2026 03:05:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4168680-cf494cd4/</guid>
+				<description>《Doom Keeper》正式告别抢先体验，推出 1.0.2 完整版。这次更新不搞大动作，专挑那些“看着很美、实际没人捡”的物品下手：降价、加强、修掉让人难以接受的惩罚机制，让构筑池真正变宽。官方同步开放 Discord 社群征集意见，并明确表示这只是开始。本期我把平衡改动的重点、对现有流派的影响，以及入库与上手建议一次讲清楚，帮你少走弯路。</description>
+			</item>
+			<item>
+				<title>9 Kings 1.0正式版上线：小丑自定义模式、130&#43;卡牌与首发五折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-2784470-1de9c1e8/</link>
+				<pubDate>Fri, 13 Nov 2026 02:55:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-2784470-1de9c1e8/</guid>
+				<description>《9 Kings》正式结束抢先体验，1.0版本带来四大游戏模式、130+卡牌、140+法令、110+增益与80+任务，并加入玩家呼声最高的自定义「小丑模式」。首发两周五折史低，老玩家回归与新玩家入场都正当时。</description>
+			</item>
+			<item>
+				<title>CelSector 正式发售！v1.2 首发更新 &#43; 限时 9 折，值得入库吗</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4651080-d8d53502/</link>
+				<pubDate>Fri, 13 Nov 2026 02:11:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4651080-d8d53502/</guid>
+				<description>CelSector 已正式登陆 Steam（AppID 4651080），并与 v1.2 首发更新同步上线，首发周享 10% 折扣（9 折）。官方 YumamiSoft 发文致谢愿望单玩家、Demo 试玩者与 bug 反馈者，并呼吁玩家留下 Steam 评测。本文梳理发售要点、折扣窗口判断、入库与体验建议，帮你判断是否值得入手。</description>
+			</item>
+			<item>
+				<title>单人开发三年，战国战棋《Ashigaru Tactics》发售日v71补丁新增五类敌人与弓系玩法</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-3038710-1f88646e/</link>
+				<pubDate>Fri, 13 Nov 2026 02:01:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-3038710-1f88646e/</guid>
+				<description>单人开发近三年、主打战国日本背景的战棋 RPG《Ashigaru Tactics》正式发售，并同步上线 v71 发售日补丁。本次更新新增五类敌人、三级大弓与瞄准射击/弧线射击两套弓系技能，投石索爆头可造成眩晕；世界层加入城镇氏族使者、营地定时侦察、动物饰品与稀有战利品，还优化了遭遇点分布、清剿合同规则与野外刷新逻辑。本文梳理补丁要点、开荒思路与常见问题。</description>
+			</item>
 			<item>
 				<title>DEADBOOT正式发售首周9折：武器翻倍、关卡三倍，20&#43;成就爽刷</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-3819020-c249477a/</link>

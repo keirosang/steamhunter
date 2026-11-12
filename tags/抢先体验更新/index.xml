@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 04:56:23 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 02:05:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼机制改动</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-3629430-4a242d32/</link>
+				<pubDate>Fri, 13 Nov 2026 02:05:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-3629430-4a242d32/</guid>
+				<description>DREADMOOR 推出抢先体验阶段第四次更新：修复 Precious Junk 宝箱打捞、Hymn to Deformity 残肢计数、Find Resonance 音叉自动完成等任务卡点；钓鱼系统加入鱼线碰撞并新增 Sawfin 钓点；手柄死区、DualSense 切换、多手柄支持与多项 QTE、教程 UI 问题同步修正。本文整理完整改动清单、开荒实操建议与高频问题解答，帮你判断是否需要回档或调整玩法节奏。</description>
+			</item>
 			<item>
 				<title>DREADMOOR抢先体验更新1：PS手柄支持、新鱼模型与进度修复全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-3629430-e7d7c116/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 07:15:40 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 04:13:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SoulForge Legends 1.0.0 首发日补丁实装：后台服务器工具升级，联机稳定性优先</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</link>
+				<pubDate>Fri, 13 Nov 2026 04:13:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</guid>
+				<description>SoulForge Legends 于 2026 年 11 月 12 日推送 retail build 1.0.0 首发日补丁，本次为小体量更新，改动集中在幕后服务器工具，玩家侧几乎无感。本文梳理补丁的真实影响范围、版本号核对方式与联机自查流程，并附高频问题解答，帮你判断这次更新到底值不值得专门重启一次客户端。</description>
+			</item>
 			<item>
 				<title>Go Next! 快启动补丁上线：绳索修复、武器成长调整与Boss穿墙终结</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-5064170-6cbb0744/</link>

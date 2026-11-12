@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼机制改动 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="DREADMOOR 推出抢先体验阶段第四次更新：修复 Precious Junk 宝箱打捞、Hymn to Deformity 残肢计数、Find Resonance 音叉自动完成等任务卡点；钓鱼系统加入鱼线碰撞并新增 Sawfin 钓点；手柄死区、DualSense 切换、多手柄支持与多项 QTE、教程 UI 问题同步修正。本文整理完整改动清单、开荒实操建议与高频问题解答，帮你判断是否需要回档或调整玩法节奏。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼机制改动">
+  <meta property="og:description" content="DREADMOOR 推出抢先体验阶段第四次更新：修复 Precious Junk 宝箱打捞、Hymn to Deformity 残肢计数、Find Resonance 音叉自动完成等任务卡点；钓鱼系统加入鱼线碰撞并新增 Sawfin 钓点；手柄死区、DualSense 切换、多手柄支持与多项 QTE、教程 UI 问题同步修正。本文整理完整改动清单、开荒实操建议与高频问题解答，帮你判断是否需要回档或调整玩法节奏。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-13-3629430-4a242d32/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/a1c34b4d05c2dbfd.png">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-13-3629430-4a242d32/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 DREADMOOR</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 3629430</span>
+      
+    </div>
+
+    <h1 class="article-title">DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼机制改动</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-13T02:05:05&#43;08:00" class="meta-date">
+          📅 2026-11-13 02:05
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2241 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/3629430/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/3629430" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/a1c34b4d05c2dbfd.png" alt="DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼机制改动" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>DREADMOOR 推出抢先体验阶段第四次更新：修复 Precious Junk 宝箱打捞、Hymn to Deformity 残肢计数、Find Resonance 音叉自动完成等任务卡点；钓鱼系统加入鱼线碰撞并新增 Sawfin 钓点；手柄死区、DualSense 切换、多手柄支持与多项 QTE、教程 UI 问题同步修正。本文整理完整改动清单、开荒实操建议与高频问题解答，帮你判断是否需要回档或调整玩法节奏。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="dreadmoor-抢先体验第4更任务修复手柄优化与钓鱼机制改动">DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼机制改动</h1>
+<p>钓客们，淹没之地的第四次抢先体验更新已经推送。这次制作组把力气花在了玩家反馈最密集的几个地方：任务推进卡点、钓鱼手感、手柄兼容与一堆细碎的交互问题。下面我按可执行的方式，把这份改动清单拆开讲清楚，顺便给出上手建议。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>任务链不再无故卡死</strong>：Precious Junk 的水中宝箱打捞判定修复；Hymn to Deformity 任务描述新增食尸鬼残肢计数器；Find Resonance 在音叉顶部提前安装的情况下会自动完成对应步骤。</li>
+<li><strong>钓鱼系统有实质变化</strong>：鱼线启用碰撞，新增 Sawfin 钓点，钩枪配件 Geared Hook Grip 的显示名称得到修正。</li>
+<li><strong>手柄体验集中修补</strong>：暂停后斧头格挡卡死、开船摇杆死区、DualSense 直连与 Steam Input 切换、多手柄同时连接等问题一并处理。</li>
+<li><strong>交互与 QTE 更干净</strong>：启动发电机、操作水泵新增退出动作，净化系统加压的 QTE 逻辑同步更新，维修引擎时手持物不再穿模乱入画面。</li>
+<li><strong>教程、音画与碰撞细节</strong>：燃料站首次拾枪提示消失、初始钩枪手柄提示错误、初始钓鱼教程文字重叠、起始区域码头木桩碰撞、Dry Dock 环境音与可破坏物撞击音等均已修正。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="任务线三个真实存在的推进障碍被拆掉">任务线：三个真实存在的“推进障碍”被拆掉</h3>
+<p>这次更新的含金量主要在任务侧。Precious Junk 的宝箱打捞此前存在判定异常，鱼咬钩、收线、出水三个环节任何一环出问题都会让任务停摆，现在这条链路被重新梳理。Hymn to Deformity 则是信息透明度问题：任务描述里加了食尸鬼残肢计数，你不用再翻背包一件件数碎片，缺几个一眼可见。Find Resonance 修的是顺序容错，如果你在任务推进到对应步骤之前就把音叉顶部装好了，现在会自动判定完成，不会出现“做了但没记录”的尴尬。</p>
+<p>同时，交易系统异常、停靠组件逻辑、睡觉后玩家出生位置、宝箱掉落内容，以及罗盘上任务标记的显示距离都做了调整。罗盘标记看得更远，对淹没之地这种视野受限的地图来说，实际探图效率提升明显。</p>
+<h3 id="钓鱼与装备鱼线终于有碰撞了">钓鱼与装备：鱼线终于有碰撞了</h3>
+<p>鱼线启用碰撞是手感层面的关键改动。此前鱼线可以无视地形穿过去，视觉和物理反馈脱节；现在鱼线会被环境阻挡，抛竿位置和收线角度需要更讲究，钓大鱼时的空间感也更真实。配合新增的 Sawfin 钓点，中期刷材料的路线可以重新规划。</p>
+<p><img src="/images/a1c34b4d05c2dbfd.png" alt=""></p>
+<p>Sawfin 的设定是变异把背鳍变成了真正的锯片。它不再带毒，但那条锯状背鳍本身就是重武器，加上拉长的牙齿和覆满骨质增生的头部，使它成为一个从过度骨化中获益的危险掠食者。长长的触须帮助它在水中导航，连最轻微的震动都能捕捉。它的颌部与毒液被认为是最有价值的资源。</p>
+<p>装备侧还有几处直接影响操作的修复：加油时快捷栏槽位异常、维修引擎时手持物仍然显示、鱼钩动画消失、Hook Gun 的 Geared Hook Grip 名称显示错误。都是小问题，但每一条都会在长时间游玩里反复打断节奏。</p>
+<h3 id="手柄与-qte这次是真正照顾手柄玩家">手柄与 QTE：这次是真正照顾手柄玩家</h3>
+<p>手柄相关的修复清单相当具体：暂停游戏后斧头格挡卡住、驾驶船只时的摇杆死区、DualSense 在直连与 Steam Input 之间切换的兼容问题、同时连接多个手柄的支持。启动发电机与操作水泵增加了退出动作，不用再担心误触后被困在交互界面里。净化系统加压与发电机启动的 QTE 逻辑也做了更新，判定窗口的体验会更稳定。</p>
+<h3 id="教程环境与音画">教程、环境与音画</h3>
+<p>燃料站第一次捡枪后“如何收起枪”的提示可能消失、初始钩枪教程里的手柄按键说明错误、初始钓鱼教程文字重叠，这三条对新手前半小时的体验影响其实很大。环境侧修复了起始区域码头木桩的碰撞，补上了 Angler 的贴图，并调整了环境音淡入淡出、可破坏物撞击音与 Dry Dock 内部的环境声。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>先验证任务状态再决定是否回档</strong>。如果你此前卡在 Precious Junk 打捞或 Find Resonance 音叉判定，更新后先读最近一次存档进游戏看任务是否继续推进；仍卡住再考虑回退到任务开始前的存档，不要盲目重开新档。</li>
+<li><strong>钓鱼路线重排</strong>。鱼线有碰撞之后，原先贴着礁石、沉船边缘抛竿的位置可能不再适用，建议先在开阔水域试抛确认手感，再去新 Sawfin 钓点刷资源。</li>
+<li><strong>手柄玩家更新后重设一次输入</strong>。DualSense 用户建议明确选择“直连”或“Steam Input”其中一种，不要在游戏运行中来回切换；多手柄同接的玩家进游戏前先确认只保留要用的那一只处于唤醒状态。</li>
+<li><strong>开荒阶段优先跑主线任务节点</strong>。任务标记显示距离拉远后，罗盘信息更密，建议先把主线节点点亮再回头清支线，减少在淹没之地里无谓绕路。</li>
+<li><strong>养成手动备份存档的习惯</strong>。抢先体验阶段每次更新都可能影响任务标记与掉落，重要进度前复制一份存档目录，成本极低。</li>
+<li><strong>遇到问题按复现路径反馈</strong>。制作组仍在持续排查已上报问题，附带复现步骤、存档时间点与手柄型号的报告，处理效率会高很多。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>抢先体验阶段的更新推送、临时热修与限时福利往往来得又快又散。建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，秒级接收限免喜加一、史低特惠与版本更新提醒，不用自己天天刷商店页面。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：这次更新会破坏我现有的存档吗？</strong>
+A：更新本身不重置存档，但任务判定逻辑有改动。此前卡住的任务有可能在读取存档后继续推进，也可能需要回退到任务早期节点。建议先备份存档目录，再进游戏验证。</p>
+<p><strong>Q2：Sawfin 新钓点在哪里，需要什么装备？</strong>
+A：本次更新为 Sawfin 增加了新的钓点，属于中后期资源鱼。它的颌部与毒液是主要产出。鱼线现在有碰撞，建议在开阔水域先适应抛竿角度，并确认鱼线强度足以应对它的拉锯。</p>
+<p><strong>Q3：手柄还是识别不到，或者 DualSense 功能异常怎么办？</strong>
+A：先在 Steam 输入设置里固定一种连接方式（直连或 Steam Input），不要运行中切换；确认没有多余的虚拟手柄驱动或其他手柄同时唤醒。更新已修复多手柄连接与 DualSense 切换问题，若仍异常，附带手柄型号与连接方式提交反馈。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/DREADMOOR/" class="article-tag-item">#DREADMOOR</a>
+          
+          <a href="/tags/%e6%8a%a2%e5%85%88%e4%bd%93%e9%aa%8c%e6%9b%b4%e6%96%b0/" class="article-tag-item">#抢先体验更新</a>
+          
+          <a href="/tags/%e9%92%93%e9%b1%bc%e7%8e%a9%e6%b3%95/" class="article-tag-item">#钓鱼玩法</a>
+          
+          <a href="/tags/%e6%89%8b%e6%9f%84%e4%bc%98%e5%8c%96/" class="article-tag-item">#手柄优化</a>
+          
+          <a href="/tags/%e4%bb%bb%e5%8a%a1%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#任务修复</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-13-3629430-4a242d32/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-1077310-cb6e495c/" class="sibling-title">Whiskers of Yesterday 11·20更新：猫盯地平线，房子要开新门</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-5239280-468fb708/" class="sibling-title">《Wizard Jars: Tidy Up Together》正式发售：3240个魔法罐子等你归位，支持线上双人合作</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#任务线三个真实存在的推进障碍被拆掉">任务线：三个真实存在的“推进障碍”被拆掉</a></li>
+        <li><a href="#钓鱼与装备鱼线终于有碰撞了">钓鱼与装备：鱼线终于有碰撞了</a></li>
+        <li><a href="#手柄与-qte这次是真正照顾手柄玩家">手柄与 QTE：这次是真正照顾手柄玩家</a></li>
+        <li><a href="#教程环境与音画">教程、环境与音画</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

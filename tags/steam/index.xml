@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 01:59:52 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 04:13:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SoulForge Legends 1.0.0 首发日补丁实装：后台服务器工具升级，联机稳定性优先</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</link>
+				<pubDate>Fri, 13 Nov 2026 04:13:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</guid>
+				<description>SoulForge Legends 于 2026 年 11 月 12 日推送 retail build 1.0.0 首发日补丁，本次为小体量更新，改动集中在幕后服务器工具，玩家侧几乎无感。本文梳理补丁的真实影响范围、版本号核对方式与联机自查流程，并附高频问题解答，帮你判断这次更新到底值不值得专门重启一次客户端。</description>
+			</item>
+			<item>
+				<title>Ancient Wars: Sparta HD 发售：三文明 RTS 首发 9 折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-2953940-d7dae936/</link>
+				<pubDate>Fri, 13 Nov 2026 03:11:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-2953940-d7dae936/</guid>
+				<description>经典历史 RTS《Ancient Wars: Sparta》HD 版正式上架 Steam：斯巴达、波斯、埃及三大文明，三条战役，攻城与海战，士兵装备自定义，多人对战和地图编辑器一次给齐。首发 10% 折扣，8.99 美元即可永久入库，原价 9.99 美元；限时优惠，老 RTS 玩家和新入坑都值得看一眼。</description>
+			</item>
+			<item>
+				<title>《Doom Keeper》1.0.2 正式版上线：冷门物品降价加强，官方在线听劝</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4168680-cf494cd4/</link>
+				<pubDate>Fri, 13 Nov 2026 03:05:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4168680-cf494cd4/</guid>
+				<description>《Doom Keeper》正式告别抢先体验，推出 1.0.2 完整版。这次更新不搞大动作，专挑那些“看着很美、实际没人捡”的物品下手：降价、加强、修掉让人难以接受的惩罚机制，让构筑池真正变宽。官方同步开放 Discord 社群征集意见，并明确表示这只是开始。本期我把平衡改动的重点、对现有流派的影响，以及入库与上手建议一次讲清楚，帮你少走弯路。</description>
+			</item>
+			<item>
+				<title>《Apex 英雄》反作弊重拳落地：全平台手柄作弊检测上线，主机也不再是免死金牌</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-1172470-7ab28b78/</link>
+				<pubDate>Fri, 13 Nov 2026 02:51:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-1172470-7ab28b78/</guid>
+				<description>《Apex 英雄》反作弊团队正式宣布，增强版手柄作弊检测已在全平台、全模式全面上线，覆盖 PC、PlayStation、Xbox 与 Nintendo Switch 2。使用未授权手柄硬件、手柄改装或配套软件获取不公平优势的玩家，将被直接处罚，最高永久封禁。官方强调主机平台不提供任何豁免，并明确表示这只是反手柄作弊的第一步，后续检测能力还会持续迭代。正常手柄玩家无需改动任何设置，但改装手柄、转接器与宏脚本用户需要立刻收手。</description>
+			</item>
+			<item>
+				<title>整理控狂喜！《The Coin Keeper : Tidy up!》1.0正式版上线，首发两周15%折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5302870-5bea147d/</link>
+				<pubDate>Fri, 13 Nov 2026 02:43:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5302870-5bea147d/</guid>
+				<description>治愈系整理小品《The Coin Keeper : Tidy up!》正式迎来 1.0 版本，开发组 Beardroid Games 宣布上线即开启为期两周的 15% 首发折扣。本文梳理本次正式版的核心看点、这类整理玩法适合哪些玩家、入手时机与折扣窗口期建议，并附上官方常见问题答疑，帮你决定要不要现在入库。</description>
+			</item>
 			<item>
 				<title>《深空当铺：可能是偷的》更新前瞻：拾荒开局、器官黑市与中餐小吃摊</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4348910-5f59cac9/</link>
@@ -84,11 +119,25 @@
 				<description>小团队耗时两年打造的类幸存者新作《Ophelia&amp;rsquo;s Paradise》正式登陆 Steam（AppID 4122390）。官方强调每个敌人、角色与音效均为手工制作，核心卖点是海量强力构筑与协同联动，能把一局普通 Run 直接打成神仙局。本文梳理版本看点、构筑思路、帧数优化与新手避坑建议。</description>
 			</item>
 			<item>
+				<title>Steam喜加一：加州传奇测试Key限时领，11月18日截止</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-0-4c81dd4c/</link>
+				<pubDate>Thu, 12 Nov 2026 21:59:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-0-4c81dd4c/</guid>
+				<description>Steam喜加一如约而至，这次主角是 The Legend of California（Playtest）。通过 Alienware 活动页登录账号即可解锁限量测试 Key，再到 Steam 客户端激活，截止 2026 年 11 月 18 日 23:59。注意这是 Closed Alpha 测试资格，不是正式版本体永久入库；Key 数量有限、先到先得，建议领到后立刻激活，并留意测试删档与联机规则。</description>
+			</item>
+			<item>
 				<title>《摩托车转卖模拟器》今日发售：从路边小修理铺干到二手车大亨</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-3721530-68bb8a71/</link>
 				<pubDate>Thu, 12 Nov 2026 20:50:57 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-12-3721530-68bb8a71/</guid>
 				<description>Red Axe Games 与 UNIQ Games 联手推出的《Motorcycle For Sale Simulator》正式登陆 Steam。收车砍价、逐件排查故障、洗车喷漆、拍照挂单、开着皮卡送货上门，还有每日拍卖行与老虎机。本文梳理核心玩法、上手顺序与避坑建议，帮你少交学费多赚差价。</description>
+			</item>
+			<item>
+				<title>《魔法罐子：一起整理》今日18:00 UTC上线，3240个魔法罐子等你归位</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-5239280-7de3ae41/</link>
+				<pubDate>Thu, 12 Nov 2026 19:35:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-5239280-7de3ae41/</guid>
+				<description>整理控的狂欢来了。《魔法罐子：一起整理》今日 18:00 UTC 正式解锁，对应北京时间为次日凌晨 2:00。你要在混乱的魔法药剂店里把 3240 个罐子逐件归位、接待一波接一波的顾客，让濒临报废的店铺重新开张。支持单人慢慢收拾，也能拉上好友分工开摆。本文给出解锁时间换算、联机分工思路与上手避坑建议。</description>
 			</item>
 			<item>
 				<title>战争雷霆11月贴花活动开启：五款历史贴花限时任务与刷取指南</title>

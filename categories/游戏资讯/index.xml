@@ -10,9 +10,135 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 02:00:05 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 04:13:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SoulForge Legends 1.0.0 首发日补丁实装：后台服务器工具升级，联机稳定性优先</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</link>
+				<pubDate>Fri, 13 Nov 2026 04:13:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</guid>
+				<description>SoulForge Legends 于 2026 年 11 月 12 日推送 retail build 1.0.0 首发日补丁，本次为小体量更新，改动集中在幕后服务器工具，玩家侧几乎无感。本文梳理补丁的真实影响范围、版本号核对方式与联机自查流程，并附高频问题解答，帮你判断这次更新到底值不值得专门重启一次客户端。</description>
+			</item>
+			<item>
+				<title>Toybox Tactics 正式发售：从大学Game Jam作业逆袭成可爱风动作RTS</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5056840-4658bea7/</link>
+				<pubDate>Fri, 13 Nov 2026 04:10:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5056840-4658bea7/</guid>
+				<description>Spark&amp;rsquo;d Games 处女作《Toybox Tactics》正式上线Steam。这款由大学课程Game Jam项目《Wooden Wars》一路迭代而来的可爱风动作RTS已达成内容完整版，团队确认后续还将追加免费内容，并预告感恩节前后有新消息。本文梳理开发渊源、玩法定位与小团队上手建议。</description>
+			</item>
+			<item>
+				<title>《Delve Survivors》正式发售：回合制肉鸽×幸存者割草，首发85折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-3319680-6d9de8d3/</link>
+				<pubDate>Fri, 13 Nov 2026 03:28:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-3319680-6d9de8d3/</guid>
+				<description>两人独立团队打磨近两年的《Delve Survivors》正式上线：把经典回合制地牢爬行的“你走敌才动”与现代幸存者类割草构筑揉在一起，9 座地牢主线、3 大职业、3 种死亡惩罚模式，外加 100 层深渊终局挑战。首发两周 15% OFF，本文把机制、开荒路线和避坑点一次讲清。</description>
+			</item>
+			<item>
+				<title>Ancient Wars: Sparta HD 发售：三文明 RTS 首发 9 折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-2953940-d7dae936/</link>
+				<pubDate>Fri, 13 Nov 2026 03:11:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-2953940-d7dae936/</guid>
+				<description>经典历史 RTS《Ancient Wars: Sparta》HD 版正式上架 Steam：斯巴达、波斯、埃及三大文明，三条战役，攻城与海战，士兵装备自定义，多人对战和地图编辑器一次给齐。首发 10% 折扣，8.99 美元即可永久入库，原价 9.99 美元；限时优惠，老 RTS 玩家和新入坑都值得看一眼。</description>
+			</item>
+			<item>
+				<title>《ALL EYES ON ME》正式发售：九把新武器五档难度，Demo存档直接继承</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5109550-b26f55af/</link>
+				<pubDate>Fri, 13 Nov 2026 03:08:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5109550-b26f55af/</guid>
+				<description>人群潜行新作《ALL EYES ON ME》正式脱离Demo阶段上线，首周直降15%。完整版追加第二幕、九把新武器、五档难度，支持在线联机与同屏合作，结局Boss也不是最后一个。最贴心的是Demo存档原样继承，老玩家开机就能接着上次的进度往下走。</description>
+			</item>
+			<item>
+				<title>《Doom Keeper》1.0.2 正式版上线：冷门物品降价加强，官方在线听劝</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4168680-cf494cd4/</link>
+				<pubDate>Fri, 13 Nov 2026 03:05:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4168680-cf494cd4/</guid>
+				<description>《Doom Keeper》正式告别抢先体验，推出 1.0.2 完整版。这次更新不搞大动作，专挑那些“看着很美、实际没人捡”的物品下手：降价、加强、修掉让人难以接受的惩罚机制，让构筑池真正变宽。官方同步开放 Discord 社群征集意见，并明确表示这只是开始。本期我把平衡改动的重点、对现有流派的影响，以及入库与上手建议一次讲清楚，帮你少走弯路。</description>
+			</item>
+			<item>
+				<title>《Pelikeeper》鹈鹕塔防正式发售：16关3大世界首发9.95美元</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-3657320-407687cf/</link>
+				<pubDate>Fri, 13 Nov 2026 02:56:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-3657320-407687cf/</guid>
+				<description>五人小队 Merge Conflict Studio 打磨两年的塔防冒险《Pelikeeper: A TD Adventure》正式发售：16 个关卡、3 个世界与 Boss、7 种防御塔与动物伙伴、5 个星界能力、约 7000 词剧情，主线内容 10-15 小时。首发两周 9.95 美元，之后恢复 11.99 美元，同期参战 Low Budget, Big Heart 独立游戏活动，本文把玩法看点、入手时机和开荒思路一次讲清。</description>
+			</item>
+			<item>
+				<title>9 Kings 1.0正式版上线：小丑自定义模式、130&#43;卡牌与首发五折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-2784470-1de9c1e8/</link>
+				<pubDate>Fri, 13 Nov 2026 02:55:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-2784470-1de9c1e8/</guid>
+				<description>《9 Kings》正式结束抢先体验，1.0版本带来四大游戏模式、130+卡牌、140+法令、110+增益与80+任务，并加入玩家呼声最高的自定义「小丑模式」。首发两周五折史低，老玩家回归与新玩家入场都正当时。</description>
+			</item>
+			<item>
+				<title>《Apex 英雄》反作弊重拳落地：全平台手柄作弊检测上线，主机也不再是免死金牌</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-1172470-7ab28b78/</link>
+				<pubDate>Fri, 13 Nov 2026 02:51:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-1172470-7ab28b78/</guid>
+				<description>《Apex 英雄》反作弊团队正式宣布，增强版手柄作弊检测已在全平台、全模式全面上线，覆盖 PC、PlayStation、Xbox 与 Nintendo Switch 2。使用未授权手柄硬件、手柄改装或配套软件获取不公平优势的玩家，将被直接处罚，最高永久封禁。官方强调主机平台不提供任何豁免，并明确表示这只是反手柄作弊的第一步，后续检测能力还会持续迭代。正常手柄玩家无需改动任何设置，但改装手柄、转接器与宏脚本用户需要立刻收手。</description>
+			</item>
+			<item>
+				<title>整理控狂喜！《The Coin Keeper : Tidy up!》1.0正式版上线，首发两周15%折扣</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5302870-5bea147d/</link>
+				<pubDate>Fri, 13 Nov 2026 02:43:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5302870-5bea147d/</guid>
+				<description>治愈系整理小品《The Coin Keeper : Tidy up!》正式迎来 1.0 版本，开发组 Beardroid Games 宣布上线即开启为期两周的 15% 首发折扣。本文梳理本次正式版的核心看点、这类整理玩法适合哪些玩家、入手时机与折扣窗口期建议，并附上官方常见问题答疑，帮你决定要不要现在入库。</description>
+			</item>
+			<item>
+				<title>《Patience Balls》1.0 正式上线：首发 8 折，100 个手工关卡与 Steam 创意工坊全开放</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4715000-9e4b6678/</link>
+				<pubDate>Fri, 13 Nov 2026 02:40:24 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4715000-9e4b6678/</guid>
+				<description>单人开发者 Rikzu Games 的物理平衡小品《Patience Balls》迎来 1.0 正式版：100 个手工关卡搭配非线性分支战役地图，Zen 与 Patience 双模式满足不同耐受度，同步倾斜多块棋盘的硬核机制也一并到位。发售周享 20% 折扣，折后 4.79 美元。内置关卡编辑器与 Steam 创意工坊同步开放，全球速通排行榜、球皮肤、手柄与陀螺仪支持全部上线。</description>
+			</item>
+			<item>
+				<title>《Tick &amp; Tired》Steam 正式发售：把办公桌面玩成混沌引擎，首发 10% 折扣限时开冲</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5179950-7a92cb45/</link>
+				<pubDate>Fri, 13 Nov 2026 02:32:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5179950-7a92cb45/</guid>
+				<description>独立开发者打造的办公解压新作《Tick &amp;amp; Tired》现已正式登陆 Steam，并开启为期有限的首发 10% 折扣。玩家要在自己的桌面窗口里整理文件、筛掉垃圾邮件、给同事倒咖啡，靠连击不断叠加分数，一路从小职员卷到 CEO。本文梳理玩法机制、连击思路与入库要点，并附上常见问题解答。</description>
+			</item>
+			<item>
+				<title>CelSector 正式发售！v1.2 首发更新 &#43; 限时 9 折，值得入库吗</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4651080-d8d53502/</link>
+				<pubDate>Fri, 13 Nov 2026 02:11:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4651080-d8d53502/</guid>
+				<description>CelSector 已正式登陆 Steam（AppID 4651080），并与 v1.2 首发更新同步上线，首发周享 10% 折扣（9 折）。官方 YumamiSoft 发文致谢愿望单玩家、Demo 试玩者与 bug 反馈者，并呼吁玩家留下 Steam 评测。本文梳理发售要点、折扣窗口判断、入库与体验建议，帮你判断是否值得入手。</description>
+			</item>
+			<item>
+				<title>《Wizard Jars: Tidy Up Together》正式发售：3240个魔法罐子等你归位，支持线上双人合作</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5239280-468fb708/</link>
+				<pubDate>Fri, 13 Nov 2026 02:08:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5239280-468fb708/</guid>
+				<description>独立开发者打造的整理系魔法药房模拟游戏《Wizard Jars: Tidy Up Together》现已正式登陆 Steam。玩家要接管一间乱到离谱的魔法药剂铺，把 3240 个罐子逐一归类，按顾客订单找出正确材料，并用升级解锁更顺手的整理方式。支持单人慢节奏游玩与线上合作，本文梳理玩法要点、上手思路与常见疑问。</description>
+			</item>
+			<item>
+				<title>DREADMOOR 抢先体验第4更：任务修复、手柄优化与钓鱼机制改动</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-3629430-4a242d32/</link>
+				<pubDate>Fri, 13 Nov 2026 02:05:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-3629430-4a242d32/</guid>
+				<description>DREADMOOR 推出抢先体验阶段第四次更新：修复 Precious Junk 宝箱打捞、Hymn to Deformity 残肢计数、Find Resonance 音叉自动完成等任务卡点；钓鱼系统加入鱼线碰撞并新增 Sawfin 钓点；手柄死区、DualSense 切换、多手柄支持与多项 QTE、教程 UI 问题同步修正。本文整理完整改动清单、开荒实操建议与高频问题解答，帮你判断是否需要回档或调整玩法节奏。</description>
+			</item>
+			<item>
+				<title>Whiskers of Yesterday 11·20更新：猫盯地平线，房子要开新门</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-1077310-cb6e495c/</link>
+				<pubDate>Fri, 13 Nov 2026 02:04:45 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-1077310-cb6e495c/</guid>
+				<description>官方放出一段意味深长的预告：11月20日星期五，这栋收留猫咪的房子将打开一扇通往“更大世界”的门，并明确喊话玩家带上朋友与方向感。结合猫群集体望窗的细节，本次更新大概率围绕新地图、探索与联机协作展开。本文梳理已知情报、上线前的准备清单与联机避坑建议。</description>
+			</item>
+			<item>
+				<title>《Scawy Game》正式发售！首发两周85折，企鹅Kenguin的诡异小屋等你推门</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4992660-e74583b8/</link>
+				<pubDate>Fri, 13 Nov 2026 02:02:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4992660-e74583b8/</guid>
+				<description>Swytapp Games 的怪味恐怖喜剧《Scawy Game》正式登陆 Steam，发售首两周享 15% 折扣（85 折）。玩家将跟随 Kenguin 一家，遇见一群奇怪新角色，围观他到底能不能写完那本书，并挖出房子里真正藏着的东西。本文整理了首发优惠规则、玩法看点、入手建议与常见问题，帮你判断这款「又吓又笑」的小体量独立游戏值不值得入库。</description>
+			</item>
+			<item>
+				<title>单人开发三年，战国战棋《Ashigaru Tactics》发售日v71补丁新增五类敌人与弓系玩法</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-3038710-1f88646e/</link>
+				<pubDate>Fri, 13 Nov 2026 02:01:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-3038710-1f88646e/</guid>
+				<description>单人开发近三年、主打战国日本背景的战棋 RPG《Ashigaru Tactics》正式发售，并同步上线 v71 发售日补丁。本次更新新增五类敌人、三级大弓与瞄准射击/弧线射击两套弓系技能，投石索爆头可造成眩晕；世界层加入城镇氏族使者、营地定时侦察、动物饰品与稀有战利品，还优化了遭遇点分布、清剿合同规则与野外刷新逻辑。本文梳理补丁要点、开荒思路与常见问题。</description>
+			</item>
 			<item>
 				<title>《赖瑞的调酒研究室》Steam首发九折！多结局调酒人生正式开张</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-5466570-20075c92/</link>
@@ -189,6 +315,13 @@
 				<description>乌克兰两人团队打造的《Night Stocker》正式登陆 Steam。玩家在复古商店里整理 VHS 录像带、书籍与桌游，顺手清理杂物，靠自定义灯光、音乐播放器、浇水养花与一只可互动的猫撑起慵懒氛围。店内电脑可查看收集进度、购买圣诞与万圣节主题装饰，并提供 5 组技能升级，首个 100 币技能即可提升移动速度，让整理流程更顺手。</description>
 			</item>
 			<item>
+				<title>Spin Tactics今日19点CET解锁，免费Demo仍可试玩</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-3856990-f667c8d1/</link>
+				<pubDate>Thu, 12 Nov 2026 22:42:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-3856990-f667c8d1/</guid>
+				<description>Spin Tactics 于今日 19:00 CET（北京时间 11 月 13 日凌晨 02:00）正式登陆 Steam。已加愿望单的玩家会在解锁瞬间收到 Steam 推送通知；官方免费 Demo 在正式版上线前依然开放，可以先跑一把再决定是否入库。制作组同时公开致谢所有参与 Demo 试玩、直播与反馈的玩家，称今天这版成品大量来自社区意见。本文整理了全球各时区解锁对照、蹲点与试玩建议，以及入库前的注意事项。</description>
+			</item>
+			<item>
 				<title>《687 Days on Mars》免费前奏上线：火星生存建造喜加一</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-5186400-6e3ea9fd/</link>
 				<pubDate>Thu, 12 Nov 2026 22:15:23 +0800</pubDate>
@@ -299,6 +432,13 @@
 				<pubDate>Thu, 12 Nov 2026 20:00:46 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-12-2507950-48f7b788/</guid>
 				<description>《三角洲行动》11月12日推送无停机更新，对局与匹配不受影响。本次重点调整突击干员 Martelo 烟雾光环的声音表现，下调 S12 命运契约专家难度部分任务指标，并重做战争模式 Zenith Port 的部署基地、载具配置与载具补给站机制，同时修复标记穿烟、武器箱开出过期配件等多项问题。</description>
+			</item>
+			<item>
+				<title>《魔法罐子：一起整理》今日18:00 UTC上线，3240个魔法罐子等你归位</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-5239280-7de3ae41/</link>
+				<pubDate>Thu, 12 Nov 2026 19:35:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-5239280-7de3ae41/</guid>
+				<description>整理控的狂欢来了。《魔法罐子：一起整理》今日 18:00 UTC 正式解锁，对应北京时间为次日凌晨 2:00。你要在混乱的魔法药剂店里把 3240 个罐子逐件归位、接待一波接一波的顾客，让濒临报废的店铺重新开张。支持单人慢慢收拾，也能拉上好友分工开摆。本文给出解锁时间换算、联机分工思路与上手避坑建议。</description>
 			</item>
 			<item>
 				<title>战争雷霆11月贴花活动开启：五款历史贴花限时任务与刷取指南</title>
@@ -712,6 +852,13 @@
 				<pubDate>Thu, 12 Nov 2026 01:57:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-12-1286220-973739f4/</guid>
 				<description>Triassic Games 放出《Sea Power》迄今最大版本 v0.9.0，免费加入皇家海军与阿根廷两大阵营、1982 南大西洋两场新战役、80+ 新单位，同时重做 3D 地球与战术地图、新增滚动回放与战役管理界面，并大幅扩充任务编辑器。老玩家可直接更新，新玩家本期是入坑的最佳窗口。</description>
+			</item>
+			<item>
+				<title>《Idle of the Dead》11月12日上线：首周8折3.99美元，三款DLC同步开卖</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4927420-822e3e83/</link>
+				<pubDate>Thu, 12 Nov 2026 01:34:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4927420-822e3e83/</guid>
+				<description>放置僵尸新游《Idle of the Dead》11 月 12 日登陆 Steam，对应北京时间 11 月 13 日凌晨 2 点解锁。本体 4.99 美元，首发首周 8 折仅 3.99 美元，截止 11 月 19 日；三款角色 DLC 与增加 4 个仓库页的 Scavenger&amp;rsquo;s Backpack 同步上架，同样首周 8 折，且全部不影响本体完整通关。测试进度将清零，Founder Pack 用户通过邮件领取完整游戏。本文梳理发售时间、DLC 价值与开服避坑要点。</description>
 			</item>
 			<item>
 				<title>Steam新游《Springs, Eternal》正式发售：夜探诡异温泉，拼出失落灵魂记忆</title>
@@ -1218,6 +1365,13 @@
 				<description>京都两人小工作室 Okawari! 的首款作品《One More Plate!》已在 Steam 正式发售，并开启首发特惠。这是一款物理引擎驱动的派对游戏：用越来越离谱的盘子接住食物、再甩给嗷嗷待哺的怪物，然后第一时间把锅甩给旁边的队友。支持本地同屏、Steam 远程同乐与单人游玩。</description>
 			</item>
 			<item>
+				<title>《The Coin Keeper : Tidy up!》愿望单突破5000，双人独立团队发文致谢玩家</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5302870-d04503d1/</link>
+				<pubDate>Wed, 11 Nov 2026 04:48:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5302870-d04503d1/</guid>
+				<description>独立新作《The Coin Keeper : Tidy up!》在 Steam 达成 5000 愿望单里程碑，开发商 Beardroid Games 的 Teddy 与 Marine 联名发文致谢。本文拆解这条「只有一句感谢」的公告背后，愿望单对独立游戏的真实分量、这款新作值得提前关注的理由，以及设置发售提醒、避免错过首发折扣的实操路径，并回答玩家最关心的三个问题。</description>
+			</item>
+			<item>
 				<title>《法师复仇》1.0正式版11月11日上线：法术牌组与血月BOSS战</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-2287150-c41f5a51/</link>
 				<pubDate>Wed, 11 Nov 2026 04:05:18 +0800</pubDate>
@@ -1251,6 +1405,13 @@
 				<pubDate>Wed, 11 Nov 2026 03:32:03 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-11-4683860-b4d46034/</guid>
 				<description>Calmaria: Wild Growth 正式版登陆 Steam，完整剧情一次性放出，主线体验 40–60 小时，通关后仍能继续经营建造。官方同步公布更新路线：发售头两个月保持周更，专门修复问题、调整平衡；此后每 2–3 个月推出一个免费内容扩展，首个大版本主打畜牧系统大改与随身伙伴宠物。今晚 21:00 CET 开发组开播。</description>
+			</item>
+			<item>
+				<title>《The Usual, Please》11月12日发售：守五夜餐车，等溺亡者来点单</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-5394070-db958eb6/</link>
+				<pubDate>Wed, 11 Nov 2026 03:22:02 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-5394070-db958eb6/</guid>
+				<description>11月12日，独立恐怖新作《The Usual, Please》正式登陆 Steam。你将接手舅舅 Joe 留在码头的汉堡餐车，在浓雾封港、渡轮停运的五天里守到天亮。白天招呼小镇常客，夜里迎接从海里爬上来、湿漉漉又饿着肚子的“客人”，顺便查清 Joe 真正的死因。本文整理发售看点、守夜玩法建议与入库避坑，想第一时间收到开卖提醒，先去加愿望单。</description>
 			</item>
 			<item>
 				<title>《使命召唤：现代战争4》普莱斯徒手锤爆马卡洛夫，Sifu式近战系统首曝</title>
@@ -1314,6 +1475,13 @@
 				<pubDate>Wed, 11 Nov 2026 02:04:19 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-11-3596910-8270e13b/</guid>
 				<description>《UNBOXING: 1-BIT PARADOX》现已登陆Steam，首发享-12%折扣。你将面对一个会说话的盒子与1-bit异变世界：24套调色板、65+谜题、28项成就、2个结局。系统提示不断“欢迎受试者”，死亡也被视为预期结果。本文整理发售信息、玩法要点与入手建议，适合喜欢怪诞解谜与成就收集的玩家。</description>
+			</item>
+			<item>
+				<title>《Ancient Wars: Sparta HD》两天后开战：10%首发折扣，斯巴达、波斯、埃及三大文明HD回归</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-2953940-7157092c/</link>
+				<pubDate>Wed, 11 Nov 2026 01:57:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-2953940-7157092c/</guid>
+				<description>经典历史 RTS《Ancient Wars: Sparta HD》将于 2026 年 11 月 12 日登陆 Steam，原价 9.99 美元、9.99 欧元，首发直降 10%，到手 8.99 美元、8.99 欧元。HD 画质强化、玩法打磨并追加新内容，包含斯巴达、波斯、埃及三大文明战役、攻城与海战、装备自定义、在线对战以及地图编辑器和创意工坊。本文梳理发售信息、机制看点与入库上手建议。</description>
 			</item>
 			<item>
 				<title>FailRooms 今晚 20:00 UTC 解锁：首发入库避坑指南</title>
@@ -1846,6 +2014,13 @@
 				<pubDate>Tue, 10 Nov 2026 09:57:39 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-10-5111700-401855aa/</guid>
 				<description>《Political Life》正式脱离抢先体验。1.0 版本一次放出财阀、竞选策略师、记者、工会组织者、检察官、情报官六条“办公室外”路线，且随时可切换。官方按玩家反馈把小游戏频率压到约十分之一、删掉最劝退的支持者游行、给选举加了半年前预警，并补上 29 个后续事件。四个虚构国家、640+ 事件、160 块法案积木拼出数千条法律、23 种结局、59 项成就，简繁中文齐备。这里没有胜利条件，总统只是台阶，最终分数是你死后被怎么记住。</description>
+			</item>
+			<item>
+				<title>《Singularity Echoes》Demo大扩容：从云端节点直造戴森球，一口气打通完整循环</title>
+				<link>https://info.steamhunter.link/posts/2026-11-10-4644730-557a26fe/</link>
+				<pubDate>Tue, 10 Nov 2026 09:08:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-10-4644730-557a26fe/</guid>
+				<description>《Singularity Echoes》试玩版迎来大幅扩容：原本打完全球授权令后的战争就收尾，如今直接开放完整的第一个循环——从单朵云节点长成行星级智能、幽灵协议潜入、纳米机械大迁徙、开采整个太阳系并搭建戴森球，直到第一次时间折叠启动。旧存档可继续读档推进，抢先体验版 2026 年 11 月 12 日上线，支持简体中文。</description>
 			</item>
 			<item>
 				<title>TORAWASE镜中少女正式发售，Shiravune新作入库指南</title>
