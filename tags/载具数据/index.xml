@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>载具数据 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%BD%BD%E5%85%B7%E6%95%B0%E6%8D%AE/</link>
+		<description>Recent content in 载具数据 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Nov 2026 00:22:32 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%BD%BD%E5%85%B7%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆2.61.0.13补丁解读：Spike NLOS换装、豹2A8侧箱削防与日系转向改动</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-236390-804242b5/</link>
+				<pubDate>Fri, 13 Nov 2026 00:22:32 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-236390-804242b5/</guid>
+				<description>2.61.0.13 补丁没有新载具也没有新地图，但对实战影响不小：以色列 AH-60、意系 AH-129D 与虎式 HAD Block 2 的 Spike NLOS 被换成射程更短的 Spike ER；豹2A8/2A8NO 侧箱从复合材料降为 20mm 结构钢；日系六台载具的行星齿轮转向机制被移除。此外还修正了 F-2A ADTW 低 BR 挂 AAM-4、自定义 BR 武器锁定、ATGM 瞄准点偏移等一堆老问题。</description>
+			</item>
+	</channel>
+</rss>
