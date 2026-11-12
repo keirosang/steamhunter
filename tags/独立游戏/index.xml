@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 05:46:28 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 15:05:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《江湖一牌：无情武林》v0.9.9.6.8 上线前最后一轮打磨：开局血量上调、二章敌人重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-5308960-b1486155/</link>
+				<pubDate>Thu, 12 Nov 2026 15:05:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-5308960-b1486155/</guid>
+				<description>《江湖一牌：无情武林》v0.9.9.6.8 是正式上线前的最后一轮打磨：少林、武当、邪道联盟、天魔教四大门派起始生命上调，前期容错更高；第二章邪道联盟与天魔教敌人攻击下调，武当受压强度向少林靠拢；长老对决伤害降低；松缰、业力拳、九重玉碑升级收益增强，返璞归真刷新率下调；未完成秘传的命中表现与第一章探子战卡伤 bug 一并修复。</description>
+			</item>
+			<item>
+				<title>《姆明：疯狂夏日》全新实机演示公开，手绘治愈世界抢先看快去加愿望单</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4463520-80e0792e/</link>
+				<pubDate>Thu, 12 Nov 2026 14:19:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4463520-80e0792e/</guid>
+				<description>《姆明：疯狂夏日》官方放出最新实机演示视频，姆明谷温暖治愈的手绘画风首次大篇幅亮相，配合休闲闲聊式解说，一口气看完整个夏日氛围。目前游戏尚未公布发售日期与售价，官方喊话玩家先进 Steam 商店页加愿望单。本文整理了演示看点、愿望单的正确打开方式，以及围观这类治愈系独立游戏时最容易踩的几个坑。</description>
+			</item>
 			<item>
 				<title>《吃光超市》上线12个新成就：吃货的全成就清单又变长了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-5415560-a6327b09/</link>
@@ -124,6 +138,13 @@
 				<pubDate>Thu, 12 Nov 2026 00:21:40 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-12-3285880-f494cbf9/</guid>
 				<description>翘首以盼的 MONOMOON 已在 Steam 正式发售(AppID 3285880),首发版本即刻可玩。制作方同步放出上线感谢公告,并开放官方 Discord,用于交流通关心得、互相递提示、反馈问题。本篇从发售信息、社区生态、入库方式、卡关求助与购买决策几个角度,给出可直接执行的入手建议,帮你避开首发期最常见的踩坑点。</description>
+			</item>
+			<item>
+				<title>Splatchinko 明日发售：Discord 社区开放与后续内容前瞻</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3802500-ebd06694/</link>
+				<pubDate>Wed, 11 Nov 2026 22:49:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3802500-ebd06694/</guid>
+				<description>独立新游 Splatchinko 确认明日正式登陆 Steam。官方同步开放 Discord 社区，用于发布公告、收集 Bug 反馈与交流搞怪构筑；并明确表示发售只是起点，后续还有更多内容储备。本文整理发售节点、社区入口、上手建议与高频问题，帮你第一时间入库不迷路。</description>
 			</item>
 			<item>
 				<title>Apotheosis Engine 愿望单从数十涨到数千，开发者发文致谢并冲刺发售前最终检查</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>盛夏的我们 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%9B%9B%E5%A4%8F%E7%9A%84%E6%88%91%E4%BB%AC/</link>
+		<description>Recent content in 盛夏的我们 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 12 Nov 2026 15:58:00 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%9B%9B%E5%A4%8F%E7%9A%84%E6%88%91%E4%BB%AC/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《盛夏的我们》补丁实测：音频补齐&#43;字号可调，多语言乱码终于不再糊脸</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-4767430-c7a73739/</link>
+				<pubDate>Thu, 12 Nov 2026 15:58:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-4767430-c7a73739/</guid>
+				<description>《盛夏的我们》（Love In Summer）推送修复优化补丁，重点解决三类顽疾：补齐缺失的音频文件并修复部分音频无法正常播放，修正素材文件与多语言文本的异常显示，同时新增系统 UI 字号调节功能。切换字体后出现的乱码问题也在本次修复之列。本文拆解每条改动对实际游玩的影响，附更新、验证、避坑与反馈的完整操作流程。</description>
+			</item>
+	</channel>
+</rss>

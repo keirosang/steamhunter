@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 07:16:50 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 15:05:03 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《江湖一牌：无情武林》v0.9.9.6.8 上线前最后一轮打磨：开局血量上调、二章敌人重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-5308960-b1486155/</link>
+				<pubDate>Thu, 12 Nov 2026 15:05:03 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-5308960-b1486155/</guid>
+				<description>《江湖一牌：无情武林》v0.9.9.6.8 是正式上线前的最后一轮打磨：少林、武当、邪道联盟、天魔教四大门派起始生命上调，前期容错更高；第二章邪道联盟与天魔教敌人攻击下调，武当受压强度向少林靠拢；长老对决伤害降低；松缰、业力拳、九重玉碑升级收益增强，返璞归真刷新率下调；未完成秘传的命中表现与第一章探子战卡伤 bug 一并修复。</description>
+			</item>
 			<item>
 				<title>《MycoRelic》1.0正式版上线：最难关极星蘑菇神殿与武器词条重铸来了</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-2624080-d1bc4f65/</link>
