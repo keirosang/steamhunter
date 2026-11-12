@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 10:47:33 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 17:51:58 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/project-moon/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Limbus Company 11.12更新问题清单：白领结E.G.O判定失效与UI错乱19日修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-1973530-5a7cab17/</link>
+				<pubDate>Thu, 12 Nov 2026 17:51:58 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-1973530-5a7cab17/</guid>
+				<description>Project Moon 公布 Limbus Company 11 月 12 日定期更新后的已知问题清单：部分人格技能动画 UI 错位、「以泪磨砺的剑 洪秀」E.G.O 协同界面 Threadspin 按钮误显示为 Uptie、文本错字、第 10 夜瓦尔普吉斯 EX 通关统计判定异常，以及 E.G.O 礼物「白领结」仅统计场上楔形事务所人格。全部问题定于 11 月 19 日（周四）定期更新统一修复。本文整理影响范围、临时规避方案与开荒实操建议。</description>
+			</item>
 			<item>
 				<title>Limbus Company 11.12热修：以实玛利成就终于认账，格里高尔支援经验BUG修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-1973530-3b89cad7/</link>
