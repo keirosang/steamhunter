@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 03:38:45 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 10:51:48 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TBH塔斯克巴英雄数据泄露：SteamID与IP外泄，玩家防骗要点</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-3678970-82f027ef/</link>
+				<pubDate>Thu, 12 Nov 2026 10:51:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-3678970-82f027ef/</guid>
+				<description>TBH 开发组确认，第三方游戏服务器服务商的管理工具漏洞导致 2026 年 10 月 17 日至 11 月 8 日期间部分玩家信息被下载，涉及 SteamID64、服务器账号 UUID、最后登录 IP、设备与系统信息等，但不含密码与支付数据，无法用于登录 Steam 或消费。漏洞已修复，官方提醒警惕冒充客服的诈骗好友申请与钓鱼链接。</description>
+			</item>
 			<item>
 				<title>AION 2 封号风暴：11月11日专项清算脚本搬砖、RMT与经济操纵</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-3393110-7d4d094f/</link>

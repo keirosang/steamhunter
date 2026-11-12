@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TBH塔斯克巴英雄数据泄露：SteamID与IP外泄，玩家防骗要点 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="TBH 开发组确认，第三方游戏服务器服务商的管理工具漏洞导致 2026 年 10 月 17 日至 11 月 8 日期间部分玩家信息被下载，涉及 SteamID64、服务器账号 UUID、最后登录 IP、设备与系统信息等，但不含密码与支付数据，无法用于登录 Steam 或消费。漏洞已修复，官方提醒警惕冒充客服的诈骗好友申请与钓鱼链接。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="TBH塔斯克巴英雄数据泄露：SteamID与IP外泄，玩家防骗要点">
+  <meta property="og:description" content="TBH 开发组确认，第三方游戏服务器服务商的管理工具漏洞导致 2026 年 10 月 17 日至 11 月 8 日期间部分玩家信息被下载，涉及 SteamID64、服务器账号 UUID、最后登录 IP、设备与系统信息等，但不含密码与支付数据，无法用于登录 Steam 或消费。漏洞已修复，官方提醒警惕冒充客服的诈骗好友申请与钓鱼链接。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-12-3678970-82f027ef/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/6f153b21a49549fc.png">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-12-3678970-82f027ef/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">TBH塔斯克巴英雄数据泄露：SteamID与IP外泄，玩家防 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 TBH: 塔斯克巴·英雄</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 3678970</span>
+      
+    </div>
+
+    <h1 class="article-title">TBH塔斯克巴英雄数据泄露：SteamID与IP外泄，玩家防骗要点</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-12T10:51:48&#43;08:00" class="meta-date">
+          📅 2026-11-12 10:51
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1805 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/3678970/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/3678970" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/6f153b21a49549fc.png" alt="TBH塔斯克巴英雄数据泄露：SteamID与IP外泄，玩家防骗要点" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>TBH 开发组确认，第三方游戏服务器服务商的管理工具漏洞导致 2026 年 10 月 17 日至 11 月 8 日期间部分玩家信息被下载，涉及 SteamID64、服务器账号 UUID、最后登录 IP、设备与系统信息等，但不含密码与支付数据，无法用于登录 Steam 或消费。漏洞已修复，官方提醒警惕冒充客服的诈骗好友申请与钓鱼链接。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="tbh-数据泄露事件先别慌但这些事必须做">TBH 数据泄露事件：先别慌，但这些事必须做</h1>
+<p>各位老哥，今天不聊喜加一，也不聊史低。这条得正经看：TBH 开发组发布安全通告，确认第三方游戏服务器服务商的管理工具存在漏洞，部分玩家账号信息被未授权第三方下载。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>事件窗口</strong>：2026 年 10 月 17 日 — 11 月 8 日，第三方利用外部游戏服务器服务管理工具的漏洞，下载了玩家信息。</li>
+<li><strong>确认时间</strong>：2026 年 11 月 9 日（KST）接到服务商通知并完成确认；漏洞已修复，第三方访问已阻断。</li>
+<li><strong>影响范围</strong>：2026 年 11 月 9 日 15:59 KST 之前玩过《TBH: 塔斯克巴·英雄》的账号。</li>
+<li><strong>泄露字段</strong>：SteamID64、游戏服务器账号 UUID 与注册时间、最后登录时间与 IP、设备信息（主板型号/电脑名）、操作系统类型与版本、账号状态（是否被限制或删除）。</li>
+<li><strong>关键结论</strong>：这些信息<strong>不能</strong>登录 Steam、<strong>不能</strong>支付、<strong>不能</strong>访问或篡改其他玩家数据；但可能被用于冒充官方的诈骗。</li>
+<li><strong>官方动作</strong>：修复漏洞、收紧服务器数据与管理员权限、复查开发者账号安全，服务商已向韩国 PIPC 与 KISA 上报并配合调查。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="泄露清单哪些信息真要紧">泄露清单：哪些信息真要紧？</h3>
+<table>
+	<thead>
+			<tr>
+					<th>字段</th>
+					<th>风险等级</th>
+					<th>说明</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>SteamID64</td>
+					<td>中</td>
+					<td>个人资料页公开可见，可被用来精准定位与冒充好友</td>
+			</tr>
+			<tr>
+					<td>服务器账号 UUID、注册时间</td>
+					<td>低</td>
+					<td>主要用于区分账号，单独无法登录</td>
+			</tr>
+			<tr>
+					<td>最后登录时间与 IP</td>
+					<td>中高</td>
+					<td>可推测大致地区与活跃时段，是社工话术的“素材”</td>
+			</tr>
+			<tr>
+					<td>主板型号/电脑名</td>
+					<td>中</td>
+					<td>设备指纹，可增强钓鱼信息的可信度</td>
+			</tr>
+			<tr>
+					<td>操作系统类型与版本</td>
+					<td>低</td>
+					<td>可用于筛选攻击目标（如老旧系统）</td>
+			</tr>
+			<tr>
+					<td>账号状态</td>
+					<td>低</td>
+					<td>限制/删除状态，影响较小</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="为什么不能登录也必须当回事">为什么“不能登录”也必须当回事？</h3>
+<p>官方明确说明，这批信息不含 Steam 凭据、令牌、支付信息，单靠它登不进 Steam，也动不了钱包。真正的风险在<strong>社工与钓鱼</strong>：骗子拿着你的 SteamID、最后登录时间和设备信息，冒充“TBH 官方客服”，话术会显得非常真——“我们检测到你的账号在 X 月 X 日从 XX 地区异常登录，请点击链接验证”。一旦你点了钓鱼站、输了令牌验证码，账号才真的危险。</p>
+<hr>
+<p><img src="/images/6f153b21a49549fc.png" alt=""></p>
+<h3 id="官方处置时间线">官方处置时间线</h3>
+<ol>
+<li>10 月 17 日 — 11 月 8 日：第三方利用服务商管理工具漏洞下载信息。</li>
+<li>11 月 9 日（KST）：服务商通知开发组，事件确认。</li>
+<li>漏洞修复、第三方访问阻断；服务商全面复查并加强游戏服务器管理权限与安全设置。</li>
+<li>开发组同步复查服务器数据访问权限、管理员权限与所有可访问服务器的开发者账号安全。</li>
+<li>服务商向韩国个人信息保护委员会（PIPC）与韩国互联网振兴院（KISA）上报，配合调查。</li>
+<li>截至通告发布，未收到泄露信息被滥用的确认报告。</li>
+</ol>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>第一步：确认自己在不在影响范围</strong>
+2026 年 11 月 9 日 15:59 KST 前玩过 TBH 的，都算。没玩过的可以放心吃瓜。</p>
+<p><strong>第二步：Steam 侧加固（十分钟搞定）</strong></p>
+<ul>
+<li>开启 Steam 令牌（手机 App），别用邮箱验证凑合。</li>
+<li>检查“登录设备”与“授权设备”，踢掉不认识的。</li>
+<li>检查 API 密钥页面，有不明 Key 直接撤销。</li>
+<li>家庭共享只留信得过的人。</li>
+<li>密码有复用习惯的，顺手把 Steam 密码和邮箱密码换掉——不是因为这次泄露了密码，而是趁这个机会把老账清了。</li>
+</ul>
+<p><strong>第三步：防冒充三原则</strong></p>
+<ul>
+<li><strong>官方不会先加你好友</strong>。TBH 团队明确表示不会通过 Steam 好友请求或私信主动联系玩家。</li>
+<li><strong>不点陌生链接、不给验证码</strong>。任何人要你 Steam 令牌码，都是骗子。</li>
+<li><strong>核对信息来源</strong>。只认 Steam 商店页公告、官方社区与官方认证渠道。</li>
+</ul>
+<p><strong>第四步：收到可疑联系怎么办</strong>
+截图留证 → Steam 举报该用户 → 拉黑 → 必要时在 Steam 客服页面报备。别跟骗子辩论，浪费时间。</p>
+<p><strong>第五步：别被“二次诈骗”收割</strong>
+常见套路还有“付费找回账号”“内部解封”“补偿礼包领取”。TBH 这类通告事件后，钓鱼站会集中上线，搜索引擎广告位也可能被买。认准官方域名，别从陌生短链进。</p>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间拿到秒级限免、临时工价、史低推送和账号安全提醒，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。这类安全通告往往先在社区扩散，频道推送能让你少走弯路，避免被假消息带节奏。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：我的 Steam 账号会被盗吗？</strong>
+A：单凭这次泄露的信息不能登录 Steam，也不能支付。风险在于后续钓鱼。开启令牌、不点陌生链接、不给验证码，基本就稳。</p>
+<p><strong>Q2：我需要改 Steam 密码吗？</strong>
+A：泄露内容不包含密码。但如果你在多个平台复用同一个密码，建议改掉，顺手开启令牌，成本很低。</p>
+<p><strong>Q3：官方会通过 Steam 好友申请联系我吗？</strong>
+A：不会。TBH 团队明确表示不会主动通过 Steam 好友请求或私信联系玩家。遇到自称官方的，一律按骗子处理并举报。</p>
+<p><strong>Q4：这事会影响我在其他 Steam 游戏里的数据吗？</strong>
+A：通告说明该信息无法访问或篡改其他玩家游戏数据，也不涉及 Steam 账号本身。其他游戏不受直接影响。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/TBH%e5%a1%94%e6%96%af%e5%85%8b%e5%b7%b4%e8%8b%b1%e9%9b%84/" class="article-tag-item">#TBH塔斯克巴英雄</a>
+          
+          <a href="/tags/%e8%b4%a6%e5%8f%b7%e5%ae%89%e5%85%a8/" class="article-tag-item">#账号安全</a>
+          
+          <a href="/tags/%e6%95%b0%e6%8d%ae%e6%b3%84%e9%9c%b2/" class="article-tag-item">#数据泄露</a>
+          
+          <a href="/tags/Steam%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam资讯</a>
+          
+          <a href="/tags/%e9%98%b2%e8%af%88%e9%aa%97/" class="article-tag-item">#防诈骗</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-12-3678970-82f027ef/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-12-1973530-3b89cad7/" class="sibling-title">Limbus Company 11.12热修：以实玛利成就终于认账，格里高尔支援经验BUG修复</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#泄露清单哪些信息真要紧">泄露清单：哪些信息真要紧？</a></li>
+        <li><a href="#为什么不能登录也必须当回事">为什么“不能登录”也必须当回事？</a></li>
+        <li><a href="#官方处置时间线">官方处置时间线</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
