@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 10:41:56 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 18:13:34 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound v1.0.0(2) 热修上线：窗口尺寸自选，老版 Steam 客户端也能稳跑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-8d6f1fd0/</link>
+				<pubDate>Fri, 13 Nov 2026 18:13:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4459590-8d6f1fd0/</guid>
+				<description>Slotbound 推送 v1.0.0(2) 热修，设置里新增窗口尺寸选项，窗口化下可自选 1920x1080、2560x1440 等分辨率适配屏幕；同时改善对老版本 Steam 客户端的兼容性。本文梳理改动要点、窗口化实操建议与常见问题，帮你快速更新并挑到合适的显示方案。</description>
+			</item>
 			<item>
 				<title>江湖一牌：无情武林热修：四门派全开、难度标注与秘技特效修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-5308960-137c6aa3/</link>
