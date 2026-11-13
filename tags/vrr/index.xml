@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>VRR on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/vrr/</link>
+		<description>Recent content in VRR on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Nov 2026 10:05:23 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/vrr/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Deck 新 Beta 推送：帧率限制与 VRR 双修，高刷屏有救</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-1675200-9babbc70/</link>
+				<pubDate>Fri, 13 Nov 2026 10:05:23 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-1675200-9babbc70/</guid>
+				<description>Steam Deck 的 SteamOS 3.9.6 Beta 已向 Beta/Preview 通道推送：VRR 下帧时序更稳，帧率限制器在 120Hz/240Hz 高刷屏上不再乱掉帧，RPG Maker 黑屏、NVIDIA 串流绿屏、触摸屏卡键等 bug 一并修复；3.9 大版本还合入 Arch 新基础与 Plasma 6.7.3。本文梳理更新要点、升级避坑与实操建议。</description>
+			</item>
+	</channel>
+</rss>

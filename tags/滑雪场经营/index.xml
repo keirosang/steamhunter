@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>滑雪场经营 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%BB%91%E9%9B%AA%E5%9C%BA%E7%BB%8F%E8%90%A5/</link>
+		<description>Recent content in 滑雪场经营 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Nov 2026 09:08:46 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%BB%91%E9%9B%AA%E5%9C%BA%E7%BB%8F%E8%90%A5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ski-E-O!滑雪场大亨 CL7772 更新：缆车升级不再把客人甩半空</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4493130-8d0330ff/</link>
+				<pubDate>Fri, 13 Nov 2026 09:08:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4493130-8d0330ff/</guid>
+				<description>滑雪场经营模拟游戏《Ski-E-O! Ski Resort Tycoon》推送 CL7772 补丁，重点重做了缆车逻辑：升级缆车时乘客会被安全转移到新椅位，推土机拆线也会把客人送到目标站点，不再出现半空悬停或徒步下山的奇葩场面。同时修复了放置缆车崩溃、雨丝消失、成就误判、路径绘制失灵等问题，Intel 核显默认关闭 Lumen 光照，启动预告片卡死会自动退出。</description>
+			</item>
+	</channel>
+</rss>

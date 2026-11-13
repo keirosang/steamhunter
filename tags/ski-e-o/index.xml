@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 08:00:07 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 09:08:46 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/ski-e-o/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ski-E-O!滑雪场大亨 CL7772 更新：缆车升级不再把客人甩半空</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4493130-8d0330ff/</link>
+				<pubDate>Fri, 13 Nov 2026 09:08:46 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4493130-8d0330ff/</guid>
+				<description>滑雪场经营模拟游戏《Ski-E-O! Ski Resort Tycoon》推送 CL7772 补丁，重点重做了缆车逻辑：升级缆车时乘客会被安全转移到新椅位，推土机拆线也会把客人送到目标站点，不再出现半空悬停或徒步下山的奇葩场面。同时修复了放置缆车崩溃、雨丝消失、成就误判、路径绘制失灵等问题，Intel 核显默认关闭 Lumen 光照，启动预告片卡死会自动退出。</description>
+			</item>
 			<item>
 				<title>滑雪度假村模拟《Ski-E-O!》史低-10%：17.99美元永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4493130-c085705d/</link>
