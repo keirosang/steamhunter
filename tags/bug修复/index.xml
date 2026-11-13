@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 09:08:46 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 11:56:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/bug%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ChickenPlaguePolice 启动崩溃报错排查中，官方喊玩家去 Discord 交反馈</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4672480-2a1d4315/</link>
+				<pubDate>Fri, 13 Nov 2026 11:56:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4672480-2a1d4315/</guid>
+				<description>刚上线就卡在启动界面？ChickenPlaguePolice 开发组已确认收到部分玩家无法启动游戏的报错，目前正在排查中，并公开呼吁受影响玩家把日志与问题描述提交到官方 Discord。本文整理了本次公告的核心信息、启动报错的常见自救手段、开黑前建议，以及后续修复进度的关注方式，帮你判断是继续等补丁还是先动手排查。</description>
+			</item>
 			<item>
 				<title>Ski-E-O!滑雪场大亨 CL7772 更新：缆车升级不再把客人甩半空</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4493130-8d0330ff/</link>

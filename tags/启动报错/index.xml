@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>启动报错 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99/</link>
+		<description>Recent content in 启动报错 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Nov 2026 11:56:10 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ChickenPlaguePolice 启动崩溃报错排查中，官方喊玩家去 Discord 交反馈</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4672480-2a1d4315/</link>
+				<pubDate>Fri, 13 Nov 2026 11:56:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4672480-2a1d4315/</guid>
+				<description>刚上线就卡在启动界面？ChickenPlaguePolice 开发组已确认收到部分玩家无法启动游戏的报错，目前正在排查中，并公开呼吁受影响玩家把日志与问题描述提交到官方 Discord。本文整理了本次公告的核心信息、启动报错的常见自救手段、开黑前建议，以及后续修复进度的关注方式，帮你判断是继续等补丁还是先动手排查。</description>
+			</item>
+	</channel>
+</rss>

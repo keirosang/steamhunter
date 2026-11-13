@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 11:00:30 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 11:56:10 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ChickenPlaguePolice 启动崩溃报错排查中，官方喊玩家去 Discord 交反馈</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4672480-2a1d4315/</link>
+				<pubDate>Fri, 13 Nov 2026 11:56:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4672480-2a1d4315/</guid>
+				<description>刚上线就卡在启动界面？ChickenPlaguePolice 开发组已确认收到部分玩家无法启动游戏的报错，目前正在排查中，并公开呼吁受影响玩家把日志与问题描述提交到官方 Discord。本文整理了本次公告的核心信息、启动报错的常见自救手段、开黑前建议，以及后续修复进度的关注方式，帮你判断是继续等补丁还是先动手排查。</description>
+			</item>
 			<item>
 				<title>猫头鹰持枪上夜班！《Overhours》正式发售，首发9折&#43;捆绑包同步开抢</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-2439500-f4756e0f/</link>
@@ -264,6 +271,13 @@
 				<pubDate>Thu, 12 Nov 2026 11:23:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-12-4921660-0fbc6dd8/</guid>
 				<description>主打“猜朋友怎么排”的在线派对游戏《EVERYONE&amp;rsquo;S TIER LIST!》正式上架，首发限时15% off。支持2-10人、超500条英文题目、Steam创意工坊自定义题单与主播模式。本文给出售价选购思路、玩法拆解、开黑避坑与入手指南。</description>
+			</item>
+			<item>
+				<title>《我家隔壁就是魔王城 LOL》10万愿望单达成，11月13日抢先体验开跑</title>
+				<link>https://info.steamhunter.link/posts/2026-11-12-2860490-3503ff56/</link>
+				<pubDate>Thu, 12 Nov 2026 11:00:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-12-2860490-3503ff56/</guid>
+				<description>日本独立新作《Warota: I Live Next to The Demon King&amp;rsquo;s Castle LOL》愿望单正式突破10万大关，官方宣布抢先体验版将于11月13日00:00（日本时间，即北京时间11月12日23:00）正式开跑。本次同步更新直播投稿指引并开放Bug反馈表单，本文整理了时区换算、首发入手建议、开播注意事项与常见问题，帮你第一时间蹲到这款脑洞新作。</description>
 			</item>
 			<item>
 				<title>CS2 更新实测：换弹抽搐修复、DX11 渲染卡死解决，性能与稳定性双提升</title>
