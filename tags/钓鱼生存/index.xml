@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>钓鱼生存 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%92%93%E9%B1%BC%E7%94%9F%E5%AD%98/</link>
+		<description>Recent content in 钓鱼生存 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 02:41:12 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%92%93%E9%B1%BC%E7%94%9F%E5%AD%98/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 抢先体验第5更：任务链修复、存档稳定性与手柄适配全面优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-3629430-7f49bfbc/</link>
+				<pubDate>Sat, 14 Nov 2026 02:41:12 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-3629430-7f49bfbc/</guid>
+				<description>深海钓鱼生存新作 DREADMOOR 推送抢先体验第五次更新。本次重点处理任务日志步骤互相覆盖、读档后船体锁定、蟹屋阳台状态错乱等老毛病，同时修好 DualSense 自适应扳机、手柄滚动设置、最终 Boss 重复刷出与相机乱瞄等问题，并为触手偷袭加上预警特效。</description>
+			</item>
+	</channel>
+</rss>

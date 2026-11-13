@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 20:38:11 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 02:03:30 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/slotbound/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound v1.0.0(4) 热修上线：前两关难度下调，新增最高帧率选项与多项启动修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-063a645d/</link>
+				<pubDate>Sat, 14 Nov 2026 02:03:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-063a645d/</guid>
+				<description>Slotbound 推送 v1.0.0 (4) 热修，核心就两件事：把 Stage 1 和 Stage 2 的难度降下来，让新手开局少受点罪；同时集中修复启动、报错、旧版 Windows 兼容和简中系统首启英文等问题。设置里新增 Max FPS 选项，晋升后的职业选择与命运石晋升目标也会即时结算。没有新内容，但全是实用修复，建议所有玩家更新后先验证文件完整性再进游戏。</description>
+			</item>
 			<item>
 				<title>Slotbound v1.0.0(3)热修补：老版Steam兼容优化&#43;胜负判定与升级计数修正</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-287598ad/</link>
