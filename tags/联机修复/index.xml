@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 22:04:15 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 21:11:51 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Main Sequence》新热修：联机同步与HUD五大顽疾一次清零</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-2487190-7ac97648/</link>
+				<pubDate>Fri, 13 Nov 2026 21:11:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-2487190-7ac97648/</guid>
+				<description>《Main Sequence》推送 0.1.0.107 热修，一口气修掉五项影响体验的老毛病：联机读档时挖矿激光仍在运转引发的失同步、打开 Demo 存档后玩家垃圾槽图标失踪、多人局里客户端看不到地图标记、读不到小行星与机械的 HUD 详情，以及跨恒星系离屏标记不显示光年距离。纯修复型补丁，无平衡性改动，主机与客人建议同步版本后再开黑。</description>
+			</item>
 			<item>
 				<title>《僵尸毁灭工程》42.22.2稳定版：梯子与撬棍上线，平衡大修</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-108600-c28cc29a/</link>

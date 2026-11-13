@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>热修补 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E8%A1%A5/</link>
+		<description>Recent content in 热修补 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Nov 2026 20:38:11 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E8%A1%A5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound v1.0.0(3)热修补：老版Steam兼容优化&#43;胜负判定与升级计数修正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-287598ad/</link>
+				<pubDate>Fri, 13 Nov 2026 20:38:11 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4459590-287598ad/</guid>
+				<description>Slotbound 推送 v1.0.0 第三版热修补，重点解决三项体验顽疾：一是进一步优化对旧版 Steam 客户端的兼容性；二是修正 Boss 与 Judgment 波次中“攻击在空中击杀敌人却先弹 Defeat”的胜负判定顺序；三是让升级界面的 Units 计数不再把 5 个阵营节点算进去（16→11）。本文整理改动要点、实操建议与常见问题。</description>
+			</item>
+	</channel>
+</rss>

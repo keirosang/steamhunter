@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>启动修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%90%AF%E5%8A%A8%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 启动修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 00:42:37 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%90%AF%E5%8A%A8%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ASSAULT SHELL 2 热修复补丁上线：文件路径错误已修正，游戏现在能正常启动</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2173850-97c38e94/</link>
+				<pubDate>Sat, 14 Nov 2026 00:42:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2173850-97c38e94/</guid>
+				<description>官方发布小型热修复，定位并修正了打包环节的错误文件路径，此前困扰玩家的启动失败问题已经解决，游戏现在可以正常进入。本次补丁不涉及玩法与数值改动，但属于“不装就玩不了”的关键修复。本文整理了更新后的启动排查顺序、验证文件完整性的正确姿势，以及仍然打不开时的自救清单，方便各位第一时间回到战场。</description>
+			</item>
+	</channel>
+</rss>

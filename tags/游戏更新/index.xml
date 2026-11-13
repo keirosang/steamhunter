@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 20:27:12 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 00:42:37 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%B8%B8%E6%88%8F%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ASSAULT SHELL 2 热修复补丁上线：文件路径错误已修正，游戏现在能正常启动</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2173850-97c38e94/</link>
+				<pubDate>Sat, 14 Nov 2026 00:42:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2173850-97c38e94/</guid>
+				<description>官方发布小型热修复，定位并修正了打包环节的错误文件路径，此前困扰玩家的启动失败问题已经解决，游戏现在可以正常进入。本次补丁不涉及玩法与数值改动，但属于“不装就玩不了”的关键修复。本文整理了更新后的启动排查顺序、验证文件完整性的正确姿势，以及仍然打不开时的自救清单，方便各位第一时间回到战场。</description>
+			</item>
 			<item>
 				<title>Limbus Company第十届瓦尔普吉斯之夜前瞻：新人格新E.G.O炸场，Outis技能演出重做</title>
 				<link>https://info.steamhunter.link/posts/2026-11-09-1973530-f8a2420a/</link>
