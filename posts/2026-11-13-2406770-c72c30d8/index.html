@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bodycam v0.9「The Dead &amp; Damned」明日上线：僵尸模式、泳池重做与 EAC 反作弊齐发 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Bodycam 官方放出 v0.9「The Dead &amp; Damned」下半篇开发者日志：Public Pool 地图整体重建、大厅新增无人机竞速与 RC 越野赛道（原生支持 FPV 遥控器）、TK-9 全自动手枪与十字弩入库、Easy Anti-Cheat 首日实装，组队系统被列为第一优先级。本文把更新时间、机制改动与开黑实操一并梳理清楚。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Bodycam v0.9「The Dead &amp; Damned」明日上线：僵尸模式、泳池重做与 EAC 反作弊齐发">
+  <meta property="og:description" content="Bodycam 官方放出 v0.9「The Dead &amp; Damned」下半篇开发者日志：Public Pool 地图整体重建、大厅新增无人机竞速与 RC 越野赛道（原生支持 FPV 遥控器）、TK-9 全自动手枪与十字弩入库、Easy Anti-Cheat 首日实装，组队系统被列为第一优先级。本文把更新时间、机制改动与开黑实操一并梳理清楚。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-13-2406770-c72c30d8/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/d01e2acbe3c54158.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-13-2406770-c72c30d8/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Bodycam v0.9「The Dead &amp; …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Bodycam</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 2406770</span>
+      
+    </div>
+
+    <h1 class="article-title">Bodycam v0.9「The Dead &amp; Damned」明日上线：僵尸模式、泳池重做与 EAC 反作弊齐发</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-13T05:46:37&#43;08:00" class="meta-date">
+          📅 2026-11-13 05:46
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 7 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 3033 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/2406770/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/2406770" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/d01e2acbe3c54158.jpg" alt="Bodycam v0.9「The Dead &amp; Damned」明日上线：僵尸模式、泳池重做与 EAC 反作弊齐发" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Bodycam 官方放出 v0.9「The Dead &amp; Damned」下半篇开发者日志：Public Pool 地图整体重建、大厅新增无人机竞速与 RC 越野赛道（原生支持 FPV 遥控器）、TK-9 全自动手枪与十字弩入库、Easy Anti-Cheat 首日实装，组队系统被列为第一优先级。本文把更新时间、机制改动与开黑实操一并梳理清楚。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>上线时间</strong>：v0.9「The Dead &amp; Damned」定档 <strong>11 月 13 日 17:00 UTC</strong>，换算成北京时间是 <strong>11 月 14 日凌晨 01:00</strong>。官方在日志里直接把这一版称作「僵尸只是故事的一半」，下半篇讲的全是地图、军械、反作弊和组队。</li>
+<li><strong>地图重做</strong>：Public Pool（公共泳池）被整体重建，<strong>布局保持不变</strong>，官方给出的理由很直接——它是全游戏最少人玩的地图。</li>
+<li><strong>大厅新房间</strong>：新增一间娱乐房，塞进了<strong>无人机竞速</strong>和<strong>RC 越野车泥地赛道</strong>，与 <strong>TRYP FPV</strong> 合作打造，并<strong>原生支持 FPV 遥控器</strong>（实体摇杆直连）。</li>
+<li><strong>军械库扩充</strong>：<strong>TK-9</strong> 全自动手枪（machine pistol）与<strong>十字弩</strong>（Crossbow）加入配装。</li>
+<li><strong>反作弊落地</strong>：<strong>Easy Anti-Cheat 首日上线</strong>，官方明说这是整个反作弊体系的第一步，后面还有动作。</li>
+<li><strong>组队系统</strong>：官方承认这是当前<strong>第一优先级</strong>，v0.9 只是阶段性进展，完整形态还得再等。</li>
+<li><strong>后续路线</strong>：v0.10 已在规划中，终点是 1.0 正式版。</li>
+</ul>
+<p><strong>全球解锁时间对照</strong></p>
+<table>
+	<thead>
+			<tr>
+					<th>时区</th>
+					<th>时间</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>UTC</td>
+					<td>11 月 13 日 17:00</td>
+			</tr>
+			<tr>
+					<td>北京（UTC+8）</td>
+					<td><strong>11 月 14 日 01:00</strong></td>
+			</tr>
+			<tr>
+					<td>巴黎（CET）</td>
+					<td>11 月 13 日 18:00</td>
+			</tr>
+			<tr>
+					<td>伦敦（GMT）</td>
+					<td>11 月 13 日 17:00</td>
+			</tr>
+			<tr>
+					<td>纽约（ET）</td>
+					<td>11 月 13 日 12:00</td>
+			</tr>
+			<tr>
+					<td>洛杉矶（PT）</td>
+					<td>11 月 13 日 09:00</td>
+			</tr>
+			<tr>
+					<td>圣保罗（BRT）</td>
+					<td>11 月 13 日 14:00</td>
+			</tr>
+			<tr>
+					<td>莫斯科（MSK）</td>
+					<td>11 月 13 日 20:00</td>
+			</tr>
+	</tbody>
+</table>
+<blockquote>
+<p>提醒：官方公告未标注年份，日期以 Steam 实际推送与官方公告为准；凌晨档更新建议提前睡一觉，别硬熬。</p>
+</blockquote>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-public-pool不改布局只改玩起来的手感">1. Public Pool：不改布局，只改「玩起来的手感」</h3>
+<p>官方在日志里罕见地自曝短板：Public Pool 是全作<strong>出场率最低的地图</strong>。主理人视角看，这类纯泳池场景问题通常非常集中——视野过于开阔，中央水区几乎不给掩体，长枪一架，进攻方只能贴着外围绕圈；再加上水面反射和雾气效果，中低配机器掉帧明显，一局下来既打不舒服也跑不痛快。</p>
+<p>这次官方选择<strong>保留布局、重建地图</strong>，其实是稳妥解：结构不变意味着老玩家不用重新背点位，重建的部分大概率落在<strong>掩体密度、材质与光照负担、动线通行效率</strong>上。真正值得关注的是更新后它在匹配池里的出场率会不会回升——这是检验重做是否成功的唯一硬指标。</p>
+<h3 id="2-大厅新房间把-fpv-无人机塞进战术射击游戏">2. 大厅新房间：把 FPV 无人机塞进战术射击游戏</h3>
+<p>这是本次日志里最容易被忽略、但最有想象力的改动。和 <strong>TRYP FPV</strong> 合作做的无人机竞速 + RC 越野泥地赛道，<strong>支持原生 FPV 遥控器输入</strong>——意味着你可以插上真实的穿越机遥控器，用手腕而不是鼠标去飞。</p>
+<p>对硬核玩家的价值有三层：</p>
+<ul>
+<li><strong>等匹配时的解压神器</strong>：不用再干瞪眼看倒计时。</li>
+<li><strong>低风险练手感</strong>：机身视角下的空间感和快速转向，与本体里的贴脸刚枪有共通之处。</li>
+<li><strong>社区内容土壤</strong>：竞速天然适合刷圈速、录视频、办小型赛事，这是延长游戏生命周期的低成本手段。</li>
+</ul>
+<p>没有遥控器也不影响，键鼠/手柄同样能玩，只是少了点「真飞手」的味道。</p>
+<h3 id="3-军械库更新tk-9-与十字弩">3. 军械库更新：TK-9 与十字弩</h3>
+<ul>
+<li><strong>TK-9 全自动手枪</strong>：手枪位的高射速补强，适合近距离贴脸和主武器打空后的兜底。这类枪通常<strong>后坐力与弹耗</strong>是平衡点，别指望它当小步枪用。</li>
+<li><strong>十字弩</strong>：典型的<strong>静音、单发、需预判</strong>武器。身体摄像头视角下，弩的最大意义不是伤害，而是<strong>不开枪也能制造击杀</strong>——绕后、蹲点、打信息差，是它真正的主场。</li>
+</ul>
+<p>两把枪的共同点是<strong>便宜、门槛低、容错率各不同</strong>：新手拿 TK-9 找自信，老手拿弩玩心理战。</p>
+<h3 id="4-eac-首日上线这一步走得比想象中重要">4. EAC 首日上线：这一步走得比想象中重要</h3>
+<p>官方把 Easy Anti-Cheat 定位为「反作弊的第一步」，说明后续还会有配套措施。对一款拟真视角、强调信息与架点的 FPS 来说，透视和自瞄的破坏力是毁灭级的——你连「对面怎么知道我在这」都无法验证。</p>
+<p>需要注意的两点：</p>
+<ul>
+<li>更新后首次启动可能要求<strong>重启客户端或系统</strong>，属于 EAC 的常规加载流程，不是你游戏坏了。</li>
+<li>如果你用 <strong>Proton / Linux / Steam Deck</strong>，是否能正常进入要看官方是否开启相应支持，建议更新后先看社区实测再折腾。</li>
+</ul>
+<h3 id="5-组队系统官方自己承认的第一优先级">5. 组队系统：官方自己承认的第一优先级</h3>
+<p>日志里没给时间表，但给了一句很有分量的定调——<strong>组队系统是当前的第一优先级</strong>。对国内玩家来说，这几乎是「能不能长期玩下去」的分水岭：拟真视角 FPS 靠野队沟通效率极低，没有稳定小队，再好的枪械手感也留不住人。</p>
+<p>结论很明确：<strong>v0.9 别指望完整组队体验</strong>，想开黑先用社区常用的第三方语音+好友邀请方式过渡。</p>
+<h3 id="6-v010-与通往-10-的路">6. v0.10 与通往 1.0 的路</h3>
+<p>官方明确 v0.10 已在路上，最终目标是 1.0。这句看似客套，但结合「先补反作弊、再补组队」的顺序看，开发组的路线是<strong>先修地基再盖楼</strong>——先让对局公平、让玩家能凑齐人，再谈内容和正式版。这个顺序，我认为是对的。</p>
+<p>另外官方在日志末尾公开征集玩家「梦想中的游戏模式」，还留了一句「我们其实已经知道下一个要做哪个模式，但你的点子可能被加进去」。有想法的直接去评论区写，这是少见的能被开发组直接读到的反馈通道。</p>
+<blockquote>
+<p>错过上半篇（僵尸部分）的，可以回顾官方开发者日志视频：https://www.youtube.com/watch?v=MUixsE-GaEU</p>
+</blockquote>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<p><strong>更新前</strong></p>
+<ol>
+<li>提前退出游戏，Steam 库右键 Bodycam → 属性 → 已安装文件 → <strong>验证游戏文件完整性</strong>，避免更新包写坏。</li>
+<li>预留足够磁盘空间，材质重建类更新体积往往比补丁号看起来更大。</li>
+<li>蹲凌晨档的兄弟，直接睡到早上再更，别在 01:00 守着进度条。</li>
+</ol>
+<p><strong>更新后首次进游戏</strong></p>
+<ol>
+<li>让 EAC 正常完成安装与校验，<strong>别用管理员权限乱改启动参数</strong>，容易触发拦截。</li>
+<li>进游戏先跑一局 Public Pool，感受重建后的帧数与掩体变化，再决定画质档位。</li>
+<li>中低配优先降<strong>阴影与水相关特效</strong>，这作的水面反射是传统性能黑洞。</li>
+</ol>
+<p><strong>开黑建议</strong></p>
+<ul>
+<li>组队系统尚未完整，<strong>固定队优先用第三方语音</strong>，靠游戏内沟通在拟真视角下效率过低。</li>
+<li>别一上来就四把弩玩「全员静音」——弩的单发容错太低，队伍里至少留两把能压制的自动武器。</li>
+<li>新房间是等匹配的最佳去处，谁掉线谁去飞两圈，队伍不至于干等。</li>
+</ul>
+<p><strong>购买与入手</strong></p>
+<ul>
+<li>本体与 DLC 分开看，v0.9 是免费更新，<strong>不需要额外付费解锁</strong>。</li>
+<li>想入坑的建议等一波折扣或免费周末再上车，同时盯着有没有同步打折的捆绑包。</li>
+<li>老玩家回归不用清存档，地图与枪械属于内容追加，不影响既有进度。</li>
+</ul>
+<p><strong>FPV 遥控器玩家</strong></p>
+<ul>
+<li>原生支持意味着插上就能识别，但<strong>通道映射</strong>（油门反向、摇杆模式）通常在游戏设置里能调，先校准再飞。</li>
+<li>别拿大疆的航拍遥控器硬试，穿越机遥控器的手感才对味。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>这类凌晨档更新最怕的就是「一觉醒来更新已经开了两小时」。想第一时间拿到<strong>秒级限免、喜加一、史低特惠与版本更新推送</strong>，建议直接订阅官方 Telegram 频道 <strong>@steamhunterlink</strong>。PC 端和手机端都能收，蹲折扣、蹲免费周末、蹲临时工定价，比刷商店页面靠谱得多。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：v0.9 到底几点能玩上？北京时间怎么算？</strong></p>
+<p>A：官方给的解锁时间是 <strong>11 月 13 日 17:00 UTC</strong>，对应<strong>北京时间 11 月 14 日凌晨 01:00</strong>。实际推送可能提前或延后十几分钟，以 Steam 库里的更新状态为准。</p>
+<p><strong>Q2：Easy Anti-Cheat 上线后，会不会影响我的画质设置、MOD 或手柄？</strong></p>
+<p>A：EAC 主要拦的是内存篡改类作弊，正常画质设置、键鼠与手柄、FPV 遥控器输入都不受影响。需要注意两点：一是更新后首次启动可能要求重启，二是如果你用 Proton / Steam Deck，先看社区实测反馈再动手。至于第三方 MOD 或注入类工具，<strong>建议直接别碰</strong>，被 EAC 拦下得不偿失。</p>
+<p><strong>Q3：Public Pool 布局改了吗？我要不要重新背点位？</strong></p>
+<p>A：<strong>布局不变</strong>，官方只是把这张「最少人玩的地图」整体重建了一遍，重点应该在掩体、材质与动线手感上。所以老点位依然有效，但你会明显感觉打起来和以前不一样。建议更新后先开一局自定义或训练熟悉一下新的视野关系。</p>
+<p><strong>Q4：组队系统什么时候能好？现在怎么和朋友一起玩？</strong></p>
+<p>A：官方把组队系统列为<strong>第一优先级</strong>，但没给明确时间表，v0.9 属于阶段性推进。当前建议用 Steam 好友邀请配合第三方语音（Discord、KOOK 等）过渡，进局前先对好报点口径——这作的视角特殊，报点描述比传统 FPS 更需要具体方位参照。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Bodycam/" class="article-tag-item">#Bodycam</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e5%83%b5%e5%b0%b8%e6%a8%a1%e5%bc%8f/" class="article-tag-item">#僵尸模式</a>
+          
+          <a href="/tags/%e5%8f%8d%e4%bd%9c%e5%bc%8a/" class="article-tag-item">#反作弊</a>
+          
+          <a href="/tags/Steam%e8%81%94%e6%9c%ba/" class="article-tag-item">#Steam联机</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-13-2406770-c72c30d8/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-5211040-dfba9680/" class="sibling-title">DESIRO. 1.0 正式版上线：告别抢先体验，开发者一句「我先睡了」</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-4606680-7ac96e82/" class="sibling-title">《Super Slime》正式发售：硬核精准跳跃，每次起跳都是生死考验</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-public-pool不改布局只改玩起来的手感">1. Public Pool：不改布局，只改「玩起来的手感」</a></li>
+        <li><a href="#2-大厅新房间把-fpv-无人机塞进战术射击游戏">2. 大厅新房间：把 FPV 无人机塞进战术射击游戏</a></li>
+        <li><a href="#3-军械库更新tk-9-与十字弩">3. 军械库更新：TK-9 与十字弩</a></li>
+        <li><a href="#4-eac-首日上线这一步走得比想象中重要">4. EAC 首日上线：这一步走得比想象中重要</a></li>
+        <li><a href="#5-组队系统官方自己承认的第一优先级">5. 组队系统：官方自己承认的第一优先级</a></li>
+        <li><a href="#6-v010-与通往-10-的路">6. v0.10 与通往 1.0 的路</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

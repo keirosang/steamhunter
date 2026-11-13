@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 02:51:48 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 05:23:07 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/apex%E8%8B%B1%E9%9B%84/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apex 英雄热修复上线：双持小帮手射速漏洞与空投崩溃双双被堵</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-1172470-70cd035e/</link>
+				<pubDate>Fri, 13 Nov 2026 05:23:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-1172470-70cd035e/</guid>
+				<description>11 月 12 日，Apex 英雄推送了一轮热修复补丁，重点处理两个直接影响对局体验的问题：一是双持小帮手可以打出超出设计值的射速漏洞，二是空投舱路径计算异常引发的客户端崩溃。前者关乎枪械公平性，后者直接决定开局跳伞阶段会不会突然闪退。本次补丁体积不大，Steam 会自动更新，建议上线前先验证一次文件完整性。</description>
+			</item>
 			<item>
 				<title>《Apex 英雄》反作弊重拳落地：全平台手柄作弊检测上线，主机也不再是免死金牌</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-1172470-7ab28b78/</link>

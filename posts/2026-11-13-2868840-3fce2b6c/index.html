@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《杀戮尖塔2》v0.113.0 大补丁：新角色愚者与双新模式上线 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《杀戮尖塔2》EA 阶段体量最大的 beta 补丁 v0.113.0 正式上线：手持长弓的新角色「愚者」登场，Blitz 与 Dread 两大新模式把节奏与难度同时拉满，Neow 遗物获加强、Brilliant Scarf 挨刀、光暗之门与 Zen Weaver 事件重做，外加五个新事件与三张事件卡。本文一次讲清改动细节、解锁条件与切换测试分支的方法。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《杀戮尖塔2》v0.113.0 大补丁：新角色愚者与双新模式上线">
+  <meta property="og:description" content="《杀戮尖塔2》EA 阶段体量最大的 beta 补丁 v0.113.0 正式上线：手持长弓的新角色「愚者」登场，Blitz 与 Dread 两大新模式把节奏与难度同时拉满，Neow 遗物获加强、Brilliant Scarf 挨刀、光暗之门与 Zen Weaver 事件重做，外加五个新事件与三张事件卡。本文一次讲清改动细节、解锁条件与切换测试分支的方法。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-13-2868840-3fce2b6c/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/625bcc7222f71b9c.gif">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-13-2868840-3fce2b6c/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《杀戮尖塔2》v0.113.0 大补丁：新角色愚者与双新模式 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Slay the Spire 2</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 2868840</span>
+      
+    </div>
+
+    <h1 class="article-title">《杀戮尖塔2》v0.113.0 大补丁：新角色愚者与双新模式上线</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-13T04:30:16&#43;08:00" class="meta-date">
+          📅 2026-11-13 04:30
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2482 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/2868840/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/2868840" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/625bcc7222f71b9c.gif" alt="《杀戮尖塔2》v0.113.0 大补丁：新角色愚者与双新模式上线" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《杀戮尖塔2》EA 阶段体量最大的 beta 补丁 v0.113.0 正式上线：手持长弓的新角色「愚者」登场，Blitz 与 Dread 两大新模式把节奏与难度同时拉满，Neow 遗物获加强、Brilliant Scarf 挨刀、光暗之门与 Zen Weaver 事件重做，外加五个新事件与三张事件卡。本文一次讲清改动细节、解锁条件与切换测试分支的方法。
+      </div>
+      
+
+      <div class="article-body">
+        <h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<p>千呼万唤，EA 阶段体量最大的一次 beta 补丁 v0.113.0 终于落地。先划重点：这一版<strong>只在 beta 测试分支生效</strong>，主分支目前只跟进到更稳定的 v0.111.0，所以你打开正式版看不到新角色、新模式，属于正常现象，别急着以为游戏坏了。</p>
+<ul>
+<li><strong>新角色「愚者 The Fool」</strong>：一位抱着长弓的滑稽吟游诗人，是抢先体验阶段的首位新增角色，卡池与故事线都还在打磨中。</li>
+<li><strong>新模式「Blitz」</strong>：把地图、金币这些老规矩直接掀桌的浓缩混沌构筑玩法，五级 Ascension 全角色共享，通关任意难度的 Ascension 后解锁。</li>
+<li><strong>新模式「Dread」</strong>：给全角色（含愚者）打上 Ascension 10 才解锁的受虐模式，所有进阶修正全开，Boss 更强还会给整幕敌人上 Buff，诅咒一路堆叠，官方原话就是「死亡是预期内的」。</li>
+<li><strong>平衡改动</strong>：Neow 的 Dowsing Rod 加强、Nonupeipe 的 Brilliant Scarf 削弱、Zen Weaver 呼吸法选项降价减量、光暗之门改为自选升级。</li>
+<li><strong>事件扩充</strong>：Underdocks 两个新事件、Act 2「酷刑博物馆」、Act 3「军阀神殿」与「Thermae Nonupeipe」，配套三张事件卡。</li>
+<li><strong>地图节奏</strong>：每一幕的休息点都有机会提前一层出现。</li>
+</ul>
+<p><img src="/images/625bcc7222f71b9c.gif" alt=""></p>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="新角色愚者the-fool">新角色：愚者（The Fool）</h3>
+<p>一个拎着弓的傻乎乎音乐人，凭什么在尖塔里活下来？答案交给你自己。官方明确表示，在愚者正式进入主分支之前，还会有大量内容与数值调整，也就是说现在的强度、卡池手感都只能算「预览版」。主理人建议：趁现在多试几套思路，把故事线和卡牌联动摸清楚，等它进主分支再抄作业就晚了。</p>
+<h3 id="新模式blitz把攒钱这件事从人生里删掉">新模式：Blitz——把「攒钱」这件事从人生里删掉</h3>
+<p>Blitz 是一个极度压缩、节奏混乱、纯粹围绕构筑展开的模式：商人卖的东西透着点不对劲，地图直接没了，金币也不再是硬通货。换句话说，你熟悉的「规划路线—攒钱—买关键卡」那套运营逻辑基本失效，剩下的是纯卡组博弈。它自带五级 Ascension，并且所有角色共享这一进度，解锁条件为完成任意难度的 Ascension 通关。</p>
+<p><strong>主理人点评</strong>：这模式对老玩家的「路线规划肌肉记忆」是一次正面暴击，适合想快速打一局、不想在地图上算半天的下班党。</p>
+<h3 id="新模式dread把受苦写进设计文档">新模式：Dread——把受苦写进设计文档</h3>
+<p>解锁门槛相当硬：所有角色（包括新来的愚者）都达到 Ascension 10。进去之后，全部进阶修正一次性拉满，Boss 不仅自身更强，还会给所在幕的所有敌人加 Buff，而且随着你往上爬，诅咒会不断堆积。这不是给新手准备的模式，是给已经把尖塔当后花园的老油条准备的「高压测试场」。</p>
+<h3 id="数值与事件改动盘点">数值与事件改动盘点</h3>
+<table>
+	<thead>
+			<tr>
+					<th>改动对象</th>
+					<th>方向</th>
+					<th>具体变化</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Neow 的 Dowsing Rod</td>
+					<td>加强</td>
+					<td>Dowsing 卡在 4 个「?」房间后转化（原为 5 个），且触发转化的「?」房间不再是战斗</td>
+			</tr>
+			<tr>
+					<td>Nonupeipe 的 Brilliant Scarf</td>
+					<td>削弱</td>
+					<td>触发位置从第 5 张卡改为第 6 张卡</td>
+			</tr>
+			<tr>
+					<td>Zen Weaver「呼吸法」选项</td>
+					<td>调整</td>
+					<td>金币花费 50 → 25，改为加入 1 张 Enlightenment（原 2 张），且 Enlightenment 不再带 Exhaust</td>
+			</tr>
+			<tr>
+					<td>Doors of Light and Dark</td>
+					<td>调整</td>
+					<td>光之门改为升级 1 张你指定的卡，而非随机升级 2 张</td>
+			</tr>
+			<tr>
+					<td>Waterlogged Scriptorium</td>
+					<td>削弱</td>
+					<td>该事件的收益被下调</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>新事件与事件卡</strong>：Underdocks 新增「Waterfall of Obvious Secrets」与「Wuppy in Trouble」，同时上线 Byrdpip 的进化形态；Act 2 新增「Museum of Torture」；Act 3 新增「Shrine of the Warlord」与「Thermae Nonupeipe」。伴随事件产出的新卡包括 Dingy Dagger（来自 Waterfall of Obvious Secrets），以及 Mighty Weapon 与 Mighty Shield（来自 Shrine of the Warlord）。</p>
+<p><strong>主理人点评</strong>：这轮改动最值得玩味的是光暗之门——从「随机升级 2 张」变成「自选升级 1 张」，数量少了但质量上限高了，构筑向卡组更吃香；Zen Weaver 的呼吸法则是典型的「少即是多」，张数减半、去掉消耗、价格砍半，节奏更顺滑。至于 Brilliant Scarf 从第 5 张挪到第 6 张，属于精准一刀，靠它滚雪球的卡组要重新算收益曲线了。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<h3 id="一怎么切到-beta-分支">一、怎么切到 beta 分支</h3>
+<ol>
+<li>在 Steam 库中右键《Slay the Spire 2》→ 选择「属性」；</li>
+<li>切到「游戏版本与测试 / Betas」标签页；</li>
+<li>在下拉菜单中选择 <code>public-beta</code>，等待客户端下载补丁；</li>
+<li>想回正式版，把下拉菜单改回「无 / None」即可回滚。</li>
+</ol>
+<h3 id="二开荒路线建议">二、开荒路线建议</h3>
+<ul>
+<li><strong>先摸愚者</strong>：新角色卡池刚上线，强度浮动大，建议直接开低难度 Ascension 试手感，别一上来就硬刚高进阶。</li>
+<li><strong>Blitz 别惦记钱</strong>：既然金币不再重要，看到商店就按「当前卡组缺什么」去拿，别按老习惯攒着。</li>
+<li><strong>Dread 先练容错</strong>：诅咒会持续堆积，卡组里必须留好删牌与消耗手段，别把卡位全塞满高费牌。</li>
+<li><strong>路线规划重算</strong>：休息点有机会提前一层出现，意味着前期血量管理可以更激进，多打一个精英的窗口变大了。</li>
+<li><strong>事件卡谨慎拿</strong>：Dingy Dagger、Mighty Weapon、Mighty Shield 这类事件卡收益高但往往带代价，进 Act 2 前务必确认卡组不会被拖慢。</li>
+</ul>
+<h3 id="三避坑提醒">三、避坑提醒</h3>
+<ul>
+<li>这是 beta 分支，崩溃、数值回调和存档兼容问题都属于常态，建议<strong>先备份存档目录</strong>再切换；</li>
+<li>如果你和朋友一起玩，务必确认双方处在同一分支、同一版本，否则容易组不上队或者行为不同步；</li>
+<li>装了大量 Mod 的老哥注意，大版本改动后部分 Mod 可能直接失效，进游戏前先检查加载顺序；</li>
+<li>官方明确表示愚者在上主分支前还会大改，现在练出来的连招随时可能被削，心态放平。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间抓到限免喜加一、史低特惠和 beta 分支的秒级更新推送？建议直接加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。像《杀戮尖塔2》这种「beta 先上、正式版延后跟进」的更新节奏，靠人工刷 Steam 页面太慢，频道推送基本能做到你打开手机就知道补丁来了，省心不少。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：为什么我更新完游戏，还是看不到愚者和新模式？</strong>
+A：因为 v0.113.0 是 beta 分支专属补丁。主分支当前只跟进到 v0.111.0 的内容，需要按上文步骤在「属性 → 游戏版本与测试」中手动选择 <code>public-beta</code> 才会收到这版更新。</p>
+<p><strong>Q2：Blitz 和 Dread 分别怎么解锁？</strong>
+A：Blitz 需要先完成任意难度的 Ascension 通关，解锁后五级 Ascension 进度由全角色共享；Dread 的门槛更高，需要所有角色（包含新角色愚者）都达到 Ascension 10，进去就是全部进阶修正拉满的终极难度。</p>
+<p><strong>Q3：切到 beta 分支会不会搞坏我的正式版存档？</strong>
+A：版本回滚时存在存档不兼容的风险，动手前先把存档目录复制一份留底。另外 beta 分支本身就是测试环境，遇到数值回调、卡牌重做甚至进度异常都不算意外，介意稳定性的话就等这批内容合并进主分支再上车。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e6%9d%80%e6%88%ae%e5%b0%96%e5%a1%942/" class="article-tag-item">#杀戮尖塔2</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e6%96%b0%e8%a7%92%e8%89%b2/" class="article-tag-item">#新角色</a>
+          
+          <a href="/tags/Beta%e6%b5%8b%e8%af%95/" class="article-tag-item">#Beta测试</a>
+          
+          <a href="/tags/%e5%8d%a1%e7%89%8c%e6%9e%84%e7%ad%91/" class="article-tag-item">#卡牌构筑</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-13-2868840-3fce2b6c/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/" class="sibling-title">SoulForge Legends 1.0.0 首发日补丁实装：后台服务器工具升级，联机稳定性优先</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-1172470-70cd035e/" class="sibling-title">Apex 英雄热修复上线：双持小帮手射速漏洞与空投崩溃双双被堵</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#新角色愚者the-fool">新角色：愚者（The Fool）</a></li>
+        <li><a href="#新模式blitz把攒钱这件事从人生里删掉">新模式：Blitz——把「攒钱」这件事从人生里删掉</a></li>
+        <li><a href="#新模式dread把受苦写进设计文档">新模式：Dread——把受苦写进设计文档</a></li>
+        <li><a href="#数值与事件改动盘点">数值与事件改动盘点</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a>
+      <ul>
+        <li><a href="#一怎么切到-beta-分支">一、怎么切到 beta 分支</a></li>
+        <li><a href="#二开荒路线建议">二、开荒路线建议</a></li>
+        <li><a href="#三避坑提醒">三、避坑提醒</a></li>
+      </ul>
+    </li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

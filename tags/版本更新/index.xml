@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 04:13:34 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 06:29:48 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Under Tower Idle 1.0 正式版上线：UI 全面重做、远古巨龙与地牢卡牌系统登场</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4694530-65a14ca3/</link>
+				<pubDate>Fri, 13 Nov 2026 06:29:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4694530-65a14ca3/</guid>
+				<description>《Under Tower Idle》正式告别抢先体验，1.0 版本一次性补上全新传奇 Boss「远古巨龙」、地牢突袭三选一卡牌构筑、限时黄金宝箱事件，以及覆盖全部面板的 UI 重做。本文拆解核心机制改动、巨龙输出窗口、卡牌取舍思路与首发避坑要点，帮你快速判断这次更新值不值得回坑。</description>
+			</item>
+			<item>
+				<title>Bodycam v0.9「The Dead &amp; Damned」明日上线：僵尸模式、泳池重做与 EAC 反作弊齐发</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-2406770-c72c30d8/</link>
+				<pubDate>Fri, 13 Nov 2026 05:46:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-2406770-c72c30d8/</guid>
+				<description>Bodycam 官方放出 v0.9「The Dead &amp;amp; Damned」下半篇开发者日志：Public Pool 地图整体重建、大厅新增无人机竞速与 RC 越野赛道（原生支持 FPV 遥控器）、TK-9 全自动手枪与十字弩入库、Easy Anti-Cheat 首日实装，组队系统被列为第一优先级。本文把更新时间、机制改动与开黑实操一并梳理清楚。</description>
+			</item>
+			<item>
+				<title>Apex 英雄热修复上线：双持小帮手射速漏洞与空投崩溃双双被堵</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-1172470-70cd035e/</link>
+				<pubDate>Fri, 13 Nov 2026 05:23:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-1172470-70cd035e/</guid>
+				<description>11 月 12 日，Apex 英雄推送了一轮热修复补丁，重点处理两个直接影响对局体验的问题：一是双持小帮手可以打出超出设计值的射速漏洞，二是空投舱路径计算异常引发的客户端崩溃。前者关乎枪械公平性，后者直接决定开局跳伞阶段会不会突然闪退。本次补丁体积不大，Steam 会自动更新，建议上线前先验证一次文件完整性。</description>
+			</item>
+			<item>
+				<title>《杀戮尖塔2》v0.113.0 大补丁：新角色愚者与双新模式上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-2868840-3fce2b6c/</link>
+				<pubDate>Fri, 13 Nov 2026 04:30:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-2868840-3fce2b6c/</guid>
+				<description>《杀戮尖塔2》EA 阶段体量最大的 beta 补丁 v0.113.0 正式上线：手持长弓的新角色「愚者」登场，Blitz 与 Dread 两大新模式把节奏与难度同时拉满，Neow 遗物获加强、Brilliant Scarf 挨刀、光暗之门与 Zen Weaver 事件重做，外加五个新事件与三张事件卡。本文一次讲清改动细节、解锁条件与切换测试分支的方法。</description>
+			</item>
 			<item>
 				<title>SoulForge Legends 1.0.0 首发日补丁实装：后台服务器工具升级，联机稳定性优先</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4973650-059b7891/</link>
@@ -271,6 +299,13 @@
 				<pubDate>Wed, 11 Nov 2026 18:20:10 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-11-553850-7c3297ea/</guid>
 				<description>Arrowhead 推送《绝地潜兵2》7.2.3 热修复，一口气修掉三类崩溃：洞穴内吃到毒气或中毒状态、退出游戏、以及 Windows 写权限异常导致的启动失败全部断根；蜂巢世界洞穴里火焰重新生效并可蔓延，大型资产乱生成、堵住任务推进与战略配备呼叫的问题也一并处理，同时解禁部分外观 mod。</description>
+			</item>
+			<item>
+				<title>Satelital 1.0.0 正式收官：开发者宣布封笔，音频滑块与画面修复一次到位</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3256790-ead5c38f/</link>
+				<pubDate>Wed, 11 Nov 2026 18:00:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3256790-ead5c38f/</guid>
+				<description>独立作品 Satelital 迎来 1.0.0 正式版，这也是开发者口中的最后一更，官方表示已找不到还能做的事，作品就此完成。本次更新加入感知音频滑块、更新致谢名单，修掉低帧率下音频淡出爆音、SDR 色带断层、特定情况下的转场特效故障，并对环境美术做了小幅微调。规模不大，却是一个句号。</description>
 			</item>
 			<item>
 				<title>《The Pretty Big Pile》1.02 更新：锁 60 帧降温护机，碰撞崩溃一并修复</title>

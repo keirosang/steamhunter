@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>1.0.0正式版 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/1.0.0%E6%AD%A3%E5%BC%8F%E7%89%88/</link>
+		<description>Recent content in 1.0.0正式版 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Nov 2026 18:00:16 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/1.0.0%E6%AD%A3%E5%BC%8F%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Satelital 1.0.0 正式收官：开发者宣布封笔，音频滑块与画面修复一次到位</title>
+				<link>https://info.steamhunter.link/posts/2026-11-11-3256790-ead5c38f/</link>
+				<pubDate>Wed, 11 Nov 2026 18:00:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-11-3256790-ead5c38f/</guid>
+				<description>独立作品 Satelital 迎来 1.0.0 正式版，这也是开发者口中的最后一更，官方表示已找不到还能做的事，作品就此完成。本次更新加入感知音频滑块、更新致谢名单，修掉低帧率下音频淡出爆音、SDR 色带断层、特定情况下的转场特效故障，并对环境美术做了小幅微调。规模不大，却是一个句号。</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Under Tower Idle 1.0 正式版上线：UI 全面重做、远古巨龙与地牢卡牌系统登场 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="《Under Tower Idle》正式告别抢先体验，1.0 版本一次性补上全新传奇 Boss「远古巨龙」、地牢突袭三选一卡牌构筑、限时黄金宝箱事件，以及覆盖全部面板的 UI 重做。本文拆解核心机制改动、巨龙输出窗口、卡牌取舍思路与首发避坑要点，帮你快速判断这次更新值不值得回坑。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Under Tower Idle 1.0 正式版上线：UI 全面重做、远古巨龙与地牢卡牌系统登场">
+  <meta property="og:description" content="《Under Tower Idle》正式告别抢先体验，1.0 版本一次性补上全新传奇 Boss「远古巨龙」、地牢突袭三选一卡牌构筑、限时黄金宝箱事件，以及覆盖全部面板的 UI 重做。本文拆解核心机制改动、巨龙输出窗口、卡牌取舍思路与首发避坑要点，帮你快速判断这次更新值不值得回坑。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-13-4694530-65a14ca3/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/0d8ce1e25835e1e4.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-13-4694530-65a14ca3/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Under Tower Idle 1.0 正式版上线：UI …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Under Tower Idle</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 4694530</span>
+      
+    </div>
+
+    <h1 class="article-title">Under Tower Idle 1.0 正式版上线：UI 全面重做、远古巨龙与地牢卡牌系统登场</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-13T06:29:48&#43;08:00" class="meta-date">
+          📅 2026-11-13 06:29
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2174 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/4694530/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/4694530" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/0d8ce1e25835e1e4.jpg" alt="Under Tower Idle 1.0 正式版上线：UI 全面重做、远古巨龙与地牢卡牌系统登场" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>《Under Tower Idle》正式告别抢先体验，1.0 版本一次性补上全新传奇 Boss「远古巨龙」、地牢突袭三选一卡牌构筑、限时黄金宝箱事件，以及覆盖全部面板的 UI 重做。本文拆解核心机制改动、巨龙输出窗口、卡牌取舍思路与首发避坑要点，帮你快速判断这次更新值不值得回坑。
+      </div>
+      
+
+      <div class="article-body">
+        <p>抢先体验熬到 1.0 的放置游戏不少，但能把玩家吐槽最多的 UI 整个推倒重来的，还真不多。《Under Tower Idle》这次正式版一口气端上全新传奇 Boss、地牢卡牌构筑、限时黄金宝箱三样新内容，顺手把菜单从「信息轰炸」改成了「看得下去」。我在版本更新后先跑了几轮，下面按内容逐块拆。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>正式告别抢先体验</strong>：1.0 上线，官方公告点明这是建立在早期玩家反馈与 bug 报告之上的版本，算是把社区意见一次性结清。</li>
+<li><strong>UI 全量重做</strong>：生产、地牢准备与进度、市场、任务、成就、英雄、被动与王冠树、船只远征、驻军/集结、酒馆、建筑、设置与暂停菜单，全部统一为现代奇幻风格。</li>
+<li><strong>新传奇 Boss「远古巨龙」</strong>：海洋巨龙倒下数秒后从深海升起，27,000 点生命，在高空与低空之间来回切换，只有俯冲到可触及高度时才能吃到伤害。</li>
+<li><strong>地牢突袭卡牌系统</strong>：休息营地三选一，共 12 张卡、分普通/稀有/史诗三档，同名牌可叠加，几秒不选就自动替你挑最稀有的那张。</li>
+<li><strong>黄金事件</strong>：生产岛屿会随机刷出只存在数秒的黄金宝箱，奖励是 7 倍产量 30 秒，或直接结算该岛产量。</li>
+<li><strong>一批体验修复</strong>：加载与主菜单闪烁、语言切换后开始按钮不出现、进度条边缘变形、海龙音效从出生点播放等老毛病一并处理。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一ui-重做这次真的能看清数字了">一、UI 重做：这次真的能看清数字了</h3>
+<p>官方把「菜单更干净、更护眼」列为呼声最高的改进，实际改动也确实铺得很开：顶部资源条、底部岛屿栏、侧边菜单整体瘦身，标签不再溢出色块边框；敌人与建筑信息面板、对话窗口、士兵计数器都重新排了版。首次启动的语言与控制选择界面也是新的。</p>
+<p>对挂机党来说，这比任何数值调整都实在——放置游戏一局要看几百次面板，面板乱不乱直接决定你愿不愿意继续挂。按钮还补了点击与悬停音效，多语言文本的适配也做了重新排版。</p>
+<h3 id="二远古巨龙打的是输出窗口不是纯数值">二、远古巨龙：打的是输出窗口，不是纯数值</h3>
+<p>远古巨龙是接在海洋巨龙后面的二阶段 Boss：海龙倒下几秒后，它从深海升起，血量 27,000，体型大到能横跨岛屿上空。关键在于它的运动节奏——大部分时间在高空盘旋，只有俯冲到低空时才进入可命中范围。</p>
+<p>所以这场仗的核心不是堆多少面板，而是<strong>在它贴近的那几秒内把爆发打进去</strong>。命中之后它会喷火或者甩动身体，把金币洒进海里，等于打伤害还附带掉落。海怪音效现在会跟着本体移动，也算给你一个额外的定位提示。</p>
+<h3 id="三地牢卡牌给远征加了一层构筑味">三、地牢卡牌：给远征加了一层构筑味</h3>
+<p>每次军队在地牢休息营地休整，你可以从 3 张卡里选 1 张，效果持续到本次突袭结束。12 张卡横跨普通、稀有、史诗：特定兵种的伤害与生命加成、暴击率、Boss 伤害、额外战利品、减少士兵损失、削弱敌人等。</p>
+<p>两个细节值得注意：</p>
+<ol>
+<li><strong>史诗卡不是白拿的</strong>。像「血价」这类卡会把战利品翻倍，代价是士兵损失上升，属于典型的高风险高回报。</li>
+<li><strong>卡牌会叠加</strong>。抽到已经拥有的卡，加成直接叠上去，所以后期build成型后强度涨得很明显。犹豫不决也没关系，几秒后系统自动帮你选最稀有的那张；地牢窗口新增的“Cards”按钮可以随时查看当前生效的全部卡牌与总加成。</li>
+</ol>
+<h3 id="四黄金宝箱手速与注意力的双重考验">四、黄金宝箱：手速与注意力的双重考验</h3>
+<p>生产岛屿上会不定时冒出黄金宝箱，但只停留几秒。点屏幕上的提示就能把镜头直接切到宝箱位置，奖励二选一：</p>
+<ul>
+<li><strong>生产狂潮</strong>：该岛 30 秒内产量与点击力 ×7；</li>
+<li><strong>宝藏</strong>：立刻结算一次该岛产量。</li>
+</ul>
+<p>注意，教学、突袭和泰坦攻击期间不会刷宝箱，所以别指望在硬仗里靠它救场。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>进 1.0 前先备份存档</strong>。官方公告没提清档或迁移，按惯例属于兼容更新，但备份永远是零成本的后悔药，进游戏后先确认英雄、资源与远征进度都在。</li>
+<li><strong>首发先检查语言与控制设置</strong>。这两个界面是重做的，切换语言后如果发现按钮位置异常，重启一次客户端即可，本次修复里专门处理过「选完语言开始按钮不出现」的问题。</li>
+<li><strong>卡牌优先级建议</strong>：开荒期优先拿「减少士兵损失」与「额外战利品」稳住收益，阵容成型后再上暴击率与 Boss 伤害；「血价」这类史诗卡留到你确信能一波推平的时候再吃。</li>
+<li><strong>打巨龙别硬刚</strong>。把爆发技能与高伤害点击留到它俯冲的阶段，高空阶段专心清杂兵、补资源，命中后的喷火甩身阶段顺手捡金币。</li>
+<li><strong>把黄金宝箱当通知驱动来玩</strong>。挂机时留意弹窗提示，点一下就能跳镜头，30 秒 ×7 产量在前期相当于白送一波冲刺，别让它在后台过期。</li>
+<li><strong>留意小屏适配</strong>。进度条边缘变形、菜单闪烁这些都已修，若仍遇到排版问题，先切一次分辨率或窗口化再全屏，多数显示异常能自愈。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>版本更新、限免喜加一和史低背刺，很多时候都是几小时内的事。建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>，限免与特惠推送基本是秒级到达，不用天天刷商店页碰运气，挂机刷塔的时候手机震一下就够。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：1.0 正式版会清档吗？抢先体验的存档还能不能接着用？</strong></p>
+<p>官方 1.0 公告里没有出现清档或存档迁移的说明，按常规判断属于兼容更新。稳妥做法是进游戏前手动备份一次存档目录，确认资源、英雄与远征进度正常后再放心开荒。</p>
+<p><strong>Q2：远古巨龙为什么老是打不到？血条几乎不动。</strong></p>
+<p>它不是全程可命中的 Boss。大部分时间它在高空盘旋，只有俯冲到低空时才进入打击范围，所以伤害要集中在那几秒窗口内。命中后它会喷火或甩动身体并洒出金币，看到这个动作说明你已经打实了。</p>
+<p><strong>Q3：地牢营地没来得及选卡会怎样？同名牌能叠加吗？</strong></p>
+<p>几秒倒计时结束后，系统会自动替你选三张里最稀有的那张；已经拥有的卡牌再次抽到会直接叠加其加成，地牢窗口的“Cards”按钮可随时查看当前生效卡牌与累计总加成。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Under%20Tower%20Idle/" class="article-tag-item">#Under Tower Idle</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e6%94%be%e7%bd%ae%e6%8c%82%e6%9c%ba/" class="article-tag-item">#放置挂机</a>
+          
+          <a href="/tags/Steam%20%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam 资讯</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-13-4694530-65a14ca3/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-438100-e60eed26/" class="sibling-title">VRChat 邀你进虚拟场馆看彩虹六号大阪 Major，入场就送电竞耳机</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-13-5402730-bb0542ae/" class="sibling-title">《Core Awakened》Steam首发4.99美元：无血条2D格斗，充能放大招还能联机</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一ui-重做这次真的能看清数字了">一、UI 重做：这次真的能看清数字了</a></li>
+        <li><a href="#二远古巨龙打的是输出窗口不是纯数值">二、远古巨龙：打的是输出窗口，不是纯数值</a></li>
+        <li><a href="#三地牢卡牌给远征加了一层构筑味">三、地牢卡牌：给远征加了一层构筑味</a></li>
+        <li><a href="#四黄金宝箱手速与注意力的双重考验">四、黄金宝箱：手速与注意力的双重考验</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

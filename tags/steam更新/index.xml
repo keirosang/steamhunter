@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 02:21:54 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 00:58:13 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Ski-E-O! 滑雪度假村大亨》CL7738 补丁：员工休息回本部，雪地摩托不坐缆车了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4493130-d038174f/</link>
+				<pubDate>Fri, 13 Nov 2026 00:58:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4493130-d038174f/</guid>
+				<description>《Ski-E-O! 滑雪度假村大亨》推送 CL7738 补丁，本体与 Demo 同步实装。本次修复大量积雪同时沉降引发的崩溃，以及 Intel Arc 显卡上的雪地竖条纹，并重做员工后勤逻辑：休息回各自建筑、缆车工原地歇脚、外出作业优先取用吹雪机与雪地摩托且不再搭缆车，巡逻队寻回走失游客几乎即时。UI 加宽招聘列表、修正缩放提示，Steam Deck 触控滚动一并优化。</description>
+			</item>
 			<item>
 				<title>《Revenge of the Mage》1.0正式版上线：血月终局Boss、双新法师流派与卡组构筑全解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-2287150-fdddb827/</link>
