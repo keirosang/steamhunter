@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>连接修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E8%BF%9E%E6%8E%A5%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 连接修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Nov 2026 14:02:37 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E8%BF%9E%E6%8E%A5%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound 推送 v1.0.0(1) 热修：老版 Steam 客户端连不上 Steam 的报错已彻底修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-c8218bab/</link>
+				<pubDate>Fri, 13 Nov 2026 14:02:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4459590-c8218bab/</guid>
+				<description>Slotbound 官方放出 v1.0.0 (1) 小型热修，专门处理老版本 Steam 客户端启动时弹出 &amp;ldquo;Slotbound could not connect to Steam&amp;rdquo; 的连接失败问题，本次改动不碰玩法数值、不动存档结构，属于典型的兼容性补丁。本文把这次热修的技术成因、更新方式、报错复现的自排查清单，以及避免联机或启动失败的实操步骤一次性讲清楚，老客户端玩家照做即可正常进游戏。</description>
+			</item>
+	</channel>
+</rss>

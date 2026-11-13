@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 10:06:37 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 17:00:07 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/slotbound/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Slotbound》史低 -10% 限时特惠：216 格里夫纳拿下，永久入库不回收</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-ef684586/</link>
+				<pubDate>Fri, 13 Nov 2026 17:00:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4459590-ef684586/</guid>
+				<description>Steam 特惠情报：《Slotbound》（AppID 4459590）开启限时 -10% 史低折扣，原价 240.00 UAH 现价 216.00 UAH，立省 24 UAH，购买后永久入库、活动结束后照常畅玩。本期专栏拆解这档折扣的定位、区域定价与结算注意点、入库操作步骤，以及小体量独立游戏现在该不该冲的判断逻辑，帮你别为 10% 冲动下单，也别错过真正的低价窗口。</description>
+			</item>
+			<item>
+				<title>Slotbound 推送 v1.0.0(1) 热修：老版 Steam 客户端连不上 Steam 的报错已彻底修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-c8218bab/</link>
+				<pubDate>Fri, 13 Nov 2026 14:02:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-4459590-c8218bab/</guid>
+				<description>Slotbound 官方放出 v1.0.0 (1) 小型热修，专门处理老版本 Steam 客户端启动时弹出 &amp;ldquo;Slotbound could not connect to Steam&amp;rdquo; 的连接失败问题，本次改动不碰玩法数值、不动存档结构，属于典型的兼容性补丁。本文把这次热修的技术成因、更新方式、报错复现的自排查清单，以及避免联机或启动失败的实操步骤一次性讲清楚，老客户端玩家照做即可正常进游戏。</description>
+			</item>
 			<item>
 				<title>Slotbound 1.0 正式上线：独立开发者首作延期后如约而至，作者主动拒卖支持者包</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-19a7dea6/</link>
