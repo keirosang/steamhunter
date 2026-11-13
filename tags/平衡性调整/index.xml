@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 05:23:07 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 22:21:51 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆2.61.0.17更新：F-16XL机动被削，涡流特效上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-236390-19ffea80/</link>
+				<pubDate>Fri, 13 Nov 2026 22:21:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-236390-19ffea80/</guid>
+				<description>战争雷霆推送 2.61.0.17 补丁：F-16XL 诱导阻力上调、持续盘旋速率下调，翼面水汽凝结特效同步实装；卡-50 旋风导弹标签、BTR-90 副武器瞄准中断、意大利 PzH 2000 炮塔随动、M103 负重轮模型偏移等一批 Bug 集中修复，自定义战斗房间窗口重做，老驱动光线重建伪影与登录启动缓慢问题也一并处理。</description>
+			</item>
 			<item>
 				<title>Apex 英雄热修复上线：双持小帮手射速漏洞与空投崩溃双双被堵</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-1172470-70cd035e/</link>

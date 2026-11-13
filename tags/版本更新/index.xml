@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 18:13:34 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 22:51:56 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>战争雷霆“鹰之影”奖杯上线：40款社区迷彩与稀有载具券开箱指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-236390-f43fdba2/</link>
+				<pubDate>Fri, 13 Nov 2026 22:51:56 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-236390-f43fdba2/</guid>
+				<description>战争雷霆“鹰之影”大版本配套奖杯上线，内含40款社区迷彩兑换券，覆盖17款地面载具、19款战机、2款海军舰艇与2款直升机，另有稀有载具券和专属贴花。PC需在市场购买钥匙开启，主机可用金鹰在物品商店购买；II级及以上载具战斗后也有概率掉落，活跃度不低于50%。每把钥匙部分收入分给迷彩作者，开箱前先看市场价与规则。</description>
+			</item>
+			<item>
+				<title>战争雷霆2.61.0.17更新：F-16XL机动被削，涡流特效上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-236390-19ffea80/</link>
+				<pubDate>Fri, 13 Nov 2026 22:21:51 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-236390-19ffea80/</guid>
+				<description>战争雷霆推送 2.61.0.17 补丁：F-16XL 诱导阻力上调、持续盘旋速率下调，翼面水汽凝结特效同步实装；卡-50 旋风导弹标签、BTR-90 副武器瞄准中断、意大利 PzH 2000 炮塔随动、M103 负重轮模型偏移等一批 Bug 集中修复，自定义战斗房间窗口重做，老驱动光线重建伪影与登录启动缓慢问题也一并处理。</description>
+			</item>
 			<item>
 				<title>Slotbound v1.0.0(2) 热修上线：窗口尺寸自选，老版 Steam 客户端也能稳跑</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4459590-8d6f1fd0/</link>
