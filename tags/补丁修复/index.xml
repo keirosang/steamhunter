@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 11 Nov 2026 20:26:27 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 08:12:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%A1%A5%E4%B8%81%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BOOM! Buster v1.0.1 补丁：存档、手柄与配色修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2498890-489dc0a0/</link>
+				<pubDate>Sat, 14 Nov 2026 08:12:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2498890-489dc0a0/</guid>
+				<description>BOOM! Buster 推送 v1.0.1 小型但关键的修复补丁，一口气解决轮次选择存档覆盖主战役、杂牌手柄死区导致的崩溃，以及 Buster 与 Bridget 的调色板异常。对长期推主线的玩家来说，这次更新最直接的价值就是存档安全与本地体验稳定。建议尽快更新并备份存档，手柄党也可重新校准死区。</description>
+			</item>
 			<item>
 				<title>Casualties: Unknown 1.0.1补丁：扫描标深度</title>
 				<link>https://info.steamhunter.link/posts/2026-11-11-4576490-1010a8a3/</link>

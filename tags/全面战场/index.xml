@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>全面战场 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E5%85%A8%E9%9D%A2%E6%88%98%E5%9C%BA/</link>
+		<description>Recent content in 全面战场 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 10:00:30 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E5%85%A8%E9%9D%A2%E6%88%98%E5%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>三角洲行动天顶港来袭：UE5 画面升级，巨浪 Riptide 把战场卷上屋顶</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2507950-b6671960/</link>
+				<pubDate>Sat, 14 Nov 2026 10:00:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2507950-b6671960/</guid>
+				<description>《三角洲行动》全面战场迎来新地图天顶港，UE5 的 Lumen 与 Nanite 把港口天际线和近景细节拉满。更关键的是 Riptide 激流机制：导弹引爆海上爆炸，巨浪分阶段穿城，退水后地面占领点直接消失，屋顶成为新前线。本文拆解地图设计逻辑、破坏范围的取舍与退水速度的平衡争议，并附上抢滩、转点与画质设置的实操建议。</description>
+			</item>
+	</channel>
+</rss>

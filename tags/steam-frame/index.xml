@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 07:14:18 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 09:36:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam-frame/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Frame 推送 SteamOS 0.5.9 Beta：串流色键透视与棱镜矫正上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4165890-034f3afb/</link>
+				<pubDate>Sat, 14 Nov 2026 09:36:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4165890-034f3afb/</guid>
+				<description>Valve 为 Steam Frame 头显推送 SteamOS 0.5.9 Beta：PC 串流新增色键透视，能把现实房间抠进 VR 画面；Steam Link 串流加入注视点锐化，无障碍选项补上棱镜矫正，另修复仪表盘闪烁、Chrome WebXR 失效与 VLC 导致的系统卡死。本文整理升级路径、双端 Beta 开启方法与避坑要点。</description>
+			</item>
 			<item>
 				<title>Steam 11·11客户端更新：成就套装上线，DLC不再拖累全成就</title>
 				<link>https://info.steamhunter.link/posts/2026-11-12-4165890-eb3ac999/</link>

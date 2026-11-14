@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 10:05:23 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 10:04:19 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steamos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SteamOS 3.10 预览版：VRR 光标与 HDR 过曝双修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-1675200-62114cee/</link>
+				<pubDate>Sat, 14 Nov 2026 10:04:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-1675200-62114cee/</guid>
+				<description>Valve 推送 SteamOS 3.10 Preview：桌面模式升级 Plasma 6.8.2、Arch 基础更新，游戏模式加入 VK_EXT_present_timing 支持，修好 VRR 下的光标跳动、UI 闪烁与《控制》HDR 过曝，还顺带解决了 UBOAT、《灰色的果实》的闪屏陈旧帧。AMD 补上 HDMI 2.1 VRR，NVIDIA 图灵及更新架构支持 Mesh Shader。预览通道有风险，本文把切换、回滚与避坑一次讲清。</description>
+			</item>
 			<item>
 				<title>Steam Deck 新 Beta 推送：帧率限制与 VRR 双修，高刷屏有救</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-1675200-9babbc70/</link>

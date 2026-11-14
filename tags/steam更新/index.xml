@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 12:21:26 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 08:12:35 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BOOM! Buster v1.0.1 补丁：存档、手柄与配色修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2498890-489dc0a0/</link>
+				<pubDate>Sat, 14 Nov 2026 08:12:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2498890-489dc0a0/</guid>
+				<description>BOOM! Buster 推送 v1.0.1 小型但关键的修复补丁，一口气解决轮次选择存档覆盖主战役、杂牌手柄死区导致的崩溃，以及 Buster 与 Bridget 的调色板异常。对长期推主线的玩家来说，这次更新最直接的价值就是存档安全与本地体验稳定。建议尽快更新并备份存档，手柄党也可重新校准死区。</description>
+			</item>
 			<item>
 				<title>放置武侠Meowxia热修上线：官方修复已知问题，挂机更稳</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-2818110-84ceaa66/</link>

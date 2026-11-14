@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 00:41:39 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 10:29:00 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%A1%A5%E4%B8%81%E8%AF%B4%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hellmouth小补丁1上线：狂信徒冷却降至1.6秒，蜡封信射速拉到400%</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5297870-d7bd1b92/</link>
+				<pubDate>Sat, 14 Nov 2026 10:29:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5297870-d7bd1b92/</guid>
+				<description>Hellmouth 推送 Minor Patch 1：狂信徒技能冷却从 1.8 秒降到 1.6 秒，蜡封信最大射速由 250% 提升至 400% 并修正描述；同时修复了 Bundarbo Village 无法进入、XBR/CRT 滤镜失效、同名遗物可重复生效三处问题，爆炸特效贴图也进行了微调。这篇帮你理清改动对实战的影响。</description>
+			</item>
 			<item>
 				<title>Sword of the Last Second 1.0补丁：剑链半价</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-5238670-fc4b63b8/</link>

@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 05:36:20 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 10:29:00 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hellmouth小补丁1上线：狂信徒冷却降至1.6秒，蜡封信射速拉到400%</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5297870-d7bd1b92/</link>
+				<pubDate>Sat, 14 Nov 2026 10:29:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5297870-d7bd1b92/</guid>
+				<description>Hellmouth 推送 Minor Patch 1：狂信徒技能冷却从 1.8 秒降到 1.6 秒，蜡封信最大射速由 250% 提升至 400% 并修正描述；同时修复了 Bundarbo Village 无法进入、XBR/CRT 滤镜失效、同名遗物可重复生效三处问题，爆炸特效贴图也进行了微调。这篇帮你理清改动对实战的影响。</description>
+			</item>
+			<item>
+				<title>三角洲行动天顶港来袭：UE5 画面升级，巨浪 Riptide 把战场卷上屋顶</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2507950-b6671960/</link>
+				<pubDate>Sat, 14 Nov 2026 10:00:30 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2507950-b6671960/</guid>
+				<description>《三角洲行动》全面战场迎来新地图天顶港，UE5 的 Lumen 与 Nanite 把港口天际线和近景细节拉满。更关键的是 Riptide 激流机制：导弹引爆海上爆炸，巨浪分阶段穿城，退水后地面占领点直接消失，屋顶成为新前线。本文拆解地图设计逻辑、破坏范围的取舍与退水速度的平衡争议，并附上抢滩、转点与画质设置的实操建议。</description>
+			</item>
+			<item>
+				<title>Steam Frame 推送 SteamOS 0.5.9 Beta：串流色键透视与棱镜矫正上线</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4165890-034f3afb/</link>
+				<pubDate>Sat, 14 Nov 2026 09:36:35 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4165890-034f3afb/</guid>
+				<description>Valve 为 Steam Frame 头显推送 SteamOS 0.5.9 Beta：PC 串流新增色键透视，能把现实房间抠进 VR 画面；Steam Link 串流加入注视点锐化，无障碍选项补上棱镜矫正，另修复仪表盘闪烁、Chrome WebXR 失效与 VLC 导致的系统卡死。本文整理升级路径、双端 Beta 开启方法与避坑要点。</description>
+			</item>
 			<item>
 				<title>LARVIS 首小时热修上线：寓言内容焕新&#43;音轨修复，小团队响应神速</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4768630-584fa19e/</link>
@@ -138,6 +159,13 @@
 				<pubDate>Fri, 13 Nov 2026 06:29:48 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-13-4694530-65a14ca3/</guid>
 				<description>《Under Tower Idle》正式告别抢先体验，1.0 版本一次性补上全新传奇 Boss「远古巨龙」、地牢突袭三选一卡牌构筑、限时黄金宝箱事件，以及覆盖全部面板的 UI 重做。本文拆解核心机制改动、巨龙输出窗口、卡牌取舍思路与首发避坑要点，帮你快速判断这次更新值不值得回坑。</description>
+			</item>
+			<item>
+				<title>《The Hundred Days》11月13日开卖，4.99美元还有免费更新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5134380-f0109a3c/</link>
+				<pubDate>Fri, 13 Nov 2026 06:22:14 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5134380-f0109a3c/</guid>
+				<description>单人开发者打造的《The Hundred Days》将于11月13日美东时间18:00（北京时间14日07:00）上线，首发价4.99美元。作者坦言首发难免残留Bug，但已知问题已全部修复，可通过支持邮箱或Steam社区中心反馈。付费DLC已在推进，本体也将持续免费扩充剧情线、机制与结局。</description>
 			</item>
 			<item>
 				<title>Bodycam v0.9「The Dead &amp; Damned」明日上线：僵尸模式、泳池重做与 EAC 反作弊齐发</title>
