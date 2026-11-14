@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 19:28:29 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 22:01:06 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Forgotten Horizons》正式发售：首发8折开荒，喊上好友联机探秘未知世界</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5247920-a9f5be99/</link>
+				<pubDate>Sat, 14 Nov 2026 22:01:06 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5247920-a9f5be99/</guid>
+				<description>MafrGames 的《Forgotten Horizons》定档 11 月 14 日 17:00（莫斯科时间，约北京时间 22:00）正式上线 Steam，首发两周 20% 折扣，原价 150 卢布、折后 120 卢布。核心卖点是神秘世界探索、好友联机开荒、多地点秘密搜集与随机挑战；官方确认发售后持续修 bug、优化玩法并追加新内容，早期入手即是低价也是一张“长期饭票”。</description>
+			</item>
+			<item>
+				<title>《Overtime: Development Hell》正式上线：五天赶工交版本，门外还有个执念粉丝蹲你</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5329860-57b89dc6/</link>
+				<pubDate>Sat, 14 Nov 2026 20:35:17 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5329860-57b89dc6/</guid>
+				<description>五天、一个必须交付的版本、一个不肯离开的“粉丝”——《Overtime: Development Hell》现已登陆 Steam。你扮演开发者 Frank，在倒计时里写代码、修 bug、加密文件，还要应付坚持加班的同事；最终交付什么、跟谁说多少实话，直接决定结局分支。本文整理发售要点、玩法拆解、入库方式与上手建议。</description>
+			</item>
+			<item>
+				<title>Morphic Wallpaper提前上线：自制动态壁纸与创意工坊分享</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5418940-f4a75ed9/</link>
+				<pubDate>Sat, 14 Nov 2026 20:34:55 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5418940-f4a75ed9/</guid>
+				<description>Morphic Wallpaper 没等到12月1日，直接在2026年11月14日上线Steam。它主打动态壁纸创作，支持自制壁纸上传创意工坊，也能直接使用现成作品。本文整理发布看点、上手路径、入库与配置建议，并附常见问题，方便PC玩家快速尝鲜。</description>
+			</item>
+			<item>
+				<title>Project BLACKNODE 小型修复补丁上线：Boss脱战失焦修复与矿石售价重平衡</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2692520-5120f13f/</link>
+				<pubDate>Sat, 14 Nov 2026 20:01:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2692520-5120f13f/</guid>
+				<description>太空射击独立作《Project BLACKNODE》推送小型修复补丁：首飞返港后音乐终于不再断档，Boss超出射程不再丢目标，另有若干UI细节打磨与矿石出售价格重新平衡。本期我逐条拆解改动对战斗节奏、刷矿收益的实际影响，附上手建议、避坑提示与常见问题解答。</description>
+			</item>
 			<item>
 				<title>Slotbound热修：全关卡首个Boss削弱，新手开荒不再卡关</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</link>
@@ -460,6 +488,13 @@
 				<pubDate>Fri, 13 Nov 2026 23:41:40 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-13-2418490-21512974/</guid>
 				<description>经过漫长开发，Trakonius 1.0 正式版终于落地：全新拳套武器上线，所有武器获得专属副能力，Free Fight 自由训练模式开放，Noble 敌人血量砍半、Boss 伤害下调 15%、祭坛解锁与升级全面提速。同时游戏升级至虚幻引擎 5.8，新增简体中文与 Steam 成就，处决镜头衔接更顺滑。本文梳理全部改动要点，并给出更新后的开荒优先级与上手建议。</description>
+			</item>
+			<item>
+				<title>《Forgotten Horizons》加入按住Q键语音：联机终于能喊话了，自由相机下蹲改为C键</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5247920-1ca3aa09/</link>
+				<pubDate>Fri, 13 Nov 2026 23:40:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5247920-1ca3aa09/</guid>
+				<description>《Forgotten Horizons》官方推出合作模式语音聊天：按住Q键即可向队友通话，松开即断，并有麦克风激活指示灯；音频设置支持选择麦克风、调节输入输出音量、本地麦克风测试，也可单独屏蔽某位玩家或整体关闭语音。语音数据不会被保存到磁盘，自由相机模式的下蹲键改为C，把Q键留给通话。</description>
 			</item>
 			<item>
 				<title>BitCraft Online 1.0 大更新：新世界开荒、图鉴全解锁与新副本</title>

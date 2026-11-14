@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>按键调整 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%8C%89%E9%94%AE%E8%B0%83%E6%95%B4/</link>
+		<description>Recent content in 按键调整 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Nov 2026 23:40:47 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%8C%89%E9%94%AE%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Forgotten Horizons》加入按住Q键语音：联机终于能喊话了，自由相机下蹲改为C键</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5247920-1ca3aa09/</link>
+				<pubDate>Fri, 13 Nov 2026 23:40:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5247920-1ca3aa09/</guid>
+				<description>《Forgotten Horizons》官方推出合作模式语音聊天：按住Q键即可向队友通话，松开即断，并有麦克风激活指示灯；音频设置支持选择麦克风、调节输入输出音量、本地麦克风测试，也可单独屏蔽某位玩家或整体关闭语音。语音数据不会被保存到磁盘，自由相机模式的下蹲键改为C，把Q键留给通话。</description>
+			</item>
+	</channel>
+</rss>
