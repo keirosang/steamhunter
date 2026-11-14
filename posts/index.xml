@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 10:29:00 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 11:03:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Alchedoom》正式发售：第一人称炼金肉鸽开炉，首发九折赌命求生</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2408840-2c64d971/</link>
+				<pubDate>Sat, 14 Nov 2026 11:03:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2408840-2c64d971/</guid>
+				<description>曾是一个点子的《Alchedoom》今天在 Steam 推出完整版：你被困在黑暗领主的炼金牢房，亲手投料、控火、赌炉，靠炼出更高品级丹药上贡续命。首发价从 US$2.09 降至 US$1.88（-10%），不是喜加一。本文梳理核心玩法、开炉取舍、购买与入库建议，并附开发者反馈渠道、玩家群和常见问题，适合喜欢资源管理与概率博弈的玩家。</description>
+			</item>
 			<item>
 				<title>Hellmouth小补丁1上线：狂信徒冷却降至1.6秒，蜡封信射速拉到400%</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-5297870-d7bd1b92/</link>
@@ -42,11 +49,25 @@
 				<description>Valve 为 Steam Frame 头显推送 SteamOS 0.5.9 Beta：PC 串流新增色键透视，能把现实房间抠进 VR 画面；Steam Link 串流加入注视点锐化，无障碍选项补上棱镜矫正，另修复仪表盘闪烁、Chrome WebXR 失效与 VLC 导致的系统卡死。本文整理升级路径、双端 Beta 开启方法与避坑要点。</description>
 			</item>
 			<item>
+				<title>The Intruder 正式发售：第一人称潜行恐怖短篇，主打短而高压的窒息体验</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-2054440-145577df/</link>
+				<pubDate>Sat, 14 Nov 2026 09:23:57 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-2054440-145577df/</guid>
+				<description>独立开发者 Orig 的《The Intruder》正式上架 Steam（AppID 2054440），定位第一人称潜行恐怖，官方明确主打“短但紧张”的紧凑体验，适合关灯戴耳机一口气通关。本文梳理本次发售要点、潜行恐怖的通用上手打法、入库与退款注意事项，以及遇到 Bug 时最高效的反馈路径，帮你判断这款小品值不值得现在入手。</description>
+			</item>
+			<item>
 				<title>《Adventures Online》EA免费上线：六族六职六角格战棋，永久免费不卖数值</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4706390-0113f4d7/</link>
 				<pubDate>Sat, 14 Nov 2026 09:08:06 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-14-4706390-0113f4d7/</guid>
 				<description>《Adventures Online》以抢先体验形式免费上线，今日开玩即永久入库。六种族六职业开荒、实时共享世界、六角格回合制战斗，掩体视线侧翼全都要算；锻造炼金烹饪附魔直接反哺战力。官方明确所有玩法系统全在免费版里，创始人包只给徽章称号光环宠物，无开箱、无高级货币、不卖强度。</description>
+			</item>
+			<item>
+				<title>《Rogue Reels》1.0上线：老虎机肉鸽三机台，首发两周85折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-3763080-f1c77e80/</link>
+				<pubDate>Sat, 14 Nov 2026 08:56:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-3763080-f1c77e80/</guid>
+				<description>《Rogue Reels》1.0 正式登陆 Steam，Windows 与 macOS 双端开卖，首发两周 85 折。这是一款把老虎机塞进肉鸽框架的赌桌小品：转转轮、改符号、堆升级，每 50 转给你一次「提现跑路」还是「硬刚下去」的选择。三台机台、六档 Stake、60+ 局内升级加永久商店、40 个成就、云存档、全手柄支持、简繁中文齐活，试玩版进度还能直接接管。</description>
 			</item>
 			<item>
 				<title>BOOM! Buster v1.0.1 补丁：存档、手柄与配色修复</title>
