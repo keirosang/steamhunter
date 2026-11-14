@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 08 Nov 2026 08:01:53 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 02:52:13 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%81%94%E6%9C%BA%E9%81%BF%E5%9D%91/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Tactics: Setting Sun》Hotfix 1.01 热修解析：小Bug修复，联机先同步版本</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-2392710-0757bf0c/</link>
+				<pubDate>Sun, 15 Nov 2026 02:52:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-2392710-0757bf0c/</guid>
+				<description>《Tactics: Setting Sun》推送 Hotfix 1.01，官方说明仅修复若干小问题，没有新地图、新角色或平衡性调整。对已入手玩家来说，这是一次维护型更新，联机前务必统一版本；对观望玩家而言，购买决策不变，等史低更稳。如果只想知道结论：已买就更新，联机先对版本；没买不用急，等折扣更香。</description>
+			</item>
+			<item>
+				<title>Casualties: Unknown 1.0.2：液体速转&#43;背包优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4576490-d690cb26/</link>
+				<pubDate>Sat, 14 Nov 2026 20:34:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4576490-d690cb26/</guid>
+				<description>《Casualties: Unknown》1.0.2补丁上线，这次没有新地图，却把玩家天天要用的背包、液体容器和商人界面狠狠干了一遍：Shift拖拽可快速倒液体，材料自动进袋，Milky能整盒装填霰弹枪，任务物品免疫岩浆；同时修复空倒掉包、仙人掌骑脸、修PEO剩1%等老毛病。本文把改动拆成可执行清单，附联机避坑与上手建议。</description>
+			</item>
 			<item>
 				<title>Dub Party 1.0.1 更新实装：逐句音量淡入淡出、群体配音上线，韩语菲律宾语齐开</title>
 				<link>https://info.steamhunter.link/posts/2026-11-08-5259730-5cd907cd/</link>

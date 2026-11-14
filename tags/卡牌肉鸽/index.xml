@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Nov 2026 02:00:29 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 04:59:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%8D%A1%E7%89%8C%E8%82%89%E9%B8%BD/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</link>
+				<pubDate>Sun, 15 Nov 2026 04:59:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</guid>
+				<description>尖塔不打烊，周末照修 bug。《杀戮尖塔2》Beta 分支推送 v0.113.1 小型热修：为 Aeonglass Dominion、Explosive、Insatiable Dominion 等五个 Dread 能力补齐图标，箭矢改为插在敌人身上而非模型中心；愚者（The Fool）的 Stretch 与 Adroit 结算、Show Off+ 升级预览高亮得到修正，另有一批土耳其语时间线卡死、跑图历史重复记录、多语言文本错位等修复。</description>
+			</item>
 			<item>
 				<title>《Slumber Realm》正式发售：四年打磨的梦境卡牌肉鸽，四周免费扩展同步官宣</title>
 				<link>https://info.steamhunter.link/posts/2026-11-05-3325390-2e860420/</link>

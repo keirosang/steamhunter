@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>生存钓鱼 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%94%9F%E5%AD%98%E9%92%93%E9%B1%BC/</link>
+		<description>Recent content in 生存钓鱼 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 15 Nov 2026 03:01:36 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%94%9F%E5%AD%98%E9%92%93%E9%B1%BC/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DREADMOOR 抢先体验第6更：Steam成就自动补发、DLC物品修复与钓鱼任务标记修正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3629430-a878990c/</link>
+				<pubDate>Sun, 15 Nov 2026 03:01:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3629430-a878990c/</guid>
+				<description>DREADMOOR 抢先体验第六次更新已推送，本次重点集中在三件事：Steam 成就的补发机制、DLC 归属校验导致的物品漏发，以及 Essence 交付钓鱼任务的标记修正。同时修掉了锁定船模块能被强行制造的漏洞，罐架现在会保留燃料罐余量，首个燃料罐不再沉底，第一人称开船时多余界面元素也已隐藏。</description>
+			</item>
+	</channel>
+</rss>

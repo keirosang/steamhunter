@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="尖塔不打烊，周末照修 bug。《杀戮尖塔2》Beta 分支推送 v0.113.1 小型热修：为 Aeonglass Dominion、Explosive、Insatiable Dominion 等五个 Dread 能力补齐图标，箭矢改为插在敌人身上而非模型中心；愚者（The Fool）的 Stretch 与 Adroit 结算、Show Off&#43; 升级预览高亮得到修正，另有一批土耳其语时间线卡死、跑图历史重复记录、多语言文本错位等修复。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正">
+  <meta property="og:description" content="尖塔不打烊，周末照修 bug。《杀戮尖塔2》Beta 分支推送 v0.113.1 小型热修：为 Aeonglass Dominion、Explosive、Insatiable Dominion 等五个 Dread 能力补齐图标，箭矢改为插在敌人身上而非模型中心；愚者（The Fool）的 Stretch 与 Adroit 结算、Show Off&#43; 升级预览高亮得到修正，另有一批土耳其语时间线卡死、跑图历史重复记录、多语言文本错位等修复。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/1e1362a79ba13229.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Slay the Spire 2</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 2868840</span>
+      
+    </div>
+
+    <h1 class="article-title">《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-15T04:59:18&#43;08:00" class="meta-date">
+          📅 2026-11-15 04:59
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 5 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 2069 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/2868840/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/2868840" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/1e1362a79ba13229.jpg" alt="《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>尖塔不打烊，周末照修 bug。《杀戮尖塔2》Beta 分支推送 v0.113.1 小型热修：为 Aeonglass Dominion、Explosive、Insatiable Dominion 等五个 Dread 能力补齐图标，箭矢改为插在敌人身上而非模型中心；愚者（The Fool）的 Stretch 与 Adroit 结算、Show Off&#43; 升级预览高亮得到修正，另有一批土耳其语时间线卡死、跑图历史重复记录、多语言文本错位等修复。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="杀戮尖塔2v01131-beta-热修全解读恐灵图标补齐愚者两处结算修正">《杀戮尖塔2》v0.113.1 Beta 热修全解读：恐灵图标补齐，愚者两处结算修正</h1>
+<p>各位爬塔人，周末好。本周的 Beta 分支没有大动作，官方值班同学（自称 weekend Casey）端上来的是一盘「小修小补」：给几个 Dread 能力补上图标记，把箭矢的插法从「钉在敌人肚脐眼」改成「插在身上」，顺手把愚者那套花活的两处结算掰正。别看更新不大，这种细碎活儿恰恰是卡牌游戏手感的毛细血管——数值没动，但读图效率、UI 反馈和本地化体验都在悄悄变好。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>版本号</strong>：v0.113.1，属于 Beta 测试分支的小型热修补丁，不改动核心数值与卡池。</li>
+<li><strong>美术</strong>：Aeonglass Dominion、Explosive、Insatiable Dominion、Lagavulin Matriarch Dominion、You Are Mine 五个 Dread 能力补齐图标；箭矢命中后改为附着在敌人身体各部位，不再统一戳在模型正中央。</li>
+<li><strong>文案</strong>：愚者（The Fool）部分 epoch 描述文本做了润色。</li>
+<li><strong>修复</strong>：土耳其语打开愚者 epoch 导致时间线卡死、跑图历史重复记录、药水解锁界面卡牌预览遮挡文字、Insatiable Dominion 重复 tooltip、日语 Arrow tooltip 空箭时文本破损、繁中复数措辞误显等。</li>
+<li><strong>愚者机制</strong>：Stretch 现在会把 Adroit 提供的格挡正确计入「自身不产生格挡」的卡牌（如 Ki Hop）；Show Off+ 的升级预览不再把 Aim 高亮为绿色。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="一五个-dread-能力终于有了脸">一、五个 Dread 能力终于有了脸</h3>
+<p>Dread 体系里这几张能力此前处于「有名字没图标」的尴尬期，玩家在读牌、看 buff 栏时全靠记忆硬扛。这次一次性补齐 <strong>Aeonglass Dominion、Explosive、Insatiable Dominion、Lagavulin Matriarch Dominion、You Are Mine</strong> 的图标，对高强度手牌流的玩家来说，属于纯正的可读性升级——少一次鼠标悬停，就少一次在对面多段攻击面前的心跳加速。</p>
+<p>顺带一提，<strong>Lagavulin Matriarch Dominion</strong> 这个名字本身就足够让老玩家脊背发凉，图标补上之后，那份压迫感大概会更立体一点。</p>
+<h3 id="二箭矢不再钉中心">二、箭矢不再「钉中心」</h3>
+<p>一个很小的视觉修正：箭矢现在会附着在敌人身体的各个部位，而不是永远插在模型中心点。听上去无关痛痒，但实际打起来，尤其是面对体型较大或多部位表现的敌人时，命中反馈的真实感会明显提升——毕竟没人希望自己的箭像贴纸一样浮在怪物的正中间。</p>
+<h3 id="三愚者的两处结算与-ui-修正">三、愚者的两处结算与 UI 修正</h3>
+<p>这是本次热修里唯一沾「机制」的部分，值得单独划重点：</p>
+<ol>
+<li><strong>Stretch + Adroit 的格挡归属</strong>：修复后，Stretch 会把 Adroit 提供的格挡正确计入那些<strong>本身不产生格挡</strong>的卡牌，典型例子就是 Ki Hop。此前这类卡在结算上存在歧义，现在逻辑统一，愚者卡组的防御端计算更符合直觉。</li>
+<li><strong>Show Off+ 的升级预览高亮</strong>：升级预览此前会把 Aim 标成绿色，暗示升级会改动它，但实际升级并不影响 Aim。现在高亮取消，预览与实际效果对齐，避免玩家在升级界面做出错误决策。</li>
+</ol>
+<h3 id="四本地化与稳定性补丁">四、本地化与稳定性补丁</h3>
+<ul>
+<li>土耳其语环境下，打开愚者部分 epoch 会导致时间线卡死，已修复。</li>
+<li>在跑图历史（Run History）里查看一场已受损的对局，不再重复生成副本记录。</li>
+<li>药水解锁界面悬停药水时，卡牌预览不再遮挡药水文本。</li>
+<li>移除 <strong>Insatiable Dominion</strong> 上重复的 tooltip。</li>
+<li>修复日语 Arrow tooltip 在手牌无箭时显示破碎文本的问题。</li>
+<li>修复繁中文本始终显示复数措辞的问题，并更新多语言翻译、修正若干格式错乱。</li>
+</ul>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ul>
+<li><strong>怎么进 Beta 分支</strong>：Steam 库中右键《Slay the Spire 2》→「属性」→「测试版」→ 在下拉中选择 Beta 分支，等待小体积补丁下载完成后即可进入。想回稳就切回「无」，操作可逆。</li>
+<li><strong>先备份存档</strong>：Beta 分支的存档结构与正式版未必完全兼容，切分支前建议手动拷一份本地存档目录，避免来回横跳时踩坑。</li>
+<li><strong>愚者卡组可以重新试手</strong>：Stretch 与 Adroit 的结算修正会改变部分防御构筑的实际表现，之前因为结算怪异而放弃 Ki Hop 的玩家，值得再开一局验证手感。</li>
+<li><strong>别指望数值变天</strong>：本次没有平衡性调整，环境答案不会因为 v0.113.1 而翻篇。当前主流打法照旧，这属于纯粹的体验优化。</li>
+<li><strong>多语言玩家可直接复测</strong>：此前繁中复数显示、日语 tooltip 破碎的问题都已处理，若仍有残留文本错位，正好是反馈的好时机。</li>
+</ul>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间收到这类 Beta 热修推送、限时免费领取和闪击特惠，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。秒级推送、永久入库提醒、临时工折扣一个不漏，比反复刷 Steam 商店页省心得多。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：v0.113.1 什么时候进正式分支？</strong>
+A：官方本次公告未给出正式分支的上线时间，只说明这是 Beta 分支的小型热修。按以往节奏，这类修复通常会随下一个正式版本合并，具体日期需以官方后续公告为准。</p>
+<p><strong>Q2：切到 Beta 分支会影响我的正式存档吗？</strong>
+A：两个分支共用同一套本地存储路径，切换后可能出现版本回退不兼容的情况。稳妥做法是切分支前手动备份存档文件夹，回正式分支时再还原，别拿主力进度做实验。</p>
+<p><strong>Q3：Stretch 的修正算加强还是削弱？</strong>
+A：本质是结算逻辑的统一，不是数值调整。对依赖 Adroit 提供格挡、同时打出 Ki Hop 这类「自身不产格挡」卡牌的构筑来说，实际防御表现会更接近纸面预期；对其它构筑基本无感。</p>
+<p><strong>Q4：箭矢改动有实战意义吗？</strong>
+A：纯视觉层面。它不会改变命中判定或伤害计算，只是让箭头附着位置更自然，多段攻击时更容易看清命中数量。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/%e6%9d%80%e6%88%ae%e5%b0%96%e5%a1%942/" class="article-tag-item">#杀戮尖塔2</a>
+          
+          <a href="/tags/%e7%89%88%e6%9c%ac%e6%9b%b4%e6%96%b0/" class="article-tag-item">#版本更新</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e8%a1%a5%e4%b8%81/" class="article-tag-item">#热修补丁</a>
+          
+          <a href="/tags/%e5%8d%a1%e7%89%8c%e8%82%89%e9%b8%bd/" class="article-tag-item">#卡牌肉鸽</a>
+          
+          <a href="/tags/Steam/" class="article-tag-item">#Steam</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-15-3629430-a878990c/" class="sibling-title">DREADMOOR 抢先体验第6更：Steam成就自动补发、DLC物品修复与钓鱼任务标记修正</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#一五个-dread-能力终于有了脸">一、五个 Dread 能力终于有了脸</a></li>
+        <li><a href="#二箭矢不再钉中心">二、箭矢不再「钉中心」</a></li>
+        <li><a href="#三愚者的两处结算与-ui-修正">三、愚者的两处结算与 UI 修正</a></li>
+        <li><a href="#四本地化与稳定性补丁">四、本地化与稳定性补丁</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

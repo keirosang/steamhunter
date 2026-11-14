@@ -10,15 +10,57 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 01:33:05 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 04:59:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</link>
+				<pubDate>Sun, 15 Nov 2026 04:59:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</guid>
+				<description>尖塔不打烊，周末照修 bug。《杀戮尖塔2》Beta 分支推送 v0.113.1 小型热修：为 Aeonglass Dominion、Explosive、Insatiable Dominion 等五个 Dread 能力补齐图标，箭矢改为插在敌人身上而非模型中心；愚者（The Fool）的 Stretch 与 Adroit 结算、Show Off+ 升级预览高亮得到修正，另有一批土耳其语时间线卡死、跑图历史重复记录、多语言文本错位等修复。</description>
+			</item>
+			<item>
+				<title>DREADMOOR 抢先体验第6更：Steam成就自动补发、DLC物品修复与钓鱼任务标记修正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3629430-a878990c/</link>
+				<pubDate>Sun, 15 Nov 2026 03:01:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3629430-a878990c/</guid>
+				<description>DREADMOOR 抢先体验第六次更新已推送，本次重点集中在三件事：Steam 成就的补发机制、DLC 归属校验导致的物品漏发，以及 Essence 交付钓鱼任务的标记修正。同时修掉了锁定船模块能被强行制造的漏洞，罐架现在会保留燃料罐余量，首个燃料罐不再沉底，第一人称开船时多余界面元素也已隐藏。</description>
+			</item>
+			<item>
+				<title>《Overtime: Development Hell》v1.0更新：追踪者提速，电梯标识上线，互动Bug修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5329860-cd6307be/</link>
+				<pubDate>Sun, 15 Nov 2026 02:53:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5329860-cd6307be/</guid>
+				<description>《Overtime: Development Hell》推送 v1.0 版本更新：追踪者（Stalker）行走速度被调快，电梯新增“停用中”标识减少误判，同时修复了文本显示异常与 PC 交互开关反复触发的问题。本次属于体验向微调，核心恐怖追逐节奏与场景可读性均有提升。</description>
+			</item>
+			<item>
+				<title>《Tactics: Setting Sun》Hotfix 1.01 热修解析：小Bug修复，联机先同步版本</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-2392710-0757bf0c/</link>
+				<pubDate>Sun, 15 Nov 2026 02:52:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-2392710-0757bf0c/</guid>
+				<description>《Tactics: Setting Sun》推送 Hotfix 1.01，官方说明仅修复若干小问题，没有新地图、新角色或平衡性调整。对已入手玩家来说，这是一次维护型更新，联机前务必统一版本；对观望玩家而言，购买决策不变，等史低更稳。如果只想知道结论：已买就更新，联机先对版本；没买不用急，等折扣更香。</description>
+			</item>
+			<item>
+				<title>《GRAND TIDDY ADVENTURES》正式发售：黑帮犯罪新作上线，首批5枚激活码免费送</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5356830-06253543/</link>
+				<pubDate>Sun, 15 Nov 2026 02:40:49 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5356830-06253543/</guid>
+				<description>犯罪题材叙事新作《GRAND TIDDY ADVENTURES》登陆 Steam：抢劫翻车后躲进俱乐部，被 Moretti 家族与警探 Hart 同时盯上，谈崩了还能开车跑路。首发放出 5 枚激活码先到先得，本文附领取顺序、入库步骤与上手避坑建议，成人向内容请自行注意分级。</description>
+			</item>
 			<item>
 				<title>《One More Lawn》销量破5万份：开发者发长文谢玩家，并公开bug反馈通道</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-5378110-3df3d799/</link>
 				<pubDate>Sun, 15 Nov 2026 01:33:05 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-15-5378110-3df3d799/</guid>
 				<description>独立割草新作《One More Lawn》全球销量正式突破 50,000 份，开发者发长文向玩家致谢，坦言游戏仍有 bug 与粗糙之处，承诺以最快速度持续修复。公告同时明确了三条官方反馈通道：标题界面与暂停菜单的 “Found a bug?” 按钮、Steam 讨论区以及 Discord 社区。本文梳理这次里程碑公告的全部要点、正确的反馈姿势与联机避坑建议。</description>
+			</item>
+			<item>
+				<title>Wolves In The Flock 临发更新：静心强化与光敏预警</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5501760-75bfe10e/</link>
+				<pubDate>Sun, 15 Nov 2026 01:32:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5501760-75bfe10e/</guid>
+				<description>《Wolves In The Flock》在正式发布前推送“Enhancing Calm”更新：为温和设置加入更多安抚效果，补充光敏警告，加深开场过场，新增法典结局图标、多语言与通关评价提醒；同时修复灯笼聚焦、商店销售平衡、狼毒法术视觉裁剪、结局角色朝向、文本弹窗和 HUD 等一揽子问题。本文梳理更新要点、设置建议与常见疑问。</description>
 			</item>
 			<item>
 				<title>《Chisel Me This》正式发售：创意工坊开放，首周25%折扣&#43;多语言支持</title>
@@ -40,6 +82,13 @@
 				<pubDate>Sun, 15 Nov 2026 00:21:37 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-15-4841590-42b5ea88/</guid>
 				<description>《Dungebra》1.2.0 版本正式落地，本次更新对完整游戏卡牌进行重做，围绕元素层数的「生成、增幅、消耗」重构了卡牌协同链路，同时上线每日任务入口、进度通知与奖励领取，并补全英、葡、西三语的界面与战斗历史。老存档的卡牌 ID 全部保留，直接套用新版卡牌效果，无需重开。</description>
+			</item>
+			<item>
+				<title>《YoYo Blade》Steam上线：元素流派开砍，10项成就挑战</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5159330-d96a270c/</link>
+				<pubDate>Sun, 15 Nov 2026 00:21:09 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5159330-d96a270c/</guid>
+				<description>等待最终审核的小插曲结束后，《YoYo Blade》现已正式登陆 Steam。玩家将挥刀迎战成波敌人，通过技能树与元素专精塑造自己的构筑，全游戏还内置 10 项 Steam 成就可供挑战。独立开发者 Vivien 邀请大家在 Steam 讨论区分享跑局体验、提出反馈或报告问题，一起享受这场砍杀狂欢。</description>
 			</item>
 			<item>
 				<title>《Minerooms》正式发售：第一人称放置采矿清洁小品，40项成就解压挖矿</title>
@@ -82,6 +131,13 @@
 				<pubDate>Sat, 14 Nov 2026 20:34:55 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-14-5418940-f4a75ed9/</guid>
 				<description>Morphic Wallpaper 没等到12月1日，直接在2026年11月14日上线Steam。它主打动态壁纸创作，支持自制壁纸上传创意工坊，也能直接使用现成作品。本文整理发布看点、上手路径、入库与配置建议，并附常见问题，方便PC玩家快速尝鲜。</description>
+			</item>
+			<item>
+				<title>Casualties: Unknown 1.0.2：液体速转&#43;背包优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4576490-d690cb26/</link>
+				<pubDate>Sat, 14 Nov 2026 20:34:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4576490-d690cb26/</guid>
+				<description>《Casualties: Unknown》1.0.2补丁上线，这次没有新地图，却把玩家天天要用的背包、液体容器和商人界面狠狠干了一遍：Shift拖拽可快速倒液体，材料自动进袋，Milky能整盒装填霰弹枪，任务物品免疫岩浆；同时修复空倒掉包、仙人掌骑脸、修PEO剩1%等老毛病。本文把改动拆成可执行清单，附联机避坑与上手建议。</description>
 			</item>
 			<item>
 				<title>《Twisted Childhood》发售：五种童话玩法互锁，150&#43;愿望改写规则</title>
@@ -1370,6 +1426,13 @@
 				<pubDate>Fri, 13 Nov 2026 00:22:32 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-13-236390-804242b5/</guid>
 				<description>2.61.0.13 补丁没有新载具也没有新地图，但对实战影响不小：以色列 AH-60、意系 AH-129D 与虎式 HAD Block 2 的 Spike NLOS 被换成射程更短的 Spike ER；豹2A8/2A8NO 侧箱从复合材料降为 20mm 结构钢；日系六台载具的行星齿轮转向机制被移除。此外还修正了 F-2A ADTW 低 BR 挂 AAM-4、自定义 BR 武器锁定、ATGM 瞄准点偏移等一堆老问题。</description>
+			</item>
+			<item>
+				<title>Wolves In The Flock更新：幻象库与成就上线，性能优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5501760-ccf22044/</link>
+				<pubDate>Fri, 13 Nov 2026 00:21:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5501760-ccf22044/</guid>
+				<description>《Wolves In The Flock》发布「Moon Magic」更新：新增多段侏儒幻象、法典幻象库与对应成就，重做简化HUD并加入帧率上限设置；同时修复全平台性能问题、幻象播放中的视觉小瑕疵，以及Mr Whiskers的造型与聊天气泡跳过逻辑。本次为内容与稳定性补丁，不含折扣或限免信息。</description>
 			</item>
 			<item>
 				<title>《Your Sweet Little Kitty》上架Steam：桌面像素小猫&#43;150件衣橱DLC同步发售</title>

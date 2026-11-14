@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 01:33:05 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 04:59:18 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</link>
+				<pubDate>Sun, 15 Nov 2026 04:59:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</guid>
+				<description>尖塔不打烊，周末照修 bug。《杀戮尖塔2》Beta 分支推送 v0.113.1 小型热修：为 Aeonglass Dominion、Explosive、Insatiable Dominion 等五个 Dread 能力补齐图标，箭矢改为插在敌人身上而非模型中心；愚者（The Fool）的 Stretch 与 Adroit 结算、Show Off+ 升级预览高亮得到修正，另有一批土耳其语时间线卡死、跑图历史重复记录、多语言文本错位等修复。</description>
+			</item>
+			<item>
+				<title>《Overtime: Development Hell》v1.0更新：追踪者提速，电梯标识上线，互动Bug修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5329860-cd6307be/</link>
+				<pubDate>Sun, 15 Nov 2026 02:53:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5329860-cd6307be/</guid>
+				<description>《Overtime: Development Hell》推送 v1.0 版本更新：追踪者（Stalker）行走速度被调快，电梯新增“停用中”标识减少误判，同时修复了文本显示异常与 PC 交互开关反复触发的问题。本次属于体验向微调，核心恐怖追逐节奏与场景可读性均有提升。</description>
+			</item>
 			<item>
 				<title>《One More Lawn》销量破5万份：开发者发长文谢玩家，并公开bug反馈通道</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-5378110-3df3d799/</link>
