@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Warstead on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/warstead/</link>
+		<description>Recent content in Warstead on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 17:18:59 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/warstead/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Warstead开发者手滑误点1.0发布键，抢先体验提前落幕但更新路线照旧</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5285650-f00cd051/</link>
+				<pubDate>Sat, 14 Nov 2026 17:18:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5285650-f00cd051/</guid>
+				<description>半睡半醒之间，Night Haven Interactive 的开发者 Michael 在 Steamworks 后台误点了绿色发布按钮，把还在抢先体验阶段的 Warstead 一键送进了 1.0 正式版，而且这个操作无法撤回。他已联系 Steam 客服寻求补救，同时明确表态：所有已公布的改进、扩展内容、平衡性调整与性能优化全部按原计划推进，社区投票与玩家反馈依旧是开发流程的核心环节。</description>
+			</item>
+			<item>
+				<title>《Warstead》大更新：手动修路&#43;房屋原地升级&#43;性能暴涨，建造党狂喜</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5285650-807c3683/</link>
+				<pubDate>Fri, 13 Nov 2026 21:07:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5285650-807c3683/</guid>
+				<description>《Warstead》最新大版本上线：道路不再自动铺设，改由玩家手动规划，并新增蓝图模式允许材料未齐时先占地；房屋可在原地升级为中型或大型住宅，居民、库存与道路连接全部保留；护林员种植提速、渔船让渔屋产量翻倍；干旱被锁定在6至8月；贸易订单可连发、护送可单趟开关。整轮更新重点还压在大居点与大运输网络下的性能优化。</description>
+			</item>
+	</channel>
+</rss>

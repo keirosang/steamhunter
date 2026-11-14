@@ -49,6 +49,13 @@
 				<description>上线首个小时，Semicollon Estúdios 就给 LARVIS 推送了 Hour-1 Patch：寓言（Fables）文本与条目内容完成更新，困扰部分玩家的原声/音轨播放问题同步修复。制作人 J.P. Bargo 与 Macchato 公开致谢并广征反馈。本文把这次热修的看点、更新后该做什么、以及新玩家入坑与开黑避坑要点一次讲清。</description>
 			</item>
 			<item>
+				<title>Ski-E-O!滑雪场大修版更新：缆车防崩、鬼顾客清场与雪山真高同步</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4493130-d54d4bf2/</link>
+				<pubDate>Sat, 14 Nov 2026 04:37:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4493130-d54d4bf2/</guid>
+				<description>Ski-E-O! Ski Resort Tycoon 推送 CL7794 补丁：移动或拆除建筑会把屋内游客从前门请出，缆车终端操作不再触发崩溃，修复灯光与人群相关的两处罕见闪退；Areskutan 换成真实高度地形，旧存档保留 Legacy 版本不损建筑，沙盒演示档进本体还能解锁完整声望层级。</description>
+			</item>
+			<item>
 				<title>DREADMOOR 抢先体验第5更：任务链修复、存档稳定性与手柄适配全面优化</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-3629430-7f49bfbc/</link>
 				<pubDate>Sat, 14 Nov 2026 02:41:12 +0800</pubDate>
@@ -124,6 +131,13 @@
 				<pubDate>Fri, 13 Nov 2026 21:26:06 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-13-1942280-a35aaca7/</guid>
 				<description>《土豆兄弟》1.2.0.3 热修补丁实装：手柄逛商店时「焦点失踪」的问题被修好，Primal Dread 内容包则迎来一轮实打实的平衡调整——穴居人不再以回旋镖开局，雪球与肿瘤突变的元素伤害白嫖通道被堵死，弹药龙终于学会边跑边打，腕龙的脚也能被武器锁定并命中，顺带修掉了脚部激活时结束波次导致的崩溃。</description>
+			</item>
+			<item>
+				<title>《Warstead》大更新：手动修路&#43;房屋原地升级&#43;性能暴涨，建造党狂喜</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5285650-807c3683/</link>
+				<pubDate>Fri, 13 Nov 2026 21:07:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5285650-807c3683/</guid>
+				<description>《Warstead》最新大版本上线：道路不再自动铺设，改由玩家手动规划，并新增蓝图模式允许材料未齐时先占地；房屋可在原地升级为中型或大型住宅，居民、库存与道路连接全部保留；护林员种植提速、渔船让渔屋产量翻倍；干旱被锁定在6至8月；贸易订单可连发、护送可单趟开关。整轮更新重点还压在大居点与大运输网络下的性能优化。</description>
 			</item>
 			<item>
 				<title>Slotbound v1.0.0(2) 热修上线：窗口尺寸自选，老版 Steam 客户端也能稳跑</title>

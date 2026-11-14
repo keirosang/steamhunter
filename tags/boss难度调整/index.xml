@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Boss难度调整 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/boss%E9%9A%BE%E5%BA%A6%E8%B0%83%E6%95%B4/</link>
+		<description>Recent content in Boss难度调整 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 19:28:29 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/boss%E9%9A%BE%E5%BA%A6%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound热修：全关卡首个Boss削弱，新手开荒不再卡关</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</link>
+				<pubDate>Sat, 14 Nov 2026 19:28:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</guid>
+				<description>Slotbound 推送 v1.0.0 (6) 热修补丁，核心改动是下调每个关卡首个 Boss 的难度，并顺手修掉一批小 Bug。对刚入坑、卡在首关首领战的玩家来说，这次调整明显更友好，前期试错成本降低；已经入库的玩家只要更新客户端即可生效，无需额外操作，建议开荒前先确认版本号，再决定是否调整构筑。</description>
+			</item>
+	</channel>
+</rss>

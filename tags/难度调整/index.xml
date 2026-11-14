@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 30 Oct 2026 09:15:28 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 17:46:59 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E9%9A%BE%E5%BA%A6%E8%B0%83%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound热修：整体降难度，技能触发与骆驼换位修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</link>
+				<pubDate>Sat, 14 Nov 2026 17:46:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</guid>
+				<description>《Slotbound》v1.0.0（5）热修已上线，整体难度下调，开荒与构筑容错更高；部分单位技能在特定敌人面前不触发或丢失的问题得到修复，职业晋升卡属性箭头显示也恢复正常。荒原骆驼在已有骑手时再放单位不再异常换人，减少手滑。更新后建议先确认版本号，再进游戏验证关键单位与骆驼操作。</description>
+			</item>
 			<item>
 				<title>MESHFALL 2.79.0：Boss血量&#43;50%，高难开荒再上强度</title>
 				<link>https://info.steamhunter.link/posts/2026-10-30-5415540-214b342a/</link>

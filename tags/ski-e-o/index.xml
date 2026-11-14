@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 09:08:46 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 04:37:52 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/ski-e-o/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ski-E-O!滑雪场大修版更新：缆车防崩、鬼顾客清场与雪山真高同步</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4493130-d54d4bf2/</link>
+				<pubDate>Sat, 14 Nov 2026 04:37:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4493130-d54d4bf2/</guid>
+				<description>Ski-E-O! Ski Resort Tycoon 推送 CL7794 补丁：移动或拆除建筑会把屋内游客从前门请出，缆车终端操作不再触发崩溃，修复灯光与人群相关的两处罕见闪退；Areskutan 换成真实高度地形，旧存档保留 Legacy 版本不损建筑，沙盒演示档进本体还能解锁完整声望层级。</description>
+			</item>
 			<item>
 				<title>Ski-E-O!滑雪场大亨 CL7772 更新：缆车升级不再把客人甩半空</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4493130-8d0330ff/</link>

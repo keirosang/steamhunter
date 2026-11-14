@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>技能修复 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%8A%80%E8%83%BD%E4%BF%AE%E5%A4%8D/</link>
+		<description>Recent content in 技能修复 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 17:46:59 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%8A%80%E8%83%BD%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound热修：整体降难度，技能触发与骆驼换位修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</link>
+				<pubDate>Sat, 14 Nov 2026 17:46:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</guid>
+				<description>《Slotbound》v1.0.0（5）热修已上线，整体难度下调，开荒与构筑容错更高；部分单位技能在特定敌人面前不触发或丢失的问题得到修复，职业晋升卡属性箭头显示也恢复正常。荒原骆驼在已有骑手时再放单位不再异常换人，减少手滑。更新后建议先确认版本号，再进游戏验证关键单位与骆驼操作。</description>
+			</item>
+	</channel>
+</rss>

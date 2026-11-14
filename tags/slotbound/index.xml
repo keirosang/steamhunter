@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 02:03:30 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 19:28:29 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/slotbound/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound热修：全关卡首个Boss削弱，新手开荒不再卡关</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</link>
+				<pubDate>Sat, 14 Nov 2026 19:28:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</guid>
+				<description>Slotbound 推送 v1.0.0 (6) 热修补丁，核心改动是下调每个关卡首个 Boss 的难度，并顺手修掉一批小 Bug。对刚入坑、卡在首关首领战的玩家来说，这次调整明显更友好，前期试错成本降低；已经入库的玩家只要更新客户端即可生效，无需额外操作，建议开荒前先确认版本号，再决定是否调整构筑。</description>
+			</item>
+			<item>
+				<title>Slotbound热修：整体降难度，技能触发与骆驼换位修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</link>
+				<pubDate>Sat, 14 Nov 2026 17:46:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</guid>
+				<description>《Slotbound》v1.0.0（5）热修已上线，整体难度下调，开荒与构筑容错更高；部分单位技能在特定敌人面前不触发或丢失的问题得到修复，职业晋升卡属性箭头显示也恢复正常。荒原骆驼在已有骑手时再放单位不再异常换人，减少手滑。更新后建议先确认版本号，再进游戏验证关键单位与骆驼操作。</description>
+			</item>
 			<item>
 				<title>Slotbound v1.0.0(4) 热修上线：前两关难度下调，新增最高帧率选项与多项启动修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-063a645d/</link>

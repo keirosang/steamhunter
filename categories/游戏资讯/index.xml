@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 16:41:53 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 19:28:29 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound热修：全关卡首个Boss削弱，新手开荒不再卡关</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</link>
+				<pubDate>Sat, 14 Nov 2026 19:28:29 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</guid>
+				<description>Slotbound 推送 v1.0.0 (6) 热修补丁，核心改动是下调每个关卡首个 Boss 的难度，并顺手修掉一批小 Bug。对刚入坑、卡在首关首领战的玩家来说，这次调整明显更友好，前期试错成本降低；已经入库的玩家只要更新客户端即可生效，无需额外操作，建议开荒前先确认版本号，再决定是否调整构筑。</description>
+			</item>
+			<item>
+				<title>Slotbound热修：整体降难度，技能触发与骆驼换位修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</link>
+				<pubDate>Sat, 14 Nov 2026 17:46:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4459590-a405de43/</guid>
+				<description>《Slotbound》v1.0.0（5）热修已上线，整体难度下调，开荒与构筑容错更高；部分单位技能在特定敌人面前不触发或丢失的问题得到修复，职业晋升卡属性箭头显示也恢复正常。荒原骆驼在已有骑手时再放单位不再异常换人，减少手滑。更新后建议先确认版本号，再进游戏验证关键单位与骆驼操作。</description>
+			</item>
+			<item>
+				<title>Warstead开发者手滑误点1.0发布键，抢先体验提前落幕但更新路线照旧</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5285650-f00cd051/</link>
+				<pubDate>Sat, 14 Nov 2026 17:18:59 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5285650-f00cd051/</guid>
+				<description>半睡半醒之间，Night Haven Interactive 的开发者 Michael 在 Steamworks 后台误点了绿色发布按钮，把还在抢先体验阶段的 Warstead 一键送进了 1.0 正式版，而且这个操作无法撤回。他已联系 Steam 客服寻求补救，同时明确表态：所有已公布的改进、扩展内容、平衡性调整与性能优化全部按原计划推进，社区投票与玩家反馈依旧是开发流程的核心环节。</description>
+			</item>
 			<item>
 				<title>Door Code 推送 Update 更新：公告只有一个词，改动核验与存档兼容全指南</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4951770-fa6b53be/</link>
@@ -145,6 +166,13 @@
 				<pubDate>Sat, 14 Nov 2026 05:00:02 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-14-5300950-3b8388c2/</guid>
 				<description>两年多的打磨终于迎来开服——《Helbreath Mystic Tavern Classic》线上服务器已正式开启，但 Steam 主程序仍在审核队列里，玩家需先启动 Helbreath Mystic Tavern Playtest 进入游戏，且所有进度会在切换主应用后完整继承。现金商店暂时关闭，官方还留了一句「期待意外」。这篇把入口、进度、氪金与开荒建议一次讲清。</description>
+			</item>
+			<item>
+				<title>Ski-E-O!滑雪场大修版更新：缆车防崩、鬼顾客清场与雪山真高同步</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4493130-d54d4bf2/</link>
+				<pubDate>Sat, 14 Nov 2026 04:37:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4493130-d54d4bf2/</guid>
+				<description>Ski-E-O! Ski Resort Tycoon 推送 CL7794 补丁：移动或拆除建筑会把屋内游客从前门请出，缆车终端操作不再触发崩溃，修复灯光与人群相关的两处罕见闪退；Areskutan 换成真实高度地形，旧存档保留 Legacy 版本不损建筑，沙盒演示档进本体还能解锁完整声望层级。</description>
 			</item>
 			<item>
 				<title>《Public Faucet Hunt》正式发售：15关随机水龙头&#43;隐藏结局，加拿大特惠同步开启</title>
@@ -502,6 +530,13 @@
 				<pubDate>Fri, 13 Nov 2026 21:11:51 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-13-2487190-7ac97648/</guid>
 				<description>《Main Sequence》推送 0.1.0.107 热修，一口气修掉五项影响体验的老毛病：联机读档时挖矿激光仍在运转引发的失同步、打开 Demo 存档后玩家垃圾槽图标失踪、多人局里客户端看不到地图标记、读不到小行星与机械的 HUD 详情，以及跨恒星系离屏标记不显示光年距离。纯修复型补丁，无平衡性改动，主机与客人建议同步版本后再开黑。</description>
+			</item>
+			<item>
+				<title>《Warstead》大更新：手动修路&#43;房屋原地升级&#43;性能暴涨，建造党狂喜</title>
+				<link>https://info.steamhunter.link/posts/2026-11-13-5285650-807c3683/</link>
+				<pubDate>Fri, 13 Nov 2026 21:07:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-13-5285650-807c3683/</guid>
+				<description>《Warstead》最新大版本上线：道路不再自动铺设，改由玩家手动规划，并新增蓝图模式允许材料未齐时先占地；房屋可在原地升级为中型或大型住宅，居民、库存与道路连接全部保留；护林员种植提速、渔船让渔屋产量翻倍；干旱被锁定在6至8月；贸易订单可连发、护送可单趟开关。整轮更新重点还压在大居点与大运输网络下的性能优化。</description>
 			</item>
 			<item>
 				<title>Slotbound v1.0.0(3)热修补：老版Steam兼容优化&#43;胜负判定与升级计数修正</title>
