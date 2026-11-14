@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 19:28:29 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 00:36:44 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Grandparadox V1.1.1 更新：文字聊天、服务器浏览器与房间权限开关一次到位</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5393800-b6392d10/</link>
+				<pubDate>Sun, 15 Nov 2026 00:36:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5393800-b6392d10/</guid>
+				<description>独立新作 Grandparadox 推送 V1.1.1 生活质量补丁：新增「how to play」玩法说明、公开与好友房间的服务器浏览器、私密/仅好友/公开三种联机权限开关、局内文字聊天与基础脏话过滤，并修复部分 UI 溢出屏幕底部的拉伸问题，标题界面也加上了版本号。</description>
+			</item>
 			<item>
 				<title>Slotbound热修：全关卡首个Boss削弱，新手开荒不再卡关</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</link>

@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 20:35:17 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 01:33:05 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《One More Lawn》销量破5万份：开发者发长文谢玩家，并公开bug反馈通道</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5378110-3df3d799/</link>
+				<pubDate>Sun, 15 Nov 2026 01:33:05 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5378110-3df3d799/</guid>
+				<description>独立割草新作《One More Lawn》全球销量正式突破 50,000 份，开发者发长文向玩家致谢，坦言游戏仍有 bug 与粗糙之处，承诺以最快速度持续修复。公告同时明确了三条官方反馈通道：标题界面与暂停菜单的 “Found a bug?” 按钮、Steam 讨论区以及 Discord 社区。本文梳理这次里程碑公告的全部要点、正确的反馈姿势与联机避坑建议。</description>
+			</item>
+			<item>
+				<title>《Dungebra》1.2.0 更新详解：卡牌协同全面重做，元素层数循环翻新</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4841590-42b5ea88/</link>
+				<pubDate>Sun, 15 Nov 2026 00:21:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4841590-42b5ea88/</guid>
+				<description>《Dungebra》1.2.0 版本正式落地，本次更新对完整游戏卡牌进行重做，围绕元素层数的「生成、增幅、消耗」重构了卡牌协同链路，同时上线每日任务入口、进度通知与奖励领取，并补全英、葡、西三语的界面与战斗历史。老存档的卡牌 ID 全部保留，直接套用新版卡牌效果，无需重开。</description>
+			</item>
 			<item>
 				<title>《Overtime: Development Hell》正式上线：五天赶工交版本，门外还有个执念粉丝蹲你</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-5329860-57b89dc6/</link>

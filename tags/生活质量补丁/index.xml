@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>生活质量补丁 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E7%94%9F%E6%B4%BB%E8%B4%A8%E9%87%8F%E8%A1%A5%E4%B8%81/</link>
+		<description>Recent content in 生活质量补丁 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 15 Nov 2026 00:36:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E7%94%9F%E6%B4%BB%E8%B4%A8%E9%87%8F%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Grandparadox V1.1.1 更新：文字聊天、服务器浏览器与房间权限开关一次到位</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5393800-b6392d10/</link>
+				<pubDate>Sun, 15 Nov 2026 00:36:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5393800-b6392d10/</guid>
+				<description>独立新作 Grandparadox 推送 V1.1.1 生活质量补丁：新增「how to play」玩法说明、公开与好友房间的服务器浏览器、私密/仅好友/公开三种联机权限开关、局内文字聊天与基础脏话过滤，并修复部分 UI 溢出屏幕底部的拉伸问题，标题界面也加上了版本号。</description>
+			</item>
+	</channel>
+</rss>

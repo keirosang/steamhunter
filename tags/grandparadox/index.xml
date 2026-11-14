@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Grandparadox on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/grandparadox/</link>
+		<description>Recent content in Grandparadox on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 15 Nov 2026 00:36:44 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/grandparadox/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Grandparadox V1.1.1 更新：文字聊天、服务器浏览器与房间权限开关一次到位</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5393800-b6392d10/</link>
+				<pubDate>Sun, 15 Nov 2026 00:36:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5393800-b6392d10/</guid>
+				<description>独立新作 Grandparadox 推送 V1.1.1 生活质量补丁：新增「how to play」玩法说明、公开与好友房间的服务器浏览器、私密/仅好友/公开三种联机权限开关、局内文字聊天与基础脏话过滤，并修复部分 UI 溢出屏幕底部的拉伸问题，标题界面也加上了版本号。</description>
+			</item>
+			<item>
+				<title>免费党的胜利！Grandparadox正式登陆Steam，零内购还承诺后续新模式与优化</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5393800-c186ce8e/</link>
+				<pubDate>Sat, 14 Nov 2026 22:28:16 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5393800-c186ce8e/</guid>
+				<description>独立开发者 jbg 打造的 Grandparadox 正式登陆 Steam（AppID 5393800），永久免费、零内购、零付费墙，连纯外观道具都不打算卖。首发预告片已上线，一批 QoL 体验优化进入 Beta 测试，新游戏模式等发售后内容也在排期。本文整理上线看点、入库方法与高频疑问，也聊聊这份献给母亲的礼物。</description>
+			</item>
+	</channel>
+</rss>
