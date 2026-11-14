@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 11:03:04 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 16:41:53 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Door Code 推送 Update 更新：公告只有一个词，改动核验与存档兼容全指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4951770-fa6b53be/</link>
+				<pubDate>Sat, 14 Nov 2026 16:41:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4951770-fa6b53be/</guid>
+				<description>Door Code（Steam AppID 4951770）确实推送了一次官方更新，但公告正文只有 Update 一个词，既没有版本号，也没有条目明细。本文把可以确认的信息和暂不能确认的信息分开讲：更新已经实际生效，具体改了什么要靠更新历史、版本号比对和社区反馈来核验；同时给出解谜游戏更新后最容易遇到的四类问题：门禁逻辑、关卡判定、存档兼容、成就云同步，以及备份存档、校验文件、共享账号避坑的实操步骤。</description>
+			</item>
+			<item>
+				<title>Door Code 更新来了：密码门解谜新版本上线，这波改动值得回坑吗？</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4951770-6298bbdc/</link>
+				<pubDate>Sat, 14 Nov 2026 16:07:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4951770-6298bbdc/</guid>
+				<description>Steam 解谜向作品《Door Code》推送官方更新，公告仅以 Update 为题，逐条改动仍以商店页公告为准。本期专栏把这次更新的看点、可能受影响的机制、更新后的验证与排错步骤、以及老玩家值不值得回坑的判断一次讲清，顺手附上秒级特惠与限免推送渠道，免得你在版本切换第一天踩坑。</description>
+			</item>
+			<item>
+				<title>《Monster Girl Tactics: Oubliette》正式发售：试玩存档可直接继承，首发一周9折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4960970-67d7d4f0/</link>
+				<pubDate>Sat, 14 Nov 2026 14:50:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4960970-67d7d4f0/</guid>
+				<description>《Monster Girl Tactics: Oubliette》已正式上架 Steam，试玩版存档可无缝继承，老玩家直接读档续推。首发一周享 10% 折扣，试玩 Demo 仍会保留一段时间。本文梳理核心亮点、入手建议、开打避坑要点，并附官方反馈渠道与常见问题答疑。</description>
+			</item>
+			<item>
+				<title>战争雷霆第250届截图赛：雄鹰之影新图新载具，300金鹰等你拿</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-236390-cdc19ee0/</link>
+				<pubDate>Sat, 14 Nov 2026 14:00:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-236390-cdc19ee0/</guid>
+				<description>战争雷霆第250届 Steam 截图竞赛正式开跑！围绕“雄鹰之影”大版本的新载具、两张视觉重制地图以及一战活动创作原始截图，11月20日前带上 #WTscreen250 投稿，即有机会争夺6个300金鹰名额。本文拆解参赛规则、避坑要点与上期获奖作品，帮你把截图拍成海报，顺手薅走官方奖励。</description>
+			</item>
 			<item>
 				<title>《Alchedoom》正式发售：第一人称炼金肉鸽开炉，首发九折赌命求生</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-2408840-2c64d971/</link>

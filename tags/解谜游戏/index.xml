@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 09:36:27 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 16:41:53 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E8%A7%A3%E8%B0%9C%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Door Code 推送 Update 更新：公告只有一个词，改动核验与存档兼容全指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4951770-fa6b53be/</link>
+				<pubDate>Sat, 14 Nov 2026 16:41:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4951770-fa6b53be/</guid>
+				<description>Door Code（Steam AppID 4951770）确实推送了一次官方更新，但公告正文只有 Update 一个词，既没有版本号，也没有条目明细。本文把可以确认的信息和暂不能确认的信息分开讲：更新已经实际生效，具体改了什么要靠更新历史、版本号比对和社区反馈来核验；同时给出解谜游戏更新后最容易遇到的四类问题：门禁逻辑、关卡判定、存档兼容、成就云同步，以及备份存档、校验文件、共享账号避坑的实操步骤。</description>
+			</item>
+			<item>
+				<title>Door Code 更新来了：密码门解谜新版本上线，这波改动值得回坑吗？</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4951770-6298bbdc/</link>
+				<pubDate>Sat, 14 Nov 2026 16:07:08 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4951770-6298bbdc/</guid>
+				<description>Steam 解谜向作品《Door Code》推送官方更新，公告仅以 Update 为题，逐条改动仍以商店页公告为准。本期专栏把这次更新的看点、可能受影响的机制、更新后的验证与排错步骤、以及老玩家值不值得回坑的判断一次讲清，顺手附上秒级特惠与限免推送渠道，免得你在版本切换第一天踩坑。</description>
+			</item>
 			<item>
 				<title>解谜新作 Quod Erat Demonstrandum 正式发售：工坊关卡编辑器 Beta 同步开放，作者承诺首月专攻修 Bug</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4518950-ac8bf9b7/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 22:22:17 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 16:41:53 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E5%AD%98%E6%A1%A3%E5%85%BC%E5%AE%B9/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Door Code 推送 Update 更新：公告只有一个词，改动核验与存档兼容全指南</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4951770-fa6b53be/</link>
+				<pubDate>Sat, 14 Nov 2026 16:41:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4951770-fa6b53be/</guid>
+				<description>Door Code（Steam AppID 4951770）确实推送了一次官方更新，但公告正文只有 Update 一个词，既没有版本号，也没有条目明细。本文把可以确认的信息和暂不能确认的信息分开讲：更新已经实际生效，具体改了什么要靠更新历史、版本号比对和社区反馈来核验；同时给出解谜游戏更新后最容易遇到的四类问题：门禁逻辑、关卡判定、存档兼容、成就云同步，以及备份存档、校验文件、共享账号避坑的实操步骤。</description>
+			</item>
 			<item>
 				<title>《Annihilated》正式版存档冲突频发！官方紧急发布临时修复方案</title>
 				<link>https://info.steamhunter.link/posts/2026-11-10-2638080-382d6394/</link>
