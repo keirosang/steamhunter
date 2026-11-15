@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 13:29:40 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 16:25:00 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Red Crucible Assault v1.0.1 小补丁上线：发布说明补齐，顺手给你一份补丁后排障清单</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3325950-5e52d3e1/</link>
+				<pubDate>Sun, 15 Nov 2026 16:25:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3325950-5e52d3e1/</guid>
+				<description>Red Crucible Assault 推送 v1.0.1 小版本更新，官方本次唯一公开的改动是更新了游戏内的发布说明（release notes），属于大版本上线后的收尾型热修，枪械数值、载具与地图未见公开调整。这篇先把更新边界说清楚，再给出补丁后必做的文件校验、驱动检查与联机排障三步走，附上自查版本日志的核验路径，帮你少走弯路。</description>
+			</item>
+			<item>
+				<title>Red Crucible Assault 1.0 正式版上线：收尾修Bug、画面微调、性能优化三连击</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3325950-d95db3e1/</link>
+				<pubDate>Sun, 15 Nov 2026 16:09:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3325950-d95db3e1/</guid>
+				<description>Red Crucible Assault 正式迈入 v1.0，官方公告虽短，但内容不虚：最后一轮 Bug 清理、画面细节微调与性能优化同步落地。本文梳理这次更新的实际影响、老玩家回归与新玩家入坑的注意事项，附更新后掉帧排查与联机避坑建议，帮你判断这款 1.0 版本值不值得现在开打。</description>
+			</item>
+			<item>
+				<title>《Rubber Stamp Legend》正式发售：盖章审批模拟器首发 8 折，11 月 29 日前 3.19 美元入库</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5471970-c122fa8a/</link>
+				<pubDate>Sun, 15 Nov 2026 16:04:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5471970-c122fa8a/</guid>
+				<description>那款把「审批与驳回」做成游戏的《Rubber Stamp Legend》终于上架 Steam 了。首发 8 折，仅 3.19 美元，优惠窗口开到 11 月 29 日。开发团队 Do·A·En·Co. 自曝趣事：一款关于审核别人文件的游戏，自己的商店评审也曾被驳回过一次。本文整理了玩法看点、首发价格账、入库流程与常见疑问。</description>
+			</item>
+			<item>
+				<title>Slotbound 热修：前期货币加量，Deadeye 削弱，快进永久记忆</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/</link>
+				<pubDate>Sun, 15 Nov 2026 15:18:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/</guid>
+				<description>Slotbound 推送 v1.0.0 (7) 热修：第 1、2 关升级货币产出提高，开局更宽松；Deadeye 攻击下调，狙击流需要重新算账；快进速度现在跨局、跨启动保留，刷子体验直线上升。同时修复单位转身错位、第 6 关裂隙在 Judgment Waves 期间颜色异常、暂停时点击 Controls 菜单外误触等毛病。本文拆解改动影响并给出上手建议。</description>
+			</item>
+			<item>
+				<title>Subsurface 1.0正式版上线：1-4人深海联机摸金恐怖求生</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4538060-a7df17c5/</link>
+				<pubDate>Sun, 15 Nov 2026 14:35:10 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4538060-a7df17c5/</guid>
+				<description>单人开发者 Tyler Powell 打磨一年，《Subsurface》正式脱离抢先体验迎来 1.0。1-4 人联机深海探索、多种行为各异的致命怪物、多张水下地图、装备升级与角色自定义、废料收集与公司配额构成完整玩法闭环。本文梳理正式版内容看点、开黑分工与上手避坑建议，并说明后续更新态度。</description>
+			</item>
 			<item>
 				<title>《Ray Ray Zombies》首个热修上线：崩溃修复&#43;全新报错反馈功能实装</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-5244680-33a96bb4/</link>

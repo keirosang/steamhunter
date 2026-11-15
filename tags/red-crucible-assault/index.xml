@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Red Crucible Assault on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/red-crucible-assault/</link>
+		<description>Recent content in Red Crucible Assault on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 15 Nov 2026 16:25:00 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/red-crucible-assault/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Red Crucible Assault v1.0.1 小补丁上线：发布说明补齐，顺手给你一份补丁后排障清单</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3325950-5e52d3e1/</link>
+				<pubDate>Sun, 15 Nov 2026 16:25:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3325950-5e52d3e1/</guid>
+				<description>Red Crucible Assault 推送 v1.0.1 小版本更新，官方本次唯一公开的改动是更新了游戏内的发布说明（release notes），属于大版本上线后的收尾型热修，枪械数值、载具与地图未见公开调整。这篇先把更新边界说清楚，再给出补丁后必做的文件校验、驱动检查与联机排障三步走，附上自查版本日志的核验路径，帮你少走弯路。</description>
+			</item>
+			<item>
+				<title>Red Crucible Assault 1.0 正式版上线：收尾修Bug、画面微调、性能优化三连击</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3325950-d95db3e1/</link>
+				<pubDate>Sun, 15 Nov 2026 16:09:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3325950-d95db3e1/</guid>
+				<description>Red Crucible Assault 正式迈入 v1.0，官方公告虽短，但内容不虚：最后一轮 Bug 清理、画面细节微调与性能优化同步落地。本文梳理这次更新的实际影响、老玩家回归与新玩家入坑的注意事项，附更新后掉帧排查与联机避坑建议，帮你判断这款 1.0 版本值不值得现在开打。</description>
+			</item>
+	</channel>
+</rss>

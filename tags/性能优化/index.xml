@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 02:03:30 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 16:09:28 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Red Crucible Assault 1.0 正式版上线：收尾修Bug、画面微调、性能优化三连击</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3325950-d95db3e1/</link>
+				<pubDate>Sun, 15 Nov 2026 16:09:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3325950-d95db3e1/</guid>
+				<description>Red Crucible Assault 正式迈入 v1.0，官方公告虽短，但内容不虚：最后一轮 Bug 清理、画面细节微调与性能优化同步落地。本文梳理这次更新的实际影响、老玩家回归与新玩家入坑的注意事项，附更新后掉帧排查与联机避坑建议，帮你判断这款 1.0 版本值不值得现在开打。</description>
+			</item>
 			<item>
 				<title>Slotbound v1.0.0(4) 热修上线：前两关难度下调，新增最高帧率选项与多项启动修复</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-063a645d/</link>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 19:28:29 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 15:18:52 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/slotbound/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound 热修：前期货币加量，Deadeye 削弱，快进永久记忆</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/</link>
+				<pubDate>Sun, 15 Nov 2026 15:18:52 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/</guid>
+				<description>Slotbound 推送 v1.0.0 (7) 热修：第 1、2 关升级货币产出提高，开局更宽松；Deadeye 攻击下调，狙击流需要重新算账；快进速度现在跨局、跨启动保留，刷子体验直线上升。同时修复单位转身错位、第 6 关裂隙在 Judgment Waves 期间颜色异常、暂停时点击 Controls 菜单外误触等毛病。本文拆解改动影响并给出上手建议。</description>
+			</item>
 			<item>
 				<title>Slotbound热修：全关卡首个Boss削弱，新手开荒不再卡关</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-4459590-4a201490/</link>

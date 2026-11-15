@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 02:52:13 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 16:25:00 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Red Crucible Assault v1.0.1 小补丁上线：发布说明补齐，顺手给你一份补丁后排障清单</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3325950-5e52d3e1/</link>
+				<pubDate>Sun, 15 Nov 2026 16:25:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3325950-5e52d3e1/</guid>
+				<description>Red Crucible Assault 推送 v1.0.1 小版本更新，官方本次唯一公开的改动是更新了游戏内的发布说明（release notes），属于大版本上线后的收尾型热修，枪械数值、载具与地图未见公开调整。这篇先把更新边界说清楚，再给出补丁后必做的文件校验、驱动检查与联机排障三步走，附上自查版本日志的核验路径，帮你少走弯路。</description>
+			</item>
 			<item>
 				<title>《Tactics: Setting Sun》Hotfix 1.01 热修解析：小Bug修复，联机先同步版本</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-2392710-0757bf0c/</link>

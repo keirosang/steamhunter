@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Slotbound 热修：前期货币加量，Deadeye 削弱，快进永久记忆 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="Slotbound 推送 v1.0.0 (7) 热修：第 1、2 关升级货币产出提高，开局更宽松；Deadeye 攻击下调，狙击流需要重新算账；快进速度现在跨局、跨启动保留，刷子体验直线上升。同时修复单位转身错位、第 6 关裂隙在 Judgment Waves 期间颜色异常、暂停时点击 Controls 菜单外误触等毛病。本文拆解改动影响并给出上手建议。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Slotbound 热修：前期货币加量，Deadeye 削弱，快进永久记忆">
+  <meta property="og:description" content="Slotbound 推送 v1.0.0 (7) 热修：第 1、2 关升级货币产出提高，开局更宽松；Deadeye 攻击下调，狙击流需要重新算账；快进速度现在跨局、跨启动保留，刷子体验直线上升。同时修复单位转身错位、第 6 关裂隙在 Judgment Waves 期间颜色异常、暂停时点击 Controls 菜单外误触等毛病。本文拆解改动影响并给出上手建议。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/c7591ccbdb422427.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">Slotbound 热修：前期货币加量，Deadeye 削弱 …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 Slotbound</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 4459590</span>
+      
+    </div>
+
+    <h1 class="article-title">Slotbound 热修：前期货币加量，Deadeye 削弱，快进永久记忆</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-15T15:18:52&#43;08:00" class="meta-date">
+          📅 2026-11-15 15:18
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 4 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1829 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/4459590/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/4459590" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/c7591ccbdb422427.jpg" alt="Slotbound 热修：前期货币加量，Deadeye 削弱，快进永久记忆" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>Slotbound 推送 v1.0.0 (7) 热修：第 1、2 关升级货币产出提高，开局更宽松；Deadeye 攻击下调，狙击流需要重新算账；快进速度现在跨局、跨启动保留，刷子体验直线上升。同时修复单位转身错位、第 6 关裂隙在 Judgment Waves 期间颜色异常、暂停时点击 Controls 菜单外误触等毛病。本文拆解改动影响并给出上手建议。
+      </div>
+      
+
+      <div class="article-body">
+        <p>结论先说：这次 <strong>v1.0.0 (7)</strong> 不是堆内容的大版本，而是把前期经济、Deadeye 强度和快进手感这三颗最容易硌脚的问题逐个处理了一遍。对正在推进关卡的玩家来说，第 1、2 关的升级货币变多，等于官方给你发了一笔“开局启动资金”；Deadeye 被削弱则意味着那套“一枪一个”的省事打法要重新算账。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>前期经济松绑</strong>：第 1、2 关提供的升级货币增加，开局运气差带来的强烈挫败感会缓一口气。</li>
+<li><strong>Deadeye 攻击下调</strong>：具体数值官方没给，但方向很明确——别把它当万能答案。</li>
+<li><strong>快进速度永久记忆</strong>：下一局、下次启动都保留你上次设的速度，刷子狂喜。</li>
+<li><strong>修复一批手感与视觉问题</strong>：单位转身错位、第 6 关裂隙在 Judgment Waves 期间颜色异常、暂停时点击 Controls 菜单外仍会触发其他条目等。</li>
+<li><strong>杂项修复</strong>：小毛病一并处理，整体稳定性更好。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<h3 id="1-第-12-关货币加量把开局穷往后挪">1. 第 1、2 关货币加量：把“开局穷”往后挪</h3>
+<p>Slotbound 这类构筑爬关游戏，最难受的不是后期打不过，而是前两关穷到只能捡垃圾，核心组件迟迟不来，直接被滚雪球。这次官方把第 1、2 关的升级货币产出抬高，等于把“开局穷”这个坎往后挪了一截。</p>
+<p>实际影响很直接：</p>
+<ul>
+<li>新手更容易在前两关凑出能打的雏形，不至于第一关就进入“看广告复活”的心态；</li>
+<li>老手可以更早投资经济类或核心输出类升级，滚雪球启动更快；</li>
+<li>一些依赖特定升级才成型的流派，前期成型概率变高，不用把把赌命。</li>
+</ul>
+<p>需要说明边界：官方只给了“更多”这个方向，没有公布具体百分比或固定增量。想知道涨了多少，最靠谱的办法是开一局新 Run，在第 1、2 关分别记录升级界面货币数，和更新前自己的截图对比。</p>
+<h3 id="2-deadeye-削弱狙击流从答案变回选项">2. Deadeye 削弱：狙击流从“答案”变回“选项”</h3>
+<p>Deadeye 这次是攻击降低。官方没写具体砍了多少，所以别急着把整套 Build 判死刑，也别继续无脑堆。它原本的定位大概率是单体高伤、远程点杀，攻击下调后，处理精英和 Boss 的阈值会变高，你需要补别的输出来填缺口。</p>
+<p>我的建议是：</p>
+<ul>
+<li>先进一局，看 Deadeye 面板攻击和实际跳字，确认削弱幅度；</li>
+<li>如果原本靠它一枪清掉某类单位，现在打不死，就要么补易伤/增伤，要么换目标优先级；</li>
+<li>别把全部经济押在一个单位上，混合输出更稳。</li>
+</ul>
+<h3 id="3-快进速度保留体验层最香的一刀">3. 快进速度保留：体验层最香的一刀</h3>
+<p>『Your Fast Forward speed is now kept for the next run and the next launch.』这句话看着不起眼，实际是这次热修里最提升日常体验的改动。以前每开一局、甚至每次启动都要重新调速度，刷起来像每次出门都要重新系鞋带。现在设置一次，后面继承。</p>
+<p>注意一个小细节：如果你习惯在不同阶段切不同速度，继承的是你上次离开时的速度。进局先瞄一眼当前倍速，别在关键波次用错档位。</p>
+<h3 id="4-修复项里的隐藏痛点">4. 修复项里的隐藏痛点</h3>
+<ul>
+<li><strong>单位转身跳位</strong>：转身时单位位置抖动/错位，会影响近战卡位和碰撞判断，修掉之后站位更可信。</li>
+<li><strong>第 6 关裂隙颜色</strong>：Judgment Waves 期间裂隙保持普通颜色，视觉提示不明显，容易误判节奏；现在颜色恢复正常，战场信息更清楚。</li>
+<li><strong>暂停菜单点击穿透</strong>：暂停时点 Controls 菜单外面会触发其他条目，手滑党福音，少一次误改设置。</li>
+<li><strong>杂项修复</strong>：不展开，但这类小修通常能减少偶发卡顿和奇怪交互。</li>
+</ul>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>更新方式</strong>：Steam 库中等待自动更新，或重启 Steam 客户端触发；更新后进游戏确认版本号。</li>
+<li><strong>当前 Run 要不要重开</strong>：稳妥起见，热修后重启游戏，新开一局体验新数值。进行中的 Run 是否实时套用改动，官方没细说；想准确对比就开新局。</li>
+<li><strong>前期货币怎么花</strong>：第 1、2 关多出来的钱，优先补核心输出或经济引擎，别散给一堆用不上的小升级。</li>
+<li><strong>Deadeye 流先测阈值</strong>：更新后先打一局，记录它还能不能一击处理关键单位；不能就补伤害或换思路。</li>
+<li><strong>快进设置一次到位</strong>：进游戏先把 Fast Forward 调到你最舒服的档位，之后跨局、跨启动都会记住。</li>
+<li><strong>遇到异常先验证文件</strong>：Steam 库右键游戏 → 属性 → 已安装文件 → 验证完整性，排除更新残留。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>想第一时间蹲到 Slotbound 这类热修、临时折扣和喜加一，建议加入官方 Telegram 频道 <strong>@steamhunterlink</strong>。秒级推送限免与特惠，不用天天刷库，适合我这种“可以不等，但不能错过”的仓鼠型玩家。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：这次 v1.0.0 (7) 热修需要手动下载吗？</strong>
+A：Steam 通常会自动更新。如果没动静，重启 Steam 客户端，或到库中右键游戏检查更新；进游戏后确认版本号即可。</p>
+<p><strong>Q2：我当前的 Run 会立刻受到 Deadeye 削弱影响吗？</strong>
+A：官方没有明确说明进行中的 Run 是否实时重算。保守做法是重启游戏并新开一局测试；想核验就看 Deadeye 面板攻击和实际伤害跳字，和更新前对比。</p>
+<p><strong>Q3：Fast Forward 速度保存在哪里？换电脑会继承吗？</strong>
+A：官方只说明下一局和下次启动会保留，没有说明存储位置。按常规理解是本地配置或账号配置；如果你换设备或重装，建议进游戏重新确认一次倍速。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/Slotbound/" class="article-tag-item">#Slotbound</a>
+          
+          <a href="/tags/%e7%83%ad%e4%bf%ae%e6%9b%b4%e6%96%b0/" class="article-tag-item">#热修更新</a>
+          
+          <a href="/tags/%e5%b9%b3%e8%a1%a1%e6%80%a7%e8%b0%83%e6%95%b4/" class="article-tag-item">#平衡性调整</a>
+          
+          <a href="/tags/Steam%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam资讯</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-15-4538060-a7df17c5/" class="sibling-title">Subsurface 1.0正式版上线：1-4人深海联机摸金恐怖求生</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-15-5471970-c122fa8a/" class="sibling-title">《Rubber Stamp Legend》正式发售：盖章审批模拟器首发 8 折，11 月 29 日前 3.19 美元入库</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a>
+      <ul>
+        <li><a href="#1-第-12-关货币加量把开局穷往后挪">1. 第 1、2 关货币加量：把“开局穷”往后挪</a></li>
+        <li><a href="#2-deadeye-削弱狙击流从答案变回选项">2. Deadeye 削弱：狙击流从“答案”变回“选项”</a></li>
+        <li><a href="#3-快进速度保留体验层最香的一刀">3. 快进速度保留：体验层最香的一刀</a></li>
+        <li><a href="#4-修复项里的隐藏痛点">4. 修复项里的隐藏痛点</a></li>
+      </ul>
+    </li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>
