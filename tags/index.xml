@@ -10,9 +10,107 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 16:25:00 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 19:36:25 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Re:collect</title>
+				<link>https://info.steamhunter.link/tags/recollect/</link>
+				<pubDate>Sun, 15 Nov 2026 19:36:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/recollect/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Steam新游</title>
+				<link>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</link>
+				<pubDate>Sun, 15 Nov 2026 19:36:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>独立游戏</title>
+				<link>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
+				<pubDate>Sun, 15 Nov 2026 19:36:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>模拟经营</title>
+				<link>https://info.steamhunter.link/tags/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5/</link>
+				<pubDate>Sun, 15 Nov 2026 19:36:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>叙事游戏</title>
+				<link>https://info.steamhunter.link/tags/%E5%8F%99%E4%BA%8B%E6%B8%B8%E6%88%8F/</link>
+				<pubDate>Sun, 15 Nov 2026 19:36:25 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%8F%99%E4%BA%8B%E6%B8%B8%E6%88%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>THE BACKLOG</title>
+				<link>https://info.steamhunter.link/tags/the-backlog/</link>
+				<pubDate>Sun, 15 Nov 2026 19:19:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/the-backlog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>首发折扣</title>
+				<link>https://info.steamhunter.link/tags/%E9%A6%96%E5%8F%91%E6%8A%98%E6%89%A3/</link>
+				<pubDate>Sun, 15 Nov 2026 19:19:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E9%A6%96%E5%8F%91%E6%8A%98%E6%89%A3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>在线合作</title>
+				<link>https://info.steamhunter.link/tags/%E5%9C%A8%E7%BA%BF%E5%90%88%E4%BD%9C/</link>
+				<pubDate>Sun, 15 Nov 2026 19:19:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%9C%A8%E7%BA%BF%E5%90%88%E4%BD%9C/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>整理模拟</title>
+				<link>https://info.steamhunter.link/tags/%E6%95%B4%E7%90%86%E6%A8%A1%E6%8B%9F/</link>
+				<pubDate>Sun, 15 Nov 2026 19:19:19 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E6%95%B4%E7%90%86%E6%A8%A1%E6%8B%9F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PvP模式</title>
+				<link>https://info.steamhunter.link/tags/pvp%E6%A8%A1%E5%BC%8F/</link>
+				<pubDate>Sun, 15 Nov 2026 17:53:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/pvp%E6%A8%A1%E5%BC%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Steam</title>
+				<link>https://info.steamhunter.link/tags/steam/</link>
+				<pubDate>Sun, 15 Nov 2026 17:53:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/steam/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>World Guesser</title>
+				<link>https://info.steamhunter.link/tags/world-guesser/</link>
+				<pubDate>Sun, 15 Nov 2026 17:53:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/world-guesser/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>版本更新</title>
+				<link>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</link>
+				<pubDate>Sun, 15 Nov 2026 17:53:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>飞行竞速</title>
+				<link>https://info.steamhunter.link/tags/%E9%A3%9E%E8%A1%8C%E7%AB%9E%E9%80%9F/</link>
+				<pubDate>Sun, 15 Nov 2026 17:53:00 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E9%A3%9E%E8%A1%8C%E7%AB%9E%E9%80%9F/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>FPS</title>
 				<link>https://info.steamhunter.link/tags/fps/</link>
@@ -25,20 +123,6 @@
 				<link>https://info.steamhunter.link/tags/red-crucible-assault/</link>
 				<pubDate>Sun, 15 Nov 2026 16:25:00 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/red-crucible-assault/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Steam</title>
-				<link>https://info.steamhunter.link/tags/steam/</link>
-				<pubDate>Sun, 15 Nov 2026 16:25:00 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/steam/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>版本更新</title>
-				<link>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</link>
-				<pubDate>Sun, 15 Nov 2026 16:25:00 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -70,31 +154,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Steam新游</title>
-				<link>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</link>
-				<pubDate>Sun, 15 Nov 2026 16:04:33 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>独立游戏</title>
-				<link>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
-				<pubDate>Sun, 15 Nov 2026 16:04:33 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>盖章模拟</title>
 				<link>https://info.steamhunter.link/tags/%E7%9B%96%E7%AB%A0%E6%A8%A1%E6%8B%9F/</link>
 				<pubDate>Sun, 15 Nov 2026 16:04:33 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E7%9B%96%E7%AB%A0%E6%A8%A1%E6%8B%9F/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>首发折扣</title>
-				<link>https://info.steamhunter.link/tags/%E9%A6%96%E5%8F%91%E6%8A%98%E6%89%A3/</link>
-				<pubDate>Sun, 15 Nov 2026 16:04:33 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E9%A6%96%E5%8F%91%E6%8A%98%E6%89%A3/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -501,13 +564,6 @@
 				<link>https://info.steamhunter.link/tags/%E5%85%8D%E8%B4%B9%E6%BF%80%E6%B4%BB%E7%A0%81/</link>
 				<pubDate>Sun, 15 Nov 2026 02:40:49 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E5%85%8D%E8%B4%B9%E6%BF%80%E6%B4%BB%E7%A0%81/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>叙事游戏</title>
-				<link>https://info.steamhunter.link/tags/%E5%8F%99%E4%BA%8B%E6%B8%B8%E6%88%8F/</link>
-				<pubDate>Sun, 15 Nov 2026 02:40:49 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E5%8F%99%E4%BA%8B%E6%B8%B8%E6%88%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1404,13 +1460,6 @@
 				<link>https://info.steamhunter.link/tags/ski-e-o/</link>
 				<pubDate>Sat, 14 Nov 2026 04:37:52 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/ski-e-o/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>模拟经营</title>
-				<link>https://info.steamhunter.link/tags/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5/</link>
-				<pubDate>Sat, 14 Nov 2026 04:37:52 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -3815,7 +3864,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Mod支持</title>
+				<title>MOD支持</title>
 				<link>https://info.steamhunter.link/tags/mod%E6%94%AF%E6%8C%81/</link>
 				<pubDate>Fri, 13 Nov 2026 00:48:08 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/mod%E6%94%AF%E6%8C%81/</guid>
@@ -4372,13 +4421,6 @@
 				<link>https://info.steamhunter.link/tags/nordic-horizons/</link>
 				<pubDate>Thu, 12 Nov 2026 20:00:11 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/nordic-horizons/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>整理模拟</title>
-				<link>https://info.steamhunter.link/tags/%E6%95%B4%E7%90%86%E6%A8%A1%E6%8B%9F/</link>
-				<pubDate>Thu, 12 Nov 2026 19:35:12 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E6%95%B4%E7%90%86%E6%A8%A1%E6%8B%9F/</guid>
 				<description></description>
 			</item>
 			<item>
