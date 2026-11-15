@@ -10,9 +10,79 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 22:37:15 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 00:00:28 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Doc重做</title>
+				<link>https://info.steamhunter.link/tags/doc%E9%87%8D%E5%81%9A/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/doc%E9%87%8D%E5%81%9A/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SCS Software</title>
+				<link>https://info.steamhunter.link/tags/scs-software/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/scs-software/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Y11S4关键信号</title>
+				<link>https://info.steamhunter.link/tags/y11s4%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/y11s4%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>版本更新</title>
+				<link>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>冰岛DLC</title>
+				<link>https://info.steamhunter.link/tags/%E5%86%B0%E5%B2%9Bdlc/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%86%B0%E5%B2%9Bdlc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>彩虹六号围攻</title>
+				<link>https://info.steamhunter.link/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7%E5%9B%B4%E6%94%BB/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7%E5%9B%B4%E6%94%BB/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>客车DLC</title>
+				<link>https://info.steamhunter.link/tags/%E5%AE%A2%E8%BD%A6dlc/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%AE%A2%E8%BD%A6dlc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>欧洲卡车模拟2</title>
+				<link>https://info.steamhunter.link/tags/%E6%AC%A7%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F2/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E6%AC%A7%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>排位改版</title>
+				<link>https://info.steamhunter.link/tags/%E6%8E%92%E4%BD%8D%E6%94%B9%E7%89%88/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E6%8E%92%E4%BD%8D%E6%94%B9%E7%89%88/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>展会资讯</title>
+				<link>https://info.steamhunter.link/tags/%E5%B1%95%E4%BC%9A%E8%B5%84%E8%AE%AF/</link>
+				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
+				<guid>https://info.steamhunter.link/tags/%E5%B1%95%E4%BC%9A%E8%B5%84%E8%AE%AF/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>FPS</title>
 				<link>https://info.steamhunter.link/tags/fps/</link>
@@ -158,13 +228,6 @@
 				<link>https://info.steamhunter.link/tags/world-guesser/</link>
 				<pubDate>Sun, 15 Nov 2026 17:53:00 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/world-guesser/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>版本更新</title>
-				<link>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</link>
-				<pubDate>Sun, 15 Nov 2026 17:53:00 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -823,20 +886,6 @@
 				<link>https://info.steamhunter.link/tags/ets2/</link>
 				<pubDate>Sun, 15 Nov 2026 00:00:14 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/ets2/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>SCS Software</title>
-				<link>https://info.steamhunter.link/tags/scs-software/</link>
-				<pubDate>Sun, 15 Nov 2026 00:00:14 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/scs-software/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>欧洲卡车模拟2</title>
-				<link>https://info.steamhunter.link/tags/%E6%AC%A7%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F2/</link>
-				<pubDate>Sun, 15 Nov 2026 00:00:14 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E6%AC%A7%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F2/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -7529,13 +7578,6 @@
 				<link>https://info.steamhunter.link/tags/relocat/</link>
 				<pubDate>Tue, 10 Nov 2026 17:29:01 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/relocat/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>冰岛DLC</title>
-				<link>https://info.steamhunter.link/tags/%E5%86%B0%E5%B2%9Bdlc/</link>
-				<pubDate>Tue, 10 Nov 2026 17:17:48 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E5%86%B0%E5%B2%9Bdlc/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -15673,13 +15715,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>彩虹六号围攻</title>
-				<link>https://info.steamhunter.link/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7%E5%9B%B4%E6%94%BB/</link>
-				<pubDate>Tue, 03 Nov 2026 01:51:52 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7%E5%9B%B4%E6%94%BB/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>传奇段位</title>
 				<link>https://info.steamhunter.link/tags/%E4%BC%A0%E5%A5%87%E6%AE%B5%E4%BD%8D/</link>
 				<pubDate>Tue, 03 Nov 2026 01:51:52 +0800</pubDate>
@@ -16552,13 +16587,6 @@
 				<link>https://info.steamhunter.link/tags/%E8%82%89%E9%B8%BD%E6%96%B0%E6%B8%B8/</link>
 				<pubDate>Mon, 02 Nov 2026 00:29:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/tags/%E8%82%89%E9%B8%BD%E6%96%B0%E6%B8%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>客车DLC</title>
-				<link>https://info.steamhunter.link/tags/%E5%AE%A2%E8%BD%A6dlc/</link>
-				<pubDate>Mon, 02 Nov 2026 00:10:08 +0800</pubDate>
-				<guid>https://info.steamhunter.link/tags/%E5%AE%A2%E8%BD%A6dlc/</guid>
 				<description></description>
 			</item>
 			<item>
