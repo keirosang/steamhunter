@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 07:35:53 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 10:00:42 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《三角洲行动》Brakkesh 2.0 大更新：阵营选边、徽章成长与攻楼通道全面重构</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-2507950-e16e19cd/</link>
+				<pubDate>Sun, 15 Nov 2026 10:00:42 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-2507950-e16e19cd/</guid>
+				<description>《三角洲行动》Brakkesh 2.0 版本上线：开局在 Ahsarah 与 HAAVK 之间选边，决定你这一局是夺塔还是护送；徽章系统跨局成长，满级可让少量守卫对你放行；控制室入口、上层通道与翼区辨识度全面重构，攻楼节奏彻底改写。开发组这次不只是刷漆，而是给了你重新跨过那条线的理由。</description>
+			</item>
+			<item>
+				<title>七夜旅馆规则怪谈《宿の掟》正式发售，34种异象多结局，首发九折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5045430-350b3d4a/</link>
+				<pubDate>Sun, 15 Nov 2026 09:28:33 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5045430-350b3d4a/</guid>
+				<description>苦等许久的旅馆规则怪谈终于开门迎客：《宿の掟 / Rules of the Inn》完整版已于 2026 年 11 月 15 日正式发售，首发前 7 天享 10% 折扣。正式版一口气带你熬过连续七个夜晚，收录 34 种异象、40 位登场人物，并准备了多结局路线；免费 Demo（第 1-3 夜）依旧可以玩，文本支持日文、英文与简体中文，直播录像无需申请。</description>
+			</item>
+			<item>
+				<title>AuxPipe 1.1.1 更新：睡醒不再假死，驱动重置自动续命继续路由</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5367320-96e8df86/</link>
+				<pubDate>Sun, 15 Nov 2026 08:41:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5367320-96e8df86/</guid>
+				<description>Steam 上的音频路由工具 AuxPipe 推送 1.1.1 修复补丁，专治三类翻车现场：电脑睡眠唤醒、显卡驱动更新、显卡重置之后程序在后台假死、声音直接断流、非得开任务管理器才能救场。新版本改为自动重启并接着路由，通话音频不再中断，托盘窗口以最小化方式安静回归，虚拟声卡原始名称备份文件的处理也更稳妥。</description>
+			</item>
+			<item>
+				<title>AuxPipe 上架 Steam：把应用声音塞进麦克风，开黑共享音频有新招</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5367320-113502b0/</link>
+				<pubDate>Sun, 15 Nov 2026 08:11:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5367320-113502b0/</guid>
+				<description>AuxPipe 已在 Steam 上架，仅支持 Windows。它能把单个应用的声音或一个网络电台混进麦克风，让 Discord、Zoom、OBS 对面同时听到你的声音和这段音乐：人声与媒体音量独立可调、说话时音乐自动压低、可开“自己也能听”，支持全局快捷键与托盘常驻，内置开黑、会议、直播三套预设，底层依赖随包附带的 VB-CABLE 虚拟声卡，首次启动有引导，界面支持英文与西班牙文。</description>
+			</item>
 			<item>
 				<title>《Bid Wars》正式发售：竞价博弈新游上线，开发者透露下一部更野心</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-4950060-9a8b0112/</link>
@@ -231,6 +259,13 @@
 				<description>战争雷霆第250届 Steam 截图竞赛正式开跑！围绕“雄鹰之影”大版本的新载具、两张视觉重制地图以及一战活动创作原始截图，11月20日前带上 #WTscreen250 投稿，即有机会争夺6个300金鹰名额。本文拆解参赛规则、避坑要点与上期获奖作品，帮你把截图拍成海报，顺手薅走官方奖励。</description>
 			</item>
 			<item>
+				<title>DATAWANDER发售或延期：Steam构建审核卡关，官方回应</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-4672370-e9088f19/</link>
+				<pubDate>Sat, 14 Nov 2026 13:43:22 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-4672370-e9088f19/</guid>
+				<description>DATAWANDER 官方发布更新说明：由于 Steam 构建审核流程出现延迟，原定发售日可能推迟，目前尚未公布新的上线时间。对期待这款作品的玩家来说，最稳妥的做法是先加入愿望单、关注商店页与官方社区动态，别轻信来路不明的“提前下载”链接；已关注发售节奏的朋友也可提前了解入库与联机准备。</description>
+			</item>
+			<item>
 				<title>《Alchedoom》正式发售：第一人称炼金肉鸽开炉，首发九折赌命求生</title>
 				<link>https://info.steamhunter.link/posts/2026-11-14-2408840-2c64d971/</link>
 				<pubDate>Sat, 14 Nov 2026 11:03:04 +0800</pubDate>
@@ -285,6 +320,13 @@
 				<pubDate>Sat, 14 Nov 2026 08:56:37 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-14-3763080-f1c77e80/</guid>
 				<description>《Rogue Reels》1.0 正式登陆 Steam，Windows 与 macOS 双端开卖，首发两周 85 折。这是一款把老虎机塞进肉鸽框架的赌桌小品：转转轮、改符号、堆升级，每 50 转给你一次「提现跑路」还是「硬刚下去」的选择。三台机台、六档 Stake、60+ 局内升级加永久商店、40 个成就、云存档、全手柄支持、简繁中文齐活，试玩版进度还能直接接管。</description>
+			</item>
+			<item>
+				<title>《中国球王之路》1.0.3上线：换队不掉模型，传射拖出蓝流星尾太帅了</title>
+				<link>https://info.steamhunter.link/posts/2026-11-14-5355990-577a983b/</link>
+				<pubDate>Sat, 14 Nov 2026 08:51:01 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-14-5355990-577a983b/</guid>
+				<description>《中国球王之路》1.0.3 更新把主角模型、球衣配色和比赛动画系统统一了：上海、德国、英格兰俱乐部比赛和中国队比赛共用同一精细 3D 主角，换队换号不再回退旧外观；传球射门新增蓝色流星拖尾，跟随足球实际飞行。1.0.4 热修还优化门将球衣区分并补全日文文本。本文整理更新要点、实操建议与常见问题。</description>
 			</item>
 			<item>
 				<title>BOOM! Buster v1.0.1 补丁：存档、手柄与配色修复</title>

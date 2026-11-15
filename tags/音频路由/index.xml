@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>音频路由 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%9F%B3%E9%A2%91%E8%B7%AF%E7%94%B1/</link>
+		<description>Recent content in 音频路由 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 15 Nov 2026 08:41:18 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%9F%B3%E9%A2%91%E8%B7%AF%E7%94%B1/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AuxPipe 1.1.1 更新：睡醒不再假死，驱动重置自动续命继续路由</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5367320-96e8df86/</link>
+				<pubDate>Sun, 15 Nov 2026 08:41:18 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5367320-96e8df86/</guid>
+				<description>Steam 上的音频路由工具 AuxPipe 推送 1.1.1 修复补丁，专治三类翻车现场：电脑睡眠唤醒、显卡驱动更新、显卡重置之后程序在后台假死、声音直接断流、非得开任务管理器才能救场。新版本改为自动重启并接着路由，通话音频不再中断，托盘窗口以最小化方式安静回归，虚拟声卡原始名称备份文件的处理也更稳妥。</description>
+			</item>
+	</channel>
+</rss>

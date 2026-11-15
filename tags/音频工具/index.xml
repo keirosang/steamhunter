@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>音频工具 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E9%9F%B3%E9%A2%91%E5%B7%A5%E5%85%B7/</link>
+		<description>Recent content in 音频工具 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 15 Nov 2026 08:11:37 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E9%9F%B3%E9%A2%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AuxPipe 上架 Steam：把应用声音塞进麦克风，开黑共享音频有新招</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5367320-113502b0/</link>
+				<pubDate>Sun, 15 Nov 2026 08:11:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5367320-113502b0/</guid>
+				<description>AuxPipe 已在 Steam 上架，仅支持 Windows。它能把单个应用的声音或一个网络电台混进麦克风，让 Discord、Zoom、OBS 对面同时听到你的声音和这段音乐：人声与媒体音量独立可调、说话时音乐自动压低、可开“自己也能听”，支持全局快捷键与托盘常驻，内置开黑、会议、直播三套预设，底层依赖随包附带的 VB-CABLE 虚拟声卡，首次启动有引导，界面支持英文与西班牙文。</description>
+			</item>
+	</channel>
+</rss>
