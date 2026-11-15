@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 19:36:25 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 03:47:21 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E6%96%B0%E6%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>NitLink 上架 Steam：视频捕获卡接主机画面，30 帧游戏硬补到 60 帧还能录 4K</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-2e5215d9/</link>
+				<pubDate>Mon, 16 Nov 2026 03:47:21 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5346980-2e5215d9/</guid>
+				<description>单人开发者打造的 NitLink 已在 Steam 上架：把主机画面经视频捕获卡送进 PC 显示器，再让显卡在两帧之间补帧，30 帧游戏跑出 60 帧观感、40 或 60 帧在 120Hz 屏上冲到 120 帧。支持 1080p/1440p/4K 与 SDR/HDR，RTX 专用与兼容双引擎，Response 三档、头部保护、按游戏保存的自定义遮罩、1080p/4K 录制回放、HDR10 直通、VRR 与画中画一并到位。帧生成被标注为实验性，文字与 HUD 边缘可能出现伪影，竞技游戏建议关闭。</description>
+			</item>
 			<item>
 				<title>《Re:collect》Steam发售：开间记忆当铺，第一章现已开张</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-4783310-fc55b9fa/</link>
