@@ -10,15 +10,29 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 19:36:25 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 22:37:15 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《使命召唤：现代战争4》官方警告：AI外挂升级，传统反作弊越来越难抓</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4435490-009163ae/</link>
+				<pubDate>Sun, 15 Nov 2026 22:37:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4435490-009163ae/</guid>
+				<description>《使命召唤》官方罕见松口：以 AI 为核心的新一代外挂正在绕开传统反作弊的检测逻辑，靠特征码和内存扫描那一套越来越抓不住人。本文拆解官方表态背后的技术变化、对普通玩家的实际影响，并给出举报取证、账号防护、避坑防封的可执行建议，附常见问题答疑。</description>
+			</item>
 			<item>
 				<title>《Re:collect》Steam发售：开间记忆当铺，第一章现已开张</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-4783310-fc55b9fa/</link>
 				<pubDate>Sun, 15 Nov 2026 19:36:25 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-15-4783310-fc55b9fa/</guid>
 				<description>韩国独立团队 4 thousand won 的叙事经营新作《Re:collect》正式登陆 Steam，发售版本开放完整第一章。你将守着一间小当铺，在记忆可作抵押的世界里，为客人的旧物与往事估价，靠对话和判断把店撑下去。首发期入手还能参与后续更新反馈。本文附入库方式、开荒思路与常见问题解答。</description>
+			</item>
+			<item>
+				<title>《Sangoku Bump》正式发售 首发两周 9 折 114 名三国武将参战</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5024380-b4e2f242/</link>
+				<pubDate>Sun, 15 Nov 2026 19:26:34 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5024380-b4e2f242/</guid>
+				<description>三国题材自走棋《Sangoku Bump》正式上架 Steam，前两周 9 折，并同步参战 Steam 自走棋 RPG 节。114 名武将各带专属技能，15 个地点每天三选一，十天单人旅程通关后解锁无尽模式与 Boss 挑战，另有黄巾起义开局与在线对战。Demo 存档、解锁角色和段位全部继承，1.8 版本将围绕战术连锁重建策略层。</description>
 			</item>
 			<item>
 				<title>THE BACKLOG 正式发售：二手游戏店打烊后的整理模拟，4人联机首发8折</title>
@@ -40,6 +54,13 @@
 				<pubDate>Sun, 15 Nov 2026 16:25:00 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-15-3325950-5e52d3e1/</guid>
 				<description>Red Crucible Assault 推送 v1.0.1 小版本更新，官方本次唯一公开的改动是更新了游戏内的发布说明（release notes），属于大版本上线后的收尾型热修，枪械数值、载具与地图未见公开调整。这篇先把更新边界说清楚，再给出补丁后必做的文件校验、驱动检查与联机排障三步走，附上自查版本日志的核验路径，帮你少走弯路。</description>
+			</item>
+			<item>
+				<title>花牌 Hanafuda 正式发售：Koi-Koi 单人联机双模式上线，后续玩法全部免费追加</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5052180-e9f3be56/</link>
+				<pubDate>Sun, 15 Nov 2026 16:13:15 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5052180-e9f3be56/</guid>
+				<description>2026 年 11 月 15 日，花牌题材新作《Hanafuda》正式登陆 Steam。首发即支持 Koi-Koi（来来）规则的单人模式与多人联机对战，官方同时承诺未来数周内以免付费形式追加更多玩法模式与更新内容。本文梳理首发版本的机制看点、上手路线与联机注意事项，并解答玩家最关心的入库与更新疑问。</description>
 			</item>
 			<item>
 				<title>Red Crucible Assault 1.0 正式版上线：收尾修Bug、画面微调、性能优化三连击</title>
