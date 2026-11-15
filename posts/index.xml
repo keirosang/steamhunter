@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 04:59:18 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 07:35:53 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Bid Wars》正式发售：竞价博弈新游上线，开发者透露下一部更野心</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4950060-9a8b0112/</link>
+				<pubDate>Sun, 15 Nov 2026 07:35:53 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4950060-9a8b0112/</guid>
+				<description>拍卖竞价题材独立游戏《Bid Wars》现已正式登陆 Steam。开发者 coconuts 发文确认发售，感谢玩家一路支持，并透露下一部作品会更具野心、方向完全不同。本文整理本次发售的核心看点、适合人群、入库与社区反馈建议，以及加入官方 Discord 提问的实操路径。</description>
+			</item>
+			<item>
+				<title>《Silver Service》正式上线：11132份自助餐等你收拾，四人联机零压力，首发85折</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5413320-d66095f4/</link>
+				<pubDate>Sun, 15 Nov 2026 06:24:13 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5413320-d66095f4/</guid>
+				<description>全船 11,132 份餐点散落一地，谁来收拾？《Silver Service: Tidy Up the Grand Buffet》现已登陆 Steam，支持单人整理或最多四人联机开餐厅，没有倒计时也没有失败判定，累了还能去后甲板钓鱼、把水族箱填满。上线前两周 85 折，具体定价与结束时间以商店页为准。</description>
+			</item>
+			<item>
+				<title>Dice Hoarder首日热修：黑屏有解，存档错位可一键修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3687090-a8175ad7/</link>
+				<pubDate>Sun, 15 Nov 2026 05:29:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3687090-a8175ad7/</guid>
+				<description>《Dice Hoarder》上线首日连推两版热修，最后一版一口气端出十余项改动：设置里可关闭全局光照，拯救不支持 Lumen 显卡的黑屏；新增 -fixmysave 启动项抢救骰子错槽的存档；拾取自动入库、地图快捷键、缩放切换等无障碍选项一并到位，另修掉夜间软锁、蹲伏越界、满级不给技能点等硬伤。多存档槽与 Steam 云同步已在路上。</description>
+			</item>
+			<item>
+				<title>ROB RUN 欧服登录崩了：官方紧急排查，US 服无恙，23:20 重启</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4262460-f9098fd9/</link>
+				<pubDate>Sun, 15 Nov 2026 05:00:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4262460-f9098fd9/</guid>
+				<description>ROB RUN 欧服突发大面积登录失败与连接不稳，官方已确认故障并着手排查，同时明确 US 服务器完全不受影响。23:20 CET 官方追加更新，表示服务器即将重启。本文拆解公告要点、给出 CET 与北京时间的换算、临时切区避难的实操步骤，以及重启后必须检查的账号与联机项，帮你把这次故障的影响压到最低。</description>
+			</item>
 			<item>
 				<title>《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</link>

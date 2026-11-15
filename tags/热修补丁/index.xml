@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 04:59:18 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 05:29:36 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/%E7%83%AD%E4%BF%AE%E8%A1%A5%E4%B8%81/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dice Hoarder首日热修：黑屏有解，存档错位可一键修复</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-3687090-a8175ad7/</link>
+				<pubDate>Sun, 15 Nov 2026 05:29:36 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-3687090-a8175ad7/</guid>
+				<description>《Dice Hoarder》上线首日连推两版热修，最后一版一口气端出十余项改动：设置里可关闭全局光照，拯救不支持 Lumen 显卡的黑屏；新增 -fixmysave 启动项抢救骰子错槽的存档；拾取自动入库、地图快捷键、缩放切换等无障碍选项一并到位，另修掉夜间软锁、蹲伏越界、满级不给技能点等硬伤。多存档槽与 Steam 云同步已在路上。</description>
+			</item>
 			<item>
 				<title>《杀戮尖塔2》v0.113.1热修：恐灵图标补齐，愚者结算逻辑修正</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-2868840-39180cce/</link>

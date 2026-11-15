@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 21:17:13 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 05:00:04 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/rob-run/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ROB RUN 欧服登录崩了：官方紧急排查，US 服无恙，23:20 重启</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4262460-f9098fd9/</link>
+				<pubDate>Sun, 15 Nov 2026 05:00:04 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4262460-f9098fd9/</guid>
+				<description>ROB RUN 欧服突发大面积登录失败与连接不稳，官方已确认故障并着手排查，同时明确 US 服务器完全不受影响。23:20 CET 官方追加更新，表示服务器即将重启。本文拆解公告要点、给出 CET 与北京时间的换算、临时切区避难的实操步骤，以及重启后必须检查的账号与联机项，帮你把这次故障的影响压到最低。</description>
+			</item>
 			<item>
 				<title>ROB RUN官方答疑：警察排队难、五人开黑被否与蹲点交货的取舍</title>
 				<link>https://info.steamhunter.link/posts/2026-11-13-4262460-1bdb1f28/</link>
