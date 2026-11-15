@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 10:00:42 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 13:29:40 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《Ray Ray Zombies》首个热修上线：崩溃修复&#43;全新报错反馈功能实装</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-5244680-33a96bb4/</link>
+				<pubDate>Sun, 15 Nov 2026 13:29:40 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-5244680-33a96bb4/</guid>
+				<description>《Ray Ray Zombies》迎来上线后首个 Hotfix，重点修复了导致游戏崩溃的稳定性问题与 Chad 角色相关的异常表现，同时加入全新的 Bug 反馈支持功能，并附带若干细节优化。官方强调这只是开始，后续还有大量更新与玩法内容在路上。本文梳理本次热修要点、玩家该如何上报问题，以及现阶段入手与联机游玩的实用建议。</description>
+			</item>
 			<item>
 				<title>《三角洲行动》Brakkesh 2.0 大更新：阵营选边、徽章成长与攻楼通道全面重构</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-2507950-e16e19cd/</link>
@@ -47,6 +54,13 @@
 				<pubDate>Sun, 15 Nov 2026 07:35:53 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-15-4950060-9a8b0112/</guid>
 				<description>拍卖竞价题材独立游戏《Bid Wars》现已正式登陆 Steam。开发者 coconuts 发文确认发售，感谢玩家一路支持，并透露下一部作品会更具野心、方向完全不同。本文整理本次发售的核心看点、适合人群、入库与社区反馈建议，以及加入官方 Discord 提问的实操路径。</description>
+			</item>
+			<item>
+				<title>《星际守卫者》正式版上线：4 档难度、21 成就，剧情全中文实装</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-2677970-fa46d202/</link>
+				<pubDate>Sun, 15 Nov 2026 07:34:48 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-2677970-fa46d202/</guid>
+				<description>结束抢先体验的 Intergalactic Defenders 迎来自诞生以来最大一次更新：20 个任务全线重写开场与结局对白，4 档独立存档难度（Extreme 分数倍率高达 x2.5），21 个 Steam 成就，10 种语言含简体中文，本地排行榜合并并统一放大 10 倍。抢先体验期间的进度会自动继承到 Normal 模式。本文把更新要点、开荒建议与常见疑问一次说透。</description>
 			</item>
 			<item>
 				<title>《Silver Service》正式上线：11132份自助餐等你收拾，四人联机零压力，首发85折</title>
