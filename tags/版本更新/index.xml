@@ -28,6 +28,13 @@
 				<description>结论先行：这次 NitLink 的 Beta 更新只干一件事——给 Elgato 4K X 的 4K HDR 30Hz 输入补帧，把 30 帧游戏抬到 60 帧。两步就能进 Beta 通道，一步就能退回正式版；两套引擎都吃这套，但 40/60 帧游戏依旧得走 60Hz。本文把机制边界、开测步骤与踩坑点一次讲清。</description>
 			</item>
 			<item>
+				<title>《流放之路》更新前瞻：蛛丝难度下调、幽魂扩散削弱与命运强化重做</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-238960-47eb497c/</link>
+				<pubDate>Mon, 16 Nov 2026 09:17:44 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-238960-47eb497c/</guid>
+				<description>《流放之路》新资料片 Covens of Umbra 上线后，官方公布了后续热修计划：对过于致命的蛛丝词缀与命运强化单独动刀，下调低层数蛛丝的怪物硬度，把收割幽魂的扩散改为舆图天赋可选，并为前期蛛丝投入设置上限，同时修复切换场景导致蛛丝层数丢失等问题。本文把这份清单拆成能直接用的开荒与开黑建议。</description>
+			</item>
+			<item>
 				<title>QuipKite更新：断点续读与意图线索记忆，Steam云同步存档解析</title>
 				<link>https://info.steamhunter.link/posts/2026-11-16-5345880-8ed807e4/</link>
 				<pubDate>Mon, 16 Nov 2026 08:19:38 +0800</pubDate>
