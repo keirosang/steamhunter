@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>文本修正 on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/%E6%96%87%E6%9C%AC%E4%BF%AE%E6%AD%A3/</link>
+		<description>Recent content in 文本修正 on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 16 Nov 2026 04:33:38 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/%E6%96%87%E6%9C%AC%E4%BF%AE%E6%AD%A3/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Outbreak Checkpoint 官方公告只憋出一句话：文本已更新，这补丁到底动了啥？</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5402450-203a2d49/</link>
+				<pubDate>Mon, 16 Nov 2026 04:33:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5402450-203a2d49/</guid>
+				<description>Outbreak Checkpoint 这波官方更新，公告全文就一句「文本已更新，抱歉造成不便」，没有版本号、没有改动清单、更没有平衡性数值。本期专栏先给判断：这是一次典型的本地化与界面文本层小补丁，不碰玩法机制。我会拆解这类补丁通常修什么、玩家怎么确认自己吃到了更新、联机开黑要不要避坑，以及值不值得为它专门上线。</description>
+			</item>
+	</channel>
+</rss>
