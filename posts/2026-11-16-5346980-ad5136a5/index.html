@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="zh-cn" data-theme="dark">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NitLink热修：Elgato 4K X HDR偏色修复，帧生成这样设 - Steam 蒸汽猎手 | 游戏情报站</title>
+  <meta name="description" content="NitLink针对Elgato 4K X推送热修：主机HDR信号现在能被正确识别，画面发灰、偏色问题得到解决。需要注意，4K X在4K HDR下仅以30Hz向PC输出，想开帧生成需在HDR模式把采集分辨率降到1080p；SDR下则不受分辨率限制。本文整理更新要点、设置路径，并给出直播录屏与高帧玩法下的取舍建议。">
+  <meta name="keywords" content="Steam, 游戏资讯, 喜加一, 限免, 史低折扣, 版本补丁">
+  <meta name="author" content="SteamHunter">
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="NitLink热修：Elgato 4K X HDR偏色修复，帧生成这样设">
+  <meta property="og:description" content="NitLink针对Elgato 4K X推送热修：主机HDR信号现在能被正确识别，画面发灰、偏色问题得到解决。需要注意，4K X在4K HDR下仅以30Hz向PC输出，想开帧生成需在HDR模式把采集分辨率降到1080p；SDR下则不受分辨率限制。本文整理更新要点、设置路径，并给出直播录屏与高帧玩法下的取舍建议。">
+  <meta property="og:url" content="https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/">
+  <meta property="og:site_name" content="Steam 蒸汽猎手 | 游戏情报站">
+  
+  <meta property="og:image" content="https://info.steamhunter.link/images/57b838838f367d14.jpg">
+  
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="canonical" href="https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/">
+  
+</head>
+
+  <body class="site-body">
+    <header class="site-header">
+  <div class="header-inner container">
+    <a href="/" class="brand-logo" aria-label="回到首页">
+      <span class="logo-icon">🎮</span>
+      <span class="logo-text">
+        <span class="logo-title">Steam 蒸汽猎手 | 游戏情报站</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul class="nav-links">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/">首页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E9%99%90%E5%85%8D%E7%A6%8F%E5%88%A9/">限免福利</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E7%89%B9%E6%83%A0%E6%8A%98%E6%89%A3/">特惠折扣</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E8%AE%AF/">游戏资讯</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/tags/">标签云</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link " href="/about/">关于本站</a>
+        </li>
+        
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      
+      
+      <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="tg-nav-btn" title="加入官方 Telegram 频道，秒级接收限免推送">
+        <span class="tg-icon">📢</span>
+        <span class="tg-text">TG 频道</span>
+      </a>
+      
+
+      
+      <div class="search-box">
+        <input type="text" id="siteSearchInput" placeholder="快速筛选文章..." aria-label="搜索">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      
+      <button class="theme-toggle-btn" id="themeToggleBtn" title="切换明暗配色" aria-label="切换明暗配色">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
+
+      
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="打开移动端菜单">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+    <main class="site-main container" id="mainContent">
+      
+<article class="single-article">
+  
+  <nav class="breadcrumb-nav" aria-label="面包屑导航">
+    <a href="/">首页</a>
+    <span class="bc-sep">/</span>
+    
+    <a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a>
+    <span class="bc-sep">/</span>
+    
+    <span class="bc-current">NitLink热修：Elgato 4K X HDR偏色修复， …</span>
+  </nav>
+
+  
+  <header class="article-header">
+    <div class="article-badges">
+      
+      <span class="badge badge-category">游戏资讯</span>
+      
+      
+      <span class="badge badge-game">🎮 NitLink</span>
+      
+      
+      <span class="badge badge-appid">Steam AppID: 5346980</span>
+      
+    </div>
+
+    <h1 class="article-title">NitLink热修：Elgato 4K X HDR偏色修复，帧生成这样设</h1>
+
+    <div class="article-meta-bar">
+      <div class="meta-left">
+        <span class="meta-author">✍️ SteamHunter</span>
+        <span class="meta-dot">·</span>
+        <time datetime="2026-11-16T05:15:41&#43;08:00" class="meta-date">
+          📅 2026-11-16 05:15
+        </time>
+        <span class="meta-dot">·</span>
+        <span class="meta-reading">⏱️ 约 3 分钟阅读</span>
+        <span class="meta-dot">·</span>
+        <span class="meta-wordcount">📝 1295 字</span>
+      </div>
+
+      
+      <div class="steam-action-bar">
+        <a href="https://store.steampowered.com/app/5346980/" target="_blank" rel="noopener" class="btn btn-steam-store">
+          <span class="btn-icon">🛒</span> 访问 Steam 商店
+        </a>
+        <a href="steam://install/5346980" class="btn btn-steam-client" title="一键唤醒 Steam 客户端进行下载或校验">
+          <span class="btn-icon">⚡</span> 客户端直达
+        </a>
+      </div>
+      
+    </div>
+
+    
+    <div class="featured-image-wrapper">
+      <img src="/images/57b838838f367d14.jpg" alt="NitLink热修：Elgato 4K X HDR偏色修复，帧生成这样设" class="featured-image">
+    </div>
+    
+  </header>
+
+  <div class="article-layout">
+    
+    <div class="article-content-wrapper">
+      
+      <div class="article-summary-lead">
+        <strong>💡 本篇导读：</strong>NitLink针对Elgato 4K X推送热修：主机HDR信号现在能被正确识别，画面发灰、偏色问题得到解决。需要注意，4K X在4K HDR下仅以30Hz向PC输出，想开帧生成需在HDR模式把采集分辨率降到1080p；SDR下则不受分辨率限制。本文整理更新要点、设置路径，并给出直播录屏与高帧玩法下的取舍建议。
+      </div>
+      
+
+      <div class="article-body">
+        <h1 id="nitlink-热修实装4k-x-的-hdr-终于不再灰蒙蒙">NitLink 热修实装：4K X 的 HDR 终于不再“灰蒙蒙”</h1>
+<p>先给结论：Elgato 4K X 用户这次值得更新。HDR 信号识别修正后，主机画面发灰、颜色发白的问题有了官方解；但 4K HDR 加帧生成不能无脑全开，设置得按采集卡带宽来。</p>
+<h2 id="-核心看点速览">🎯 核心看点速览</h2>
+<ul>
+<li><strong>HDR 识别修复</strong>：Elgato 4K X 采集到的主机 HDR 信号现在能被 NitLink 正确识别，画面发灰、泛白、偏色问题明显改善。</li>
+<li><strong>4K HDR 有带宽门槛</strong>：4K X 向 PC 传输 4K HDR 时只有 30Hz，想开帧生成不能硬顶 4K HDR。</li>
+<li><strong>HDR 帧生成要降分辨率</strong>：在 HDR 模式下，需要把采集分辨率切到 1080p，帧生成才能正常工作。</li>
+<li><strong>SDR 更自由</strong>：SDR 模式下帧生成不受分辨率限制，4K 采集也能正常开。</li>
+<li><strong>设置入口</strong>：按 <code>F1</code> → <code>capture format</code> → <code>Resolution</code>，按需切换。</li>
+</ul>
+<h2 id="-重点深度解析">📌 重点深度解析</h2>
+<p>这次热修只解决一个核心问题：让 NitLink 正确识别 Elgato 4K X 送来的主机 HDR 信号。以前 HDR 内容容易被当成 SDR 处理，结果就是高光泛白、暗部发灰、颜色像被稀释过。更新后软件能正确识别 HDR，画面至少不再自带“雾霾滤镜”。</p>
+<p>但别忽略官方说明里的后半句：<strong>4K X 在 4K HDR 下向 PC 输出只有 30Hz</strong>。这个带宽限制直接决定了帧生成的使用方式——HDR 模式想开帧生成，采集分辨率要降到 1080p；路径是 <code>F1</code> → <code>capture format</code> → <code>Resolution</code>。SDR 模式没有这个限制，4K 分辨率也能开帧生成。</p>
+<p>换句话说：要 4K HDR 画质，就得接受 30Hz 的采集节奏；要 HDR 加帧生成，就选 1080p；要 4K 加帧生成，就走 SDR。三者不能全都要，除非采集卡换代。</p>
+<p>对于主打高帧率的玩家，1080p HDR 加帧生成是更实际的组合；对于画质展示、慢节奏游戏和录屏素材，4K HDR 30Hz 仍有价值；如果直播平台或剪辑流程对 HDR 支持不稳，SDR 4K 反而是更省心的路线。</p>
+<h2 id="-玩家实操与上手建议">💡 玩家实操与上手建议</h2>
+<ol>
+<li><strong>先更新再排查</strong>：在 Steam 里把 NitLink 更新到最新版本，彻底退出后重启软件，再重新连接 Elgato 4K X 和主机信号。</li>
+<li><strong>确认 HDR 链路</strong>：主机端开启 HDR 输出，采集卡输入正常，显示端也支持 HDR。若画面仍发灰，先重新插拔 HDMI、重启 NitLink，再排查线材和接口。</li>
+<li><strong>想开帧生成就按这个路径设</strong>：HDR 模式下按 <code>F1</code> → <code>capture format</code> → <code>Resolution</code>，把采集分辨率调到 1080p；SDR 模式下可保留 4K。</li>
+<li><strong>直播录屏避坑</strong>：如果直播平台或剪辑软件对 HDR 支持不完整，建议先用 SDR 录制，避免后期二次映射造成偏色；需要保留 HDR 素材时，再单独走 HDR 流程。</li>
+<li><strong>按需求选组合</strong>：高帧玩法选 1080p HDR 加帧生成；画质展示选 4K HDR 30Hz；兼容优先选 SDR 4K 加帧生成。</li>
+</ol>
+<h2 id="-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</h2>
+<p>热修、限免、史低这类消息，晚半小时可能就错过永久入库窗口。建议加入官方 Telegram 频道 <a href="https://t.me/steamhunterlink">@steamhunterlink</a>，获取秒级限免与特惠推送。别等折扣结束才在群里问“还有吗”。</p>
+<h2 id="-常见问题-faq">❓ 常见问题 FAQ</h2>
+<p><strong>Q1：更新后 HDR 还是发灰，先查什么？</strong></p>
+<p>A：先确认主机 HDR 输出已开启、4K X 输入信号正常，再重启 NitLink 和采集卡。如果软件里仍没有正确识别 HDR，换线、换口排查；显示端不支持 HDR 也会让画面看起来不对劲。</p>
+<p><strong>Q2：为什么 4K HDR 下帧生成开不起来？</strong></p>
+<p>A：因为 4K X 的 4K HDR 向 PC 输出只有 30Hz，而帧生成在 HDR 下需要 1080p 采集。按 <code>F1</code> → <code>capture format</code> → <code>Resolution</code> 调到 1080p，再开帧生成。</p>
+<p><strong>Q3：SDR 下能 4K 加帧生成吗？</strong></p>
+<p>A：可以。官方明确 SDR 下帧生成在所有分辨率都工作，4K SDR 不用降到 1080p。只有 HDR 加帧生成才需要做 1080p 取舍。</p>
+
+      </div>
+
+      
+      <footer class="article-footer-tags">
+        <div class="tags-group">
+          <span class="tags-label">🏷️ 话题标签：</span>
+          
+          <a href="/tags/NitLink%e6%9b%b4%e6%96%b0/" class="article-tag-item">#NitLink更新</a>
+          
+          <a href="/tags/Elgato%204K%20X/" class="article-tag-item">#Elgato 4K X</a>
+          
+          <a href="/tags/HDR%e5%81%8f%e8%89%b2%e4%bf%ae%e5%a4%8d/" class="article-tag-item">#HDR偏色修复</a>
+          
+          <a href="/tags/%e5%b8%a7%e7%94%9f%e6%88%90%e8%ae%be%e7%bd%ae/" class="article-tag-item">#帧生成设置</a>
+          
+          <a href="/tags/Steam%e8%b5%84%e8%ae%af/" class="article-tag-item">#Steam资讯</a>
+          
+        </div>
+
+        <div class="article-share-actions">
+          <button class="btn btn-secondary" id="copyArticleLinkBtn" data-url="https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/">
+            🔗 复制文章链接
+          </button>
+        </div>
+      </footer>
+
+      
+      <div class="article-tg-callout">
+        <div class="tg-callout-content">
+          <div class="tg-callout-icon">📢</div>
+          <div class="tg-callout-text">
+            <h4>不错过任何 Steam 限免喜加一与突发史低！</h4>
+            <p>关注官方 Telegram 频道 <strong>@steamhunterlink</strong>，第一时间接收 100% 减免福利与新史低广播通知。</p>
+          </div>
+        </div>
+        <a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" class="btn btn-tg-join">
+          <span>点击直达 TG 频道</span>
+        </a>
+      </div>
+
+      
+      <nav class="post-sibling-nav">
+        <div class="sibling-prev">
+          
+          <span class="sibling-label">← 上一篇</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-16-5402450-203a2d49/" class="sibling-title">Outbreak Checkpoint 官方公告只憋出一句话：文本已更新，这补丁到底动了啥？</a>
+          
+        </div>
+        <div class="sibling-next">
+          
+          <span class="sibling-label">下一篇 →</span>
+          <a href="https://info.steamhunter.link/posts/2026-11-16-4947690-1b6ed76c/" class="sibling-title">《Crossroad Chaos》正式发售：35个混乱路口&#43;三星评分，独游解谜新作上线</a>
+          
+        </div>
+      </nav>
+    </div>
+
+    
+    
+    <aside class="article-sidebar">
+      <div class="sticky-toc-box">
+        <h4 class="toc-title">📑 目录导航</h4>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-核心看点速览">🎯 核心看点速览</a></li>
+    <li><a href="#-重点深度解析">📌 重点深度解析</a></li>
+    <li><a href="#-玩家实操与上手建议">💡 玩家实操与上手建议</a></li>
+    <li><a href="#-官方-telegram-频道推荐">📢 官方 Telegram 频道推荐</a></li>
+    <li><a href="#-常见问题-faq">❓ 常见问题 FAQ</a></li>
+  </ul>
+</nav>
+      </div>
+    </aside>
+    
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">🎮 Steam 蒸汽猎手 | 游戏情报站</div>
+      <p class="footer-desc">每日精选 Steam 游戏特惠、喜加一福利与版本补丁深度解析</p>
+    </div>
+
+    <div class="footer-links">
+      <div class="link-group">
+        <h4>专栏导航</h4>
+        <ul>
+          <li><a href="/">全部速递</a></li>
+          <li><a href="/categories/%e9%99%90%e5%85%8d%e7%a6%8f%e5%88%a9/">限免福利</a></li>
+          <li><a href="/categories/%e7%89%b9%e6%83%a0%e6%8a%98%e6%89%a3/">特惠折扣</a></li>
+          <li><a href="/categories/%e6%b8%b8%e6%88%8f%e8%b5%84%e8%ae%af/">游戏资讯</a></li>
+          <li><a href="/tags/">标签索引</a></li>
+          <li><a href="/about/">关于本站</a></li>
+        </ul>
+      </div>
+      <div class="link-group">
+        <h4>平台直达</h4>
+        <ul>
+          <li><a href="https://t.me/steamhunterlink" target="_blank" rel="noopener" style="color: var(--accent-cyan); font-weight: 600;">📢 Telegram 频道</a></li>
+          <li><a href="/index.xml">RSS 订阅源</a></li>
+          <li><a href="https://store.steampowered.com" target="_blank" rel="noopener">Steam 商店官网</a></li>
+          <li><a href="https://steamcommunity.com" target="_blank" rel="noopener">Steam 玩家社区</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© 2026 SteamHunter. 专注于 Steam 游戏情报、版本更新与特惠精选。</p>
+      <button class="back-to-top" id="backToTopBtn" title="返回顶部">↑ 返回顶部</button>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Elgato 4K X on Steam 蒸汽猎手 | 游戏情报站</title>
+		<link>https://info.steamhunter.link/tags/elgato-4k-x/</link>
+		<description>Recent content in Elgato 4K X on Steam 蒸汽猎手 | 游戏情报站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 16 Nov 2026 09:43:37 +0800</lastBuildDate>
+		
+			<atom:link href="https://info.steamhunter.link/tags/elgato-4k-x/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>NitLink Beta 上线 4K HDR 帧生成：Elgato 4K X 用户把 30 帧游戏硬推到 60 帧</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-db6f5f75/</link>
+				<pubDate>Mon, 16 Nov 2026 09:43:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5346980-db6f5f75/</guid>
+				<description>结论先行：这次 NitLink 的 Beta 更新只干一件事——给 Elgato 4K X 的 4K HDR 30Hz 输入补帧，把 30 帧游戏抬到 60 帧。两步就能进 Beta 通道，一步就能退回正式版；两套引擎都吃这套，但 40/60 帧游戏依旧得走 60Hz。本文把机制边界、开测步骤与踩坑点一次讲清。</description>
+			</item>
+			<item>
+				<title>NitLink热修：Elgato 4K X HDR偏色修复，帧生成这样设</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/</link>
+				<pubDate>Mon, 16 Nov 2026 05:15:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/</guid>
+				<description>NitLink针对Elgato 4K X推送热修：主机HDR信号现在能被正确识别，画面发灰、偏色问题得到解决。需要注意，4K X在4K HDR下仅以30Hz向PC输出，想开帧生成需在HDR模式把采集分辨率降到1080p；SDR下则不受分辨率限制。本文整理更新要点、设置路径，并给出直播录屏与高帧玩法下的取舍建议。</description>
+			</item>
+	</channel>
+</rss>

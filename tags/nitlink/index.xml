@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 16 Nov 2026 03:47:21 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 09:43:37 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/nitlink/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>NitLink Beta 上线 4K HDR 帧生成：Elgato 4K X 用户把 30 帧游戏硬推到 60 帧</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-db6f5f75/</link>
+				<pubDate>Mon, 16 Nov 2026 09:43:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5346980-db6f5f75/</guid>
+				<description>结论先行：这次 NitLink 的 Beta 更新只干一件事——给 Elgato 4K X 的 4K HDR 30Hz 输入补帧，把 30 帧游戏抬到 60 帧。两步就能进 Beta 通道，一步就能退回正式版；两套引擎都吃这套，但 40/60 帧游戏依旧得走 60Hz。本文把机制边界、开测步骤与踩坑点一次讲清。</description>
+			</item>
 			<item>
 				<title>NitLink 上架 Steam：视频捕获卡接主机画面，30 帧游戏硬补到 60 帧还能录 4K</title>
 				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-2e5215d9/</link>

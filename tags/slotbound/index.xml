@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Nov 2026 15:18:52 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 23:45:47 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/slotbound/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slotbound v1.0.0更新：收藏面板快捷开启，阵亡后战斗自动加速</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4459590-3e0d44ab/</link>
+				<pubDate>Sun, 15 Nov 2026 23:45:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4459590-3e0d44ab/</guid>
+				<description>Slotbound 迎来 v1.0.0（8）版本更新：新增土耳其语，战斗中可直接打开收藏并支持 C 键与手柄 View 键，单位全灭后战斗自动快进；命运石任务“Gauntlet”改为“Four Lines at Once”，黄金拉杆 X2 召唤全员稀有度提升，同时修复职业升阶卡误选等多项问题。</description>
+			</item>
 			<item>
 				<title>Slotbound 热修：前期货币加量，Deadeye 削弱，快进永久记忆</title>
 				<link>https://info.steamhunter.link/posts/2026-11-15-4459590-13bbf3ff/</link>

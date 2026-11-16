@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Mon, 16 Nov 2026 08:00:07 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 11:00:07 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《第一狂战士：卡赞》40% 史低特惠开启！硬核动作党永久入库好时机</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-2680010-9da64b73/</link>
+				<pubDate>Mon, 16 Nov 2026 11:00:07 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-2680010-9da64b73/</guid>
+				<description>《第一狂战士：卡赞》在 Steam 官方推荐特惠中开出 -40% 折扣，原价 ₹3,499 直落 ₹2,099，约合人民币 175 元，处于发售以来的最低价档位。这款 DNF 宇宙前传以三种武器体系、多阶段 Boss 与硬核弹反著称，纯单机、难度可调、购买即永久入库。本文整理折扣规则、版本差异与开荒避坑要点。</description>
+			</item>
+			<item>
+				<title>Deck Breaker大更新：星图解锁15英雄，三幕Boss全解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5021760-a451275d/</link>
+				<pubDate>Mon, 16 Nov 2026 10:56:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5021760-a451275d/</guid>
+				<description>Deck Breaker 这波正式版内容量给得很足：Card-stellation 星图把 100+ 卡牌、15 位新英雄和强力被动串成可规划路线；完整冒险扩至三幕 11 个任务，Boss 各有独立机制，无名者还会变身成随机英雄供你挑战，打赢后入队同行。外加 Papa Pa、Doctor Hoot、Ancient Mastery/Absorb 与三项新升级，开荒深度和构筑上限都被拉高，喜欢 Roguelike 卡牌构筑的玩家值得重点蹲。</description>
+			</item>
+			<item>
+				<title>NitLink Beta 上线 4K HDR 帧生成：Elgato 4K X 用户把 30 帧游戏硬推到 60 帧</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-db6f5f75/</link>
+				<pubDate>Mon, 16 Nov 2026 09:43:37 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5346980-db6f5f75/</guid>
+				<description>结论先行：这次 NitLink 的 Beta 更新只干一件事——给 Elgato 4K X 的 4K HDR 30Hz 输入补帧，把 30 帧游戏抬到 60 帧。两步就能进 Beta 通道，一步就能退回正式版；两套引擎都吃这套，但 40/60 帧游戏依旧得走 60Hz。本文把机制边界、开测步骤与踩坑点一次讲清。</description>
+			</item>
+			<item>
+				<title>QuipKite更新：断点续读与意图线索记忆，Steam云同步存档解析</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5345880-8ed807e4/</link>
+				<pubDate>Mon, 16 Nov 2026 08:19:38 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5345880-8ed807e4/</guid>
+				<description>QuipKite 官方更新上线「续玩」体验：主界面新增 Continue story，一键跳回上次所在的场景，并保留你试过的意图线索与词语标记；退出时校验单人存档，存不下会给你一次留下的机会；联机需先离开房间再到 Multiplayer 标签页登出；Steam 云同步支持已完成的单人进度与纪念物。</description>
+			</item>
 			<item>
 				<title>《Valheim：英灵神殿》限时特惠立省10%，26.99美元永久入库</title>
 				<link>https://info.steamhunter.link/posts/2026-11-16-892970-1d4a4fb3/</link>
@@ -33,6 +61,13 @@
 				<pubDate>Mon, 16 Nov 2026 05:40:15 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-16-4947690-1b6ed76c/</guid>
 				<description>独立开发者 Olivia 打造的交通调度解谜游戏《Crossroad Chaos》已正式登陆 Steam。完整版包含 35 个难度层层递进的混乱路口，车道、人行道、自行车道同场混行，6 种车辆、3 类行人、2 类自行车轮番上阵，配合三星评分体系拉高重玩价值。本文梳理玩法机制、三星思路与上手建议。</description>
+			</item>
+			<item>
+				<title>NitLink热修：Elgato 4K X HDR偏色修复，帧生成这样设</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/</link>
+				<pubDate>Mon, 16 Nov 2026 05:15:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/</guid>
+				<description>NitLink针对Elgato 4K X推送热修：主机HDR信号现在能被正确识别，画面发灰、偏色问题得到解决。需要注意，4K X在4K HDR下仅以30Hz向PC输出，想开帧生成需在HDR模式把采集分辨率降到1080p；SDR下则不受分辨率限制。本文整理更新要点、设置路径，并给出直播录屏与高帧玩法下的取舍建议。</description>
 			</item>
 			<item>
 				<title>Outbreak Checkpoint 官方公告只憋出一句话：文本已更新，这补丁到底动了啥？</title>
@@ -75,6 +110,13 @@
 				<pubDate>Mon, 16 Nov 2026 00:00:28 +0800</pubDate>
 				<guid>https://info.steamhunter.link/posts/2026-11-16-359550-0b59b75e/</guid>
 				<description>育碧公布《彩虹六号：围攻》Y11S4「关键信号」行动，12月1日正式上线：Doc被重塑为远程支援专家，E-HEAL系统让他隔着半张地图奶人救人；排位拆成单双排与灵活队列两条赛道，解锁门槛调整为30级；新枪MBZ-19登场，银行地图迎来进攻向改动，游艇、贫民窟、塔楼同步现代化。主理人给你划重点、讲打法、列避坑清单。</description>
+			</item>
+			<item>
+				<title>Slotbound v1.0.0更新：收藏面板快捷开启，阵亡后战斗自动加速</title>
+				<link>https://info.steamhunter.link/posts/2026-11-15-4459590-3e0d44ab/</link>
+				<pubDate>Sun, 15 Nov 2026 23:45:47 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-15-4459590-3e0d44ab/</guid>
+				<description>Slotbound 迎来 v1.0.0（8）版本更新：新增土耳其语，战斗中可直接打开收藏并支持 C 键与手柄 View 键，单位全灭后战斗自动快进；命运石任务“Gauntlet”改为“Four Lines at Once”，黄金拉杆 X2 召唤全员稀有度提升，同时修复职业升阶卡误选等多项问题。</description>
 			</item>
 			<item>
 				<title>巴西战舞卡波耶拉新游上线：Bimbaê与Jorge双雄对决，排位赛冲大师段位</title>

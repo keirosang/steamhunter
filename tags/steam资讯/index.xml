@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 16 Nov 2026 04:21:12 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 05:15:41 +0800</lastBuildDate>
 		
 			<atom:link href="https://info.steamhunter.link/tags/steam%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>NitLink热修：Elgato 4K X HDR偏色修复，帧生成这样设</title>
+				<link>https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/</link>
+				<pubDate>Mon, 16 Nov 2026 05:15:41 +0800</pubDate>
+				<guid>https://info.steamhunter.link/posts/2026-11-16-5346980-ad5136a5/</guid>
+				<description>NitLink针对Elgato 4K X推送热修：主机HDR信号现在能被正确识别，画面发灰、偏色问题得到解决。需要注意，4K X在4K HDR下仅以30Hz向PC输出，想开帧生成需在HDR模式把采集分辨率降到1080p；SDR下则不受分辨率限制。本文整理更新要点、设置路径，并给出直播录屏与高帧玩法下的取舍建议。</description>
+			</item>
 			<item>
 				<title>Mage of Corruption 1.0上线：路线图将至</title>
 				<link>https://info.steamhunter.link/posts/2026-11-16-4823460-dbdeece6/</link>
